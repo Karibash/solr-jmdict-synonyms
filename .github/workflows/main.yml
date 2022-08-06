@@ -1,0 +1,36 @@
+name: Main
+
+on:
+  workflow_dispatch:
+
+env:
+  JM_DICT_URL: ftp://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Checkout Synonyms
+        run: |
+          curl -OL $JM_DICT_URL
+          gzip -d "${JM_DICT_URL##*/}"
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+
+      - name: Run Script
+        run: |
+          python jmdict2es.py "$(basename ${JM_DICT_URL%.*})" > synonyms.txt
+
+      - name: Commit And Push
+        uses: EndBug/add-and-commit@v7
+        with:
+          branch: main
+          add: synonyms.txt
+          message: 'Update synonyms'
