@@ -3654,7 +3654,7 @@
 キャパシタンス,capacitance
 キャパシティ,キャパシティー,capacity
 キャビア,caviar,caviare
-キャビネ,cabinet
+キャビネ,cabinet size,cabinet photograph
 キャビネット,cabinet,housing
 キャビン,ケビン,cabin
 キャピタリズム,capitalism
@@ -6059,7 +6059,7 @@
 スクランブルエッグ,スクランブル・エッグ,スクランブルドエッグ,スクランブルドエッグズ,スクランブルド・エッグ,スクランブルド・エッグズ,scrambled eggs
 スクランブルレース,スクランブル・レース,scramble race
 スクリーニング,screening
-スクリーン,screen
+スクリーン,screen,curtain,raster,room divider,partition wall
 スクリーントーン,スクリーン・トーン,screentone,adhesive mechanical tint
 スクリーンプレー,スクリーン・プレー,screen play
 スクリーンプロセス,スクリーン・プロセス,screen process
@@ -19599,7 +19599,7 @@
 丸焼き,まるやき,whole roast
 丸焼け,まるやけ,total fire loss,completely burned
 丸石,まるいし,boulder,cobble
-丸洗い,まる洗い,まるあらい,washing  without taking it apart,laundering whole
+丸洗い,まる洗い,まるあらい,washing  without taking it apart,laundering whole,washing  in its entirety,washing thoroughly
 丸窓,円窓,まるまど,circular window,round window
 丸損,まるぞん,total loss
 丸太,まるた,マルタ,log,dace,test subject,prostitute dressed as a Buddhist nun
@@ -19673,7 +19673,7 @@
 眼力,がんりき,がんりょく,insight,power of observation
 岩,巌,磐,巖,いわ,rock,boulder,crag
 岩塩,がんえん,いわしお,halite,rock salt
-岩屋,石屋,窟,いわや,cavern,grotto
+岩屋,石屋,窟,いわや,cave,cavern,grotto,dwelling made in a cave,house carved into rock
 岩角,いわかど,edge or corner of a stone
 岩間,いわま,among rocks
 岩山,いわやま,rocky mountain
@@ -44535,7 +44535,7 @@
 麦茶,むぎちゃ,barley tea
 麦笛,むぎぶえ,wheat-straw whistle
 麦田,むぎた,rice field used to grow wheat
-麦湯,むぎゆ,parched-barley tea
+麦湯,むぎゆ,barley tea
 麦踏み,むぎふみ,treading on wheat seedlings after planting
 麦畑,むぎばたけ,wheat field,barley field,cornfield
 麦粉,むぎこ,wheat flour
@@ -61021,7 +61021,7 @@
 環状線,かんじょうせん,loop line,belt line
 環海,かんかい,surrounding seas,surrounded by the sea
 鍋尻,なべじり,bottom of a pan or pot
-鍋焼き,鍋焼,なべやき,scalloped,boiled noodles served in a pot with broth
+鍋焼き,鍋焼,なべやき,dish made by simmering meat, fish, vegetables, etc. in a pot,udon, vegetables, fish, etc. in broth, served in a pot
 果樹栽培,かじゅさいばい,fruit growing,pomiculture
 源平,げんぺい,Genji and Heike clans,two opposing sides
 和声,わせい,かせい,harmony,concord,consonance
@@ -62122,7 +62122,7 @@
 宿主,しゅくしゅ,やどぬし,host,landlord,innkeeper
 酒浸り,酒びたり,さけびたり,さかびたり,liquor-soaked,continuous drinking,daily drinking,binge drinking
 酒癖,さけぐせ,さけくせ,しゅへき,drinking habits,drunken behavior,drunken behaviour
-敵勢,てきせい,てきぜい,enemy's strength or fighting power
+敵勢,てきぜい,てきせい,enemy's strength,enemy's fighting power,enemy army,enemy forces
 夕月夜,ゆうづきよ,ゆうづくよ,evening moon,moonlit evening,moonlight evening
 背負い投げ,せおいなげ,しょいなげ,ぜおいなげ,seoi nage,shoulder throw,back-carry throw
 焼き畑,焼畑,やきばた,やきはた,やきばたけ,やいばた,land made arable by the slash-and-burn method,swidden,slash-and-burn farming
@@ -63113,7 +63113,7 @@
 無警察,むけいさつ,anarchy
 無韻詩,むいんし,blank verse
 無競争,むきょうそう,lacking opposition or competition
-無籍者,むせきもの,person without a registered or fixed address
+無籍者,むせきもの,person without a registered or fixed address,vagrant,vagabond
 撫子,瞿麦,なでしこ,ナデシコ,pink,lovable, caressable girl
 なで肩,撫で肩,撫肩,なでがた,sloping shoulders
 蕪辞,ぶじ,coarse speech or writing,humble reference to one's own words
@@ -63186,7 +63186,7 @@
 明々白々,明明白白,めいめいはくはく,clearly evident,quite obvious,as clear as day,beyond any doubt,strikingly apparent
 明けはなれる,明け放れる,明け離れる,あけはなれる,to become daylight
 明けの明星,明の明星,暁の明星,あけのみょうじょう,morning star,Lucifer,Phosphorus,Venus in the morning sky
-明春,みょうしゅん,next spring
+明春,みょうしゅん,next spring,next year's New Year season,beginning of next year
 明け残る,あけのこる,to remain in the morning sky
 明視,めいし,clarity of vision
 明断,めいだん,clear or definite judgement
@@ -76472,7 +76472,7 @@
 草葉,くさば,blades of grass
 草葺き,草ぶき,草葺,くさぶき,thatching,thatch,thatched roof
 草雲雀,くさひばり,grass cricket
-草摺,くさずり,tassets,vegetable dye
+草摺,草摺り,草ずり,くさずり,tassets,vegetable dye
 草箒,くさぼうき,broom
 草履取り,ぞうりとり,servant in charge of footwear
 草競馬,くさけいば,local horse race
@@ -76848,7 +76848,7 @@
 印影,いんえい,impression of a seal
 かすみ目,翳目,翳み目,霞目,かすみめ,partial blindness,dim eyesight
 巾着切り,巾着切,きんちゃくきり,pickpocket
-盆提灯,ぼんぢょうちん,Bon Festival lantern
+盆提灯,盆ちょうちん,ぼんぢょうちん,Bon Festival lantern
 本丸,ほんまる,inner citadel,core,center,centre,focus,crux
 本山,ほんざん,head temple,this temple
 本元,ほんもと,origin,main branch of family
@@ -80896,7 +80896,7 @@
 果物籠,くだものかご,fruit basket
 下り線,くだりせん,down line,outbound line
 下り便,くだりびん,down train,outbound train
-くだを巻く,クダを巻く,管を巻く,くだをまく,to babble in one's cups,to ramble drunkenly
+くだを巻く,管を巻く,クダを巻く,管をまく,管巻く,くだ巻く,くだをまく,クダをまく,クダまく,くだまく,to babble in one's cups,to ramble drunkenly
 口から漏れる,くちからもれる,to pass from one's lips,to escape one's lips
 口が多い,くちがおおい,talkative,loquacious,garrulous,voluble,having a large family to support,having too many mouths to feed
 口に合う,口にあう,くちにあう,to be palatable,to suit one's taste
@@ -103616,7 +103616,7 @@
 信頼醸成措置,しんらいじょうせいそち,confidence-building measures,CBM
 冷戦終結,れいせんしゅうけつ,the end of the Cold War
 集団的防衛,しゅうだんてきぼうえい,collective defense
-警備態勢,けいびたいせい,security measures
+警備態勢,けいびたいせい,security posture,security readiness,security preparedness
 紛争解決,ふんそうかいけつ,conflict resolution,dispute resolution
 相互交流,そうごこうりゅう,mutual exchange
 共同体意識,きょうどうたいいしき,sense of community
@@ -201220,7 +201220,7 @@
 ガイキチ,madness,madman
 夢ハラ,ゆめハラ,pestering others about their dreams and ambition
 単舎利別,単しゃりべつ,たんしゃりべつ,simple syrup,solution of white sugar
-理屈抜き,理屈ぬき,りくつぬき,without any reason,without logic,visceral
+理屈抜き,理屈ぬき,りくつぬき,not requiring explanation,without needing a reason,no explanation needed,plain and simple,visceral
 単シロップ,たんシロップ,simple syrup,sugar syrup
 死面,しめん,death mask
 別用,べつよう,other business,other engagements
@@ -210805,14 +210805,35 @@
 吸蜜管,きゅうみつかん,siphonet
 内戚,ないせき,ないしゃく,paternal relative,relative on one's father's side
 警備体制,けいびたいせい,security arrangements,security system,security setup,security protocols
+断罪者,だんざいしゃ,condemner,punisher,executioner
 幻想文学,げんそうぶんがく,fantastic literature,fantasy literature
+研ぎ上げる,研ぎあげる,研上げる,とぎ上げる,とぎあげる,to finish sharpening,to bring to a fine edge,to sharpen well,to polish up
+血気にはやる,血気に逸る,けっきにはやる,to be impetuous,to carried away by youthful ardor,to be overly eager for action,to act rashly out of hot-bloodedness
+魔書,ましょ,grimoire,magic book,spellbook
+怪魔,かいま,monster,mysterious demon,evil spirit
 廃工場,はいこうじょう,abandoned factory,disused factory
 濡れ光る,濡れひかる,ぬれ光る,ぬれひかる,to glisten with moisture,to shine wetly,to gleam with wetness
 盟休,めいきゅう,student strike,school strike
 名目論,めいもくろん,nominalism,terminism
 途歩,途足,みちあし,route step
 粳黍,うるきび,うるしきび,nonglutinous millet
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-24
+平調子,ひらぢょうし,hirajōshi scale
+欧州経済領域,おうしゅうけいざいりょういき,European Economic Area,EEA
+キャビネ判写真,キャビネはんしゃしん,cabinet photograph,cabinet-size photograph
+丸ばつ式,○×式,まるばつしき,true-or-false style
+前鰭,前びれ,まえびれ,forward fin
+二本足,にほんあし,two legs
+長衣,ちょうい,ながぎぬ,robe,long garment
+兵法書,へいほうしょ,book on military strategy,treatise on the art of war
+挑みかかる,挑み掛かる,いどみかかる,to lunge at,to spring upon,to turn upon,to pick a fight
+ぐびり,グビリ,with a gulp,in a single gulp,with glug
+桃山,ももやま,momoyama,traditional japanese baked sweet, made by mixing white bean paste with sugar, egg yolk, and a small amount of flour
+網を張る,網をはる,あみを張る,あみをはる,to cast a net,to stretch a net,to keep a sharp lookout,to cast a wide net,to set up an ambush
+笑み崩れる,笑みくずれる,えみくずれる,to break into a broad smile,to relax one's face into a smile
+パンモロ,パンもろ,full view of panties,completely visible underwear,full panty shot
+名詮自性,名詮自称,みょうせんじしょう,めいせんじしょう,corresponding to one's actual qualities,being true to one's name
+投げ足,なげあし,having one's legs stretched out
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-25
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
