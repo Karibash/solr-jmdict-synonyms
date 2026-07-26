@@ -3898,7 +3898,7 @@
 クリーム,cream,ice cream
 クリームサンデー,クリーム・サンデー,ice cream sundae
 クリームソース,クリーム・ソース,cream sauce
-クリームソーダ,クリーム・ソーダ,ice cream soda,icecream soda
+クリームソーダ,クリーム・ソーダ,ice cream soda
 クリーン,clean
 クリーンアップトリオ,クリーンナップトリオ,クリーンアップ・トリオ,クリーンナップ・トリオ,クリーン・アップ・トリオ,third, fourth, and fifth batters
 クリーンエネルギー,クリーン・エネルギー,clean energy
@@ -26130,7 +26130,7 @@
 合格者,ごうかくしゃ,successful candidate,successful applicant,person who has passed an exam
 合歓,ごうかん,sharing pleasure,sleeping together,silk tree
 合歓,ねむ,silk tree
-合間,合い間,あいま,interval,break,pause,spare moment
+合間,合い間,あいま,interval,break,pause,spare time,spare moment
 合気道家,あいきどうか,aikido practitioner
 合議,ごうぎ,consultation,conference,discussion,counsel
 合議制,ごうぎせい,parliamentary system
@@ -32476,7 +32476,7 @@
 焼き切る,やききる,to burn off
 焼き豆腐,やきどうふ,grilled tofu
 焼き豚,焼豚,やきぶた,roast pork,baseball fan
-焼き付く,焼きつく,焼付く,やきつく,to be scorched into,to be seared into,to make a strong impression,to be etched in
+焼きつく,焼き付く,焼付く,やきつく,to be scorched into,to be seared into,to make a strong impression,to be etched in
 焼き払う,焼きはらう,焼払う,やきはらう,to burn down,to clear away by burning,to reduce to ashes,to burn off
 ヤキモチ焼き,やきもち焼き,焼き餅焼き,焼きもち焼き,焼きもちやき,焼餅焼き,焼き餅やき,やきもちやき,ヤキモチやき,jealous person
 焼きたて,焼き立て,やきたて,fresh made,freshly baked,freshly roasted
@@ -38038,7 +38038,7 @@
 太陽光発電,たいようこうはつでん,solar power
 太陽暦,たいようれき,solar calendar
 唾,つば,つばき,saliva,spit,spittle
-唾液,だえき,saliva,sputum
+唾液,だ液,だえき,saliva,sputum
 堕する,だする,to degenerate,to lapse into
 堕胎,だたい,abortion,feticide
 堕胎医,だたいい,doctor who performs abortions,abortion provider
@@ -57220,7 +57220,7 @@
 錨,碇,いかり,anchor
 生き生き,活き活き,生きいき,活きいき,いきいき,イキイキ,in a lively way,vividly,freshly,animatedly,actively,energetically
 行き過ぎ,行きすぎ,いきすぎ,ゆきすぎ,going too far,going to extremes
-行き過ぎる,行きすぎる,行過ぎる,いきすぎる,ゆきすぎる,to go too far,to go past,to go to extremes,to overdo it
+行き過ぎる,行きすぎる,行過ぎる,いきすぎる,ゆきすぎる,to pass by,to go past,to go to extremes,to overdo it,to go too far
 幾度,幾たび,いくど,いくたび,many times,often
 虐め,苛め,いじめ,イジメ,bullying,teasing
 痛ましい,傷ましい,いたましい,pitiful,heartbreaking,heartrending,touching,tragic,sad,hurtful
@@ -61843,7 +61843,7 @@
 職掌,しょくしょう,official duties,office,function
 職種,しょくしゅ,type of occupation,occupational category
 生滅,しょうめつ,birth and death
-暑熱,しょねつ,heat of summer
+暑熱,しょねつ,summer heat,intense heat
 笑覧,しょうらん,
 渉猟,しょうりょう,ranging through,roaming over,searching far and wide,reading extensively
 省力,しょうりょく,labor saving,reduction of labor
@@ -62009,7 +62009,7 @@
 薬籠,やくろう,medicine chest
 山場,ヤマ場,やまば,climax,peak,critical moment,most important stage,turning point
 山里,やまざと,mountain hamlet,mountain village
-柔肌,やわはだ,soft fair skin
+柔肌,やわはだ,soft skin
 養分,ようぶん,nutrient,nourishment
 要談,ようだん,important talk
 陽電気,ようでんき,positive charge,positive electricity
@@ -68091,7 +68091,7 @@
 啓蒙思潮,けいもうしちょう,enlightenment movement,the Enlightenment
 啓蒙運動,けいもううんどう,enlightenment movement,the Enlightenment
 一丁前,いっちょうまえ,adult,grown-up,person who has come of age,fully fledged,established,qualified
-一二,いちに,the first and second,a few
+一二,一、二,いちに,one or two,a couple,a few,first and second,the top two
 一人っ子,ひとりっ子,独りっ子,一人子,ひとりっこ,only child
 一工夫,ひと工夫,ひとくふう,a bit of contrivance,some fiddling,a little ingenuity
 ちょっと見,一寸見,ちょっとみ,look,glance,sight
@@ -77416,7 +77416,7 @@
 煮出し汁,煮出汁,にだしじる,stock,broth
 煮付け,煮つけ,煮付,につけ,vegetables or fish boiled in soy sauce
 煮汁,にじる,にしる,broth
-煮売り屋,にうりや,store selling boiled vegetables, fish, and beans
+煮売り屋,にうりや,store selling boiled vegetables, fish, etc.,boiled-food vendor
 煮沸消毒,しゃふつしょうどく,sterilization by boiling,sterilisation by boiling
 煮崩れ,煮くずれ,にくずれ,falling apart while cooking
 煮魚,煮肴,にざかな,fish simmered with soy sauce
@@ -87620,7 +87620,7 @@
 ＩＱ,アイ・キュー,アイキュー,IQ,intelligence quotient
 アイスキューブ,アイス・キューブ,ice cube
 アイスクリームサンデー,アイスクリーム・サンデー,ice cream sundae
-アイスクリームソーダ,アイスクリーム・ソーダ,ice cream soda,icecream soda
+アイスクリームソーダ,アイスクリーム・ソーダ,ice cream soda
 アイスショー,アイス・ショー,アイスショウ,ice show
 アイスフォール,icefall
 アイスリンク,アイス・リンク,ice rink,skating rink
@@ -94001,7 +94001,7 @@
 からすると,judging from,on the basis of,from the point of view of
 どうするか,どうしますか,what would  do?,what to do about it
 固い話,かたいはなし,serious topic
-鍋料理,なべりょうり,hot pot cooking
+鍋料理,なべ料理,なべりょうり,hot pot cooking
 スケベ根性,助平根性,すけべ根性,すけべこんじょう,すけべいこんじょう,lechery,lewdness,greed
 泥棒根性,どろぼうこんじょう,underhand character,thievish nature
 雲助根性,くもすけこんじょう,predatory nature,rapacious disposition
@@ -94506,7 +94506,7 @@
 声を出す,声をだす,こえをだす,to speak,to say,to vocalize
 言うことを聞く,言う事を聞く,いうことを聞く,いうことをきく,to do what one is told to,to take someone's advice,to listen to what someone says
 夜が明ける,夜があける,よがあける,dawn breaks,day dawns
-起き出す,おきだす,to get out of bed,to show a leg
+起き出す,起きだす,おきだす,to get out of bed,to show a leg
 呼び方,よびかた,way of calling
 人前結婚式,じんぜんけっこんしき,nonreligious wedding ceremony,civil wedding ceremony
 ガーニッシュ,garnish,trim
@@ -97646,7 +97646,7 @@
 揺蕩う,猶予う,たゆたう,to sway to and fro,to drift about,to flutter,to flicker,to be fickle,to be irresolute,to vacillate,to waver
 輝安鉱,きあんこう,stibnite,antimonite
 ちんちくりん,チンチクリン,short,stumpy,tiny,short,undersized
-ゼーゼー,ゼイゼイ,ゼエゼエ,ぜーぜー,ぜいぜい,ぜえぜえ,gasping for breath,puffing and panting,wheezing
+ゼーゼー,ゼイゼイ,ゼエゼエ,ぜーぜー,ぜいぜい,ぜえぜえ,ぜぇぜぇ,gasping for breath,puffing and panting,wheezing
 歯に衣を着せぬ,歯に衣をきせぬ,歯に絹を着せぬ,はにきぬをきせぬ,outspoken,forthright,frank,direct
 脊髄反射,せきずいはんしゃ,spinal reflex
 郵政民営化,ゆうせいみんえいか,postal privatisation
@@ -99243,7 +99243,7 @@
 使い倒す,つかいたおす,to use within an inch of its life,to use every little bit of,to get the most out of
 岩絵,いわえ,rock paintings,rock drawings,rock art
 ワンアウト,ワンナウト,ワン・アウト,one out
-カップアイス,カップ・アイス,ice cream cup,icecream cup
+カップアイス,カップ・アイス,ice cream cup
 アイスクリン,low-fat frozen dessert similar to ice cream
 ルッコラ,ルーコラ,ルコラ,rocket,arugula,roquette
 道を失う,みちをうしなう,to lose one's way,to be at a loss
@@ -102224,7 +102224,7 @@
 声を呑む,声を吞む,声をのむ,声を飲む,こえをのむ,to choke up,to be speechless,to hold one's tongue
 大鋸,おが,おおが,large saw,framed pit saw
 何を隠そう,なにを隠そう,何をかくそう,なにをかくそう,to be frank with you,to tell you the truth,I'm going to lay my cards on the table
-何はさておき,何は扨措き,なにはさておき,before anything else,first of all
+何はさておき,何はさて置き,何は扨措き,なにはさておき,before anything else,first of all
 杉原紙,すぎはらがみ,sugihara paper,variety of traditional Japanese paper similar to hosho paper, but slightly thinner and softer
 奉書紙,ほうしょがみ,hosho paper,traditional white, uncreased Japanese paper made from high-quality mulberry wood
 付け下げ,付下げ,つけさげ,method of patterning traditional Japanese clothing
@@ -103635,7 +103635,7 @@
 電子部品,でんしぶひん,electronic parts,electronic components
 再スタート,さいスタート,restart
 涙目,なみだめ,teary eyes
-腹立つ,はらだつ,to get angry
+腹立つ,はらだつ,to get angry,to take offense,to take offence,to be furious
 勤務中,きんむちゅう,on duty,at work,while working
 サプライズ,surprise
 事件解決,じけんかいけつ,resolution of an incident,solution to a  case
@@ -150262,7 +150262,7 @@
 受難者,じゅなんしゃ,martyr,sufferer
 簎,矠,やす,fish spear,leister,lance,trident
 黒み,黒味,くろみ,black tinge,black colour,black color,black part,dark spot
-えんじ色,臙脂色,えんじいろ,dark red,deep red
+エンジ色,えんじ色,臙脂色,えんじいろ,dark red,deep red
 黒身,くろみ,meat of a fish  that is dark red with blood, usu. coming from the parts close to the spine
 生臙脂,しょうえんじ,cochineal
 外国製品,がいこくせいひん,foreign good,foreign product
@@ -159732,7 +159732,7 @@
 矢作,矢矧,やはぎ,fletcher,arrow maker,fletching,arrow-making
 矢細工,やざいく,fletcher,fletching
 的矢,まとや,arrow and target,arrow used for shooting marks
-ババヘラ,icecream cone popular in Akita Prefecture
+ババヘラ,ice cream cone popular in Akita Prefecture
 食品衛生監視員,しょくひんえいせいかんしいん,food sanitation inspector
 涙型,涙形,なみだがた,teardrop-shaped
 涙顔,なみだがお,tearful face,tear-stained face
@@ -210465,6 +210465,7 @@
 秘す,ひす,to keep secret,to conceal
 大甕,おおがめ,large earthenware pot,large earthenware jar
 一仏,いちぶつ,single buddha,one buddha,the same buddha,Amitabha
+陣代,じんだい,deputy who went to the battlefield in his lord's stead,provisional regent,official left in charge of a jin'ya in a lord's absence,local magistrate
 帰館,きかん,returning to one's residence,returning to one's quarters,returning to one's lodgings,returning home
 折り敷く,折敷く,おりしく,to kneel,to crouch down,to break off and spread out,to break and lie down
 才覚者,さいかくもの,quick-witted person,clever person,capable person
@@ -210518,6 +210519,7 @@
 地織り,地織,じおり,locally woven cloth,homespun fabric,homemade textile
 日暮れ方,ひぐれがた,dusk,evening
 外面如菩薩内心如夜叉,げめんにょぼさつないしんにょやしゃ,looking gentle and beautiful like a bodhisattva on the outside but, being wicked and frightening like a demon on the inside
+女菩薩,にょぼさつ,compassionate and gentle woman,saintly woman,courtesan,prostitute
 古塚,ふるづか,ancient burial mound,old grave,tumulus
 共融,きょうゆう,eutectic
 異能者,いのうしゃ,person with supernatural abilities,person with special powers,esper,mutant
@@ -210550,8 +210552,10 @@
 工事場,こうじば,construction site,work site
 踏みつけ,踏み付け,踏付け,踏つけ,ふみつけ,stepping,trampling,trampling on,treating with contempt,disregarding
 人の恋路を邪魔する奴は馬に蹴られて死んじまえ,ひとのこいじをじゃまするやつはうまにけられてしんじまえ,one will inevitably suffer the consequences for interfering in a couple's relationship,may whoever interferes with another's love affair be kicked by a horse and die
+男を売る,おとこをうる,to make a name for oneself through chivalrous deeds,to establish a reputation for oneself as a true man
 太く短く,ふとくみじかく,to the fullest,briefly but colorfully,in the here and now
 叩っ,たたっ,indicates that an action is performed roughly or violently
+おっ母,おっかあ,mother,mom,ma,wife,proprietress,female shopkeeper,middle-aged woman,older woman
 関東取締出役,かんとうとりしまりでやく,かんとうとりしまりしゅつやく,Kantō patrol inspector,Kantō regional inspector,law-enforcement post established by the Edo shogunate, tasked with policing the Kantō region
 八州廻り,八州回り,はっしゅうまわり,Kantō patrol inspector,Kantō regional inspector
 杯を返す,さかずきをかえす,to return a sake cup,to sever ties with one's boss,to break away from one's patron
@@ -210808,6 +210812,7 @@
 断罪者,だんざいしゃ,condemner,punisher,executioner
 幻想文学,げんそうぶんがく,fantastic literature,fantasy literature
 研ぎ上げる,研ぎあげる,研上げる,とぎ上げる,とぎあげる,to finish sharpening,to bring to a fine edge,to sharpen well,to polish up
+心を致す,心をいたす,こころをいたす,to put one's heart,to dedicate
 血気にはやる,血気に逸る,けっきにはやる,to be impetuous,to carried away by youthful ardor,to be overly eager for action,to act rashly out of hot-bloodedness
 魔書,ましょ,grimoire,magic book,spellbook
 怪魔,かいま,monster,mysterious demon,evil spirit
@@ -210822,7 +210827,7 @@
 キャビネ判写真,キャビネはんしゃしん,cabinet photograph,cabinet-size photograph
 丸ばつ式,○×式,まるばつしき,true-or-false style
 前鰭,前びれ,まえびれ,forward fin
-二本足,にほんあし,two legs
+二本足,２本足,にほんあし,two legs
 長衣,ちょうい,ながぎぬ,robe,long garment
 兵法書,へいほうしょ,book on military strategy,treatise on the art of war
 挑みかかる,挑み掛かる,いどみかかる,to lunge at,to spring upon,to turn upon,to pick a fight
@@ -210833,7 +210838,21 @@
 パンモロ,パンもろ,full view of panties,completely visible underwear,full panty shot
 名詮自性,名詮自称,みょうせんじしょう,めいせんじしょう,corresponding to one's actual qualities,being true to one's name
 投げ足,なげあし,having one's legs stretched out
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-25
+新台,しんだい,new type of machine
+葱南蛮,ネギ南蛮,ねぎなんばん,neginanban,soba in hot broth topped with simmered onions and deep-fried tofu
+二塩化,にえんか,dichloride
+日宋貿易,にっそうぼうえき,trade between Japan and Song-dynasty China
+作戦勝ち,作戦がち,さくせんがち,victory through good strategy,winning by outmaneuvering one's opponent,tactical victory
+膿血症,のうけつしょう,pyemia
+脳焮衝,のうきんしょう,phrenitis,brain fever
+ブッシュバック,bushbuck,boschbok
+ニアラ,nyala,lowland nyala
+マウンテンニアラ,mountain nyala,balbok
+ニアラミド,nialamide
+暑熱順化,しょねつじゅんか,heat acclimation,heat acclimatization,adapting to heat
+重円錐構造,じゅうえんすいこうぞう,cone-in-cone structure
+コーンインコーン構造,コーンインコーンこうぞう,cone-in-cone structure
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-26
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
