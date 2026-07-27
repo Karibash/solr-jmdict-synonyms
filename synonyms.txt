@@ -1038,7 +1038,7 @@
 ぼりぼり食べる,ぼりぼりたべる,to eat with a munching or crunching sound
 ぼろい,ボロい,lucrative,easy-money,big-money,cushy
 ボロボロ,ぼろぼろ,worn-out,ragged,tattered,battered,scruffy,crumbling,dry and crumbly,falling,scattering,worn-out,exhausted,one after another
-ボロ布,ぼろ布,ボロ切れ,ぼろ切れ,襤褸切れ,ぼろきれ,ぼろぬの,old cloth,rag
+ボロ布,ぼろ布,ボロ切れ,ぼろ切れ,襤褸切れ,襤褸布,ぼろきれ,ぼろぬの,old cloth,rag
 呆んやり,ぼんやり,ボンヤリ,dimly,faintly,indistinctly,vaguely,absentmindedly,vacantly,carelessly,in a spaced out manner,idly,aimlessly,absentmindedness,absentminded person,fool,dunce
 ぽかぽか,ポカポカ,ぽっかぽか,ポッカポカ,pleasantly warm,nice and warm,repeatedly,again and again,over and over
 ぽかん,ポカン,ぱかん,パカン,vacantly,blankly,absentmindedly,openmouthed,with one's mouth wide-open,gaping,flabbergasted,with a whack,with a thump
@@ -18439,7 +18439,7 @@
 害虫,がいちゅう,harmful insect,noxious insect,pest,vermin
 害鳥,がいちょう,vermin,injurious bird
 害毒,がいどく,harm,evil,poison,blight,harmful influence
-崖,厓,がけ,cliff,precipice,precipice,brink of a dangerous situation
+崖,厓,がけ,ガケ,cliff,precipice,precipice,brink of a dangerous situation
 概して,がいして,generally,as a rule
 概ね,大旨,おおむね,in general,generally,mostly,roughly,largely,mainly,on the whole,by and large,gist,point,main idea
 概括,がいかつ,summary,generalization,generalisation
@@ -18919,7 +18919,7 @@
 鴨猟,かもりょう,duck hunting
 柏手を打つ,拍手を打つ,かしわ手を打つ,かしわでをうつ,to clap one's hands in prayer
 茅,萱,かや,grass used for thatching,sedge used for thatching
-茅屋,ぼうおく,かやや,thatched cottage,hovel,my humble cottage
+茅屋,ぼうおく,かやや,thatched cottage,hovel,my humble cottage,my humble abode
 茅舎,ぼうしゃ,thatched cottage,hovel,my humble cottage
 茅場,かやば,hayfield,field of miscanthus
 粥,かゆ,しゅく,かい,thin rice porridge,watery cooked rice,rice gruel,congee,breakfast
@@ -37140,7 +37140,7 @@
 倉皇,蒼惶,そうこう,hurriedly,in a hurry,in great haste
 蔵造り,蔵づくり,倉造り,倉づくり,くらづくり,warehouse style,house built like a kura, with the walls covered in mud,building a kura storehouse,someone who builds kura storehouses
 倉主,くらぬし,warehouse owner
-蔵出し,倉出し,庫出し,くらだし,releasing stored goods,delivery
+蔵出し,倉出し,庫出し,蔵だし,くらだし,releasing stored goods,delivery
 倉卒,草卒,匆卒,怱卒,そうそつ,hurried,hasty,busy,precipitate,sudden,abrupt
 倉渡し,くらわたし,ex-warehouse
 倉敷,くらしき,Kurashiki,storage charges
@@ -37484,7 +37484,7 @@
 送り火,おくりび,ceremonial bonfire
 送り穴,おくりあな,perforations
 送り込む,送りこむ,おくりこむ,to send in
-送り出す,送りだす,おくりだす,to send out,to forward,to show  out
+送り出す,送りだす,おくりだす,to show  out,to see  off,to send off,to produce,to forward,to dispatch,to send off,to push  out of the ring from behind
 送り先,贈り先,おくりさき,destination,recipient,addressee
 送り届ける,おくりとどける,to send  to,to deliver,to escort
 送り返す,おくりかえす,to send back
@@ -39344,7 +39344,7 @@
 遅れ,後れ,おくれ,delay,lag,falling behind,falling behind in,lagging behind in
 遅延,ちえん,delay,latency
 遅刻,ちこく,lateness,tardiness,arriving late
-遅咲き,遅咲,おそざき,blooming late,flowering late,blossoming late,being a late bloomer
+遅咲き,遅咲,おそ咲き,おそざき,blooming late,flowering late,blossoming late,late-flowering plant,late-blooming species,being a late bloomer
 遅速,ちそく,speed,progress
 遅滞,ちたい,delay,procrastination
 遅着,ちちゃく,late arrival
@@ -43477,7 +43477,7 @@
 乳清,にゅうせい,whey
 乳製品,にゅうせいひん,dairy products
 乳石英,にゅうせきえい,milky quartz
-乳腺,にゅうせん,mammary gland
+乳腺,にゅうせん,mammary gland,lacteal gland
 乳濁,にゅうだく,emulsion
 乳濁液,にゅうだくえき,emulsion
 乳糖,にゅうとう,lactose,milk sugar
@@ -46568,7 +46568,7 @@
 浮かび上がる,浮かびあがる,浮び上がる,浮びあがる,浮かび上る,浮び上る,うかび上がる,うかびあがる,to rise to the surface,to come to the front,to emerge,to stand out
 浮かべる,浮べる,泛かべる,泛べる,うかべる,to float,to set afloat,to launch,to show on one's face,to recall,to call to mind,to imagine,to think of
 浮かれる,うかれる,to make merry,to be festive
-浮き,浮子,泛子,うき,floating,buoyancy,fishing float,bobber,buoy,lifebuoy,life belt,float,rubber ring
+浮き,浮子,泛子,うき,ウキ,floating,buoyancy,fishing float,bobber,buoy,lifebuoy,life belt,float,rubber ring
 浮き上がる,浮きあがる,浮き上る,浮上がる,浮上る,うき上がる,うきあがる,to float,to rise to the surface,to stand out,to be visible,to be alienated
 浮き浮き,ウキウキ,うきうき,ウッキウキ,cheerfully,buoyantly,happily,in high spirits
 浮き立つ,うきたつ,to be enlivened,to be exhilarated,to be excited,to be cheered up,to be in high spirits,to stand out,to contrast
@@ -47990,7 +47990,7 @@
 辺境,辺疆,へんきょう,remote region,outlying district,border district,frontier
 辺地,へんち,remote place
 辺鄙,辺ぴ,へんぴ,hard to reach place,remote place
-返す,反す,かえす,to return,to restore,to put back,to turn over,to turn upside down,to overturn,to pay back,to retaliate,to reciprocate,to respond,to retort,to reply,to say back,to do  back,to do again,to do repeatedly
+返す,反す,かえす,to return,to restore,to put back,to turn over,to turn upside down,to overturn,to pay back,to retaliate,to reciprocate,to respond,to retort,to reply,to say back,to do  back,to do  again,to do  repeatedly
 返り咲く,かえりざく,to come back,to bloom a second time
 返る,反る,かえる,to return,to come back,to go back,to turn over,to become extremely,to become completely
 返歌,へんか,ode in reply
@@ -53183,7 +53183,7 @@
 彷徨く,うろつく,ウロつく,to loiter,to hang around,to wander around,to prowl,to roam
 忖度,そんたく,surmise,guess,conjecture,,consideration,servility
 忸怩,じくじ,bashful,shameful,ashamed
-忝い,辱い,かたじけない,grateful,indebted
+忝い,辱い,忝ない,辱ない,かたじけない,grateful,indebted
 忝くも,かたじけなくも,graciously
 忝涙,かたじけなみだ,tears of gratitude
 恍惚,こうこつ,ecstasy,rapture,trance,senility
@@ -54174,7 +54174,7 @@
 偽君子,ぎくんし,にせくんし,hypocrite,snob
 偽物,贋物,ニセ物,にせ物,偽もの,にせもの,ぎぶつ,がんぶつ,にせもん,ニセモノ,spurious article,forgery,counterfeit,imitation,sham
 戯ける,お道化る,戲ける,おどける,たわける,to jest,to joke,to play the fool,to talk foolishly,to act indecently,to be silly over
-戯言,たわ言,戲言,譫言,たわごと,たわこと,nonsense,silly talk,drivel,rubbish
+戯言,譫言,たわ言,戲言,たわごと,たわこと,nonsense,silly talk,drivel,rubbish
 戯作,げさく,ぎさく,cheap literature,writing for amusement,light literature popular in the late Edo period
 吉事,きちじ,きつじ,auspicious event
 吉祥天,きっしょうてん,きちじょうてん,Sri-mahadevi
@@ -55055,7 +55055,7 @@
 或いは,或るいは,あるいは,or,either  or,maybe,perhaps,possibly,some  and others,sometimes  and at other times
 荒れ果てる,荒れはてる,荒果てる,あれはてる,to fall into ruin,to become dilapidated,to become run-down,to become desolate,to be badly neglected
 合わさる,合さる,併さる,あわさる,to join,to be put together,to combine,to unite,to fit,to close
-鮑,鰒,石決明,蚫,あわび,アワビ,abalone,ear shell
+鮑,鰒,石決明,蚫,アワビ,あわび,abalone,ear shell
 暗影,暗翳,あんえい,shadow,gloom
 暗記,諳記,あんき,memorization,memorisation,learning by heart
 暗黒,闇黒,あんこく,darkness
@@ -55193,7 +55193,7 @@
 鬱蒼,欝蒼,鬱葱,うっそう,thick,dense,luxuriant
 うっ滞,鬱滞,うったい,congestion,stagnation,stasis,pent-up feelings
 鬱憤,うっ憤,欝憤,うっぷん,resentment,grudge,pent-up anger,frustration,bitterness
-鬱々,鬱鬱,欝々,欝欝,うつうつ,gloomy,melancholy,pessimistic
+鬱鬱,鬱々,欝々,欝欝,うつうつ,gloomy,melancholy,pessimistic,luxuriant ​
 写す,撮す,うつす,to copy,to duplicate,to reproduce,to trace,to transcribe,to describe,to depict,to portray,to express,to imitate,to model after,to take,to photograph,to film,to shoot
 映す,うつす,to project,to reflect,to cast
 虚ろ,空ろ,洞ろ,洞,うつろ,cavity,hollow,void,hollow,blank,vacant,empty
@@ -58765,7 +58765,7 @@
 刃渡り,刃渡,はわたり,length of a blade,walking barefoot on the edge of a sword blade
 早い話が,はやいはなしが,in short,in a nutshell,in a word,to cut a long story short
 早撃ち,はやうち,quick shot,quick draw
-早咲き,早咲,はやざき,early blooming,early flowering
+早咲き,早咲,はやざき,blooming early,flowering early,blossoming early,early-flowering plant,early-blooming species
 辱め,辱しめ,はずかしめ,shame,disgrace,violation,rape
 蛇座,へび座,へびざ,Serpens,the Snake
 兵馬の権,へいばのけん,supreme military power
@@ -60813,7 +60813,7 @@
 跳び虫,跳虫,とびむし,springtail
 実写,じっしゃ,live action,photograph,real image,actual footage,depiction of a real scene,description
 実写映画,じっしゃえいが,live-action film,film that uses footage of real scenes and events
-ざけんなよ,fuck you!,don't fuck with me!,don't fuck around!,don't be a screw off!
+ざけんな,fuck you!,don't fuck with me!,don't fuck around!,don't be a screw off!
 腹芸,はらげい,conveying qualities of a character without gestures or speech,implied acting,psychological performance,implicitly asserting one's will,performance using one's stomach,acrobatics performed on a laid-out person's belly
 語源学,ごげんがく,etymology
 アンデッド,アンデット,undead
@@ -69030,7 +69030,7 @@
 追弔,ついちょう,mourning
 追分,おいわけ,forked road
 追分節,おいわけぶし,horse driver's song
-追手,追い手,おいて,pursuer,pursuing party,posse
+追手,追い手,おいて,pursuer,pursuing party,posse,tailwind,favorable wind,fair wind
 追加予算,ついかよさん,supplementary budget
 追い払い,おいばらい,supplementary payment
 追白,ついはく,PS,postscript
@@ -70170,7 +70170,7 @@
 青酸中毒,せいさんちゅうどく,cyanide poisoning
 青銅器,せいどうき,bronze ware
 青えんどう,青豌豆,青エンドウ,青えん豆,あおえんどう,green peas
-青瓢箪,青びょうたん,あおびょうたん,green calabash,unripe gourd,scrawny, pale person,sallow-faced person
+青瓢箪,青びょうたん,青瓢簞,あおびょうたん,pale and sickly person,pallid and thin person,green calabash,unripe gourd
 青鮫,アオザメ,あおざめ,shortfin mako shark
 青蠅,青蝿,蒼蠅,蒼蝿,あおばえ,せいよう,そうよう,bluebottle fly,little pest
 青鷺,あおさぎ,アオサギ,grey heron,gray heron
@@ -70753,7 +70753,7 @@
 雁字搦め,雁字搦,がんじ搦め,雁字がらめ,がんじがらめ,binding  hand and foot,being tied down
 雁擬き,がんもどき,ガンモドキ,ganmodoki,fried tofu fritter made with vegetables
 岸頭,がんとう,shore,wharf
-戯れ言,ざれ言,戯言,ざれごと,たわむれごと,ざれこと,joke,jest,gag
+戯れ言,ざれ言,戯言,戯れごと,ざれごと,たわむれごと,ざれこと,joke,jest,gag
 基本的人権,きほんてきじんけん,fundamental human rights
 基本単位,きほんたんい,base unit,standard unit
 基本給,きほんきゅう,base pay
@@ -71290,7 +71290,7 @@
 如何ほど,如何程,いか程,いかほど,how much,how many,however
 如何様,いかよう,what sort of,what kind of,what way
 如法,にょほう,observance of the Buddha's teachings
-如菩薩,にょぼさつ,Buddha-like compassion
+如菩薩,にょぼさつ,being compassionate like a bodhisattva
 如意,にょい,going according to one's wishes,ceremonial sceptre used by monks when reciting sutras
 ゆで卵,ゆで玉子,茹で卵,茹で玉子,ゆでたまご,boiled egg
 若大将,わかだいしょう,young commander,young leader,young master
@@ -73520,7 +73520,7 @@
 大酒飲み,おおざけのみ,heavy drinker
 大師,だいし,great teacher
 大家,たいけ,rich family,distinguished family
-大宮司,だいぐうじ,high priest of a great shrine
+大宮司,だいぐうじ,おおみやづかさ,chief priest of a great shrine
 大宮御所,おおみやごしょ,Empress Dowager's palace
 大挙,たいきょ,in full force,in great numbers,in droves,large-scale project,grand plan
 大根役者,だいこんやくしゃ,bad actor,lousy actor,wooden actor,ham actor
@@ -79114,7 +79114,7 @@
 縫い返す,ぬいかえす,to resew
 縫い直す,縫いなおす,ぬいなおす,to resew,to remake
 忍び入る,しのびいる,to steal or sneak or slip into
-でっち上げる,捏ち上げる,捏っち上げる,でっちあげる,to fabricate,to invent,to make up,to cook up,to trump up,to concoct,to cobble together,to put together
+でっち上げる,捏ち上げる,捏っち上げる,でっちあげる,デッチあげる,to fabricate,to invent,to make up,to cook up,to trump up,to concoct,to cobble together,to put together
 こね回す,捏ね回す,捏回す,こねまわす,to knead,to mix,to complicate,to turn into a mess
 こね返す,捏ね返す,捏返す,こねかえす,to knead,to mix,to complicate,to turn into a mess
 年長ける,としたける,to grow old
@@ -83253,7 +83253,7 @@
 負の電荷,ふのでんか,negative charge
 浮漂,ふひょう,floating
 不変の理,ふへんのり,eternal truth
-父母の許,ふぼのもと,under one's parents roof
+父母のもと,父母の許,ふぼのもと,under one's parents' roof,living with one's parents
 不犯,ふぼん,strict observance of the commandment that all priests should be celibate
 浮遊物,ふゆうぶつ,suspended particles,floating matter
 冬めく,ふゆめく,to become wintry
@@ -91698,7 +91698,7 @@
 ううん,うーん,ウーン,um,er,well,nuh-uh,no,oof
 つなぎ服,ツナギ服,繋ぎ服,つなぎふく,overalls,boiler suit
 爪先立つ,つま先立つ,つまさきだつ,to stand on tiptoes
-捕方,捕り方,とりかた,constable,method of catching criminals
+捕り方,捕方,とりかた,policeman,thieftaker,method of catching criminals
 取り方,撮り方,採り方,とり方,取方,撮方,とりかた,way of taking,manner of taking,how to take
 どす黒い,ドス黒い,どすぐろい,darkish,dusky,dark,murky
 どんちゃん騒ぎ,ドンチャン騒ぎ,どんちゃんさわぎ,ドンチャンさわぎ,merrymaking,high jinks,drunken revelry,spree
@@ -92126,7 +92126,7 @@
 世に埋もれる,よにうずもれる,to live in obscurity
 うようよ,ウヨウヨ,in swarms,crawling with
 うんと,a great deal,very much,a lot,with a great amount of effort
-おいそれと,at a moment's notice,readily
+おいそれと,readily,easily,right away,simply,without difficulty
 大っぴら,おおっぴら,open,public,overt,free,unreserved,uninhibited
 噯,噯気,噫気,億尾,噯木,おくび,あいき,belch,eructation,burp
 おさらば,saying goodbye,bidding farewell,breaking off,farewell,goodbye,adieu
@@ -99467,7 +99467,7 @@
 緩和ケア,かんわケア,palliative care
 集学的治療,しゅうがくてきちりょう,multidisciplinary therapy
 結納式,ゆいのうしき,traditional Japanese engagement ceremony
-葱鮪,ねぎま,one-pot meal of spring onions and tuna
+葱鮪,ねぎま,one-pot meal of green onions and tuna
 毛づくろい,毛繕い,けづくろい,grooming oneself,mutual grooming,social grooming,personal grooming
 濃いめ,濃い目,こいめ,strongish,somewhat strong
 細め,細目,ほそめ,thinnish,somewhat narrow
@@ -133158,7 +133158,7 @@
 オーボエダモーレ,オーボエ・ダモーレ,oboe d'amore
 オーラルピル,オーラル・ピル,oral pill
 オールドイングリッシュシープドッグ,オールド・イングリッシュ・シープドッグ,Old English sheepdog
-オイルカラー,オイル・カラー,oil color,oil colour
+オイルカラー,オイル・カラー,oil color,oil colour,oil paint
 オイルバーナー,オイル・バーナー,oil burner
 オイルポンプ,オイル・ポンプ,oil pump
 扇芭蕉,おうぎばしょう,オウギバショウ,traveller's tree,traveller's palm
@@ -210592,6 +210592,7 @@
 芽を吹く,芽をふく,めをふく,to bud,to sprout,to show signs of development,to show promise
 務める,つとめる,to serve as,to act as,to fill,to play the role of,to be in charge of,to hold
 夜闇,よやみ,darkness of the night,black of night,dead of night
+宝具,ほうぐ,treasured item,sacred artifact,magical implement,legendary weapon
 奉納試合,ほうのうじあい,dedicatory match,ceremonial match
 流し者,ながしもの,exiled person,banished person
 暮らしが立つ,くらしがたつ,to make a living
@@ -210840,11 +210841,14 @@
 投げ足,なげあし,having one's legs stretched out
 新台,しんだい,new type of machine
 葱南蛮,ネギ南蛮,ねぎなんばん,neginanban,soba in hot broth topped with simmered onions and deep-fried tofu
+睨め返す,ねめかえす,to stare back,to glare back
+二度音程,にどおんてい,second
 二塩化,にえんか,dichloride
 日宋貿易,にっそうぼうえき,trade between Japan and Song-dynasty China
 作戦勝ち,作戦がち,さくせんがち,victory through good strategy,winning by outmaneuvering one's opponent,tactical victory
 膿血症,のうけつしょう,pyemia
 脳焮衝,のうきんしょう,phrenitis,brain fever
+飲みにくい,飲み難い,のみにくい,hard to drink,disagreeable,undrinkable,unpalatable,nauseous
 ブッシュバック,bushbuck,boschbok
 ニアラ,nyala,lowland nyala
 マウンテンニアラ,mountain nyala,balbok
@@ -210852,7 +210856,18 @@
 暑熱順化,しょねつじゅんか,heat acclimation,heat acclimatization,adapting to heat
 重円錐構造,じゅうえんすいこうぞう,cone-in-cone structure
 コーンインコーン構造,コーンインコーンこうぞう,cone-in-cone structure
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-26
+収束点,しゅうそくてん,convergence point,convergent point
+パンプーシュカ,pampushka
+焦点合成,しょうてんごうせい,focus stacking
+主点,しゅてん,principal point,main point,gist
+めふん,メフン,dish of salted salmon kidney
+日明貿易,にちみんぼうえき,trade between Japan and Ming-dynasty China
+黄化病,おうかびょう,icterus,any plant disease causing leaf etiolation
+遅れ咲き,おくれ咲き,後れ咲き,おくれざき,blooming late,flowering late,blossoming late,late-flowering plant,late-blooming species
+大陸倭語,たいりくわご,Peninsular Japonic
+荻花,てきか,flowers of the Amur silvergrass
+瑟瑟座,しつしつざ,stone pedestal made of stacked polygonal blocks
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-27
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
