@@ -341,7 +341,7 @@
 ぐいぐい,グイグイ,without hesitation,with great optimism,vigorously,with great vigor,positively,strongly,heavily
 ぐうぐう,fast,snoring or grumbling sound
 愚図愚図,ぐずぐず,グズグズ,slowly,tardily,dawdling,lingering,hesitantly,complaining,grumbling,unsettled,loose,slackened
-ぐちゃぐちゃ,グチャグチャ,pulpy,soppy,sloppy,untidy,in a disarray,chaotic
+ぐちゃぐちゃ,グチャグチャ,ぐっちゃぐちゃ,pulpy,soppy,sloppy,untidy,in a disarray,chaotic
 ぐっすり,グッスリ,soundly,fast
 ぐったり,グッタリ,グタリ,ぐたり,limply,wearily,listlessly,languidly,exhaustedly,unenergetically
 ぐっと,グッと,suddenly,at once,in one go,with a jerk,with a gulp,considerably,very much,a lot,firmly,with an effort,tightly,exerting pressure,completely,deeply
@@ -9303,7 +9303,7 @@
 ビジュアルフライト,ビジュアル・フライト,visual flight
 ビジュアルマーチャンダイジング,ビジュアル・マーチャンダイジング,visual merchandising
 ビジュアルランゲージ,ビジュアル・ランゲージ,visual language
-ビジョン,ヴィジョン,vision
+ビジョン,ヴィジョン,vision,large display screen
 ビス,screw
 ビスク,bisque
 ビスケット,cookie,biscuit
@@ -13578,7 +13578,7 @@
 扱う,あつかう,to deal with,to treat,to handle,to take care of,to entertain,to deal with,to handle,to manage,to operate,to handle,to work,to deal in,to sell,to cover,to treat,to discuss,to take up,to treat A as B,to mediate,to be too much for one,to find unmanageable,to gossip
 こき下ろす,扱き下ろす,扱下ろす,こきおろす,to denounce,to disparage,to lambast,to abuse
 扱く,しごく,シゴく,to draw through one's hand,to stroke,to work someone hard,to masturbate
-宛がう,宛てがう,充てがう,あてがう,to allot,to assign,to allocate,to give,to provide,to supply,to fit to,to fasten to,to apply to
+宛がう,宛てがう,充てがう,宛う,あてがう,to allot,to assign,to allocate,to give,to provide,to supply,to fit to,to fasten to,to apply to
 宛てる,あてる,to address
 宛ら,さながら,just like,exactly like,as if,as though,just like,virtually like,as if it were
 虻,蝱,あぶ,あむ,アブ,horsefly,gadfly
@@ -16074,7 +16074,7 @@
 往航,おうこう,outward voyage,outbound flight
 往事,おうじ,the past,past events
 往時,おうじ,the past,old times,bygone times,days of yore
-往信,おうしん,first half of a reply card
+往信,おうしん,first half of a reply letter or card
 往診,おうしん,doctor's visit,house call
 往生,おうじょう,passing on to the next life,death,giving up a struggle,submission,being at one's wits' end,being flummoxed,coercion
 往昔,おうせき,ancient times
@@ -25603,7 +25603,7 @@
 控訴裁判所,こうそさいばんしょ,appeals court,appellate court
 控訴審,こうそしん,appeal trial
 攻め,せめ,attack,offence,offense,assault,top,barrage,flood
-攻める,せめる,to attack,to assault,to assail
+攻める,せめる,to attack,to assault,to assail,to challenge,to take on,to be bold,to be audacious,to be proactive
 攻め入る,せめいる,to invade
 攻め滅ぼす,せめほろぼす,to attack and overthrow,to utterly destroy
 攻究,講究,こうきゅう,specialization,study
@@ -27293,7 +27293,7 @@
 罪,つみ,crime,sin,wrongdoing,indiscretion,penalty,sentence,punishment,fault,responsibility,culpability,thoughtlessness,lack of consideration
 罪悪,ざいあく,crime,sin,vice
 罪悪感,ざいあくかん,feelings of guilt
-罪科,ざいか,offense,offence,crime,guilt,punishment
+罪科,ざいか,つみとが,offense,offence,crime,sin,punishment
 罪過,ざいか,offence,offense,fault
 罪業,ざいごう,sin,iniquity,crime
 罪状,ざいじょう,crime,charge
@@ -55193,7 +55193,7 @@
 鬱蒼,欝蒼,鬱葱,うっそう,thick,dense,luxuriant
 うっ滞,鬱滞,うったい,congestion,stagnation,stasis,pent-up feelings
 鬱憤,うっ憤,欝憤,うっぷん,resentment,grudge,pent-up anger,frustration,bitterness
-鬱鬱,鬱々,欝々,欝欝,うつうつ,gloomy,melancholy,pessimistic,luxuriant ​
+鬱鬱,鬱々,欝々,欝欝,うつうつ,gloomy,melancholy,pessimistic,luxuriant
 写す,撮す,うつす,to copy,to duplicate,to reproduce,to trace,to transcribe,to describe,to depict,to portray,to express,to imitate,to model after,to take,to photograph,to film,to shoot
 映す,うつす,to project,to reflect,to cast
 虚ろ,空ろ,洞ろ,洞,うつろ,cavity,hollow,void,hollow,blank,vacant,empty
@@ -60591,7 +60591,7 @@
 説法,せっぽう,lecture,sermon,preaching,scolding,preaching,moralizing,moralising
 施主,せしゅ,donor,benefactor,almsgiver,chief mourner,client
 切削,せっさく,cutting
-接写,せっしゃ,close-up photography
+接写,せっしゃ,close-up photography,macro photography
 節足動物,せっそくどうぶつ,arthropod
 背筋,背すじ,せすじ,spine,line of the backbone,seam down the back
 施薬,せやく,free medicine
@@ -67377,7 +67377,7 @@
 光線銃,こうせんじゅう,ray gun
 光線療法,こうせんりょうほう,phototherapy
 光輪,こうりん,halo,nimbus
-光頭,こうとう,bald-headed
+光頭,こうとう,bald head
 光蘚,ひかりごけ,luminous moss
 幌馬車,ほろ馬車,ほろばしゃ,covered wagon,prairie schooner
 兄事,けいじ,defer to another as if an older brother
@@ -70170,7 +70170,7 @@
 青酸中毒,せいさんちゅうどく,cyanide poisoning
 青銅器,せいどうき,bronze ware
 青えんどう,青豌豆,青エンドウ,青えん豆,あおえんどう,green peas
-青瓢箪,青びょうたん,青瓢簞,あおびょうたん,pale and sickly person,pallid and thin person,green calabash,unripe gourd
+青瓢箪,青びょうたん,青瓢簞,あおびょうたん,green calabash,unripe gourd,pale and sickly person,pallid and thin person
 青鮫,アオザメ,あおざめ,shortfin mako shark
 青蠅,青蝿,蒼蠅,蒼蝿,あおばえ,せいよう,そうよう,bluebottle fly,little pest
 青鷺,あおさぎ,アオサギ,grey heron,gray heron
@@ -72024,7 +72024,7 @@
 台布巾,だいぶきん,だいふきん,table-wiping cloth
 台湾坊主,たいわんぼうず,atmospheric depression originating in Taiwan,cyclone in the East China Sea,spot baldness
 得失,とくしつ,advantages and disadvantages,plus and minuses
-得物,えもの,weapon,one's forte,one's special skill,weapon one is skilled in using
+得物,えもの,エモノ,weapon,one's forte,one's special skill,weapon one is skilled in using
 得々,得得,とくとく,トクトク,triumphantly,proudly
 得業士,とくぎょうし,specialty school graduate
 得意満面,とくいまんめん,triumphant air,smugness
@@ -79236,7 +79236,7 @@
 指折り数える,ゆびおりかぞえる,to count on one's fingers,to count down the days,to look forward to
 意地ずく,意地尽く,意地づく,意地尽,いじずく,いじづく,obstinacy,stubbornness
 意味づける,意味付ける,いみづける,to give meaning,to assess the significance
-極め尽くす,きわめつくす,to do thoroughly,to check through and through
+極め尽くす,究め尽くす,極めつくす,極め尽す,窮め尽くす,きわめ尽くす,きわめつくす,to master thoroughly,to explore exhaustively,to push to the absolute limit,to complete to perfection
 絞り上げる,搾り上げる,しぼり上げる,しぼりあげる,to squeeze,to wring out,to squeeze  out of someone,to wring  from,to scold,to criticize severely,to lay into,to train ruthlessly,to give punishing training,to strain,to gather up
 絞り出す,搾り出す,しぼり出す,絞りだす,搾りだす,しぼりだす,to squeeze out,to wring out
 覚えこむ,覚え込む,覚込む,おぼえこむ,to memorize,to fix in memory,to master
@@ -83641,7 +83641,7 @@
 網状組織,もうじょうそしき,reticulum,network
 毛製品,もうせいひん,woollen goods
 猛練習,もうれんしゅう,very intensive training,very hard training
-萌え立つ,もえ立つ,もえたつ,to burst into leaf,to sprout
+萌え立つ,萌えたつ,もえ立つ,もえたつ,to burst into leaf,to sprout
 目的を貫く,もくてきをつらぬく,to accomplish  one's object
 模試,もし,mock exam,practice exam,practice test
 模式標本,もしきひょうほん,type specimen
@@ -87439,7 +87439,7 @@
 序,じょ,order,ordering,beginning,start,foreword,preface,introduction,opening of a song
 将,しょう,commander,general,leader
 小降り,こぶり,light rain,drizzle
-小判鮫,小判ザメ,コバンザメ,こばんざめ,remora,suckerfish,sharksucker,live sharksucker
+小判鮫,小判ザメ,コバンザメ,こばんざめ,remora,suckerfish,sharksucker,live sharksucker,person who attaches themself to someone else for personal gain,hanger-on
 衝,しょう,important point,important role,opposition
 食,しょく,じき,し,food,foodstuff,eating,appetite,meal,portion
 陣,じん,battle formation,camp,encampment,position,group,gang,party,corps,war,battle,campaign
@@ -92725,7 +92725,7 @@
 王太妃,おうたいひ,crown princess
 王弟,おうてい,king's younger brother,royal brother
 月夜見の尊,つくよみのみこと,Tsukuyomi no Mikoto
-武家諸法度,ぶけしょはっと,law decreeing rules for daimyo during Tokugawa shogunate
+武家諸法度,ぶけしょはっと,Laws for the Military Houses,laws establishing rules for daimyo
 壇ノ浦の戦い,壇ノ浦の戦,だんのうらのたたかい,Battle of Dan-no-ura
 尋,ひろ,じん,fathom
 読み仮名,読みがな,よみがな,kana indicating the pronunciation of kanji,furigana
@@ -93932,7 +93932,7 @@
 桁数,けたすう,number of digits or characters
 キャロット,carrot
 扁桃摘出術,へんとうてきしゅつじゅつ,tonsillectomy
-制汗剤,せいかんざい,deodorant
+制汗剤,せいかんざい,antiperspirant
 アバンタイトル,アヴァンタイトル,アバン・タイトル,アヴァン・タイトル,material before the opening credits in a film, anime, etc.
 粘液便,ねんえきべん,mucous feces,mucous stool
 吸い寄せる,吸寄せる,すいよせる,to draw in,to attract
@@ -98680,7 +98680,7 @@
 早め,速め,早目,速目,はやめ,early,a little earlier than usual,a little faster than usual,slightly quicker
 早め薬,はやめぐすり,drugs to stimulate childbirth
 羅馬,ローマ,Rome
-おもちゃ屋,玩具屋,おもちゃや,がんぐや,toy shop,toy store
+おもちゃ屋,玩具屋,おもちゃや,がんぐや,toy shop,toy store,toy dealer,toy seller
 カラオケ屋,カラオケや,karaoke club
 頑張り屋,頑張りや,がんばり屋,がんばりや,hard worker,person who perseveres,person who doesn't give up,eager beaver,bitter-ender
 借入,しゃくにゅう,loan,borrowing
@@ -180612,7 +180612,7 @@
 裏録,うらろく,background recording,recording a different TV program than one is watching
 裏流,うらりゅう,Urasenke school of tea ceremony
 移動手段,いどうしゅだん,means of transportation,transport service
-如何にかなる,どうにかなる,どーにかなる,to come out all right,to take care of itself,to be OK,to go crazy
+如何にかなる,どうにかなる,どーにかなる,to come out all right,to take care of itself,to be OK,to go crazy,to become romantically or sexually involved
 私なり,わたしなり,my own way
 スポットを当てる,スポットをあてる,to shine a spotlight on,to highlight,to bring attention to
 スポットが当たる,スポットがあたる,to be in the spotlight,to come into focus,to come into the spotlight
@@ -193195,7 +193195,7 @@
 ダブルケア,ダブル・ケア,caring for one's child and one's elderly parent  at the same time
 ボルト,bolt
 最重度,さいじゅうど,profound,most severe
-様子を見る,ようすをみる,to wait and see,to see how things go,to survey the situation
+様子を見る,様子をみる,様子見る,様子みる,ようすを見る,ようすをみる,ようすみる,to wait and see,to see how things go,to survey the situation
 全介助,ぜんかいじょ,full assistance
 大絶叫,だいぜっきょう,loud scream,screaming at the top of one's lungs
 機嫌よく,機嫌良く,きげんよく,cheerfully,happily,in good humour,with good grace,warmly
@@ -210809,6 +210809,7 @@
 心の駒,こころのこま,uncontrollable passion
 吸蜜管,きゅうみつかん,siphonet
 内戚,ないせき,ないしゃく,paternal relative,relative on one's father's side
+一犬虚に吠ゆれば万犬実を伝う,いっけんきょにほゆればばんけんじつをつたう,one dog barks at a shadow, and a hundred bark at the sound,it takes one person to start a rumor for the masses to tell it as the truth,gossip travels faster than the truth,when one dog barks at nothing, ten thousand dogs will pass it on as fact
 警備体制,けいびたいせい,security arrangements,security system,security setup,security protocols
 断罪者,だんざいしゃ,condemner,punisher,executioner
 幻想文学,げんそうぶんがく,fantastic literature,fantasy literature
@@ -210862,12 +210863,23 @@
 主点,しゅてん,principal point,main point,gist
 めふん,メフン,dish of salted salmon kidney
 日明貿易,にちみんぼうえき,trade between Japan and Ming-dynasty China
+ゼブラ飲み,ぜブラのみ,zebra drinking,zebra striping
 黄化病,おうかびょう,icterus,any plant disease causing leaf etiolation
 遅れ咲き,おくれ咲き,後れ咲き,おくれざき,blooming late,flowering late,blossoming late,late-flowering plant,late-blooming species
 大陸倭語,たいりくわご,Peninsular Japonic
 荻花,てきか,flowers of the Amur silvergrass
-瑟瑟座,しつしつざ,stone pedestal made of stacked polygonal blocks
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-27
+瑟瑟,瑟々,しつしつ,rustling,soughing,desolately blowing,rippling,billowing
+瑟瑟座,瑟々座,しつしつざ,stone pedestal made of stacked polygonal blocks
+ダブルスクール,ダブル・スクール,studying at two schools at the same time
+領邦,りょうほう,territorial state
+領邦国家,りょうほうこっか,territorial state
+思い事,おもいごと,desire,wish
+過ぎし,すぎし,bygone,gone by,past
+薄氷を踏む,薄氷を履む,薄氷をふむ,はくひょうをふむ,to tread on thin ice,to walk on thin ice,to take a grave risk,to be in a precarious situation
+金柑頭,きんかあたま,きんかんあたま,bald head
+薄氷を踏む思い,薄氷をふむ思い,はくひょうをふむおもい,sense of impending doom,foreboding,feeling of grave danger
+街頭ビジョン,がいとうビジョン,electronic billboard,digital signage
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-28
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -218158,3 +218170,4 @@
 ミニクーパー,ミニ・クーパー,Mini Cooper
 海援隊,かいえんたい,Kaientai
 グロック,Glock
+三帝協商,さんていきょうしょう,Three Emperors' Alliance
