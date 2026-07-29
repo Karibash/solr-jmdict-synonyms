@@ -15752,7 +15752,7 @@
 園長,えんちょう,head of a garden,kindergarten principal,nursery school principal,park director,zoo director,head of a plantation
 園遊会,えんゆうかい,garden party
 堰堤,えん堤,えんてい,dam,weir
-宴,讌,うたげ,えん,party,banquet,feast
+宴,讌,うたげ,party,banquet,feast
 宴会,えんかい,party,banquet,reception,feast,dinner
 宴席,えんせき,banquet,dinner party
 宴遊,えんゆう,drinking party hall,banquet seat
@@ -19417,7 +19417,7 @@
 缶詰,缶詰め,罐詰め,罐詰,かんづめ,カンヅメ,カンズメ,canned food,tinned food,confining someone,being stuck in a confined space
 缶切り,缶切,缶きり,かんきり,can opener
 翰長,かんちょう,Cabinet  Secretary
-翰墨,かんぼく,brush and ink,writing,drawing
+翰墨,かんぼく,brush and ink,writing,drawing,calligraphy,literature,writings
 翰林,かんりん,literary circles
 翰林院,かんりんいん,academy,institute
 肝,胆,きも,たん,キモ,liver,innards,courage,spirit,pluck,guts,crux,essential point,key
@@ -28055,7 +28055,7 @@
 残酷,惨酷,残刻,惨刻,ざんこく,cruel,brutal,ruthless,merciless,inhuman
 残暑,ざんしょ,late summer heat,lingering summer heat
 残心,残身,残芯,ざんしん,continued alertness,unrelaxed alertness,remaining on one's guard,being prepared for a counterstroke,follow-through,lingering affection,attachment,regret,regrets,reluctance
-残像,ざんぞう,afterimage,after image
+残像,ざんぞう,afterimage,after image,afterimage,after image
 残存,ざんぞん,ざんそん,survival,remaining,being extant,being left
 残忍,惨忍,ざんにん,brutal,cruel,merciless,ruthless,cold-blooded
 残念,ざんねん,regrettable,unfortunate,disappointing,vexing
@@ -37298,7 +37298,7 @@
 痩せっぽち,やせっぽち,skinny person,scrawny person,scarecrow,bag of bones
 やせ衰える,痩せ衰える,やせおとろえる,to become emaciated,to waste away,to grow thin and worn out
 やせ我慢,痩せ我慢,痩我慢,ヤセ我慢,痩せがまん,やせがまん,enduring something out of pride,putting up with it,grinning and bearing it
-相,あい,together,mutually,fellow
+相,あい,together,mutually,reciprocally,equally,adds a nuance of solemnity or formality
 相,そう,aspect,appearance,look,physiognomy,aspect,phase
 相違,相異,そうい,difference,discrepancy,variation
 相違点,そういてん,difference
@@ -50153,7 +50153,7 @@
 木製,もくせい,wooden,made of wood
 木製品,もくせいひん,wooden products
 木石,ぼくせき,trees and stones,unfeeling person
-木切れ,きぎれ,piece of wood,chip of wood,block of wood
+木切れ,木ぎれ,きぎれ,piece of wood,chip of wood,block of wood
 木鼠,きねずみ,squirrel
 木造,もくぞう,wooden,made of wood,wooden construction
 木炭,もくたん,きずみ,charcoal
@@ -56147,7 +56147,7 @@
 付け人,付人,つけびと,assistant,attendant,chaperon
 漬け焼き,つけ焼き,付け焼き,漬焼き,漬焼,付焼き,付焼,つけやき,dish broiled in a mix of soy sauce, mirin, etc.,broiling with soy sauce, mirin, etc.
 突っ張り,突張り,つっぱり,ツッパリ,prop,strut,support,brace,bar,becoming taut,tightness,stiffness,cramp,thrust,slapping attacks,delinquency,delinquent,punk
-津々浦々,津津浦浦,つつうらうら,つづうらうら,all over the country,throughout the land,every nook and cranny of the land,far and wide,every port and harbor
+津々浦々,津津浦浦,つつうらうら,つづうらうら,all over the country,throughout the land,every nook and cranny of a country,far and wide,every port and harbor
 慎む,謹む,虔む,つつしむ,to be careful,to be discreet,to do in moderation,to refrain,to abstain,to be reverent,to be purified,to be chaste
 包み金,包金,つつみがね,つつみきん,money tip wrapped in paper
 包み紙,包紙,つつみがみ,wrapping paper
@@ -59323,7 +59323,7 @@
 びちゃびちゃ,splashing,dabbling
 ぴたっと,ピタッと,tightly,closely,exactly,precisely,suddenly
 ぴょこん,ピョコン,quickly, in a bouncing way
-ふかふか,フカフカ,soft,absent-mindedly
+ふかふか,フカフカ,フーカフーカ,soft,absent-mindedly
 房房した,房々した,ふさふさした,tufty,fringy,flocculent,fleecy,abundant,flowing
 ふっと,フッと,ふうっと,ふーっと,フーッと,フっと,フーっと,フウッと,フウっと,with a whiff,with a puff,suddenly,abruptly,without warning
 ふふん,pish,pooh,I see,oh,indeed
@@ -69972,7 +69972,7 @@
 保護林,ほごりん,forest reserve or preserve
 腹八分,はらはちぶ,eating moderately,moderation in eating,eating until 80% full
 腹子,はらこ,fish eggs,roe
-腹中,ふくちゅう,within one,at heart
+腹中,ふくちゅう,belly,stomach,inside of the abdomen,one's mind,one's heart,one's innermost thoughts,one's feelings
 腹水,ふくすい,ascites
 腹汚い,腹穢い,はらぎたない,black-hearted,nasty
 腹当て,はらあて,bellyband,apron,bib,breastplate
@@ -78614,7 +78614,7 @@
 白銅貨,はくどうか,nickel coin
 白熱灯,はくねつとう,incandescent lamp
 白熱戦,はくねつせん,furious fighting
-白濁,はくだく,cloudiness,turbidity,nebula
+白濁,はくだく,cloudiness,turbidity,nebula,semen,sperm
 白魔,はくま,heavy snowfall,white devil
 白蝋,白蠟,白ろう,はくろう,white wax
 白ろう病,白蝋病,白蠟病,はくろうびょう,Raynaud's disease,white finger disease
@@ -79999,7 +79999,6 @@
 韋駄天,いだてん,Skanda,great runner
 市が立つ日,いちがたつひ,market day
 一丸となって,いちがんとなって,in unison,as one,united
-一群の羊,いちぐんのひつじ,flock of sheep
 一撃のもとに,一撃の下に,いちげきのもとに,with a single blow,with one stroke
 一字空ける,いちじあける,to leave a space
 著しく,いちじるしく,considerably,remarkably,strikingly
@@ -94111,7 +94110,7 @@
 水漉し,水こし,水濾し,水濾,みずこし,water filter,strainer,colander
 こし器,漉し器,濾し器,こしき,strainer,sieve
 打ち棒,打棒,うちぼう,rolling pin,slapstick
-螯,はさみ,pincers,claws,forceps
+螯,はさみ,ハサミ,pincers,claws,forceps
 音姫,おとひめ,toilet device that plays a melody or flushing sound
 導波路,どうはろ,waveguide
 導光板,どうこうばん,light guide,light-guiding plate,LGP,light-guiding panel
@@ -97054,7 +97053,7 @@
 赤魚鯛,阿候鯛,あこう鯛,あこうだい,アコウダイ,Matsubara's red rockfish,red rockfish,red scorpionfish
 足長,脚長,あしなが,long-legged
 あなた任せ,貴方任せ,彼方任せ,あなたまかせ,leaving  to others,depending on others,leaving  to take care of itself,leaving everything to Buddha's providence
-うわ,うわー,うわっ,うわあ,yikes,oops,eep,wow,aargh
+うわ,うわー,うわ〜,うわっ,うわあ,うわーっ,うーわ,うわお,うわあっ,ううわ,yikes,oops,eep,wow,aargh
 難し,かたし,difficult,hard
 単４,単四,たんよん,AAA battery,AAA cell
 単２,単二,たんに,C battery,C cell
@@ -98453,7 +98452,7 @@
 お安くない,おやすくない,on very good terms with each other,romantically attached
 親時計,おやどけい,master clock,control clock
 お山の大将,御山の大将,おやまのたいしょう,king of the hill,king of the castle,king of the mountain
-澱,おり,dregs,lees,grounds,sediment
+澱,おり,dregs,lees,grounds,sediment,pent-up feelings
 澱,淀,よど,pool
 折れ線グラフ,おれせんグラフ,line graph
 おろし和え,卸し和え,下ろし和え,下ろしあえ,おろしあえ,seasoning of grated daikon with soy and vinegar, usually for fish or vegetables
@@ -108032,7 +108031,7 @@
 目を見る,めをみる,to experience
 日の目を見る,陽の目を見る,ひのめをみる,to see the light of day,to be revealed,to be realized
 しばしば,シバシバ,しぱしぱ,シパシパ,repeatedly
-しばしば目,しばしばめ,blinking away tears,blinking tear filled eyes
+しばしば目,しばしばめ,blinking away tears,tear-filled blinking eyes
 激安,げきやす,dirt cheap,super cheap,bargain-priced
 ため息をつく,溜息をつく,溜息を吐く,溜め息をつく,ため息を吐く,溜め息を吐く,ためいきをつく,to sigh,to breathe a sigh
 亜界,あかい,subkingdom
@@ -128631,7 +128630,7 @@
 防カビ,防黴,ぼうかび,ぼうばい,mold prevention,mildew prevention
 防カビ剤,防黴剤,ぼうカビざい,ぼうかびざい,ぼうばいざい,anti-mold agent,mildew-proofing agent
 熱れ,熅れ,いきれ,steaminess,sultriness,stuffiness
-人いきれ,人熱れ,人熅れ,ひといきれ,body heat from several people in close quarters,stuffy air
+人いきれ,人熱れ,人熅れ,人熱,ひといきれ,body heat from several people in close quarters,stuffy air,stuffiness
 ソーラン節,ソーランぶし,traditional work song of Hokkaido herring fishery workers, performed by school students in modern choreographed interpretations
 語種,ごしゅ,classification of Japanese words by their origin as Japanese, Chinese or Western
 頭が切れる,頭がきれる,あたまがきれる,to be sharp,to be keen,to be on the ball,to have a mind like a steel trap,to be clever
@@ -130602,7 +130601,7 @@
 喧嘩を売る,ケンカを売る,けんかを売る,喧嘩をうる,けんかをうる,to pick a fight,to pick a quarrel
 鰐亀,わにがめ,ワニガメ,alligator snapping turtle
 消灯ラッパ,消灯喇叭,しょうとうラッパ,しょうとうらっぱ,lights-out trumpet,lights-out bugle call,taps,last post
-吹っ飛ばす,ふっ飛ばす,ふっとばす,to blow off,to blow away,to drive away,to dispel,to do at great speed,to carry out  very quickly
+吹っ飛ばす,ふっ飛ばす,ふっとばす,to blow off,to blow away,to send flying,to drive away,to dispel,to do at great speed,to carry out  very quickly
 ぶっ飛ぶ,打っ飛ぶ,ぶっとぶ,to fly,to blast,to lack common sense,to be extremely surprised
 本間,ほんけん,measure of length corresponding to 6 shaku
 硬メン,かたメン,dried ramen
@@ -147693,7 +147692,7 @@
 アオタ,あおた,blue shark
 アオナギ,あおなぎ,shark
 水鱶,みずぶか,ミズブカ,blue shark
-梛,竹柏,椛,なぎ,ちくはく,ナギ,nagi
+梛,竹柏,椛,なぎ,ちくはく,ナギ,nagi,Asian bayberry
 水葵,雨久花,みずあおい,ミズアオイ,Monochoria korsakowii
 水葱,菜葱,なぎ,Monochoria korsakowii
 ウィングヘッドシャーク,ウィングヘッド・シャーク,winghead shark
@@ -164173,7 +164172,7 @@
 破れ傘,やぶれがさ,ヤブレガサ,broken umbrella,torn umbrella,shredded umbrella plant
 気持ちを引き締める,気持を引き締める,きもちをひきしめる,to pull oneself together,to focus one's mind,to brace oneself,to gird up one's loins
 在館,ざいかん,being in an embassy, aquarium, museum, etc.,being enrolled
-早回し,はやまわし,spinning rapidly,turning quickly,fast-forward,scanning
+早回し,早まわし,早廻し,速回し,はや回し,はやまわし,spinning rapidly,turning quickly,fast-forward,scanning
 シャワー室,シャワーしつ,shower stall,shower cubicle,shower room
 世も末,よもすえ,the end of the world,the world is beyond saving,there's no hope for the future,this degenerate age,what is this world coming to
 公簿,こうぼ,public record,public register,official records
@@ -210529,6 +210528,7 @@
 親近者,しんきんしゃ,close relative,near relative,close associate,intimate friend,confidant
 超越者,ちょうえつしゃ,transcendent being,ascended being
 直感力,直観力,ちょっかんりょく,intuitive power,intuition
+王様の耳はロバの耳,王様の耳は驢馬の耳,王様の耳はろばの耳,おうさまのみみはろばのみみ,the truth always comes out,you can't sweep it under the rug forever,a secret is too heavy to hold,the king's ears are donkey's ears
 還送,かんそう,returning,sending back,repatriation
 村田反応,むらたはんのう,Murata reaction,Murata test
 蒼鉛剤,そうえんざい,bismuth preparation,bismuth agent
@@ -210560,11 +210560,13 @@
 八州廻り,八州回り,はっしゅうまわり,Kantō patrol inspector,Kantō regional inspector
 杯を返す,さかずきをかえす,to return a sake cup,to sever ties with one's boss,to break away from one's patron
 居続け,流連,いつづけ,continuous stay away from home,staying on without returning,continuous stay at a pleasure quarter,staying for days on end at a brothel
+うんにゃ,no,nope,naah
 いぶし出す,燻し出す,いぶしだす,to smoke out,to flush out with smoke
 ドパガキ,iPad kid,child with an extremely short attention span,dopamine junkie
 水粥,みずがゆ,watery rice gruel
 蜘蛛手,くもで,radiating in all directions,in a radial pattern,crosswise
 五濁,ごじょく,five defilements,five corruptions,five impurities
+化生の者,けしょうのもの,apparition,monster,supernatural creature,shapeshifter
 五欲,ごよく,desire arising from the five senses,the five desires
 袖にすがる,袖に縋る,そでにすがる,to plead,to beg,to implore,to entreat,to cling to  sleeves
 ＬＵＴ,ラット,look-up table,LUT
@@ -210610,6 +210612,7 @@
 手繰り出す,たぐり出す,手繰りだす,たぐりだす,to pull out bit by bit,to reel in,to draw out,to coax out bit by bit,to trace
 人気スター,にんきスター,popular star,public favorite,popular celebrity
 惨めったらしい,みじめったらしい,miserable,wretched,pathetic
+ＡＩ臭い,ＡＩくさい,エーアイくさい,AI-generated,looking like AI output
 超熱帯夜,ちょうねったいや,super tropical night,night in which temperature doesn't fall below 30 degrees C
 アクハイヤー,アクイハイヤー,アクイ・ハイヤー,acquihire,acqui-hire
 同型,どうけい,どうがた,same type,same model,same pattern,isomorphism,homotypy
@@ -210824,6 +210827,7 @@
 名目論,めいもくろん,nominalism,terminism
 途歩,途足,みちあし,route step
 粳黍,うるきび,うるしきび,nonglutinous millet
+リディキュール,ridicule
 平調子,ひらぢょうし,hirajōshi scale
 欧州経済領域,おうしゅうけいざいりょういき,European Economic Area,EEA
 キャビネ判写真,キャビネはんしゃしん,cabinet photograph,cabinet-size photograph
@@ -210879,7 +210883,44 @@
 金柑頭,きんかあたま,きんかんあたま,bald head
 薄氷を踏む思い,薄氷をふむ思い,はくひょうをふむおもい,sense of impending doom,foreboding,feeling of grave danger
 街頭ビジョン,がいとうビジョン,electronic billboard,digital signage
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-28
+過焦点距離,かしょうてんきょり,hyperfocal distance
+マクロ撮影,マクロさつえい,macro photography,close-up photography
+近接撮影,きんせつさつえい,macro photography,close-up photography
+接写リング,せっしゃリング,extension tube,macro extension tube,close-up ring
+エクステンションチューブ,エクステンション・チューブ,extension tube,macro extension tube,close-up ring
+尾黒ヌー,おぐろヌー,オグロヌー,blue wildebeest,common wildebeest,white-bearded gnu,brindled gnu
+尾白ヌー,おじろヌー,オジロヌー,white-tailed gnu,black wildebeest
+行雨,こうう,falling rain,pouring rain
+同焦点,どうしょうてん,parfocal
+可変焦点レンズ,かへんしょうてんレンズ,varifocal lens
+バリフォーカルレンズ,バリフォーカル・レンズ,varifocal lens
+屋外ビジョン,おくがいビジョン,electronic billboard,digital signage
+我と我が身,われとわがみ,myself,oneself
+我と,われと,by myself,by oneself,by itself,naturally
+半蔀,はじとみ,two-part latticed shutters where the upper half can be lifted
+可変焦点,かへんしょうてん,varifocal,variable focus
+バリフォーカル,varifocal,variable focus
+受注調整,じゅちゅうちょうせい,bid rigging
+書机,しょづくえ,しょき,low Japanese-style desk
+ベルデスク,ベル・デスク,bell desk
+腸粘膜,ちょうねんまく,intestinal mucosa,intestinal mucous membrane
+神経麻痺,しんけいまひ,nerve paralysis,neuroparalysis
+二向聴,リャンシャンテン,two steps away from fishing
+憲政党,けんせいとう,Kenseitō,Constitutional Party,Japanese political party formed in June 1898 through the merger of the Liberal Party and the Progressive Party
+藩閥政府,はんばつせいふ,government dominated by the former domain cliques,han-clique government,domain-clique government
+有らばこそ,あらばこそ,if only there were,if  actually existed,there's not even,completely lacking
+宴,えん,banquet,party,feast
+生誕祭,せいたんさい,birthday celebration,birthday festival,birthday event,birth celebration,nativity celebration
+ヒロラ,hirola,Hunter's hartebeest,Hunter's antelope
+初花染め,初花染,はつはなぞめ,dying with the first safflower of the year
+冠帽,かんぼう,hat,headgear,traditional cap worn by Shinto clergy and courtiers
+小町娘,こまちむすめ,town belle,beauty
+最短撮影距離,さいたんさつえいきょり,minimum focusing distance,MFD
+距離基準マーク,きょりきじゅんマーク,focal plane indicator,film plane indicator,focal plane mark
+レンズ交換式カメラ,レンズこうかんしきカメラ,camera with interchangeable lenses,interchangeable lenses camera
+接写倍率,せっしゃばいりつ,magnification ratio,reproduction ratio
+撮影倍率,さつえいばいりつ,magnification ratio,reproduction ratio
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-29
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
