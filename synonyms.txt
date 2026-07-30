@@ -28055,7 +28055,7 @@
 残酷,惨酷,残刻,惨刻,ざんこく,cruel,brutal,ruthless,merciless,inhuman
 残暑,ざんしょ,late summer heat,lingering summer heat
 残心,残身,残芯,ざんしん,continued alertness,unrelaxed alertness,remaining on one's guard,being prepared for a counterstroke,follow-through,lingering affection,attachment,regret,regrets,reluctance
-残像,ざんぞう,afterimage,after image,afterimage,after image
+残像,ざんぞう,afterimage,after image
 残存,ざんぞん,ざんそん,survival,remaining,being extant,being left
 残忍,惨忍,ざんにん,brutal,cruel,merciless,ruthless,cold-blooded
 残念,ざんねん,regrettable,unfortunate,disappointing,vexing
@@ -30663,7 +30663,7 @@
 宗派,しゅうは,sect,denomination,school
 宗門,しゅうもん,denomination,sect
 就いては,ついては,in line with this,therefore,consequently,so,such being the case,in that regard,in this connection
-就きましては,つきましては,in line with this,therefore
+就きましては,つきましては,in line with this,therefore,consequently,so,such being the case,in that regard,in this connection
 就く,即く,つく,to take,to assume,to be hired,to be employed,to ascend,to accede,to start,to commence,to depart,to study,to be an apprentice
 就ける,即ける,つける,to install,to appoint,to promote,to assign
 就学,しゅうがく,entering school,school attendance
@@ -36855,7 +36855,7 @@
 全幅,ぜんぷく,full,wholehearted,utmost,all,every,overall width
 全幅的,ぜんぷくてき,fully
 全文,ぜんぶん,whole passage,full text,whole sentence,full paragraph
-全米,ぜんべい,all-America,pan-American,all of America
+全米,ぜんべい,all of the United States,the whole of the USA,all of North and South America,the entire Americas
 全編,全篇,ぜんぺん,whole book,whole volume,whole story
 全便,ぜんびん,all flights,entire fleet,all mail
 全貌,ぜんぼう,full view,total picture,whole story,full particulars,all the details
@@ -42604,7 +42604,7 @@
 独房,どくぼう,single-person cell,isolation cell,solitary cell,solitary confinement cell
 独枕,ひとりまくら,lonely in bed
 独立,どくりつ,independence,self-reliance,supporting oneself,being on one's own,independence,freedom,separation,isolation
-独立運動,どくりつうんどう,independence movement,mutually independent
+独立運動,どくりつうんどう,independence movement
 独立記念日,どくりつきねんび,Independence Day
 独立心,どくりつしん,independent spirit
 独立性,どくりつせい,independence
@@ -42622,7 +42622,7 @@
 読み取る,読みとる,読取る,よみとる,to read and understand,to take in,to sense from external cues,to read  mind,to read,to scan,to read
 読み手,読手,よみて,reader,person who reads the cards,composer
 読み出す,よみだす,to read out,to retrieve
-読み書き,よみかき,reading and writing
+読み書き,読書き,よみかき,reading and writing
 読み上げる,読上げる,よみあげる,to read out,to read aloud,to call out,to finish reading,to read through
 読みきる,読み切る,よみきる,to finish reading,to read through,to figure out,to fully anticipate
 読み損なう,読みそこなう,読み損う,よみそこなう,to misread,to mispronounce
@@ -54041,7 +54041,7 @@
 一粒選り,ひとつぶえり,ひとつぶより,careful selection
 逸れる,それる,to turn away,to bear off,to veer away,to swerve from,to miss,to deviate,to digress,to go astray,to wander
 印判,いんばん,いんぱん,seal,stamp
-陰陽,いんよう,おんみょう,おんよう,cosmic dual forces,yin and yang,sun and moon, etc.
+陰陽,いんよう,おんみょう,おんよう,cosmic dual forces,yin and yang,sun and moon,positive and negative,cathode and anode
 隠れんぼ,隠れん坊,かくれんぼ,かくれんぼう,hide-and-seek,hide-and-go-seek
 右側,右がわ,右っかわ,みぎがわ,うそく,みぎっかわ,right side,right-hand side
 右端,右はし,みぎはし,うたん,right end,right edge
@@ -59299,7 +59299,7 @@
 飛び抜けて,飛びぬけて,飛抜けて,とびぬけて,outstandingly,by far,far and away,by a long shot,head and shoulders above the rest
 とも,certainly,of course,to be sure,surely,even if,no matter,though,although,without even,without so much as,at the,also,also as,well
 とろとろ,トロトロ,sticky,syrupy,pulpy,weakly,gently,simmering,dozing off,napping,sluggishly,dawdling
-如何か,どうか,please,if you would,would you mind,somehow or other,one way or another,whether,if,strange,wrong,off
+如何か,何うか,どうか,please,if you would,would you mind,somehow or other,one way or another,whether,if,strange,wrong,off
 どうどう,ドードー,with a roaring sound,sound of feet stamping on the ground,whoa!
 退かす,どかす,to remove,to move out of the way
 どくどく,ドクドク,gushingly,copiously,profusely,in a steady stream
@@ -62379,7 +62379,7 @@
 環太平洋造山帯,かんたいへいようぞうざんたい,circum-Pacific orogeny
 環太平洋構想,かんたいへいようこうそう,Pan-Pacific concept,Pacific Rim concept
 環太平洋諸国,かんたいへいようしょこく,Pacific Rim nations
-環視,かんし,looking around,looking about
+環視,かんし,observation,viewing,spectating,watching
 環境汚染,かんきょうおせん,environmental pollution
 環境保護,かんきょうほご,environmental protection
 環境保護主義,かんきょうほごしゅぎ,environmentalism
@@ -69444,7 +69444,7 @@
 超勤,ちょうきん,overtime
 超短波,ちょうたんぱ,ultrashort-wave,very high frequency
 超然,ちょうぜん,detached,aloof,indifferent
-超然内閣,ちょうぜんないかく,non-partisan cabinet
+超然内閣,ちょうぜんないかく,cabinet independent of political parties,transcendental cabinet
 超過勤務,ちょうかきんむ,overtime
 超過勤務手当,ちょうかきんむてあて,overtime pay
 超過額,ちょうかがく,a surplus,an excess
@@ -79761,7 +79761,6 @@
 土ボタル,土蛍,地蛍,蛍蛆,つちボタル,つちぼたる,ツチボタル,glowworm
 土壁,つちかべ,mud wall
 追試,ついし,replication,verification,reproduction,corroboration,supplementary examination,makeup exam
-就いて,ついて,about,concerning,as to,regarding
 通じ,つうじ,movement,evacuation,defecation,understanding
 罪する,つみする,to charge,to sentence,to punish
 艶っぽい,つやっぽい,romantic,spicy,coquettish
@@ -80071,7 +80070,7 @@
 飲酒の害,いんしゅのがい,ill effects of drinking
 韻書,いんしょ,rime dictionary,rhyme dictionary,Chinese dictionary arranged by finals
 印哲,いんてつ,Indian philosophy
-陰と陽,いんとよう,the positive and the negative
+陰と陽,いんとよう,the positive and the negative,yin and yang
 員に備わるのみ,いんにそなわるのみ,being a member of staff but useless as a worker
 陰阜,いんぷ,mons veneris,mons pubis
 允文允武,いんぶんいんぶ,being versed in the literary and military arts
@@ -93317,7 +93316,7 @@
 露日,ろにち,Russia and Japan
 理髪室,りはつしつ,barbershop,barber shop
 遊びに行く,遊びにいく,あそびにいく,to go on a trip,to go out to play,to go and visit
-目を見張る,目を瞠る,目をみはる,目を見はる,めをみはる,to open one's eyes wide,to be wide-eyed,to be amazed
+目を見張る,目を瞠る,目をみはる,眼を見張る,目を見はる,眼を瞠る,眼をみはる,眼を見はる,めをみはる,to open one's eyes wide,to be wide-eyed,to be amazed
 牧,まき,pasture,grazing land
 米作り,こめづくり,こめつくり,rice cultivation,rice farming
 噴射式,ふんしゃしき,injection device,spray
@@ -101737,7 +101736,6 @@
 一文不通,いちもんふつう,total illiteracy
 一切皆空,いっさいかいくう,matter is void,all is vanity
 一擲千金,いってきせんきん,being lavish with one's money,spending a huge sum of money at once on a treat
-就き,つき,concerning,per,on account of
 夕暉,せっき,rays of the setting sun
 絵付け,絵付,絵つけ,えつけ,ceramics painting,porcelain painting,painting on china
 赤絵,あかえ,aka-e,late 19th century woodblock prints, using imported aniline dyes,red painting on ceramics
@@ -104181,7 +104179,7 @@
 突き倒し,突倒し,つきたおし,thrusting down one's opponent either inside or outside the ring
 上手出し投げ,うわてだしなげ,pulling overarm throw
 下手出し投げ,したてだしなげ,pulling underarm throw
-一本背負い,いっぽんせおい,いっぽんぜおい,one-armed shoulder throw
+一本背負い,いっぽんぜおい,いっぽんせおい,one-armed shoulder throw
 二丁投げ,にちょうなげ,body drop throw
 櫓投げ,やぐらなげ,inner thigh throw
 掛け投げ,掛投げ,かけなげ,hooking inner thigh throw
@@ -128301,7 +128299,7 @@
 しみったれ,stinginess,miser
 それだから,therefore,and so,for that reason,accordingly,consequently,hence
 であるから,であるからして,therefore,and so,for that reason,accordingly,consequently,hence
-どうかして,by some chance,somehow,in some way,somehow or other,one way or another,by any means possible,by hook or by crook
+如何かして,何うかして,どうかして,by some chance,somehow,in some way,somehow or other,one way or another,by any means possible,by hook or by crook
 個人間,こじんかん,interpersonal,between individuals
 個人企業,こじんきぎょう,one-man business,sole proprietorship,owner-managed enterprise
 遷流,せんる,transient
@@ -152716,7 +152714,7 @@
 サブサハラ,サブ・サハラ,Sub-Saharan Africa
 激,げき,extremely,terrifically,super
 カチンと来る,かちんと来る,カチンとくる,かちんとくる,to be annoyed,to be offended,to be irritated
-文机,ふづくえ,ふみづくえ,ふんづくえ,Japanese-style writing desk
+文机,ふづくえ,ふみづくえ,ふんづくえ,low Japanese-style desk
 サブサハラアフリカ,サブサハラ・アフリカ,Sub-Saharan Africa
 サハラ以南アフリカ,サハラいなんアフリカ,Sub-Saharan Africa
 眉に唾を塗る,眉に唾をぬる,まゆにつばをぬる,to keep one's wit about one,to be on one's guard,to be wary,to keep on one's toes
@@ -210920,7 +210918,23 @@
 レンズ交換式カメラ,レンズこうかんしきカメラ,camera with interchangeable lenses,interchangeable lenses camera
 接写倍率,せっしゃばいりつ,magnification ratio,reproduction ratio
 撮影倍率,さつえいばいりつ,magnification ratio,reproduction ratio
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-29
+マイクロフォーサーズ,マイクロ・フォー・サーズ,Micro Four Thirds system,MFT
+マイクロフォーサーズシステム,マイクロ・フォー・サーズ・システム,Micro Four Thirds System,MFT
+に就きまして,につきまして,about,concerning,as to,regarding
+私有財産制,しゆうざいさんせい,private property system,system of private ownership of property,private ownership of the means of production
+統監府,とうかんふ,Residency-General of Korea
+朝鮮総督府,ちょうせんそうとくふ,Government-General of Korea
+二十一か条の要求,二十一カ条の要求,二十一ヶ条の要求,二十一ヵ条の要求,２１か条の要求,２１カ条の要求,２１ヶ条の要求,２１ヵ条の要求,にじゅういっかじょうのようきゅう,Twenty-One Demands
+三一独立運動,三・一独立運動,さんいちどくりつうんどう,March First Movement,Samil Movement
+赤色骨髄,せきしょくこつずい,red bone marrow,red marrow
+前駆細胞,ぜんくさいぼう,precursor cell
+最終的に,さいしゅうてきに,in the end,eventually,ultimately,finally
+凝固因子,ぎょうこいんし,coagulation factor,clotting factor
+ＡＤＨ,エー・ディー・エイチ,エーディーエイチ,antidiuretic hormone,ADH,alcohol dehydrogenase,ADH
+クッパー細胞,クッパーさいぼう,Kupffer cell
+内肛門括約筋,ないこうもんかつやくきん,internal anal sphincter
+移植前処置,いしょくぜんしょち,conditioning regimen
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-30
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
