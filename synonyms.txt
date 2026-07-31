@@ -805,7 +805,7 @@
 どんな,what kind of,what sort of,what,no matter what,whatever,any,all
 どんなに,how,how much,to what extent,no matter how,however
 どん底,どんぞこ,very bottom,rock bottom
-なあなあ,compromise,collusion,give and take,not making a fuss,closing one's eyes
+なあなあ,compromise,collusion,give and take,not making a fuss,closing one's eyes,hey,listen,look,say
 ない交ぜにする,綯い交ぜにする,ないまぜにする,to blend,to mix,to weave
 なおこ,long thin brown "naoko" mushroom
 等閑,なおざり,neglect,negligence,disregard,making light of
@@ -23595,7 +23595,7 @@
 検量線,けんりょうせん,calibration curve,standard curve,analytical curve
 権,けん,right,authority,power
 権威,けんい,authority,power,influence,prestige,,expert
-権益,けんえき,interests
+権益,けんえき,rights and interests
 権化,ごんげ,incarnation,avatar,embodiment,incarnation,personification
 権原,けんげん,origin of rights
 権限,けんげん,power,authority,jurisdiction
@@ -32016,7 +32016,7 @@
 除いて,のぞいて,except,save
 除く,のぞく,to remove,to get rid of,to take away,to eliminate,to exclude,to except,to leave out,to omit,to kill
 除外,じょがい,exception,exclusion
-除核,じょかく,enucleate
+除核,じょかく,enucleation,pitting
 除去,じょきょ,removal,getting rid of
 除算,じょさん,じょざん,division
 除数,じょすう,divisor
@@ -37872,7 +37872,7 @@
 尊慮,そんりょ,your will,your idea
 損,そん,loss,damage,harm,unprofitable,disadvantage,handicap,drawback,unfavorable
 損じ,そんじ,slip,error,failure
-損じる,そんじる,to harm,to hurt,to injure,to damage
+損じる,そんじる,to become damaged,to break,to damage,to spoil,to worsen,to spoil,to harm,to damage,to decrease,to diminish,to fail to do,to do by mistake,to do wrong
 損ねる,そこねる,to harm,to hurt,to injure,to wreck,to miss one's chance to,to fail to
 損益,そんえき,profit and loss,advantage and disadvantage
 損害,そんがい,damage,injury,loss
@@ -150283,7 +150283,7 @@
 でもしか,for lack of anything better to do
 薬物投与,やくぶつとうよ,drug administration,giving of a drug,medication
 だって,after all,because,but,even,too,as well,also,they say,I hear,you mean
-たって,even if,even though,however,no matter how
+たって,even if,even though,although one might say,although called
 重軽傷者,じゅうけいしょうしゃ,injured persons,people with serious and minor injures
 大手柄,おおてがら,glorious achievement,distinguished service
 でもしか先生,でもしかせんせい,someone who became a teacher for lack of anything better to do
@@ -210776,6 +210776,7 @@
 印象色,いんしょうしょく,memory color,memory colour
 シャープネス,acutance,sharpness
 暗射地図,あんしゃちず,blank map
+損ずる,そんずる,to become damaged,to break,to damage,to spoil,to worsen,to spoil,to harm,to damage,to decrease,to diminish,to fail to do,to do by mistake,to do wrong
 減軽,げんけい,lessening,reduction,alleviation,reduction,mitigation
 轟雷,ごうらい,roaring thunder,loud thunder,thunderclap
 豪雷,剛雷,ごうらい,violent thunder,fierce lightning,thunder and lightning
@@ -210928,13 +210929,16 @@
 三一独立運動,三・一独立運動,さんいちどくりつうんどう,March First Movement,Samil Movement
 赤色骨髄,せきしょくこつずい,red bone marrow,red marrow
 前駆細胞,ぜんくさいぼう,precursor cell
+脱核,だっかく,erythroblast enucleation,enucleation,enucleation
 最終的に,さいしゅうてきに,in the end,eventually,ultimately,finally
 凝固因子,ぎょうこいんし,coagulation factor,clotting factor
 ＡＤＨ,エー・ディー・エイチ,エーディーエイチ,antidiuretic hormone,ADH,alcohol dehydrogenase,ADH
 クッパー細胞,クッパーさいぼう,Kupffer cell
 内肛門括約筋,ないこうもんかつやくきん,internal anal sphincter
 移植前処置,いしょくぜんしょち,conditioning regimen
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-30
+祁寒,きかん,bitter cold,extreme cold
+包括性,ほうかつせい,inclusivity,inclusiveness
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-31
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
