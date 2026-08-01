@@ -1145,7 +1145,7 @@
 様に,ように,like,as,so that,in order that,so as to,in order to,be sure to,I hope,I pray,may
 様にする,ようにする,to see to it that,to make sure that,to try to,to make an effort to
 様になる,ようになる,to reach the point where,to come to,to come to be that,to start to,to begin to
-寄越す,遣す,寄こす,よこす,to send,to forward,to hand over
+寄越す,遣す,寄こす,よこす,to send,to forward,to hand over,indicates that the action is directed towards the speaker,indicates that the object of an action arrives at or is received by the speaker
 縦しんば,縦んば,よしんば,even if,even though,if
 涎,よだれ,drool
 ヨチヨチ,よちよち,totteringly,with tottering steps,toddling
@@ -17216,7 +17216,7 @@
 嫁ぐ,とつぐ,to marry,to become a bride,to marry into,to have sexual intercourse
 嫁菜,よめな,ヨメナ,Aster yomena
 嫁取り,よめとり,taking a wife
-嫁入り,嫁入,娵入り,よめいり,marriage,wedding
+嫁入り,嫁入,娵入り,よめいり,marriage,marrying into a husband's family,becoming a bride,wedding,wedding ceremony
 家,いえ,house,residence,dwelling,home,family,household,lineage,family name
 家,うち,one's house,one's home,one's family,one's household,house
 家,け,house,family
@@ -30251,7 +30251,7 @@
 手も無く,手もなく,てもなく,easily
 手を切る,てをきる,to cut one's hand,to cut one's connections,to break off relations,to cut ties,to break away,to part ways,to cease to deal with
 手を叩く,手をたたく,てをたたく,to clap
-手を抜く,てをぬく,to cut corners,to be shoddy,to slack off,to go easy,to hold back
+手を抜く,てをぬく,to cut corners,to be shoddy,to slack off,to go easy,to hold back,to play a tenuki,to tenuki
 手違い,てちがい,mistake,blunder,slipup
 手淫,しゅいん,masturbation,onanism
 手応え,手ごたえ,手答え,てごたえ,feeling in the hands,resistance,response,reaction,
@@ -37377,7 +37377,7 @@
 総合的,そうごうてき,comprehensive,composite,all-round,all-embracing,general,overall,combined,synthetic
 総裁,そうさい,president,director general,governor,party leader
 総資産,そうしさん,total assets
-総辞職,そうじしょく,mass resignation
+総辞職,そうじしょく,mass resignation,collective resignation
 総収入,そうしゅうにゅう,total income
 総称,そうしょう,general term,generic name
 総身,そう身,そうみ,そうしん,one's whole body
@@ -49086,7 +49086,7 @@
 翻弄,飜弄,ほんろう,having at one's mercy,trifling with,toying with,playing with,making a fool of,leading around by the nose,tossing about,buffeting
 凡そ,およそ,about,roughly,approximately,generally,on the whole,as a rule,completely,quite,entirely,altogether,totally,not at all,outline,gist
 凡フライ,ぼんフライ,easy fly
-凡眼,ぼんがん,a layman's eyes
+凡眼,ぼんがん,layman's eyes,untrained eye
 凡器,ぼんき,ordinary talent
 凡愚,ぼんぐ,common person,foolish commoner
 凡骨,ぼんこつ,ordinary person
@@ -79147,7 +79147,7 @@
 焼き上げる,焼きあげる,やきあげる,to burn,to roast,to grill,to bake
 焼け出される,やけだされる,to be burned out
 焼け失せる,やけうせる,to burn up completely
-焼き直す,焼きなおす,やきなおす,to grill again,to rehash
+焼き直す,焼きなおす,焼直す,やきなおす,to grill again,to rebake,to rehash,to rework,to refurbish
 焼け残る,やけのこる,to escape being burned,to survive a fire
 消え残る,きえのこる,to remain unextinguished,to survive
 咲き匂う,咲匂う,さきにおう,to be in beautiful full bloom
@@ -91866,7 +91866,7 @@
 本葉,もとは,trunk leaves,leaves near the base of a stem
 田舎っぺ,いなかっぺ,country bumpkin,yokel,hick
 お邪魔虫,おじゃま虫,御邪魔虫,おじゃまむし,interferer,meddler,buttinsky
-白鼻心,はくびしん,ハクビシン,masked palm civet,gem-faced civet
+白鼻心,白鼻芯,ハクビシン,はくびしん,masked palm civet,gem-faced civet
 大の字,だいのじ,shape of the "dai" kanji,sprawling,lying spread-eagled
 スペアキー,スペア・キー,spare key
 パンクロッカー,パンク・ロッカー,punk rocker
@@ -103671,7 +103671,7 @@
 春秋の筆法,しゅんじゅうのひっぽう,critical argument laden with value judgment, where an indirect cause, often trivial, is made to appear as leading to the effect
 腫れ物に触るよう,腫れ物にさわるよう,はれものにさわるよう,cautious,careful
 貸室,貸し室,かししつ,room for rent,room to let,office space for rent
-女系天皇,じょけいてんのう,matrilineal emperor of Japan,emperor  not
+女系天皇,じょけいてんのう,matrilineal emperor of Japan,emperor descended from the imperial line through the maternal side
 ぴん札,ピン札,ぴんさつ,ピンさつ,crisp, unwrinkled banknote
 すね毛,スネ毛,脛毛,臑毛,すねげ,leg hair
 ソルダリング,ソルダーリング,soldering
@@ -152450,7 +152450,7 @@
 赤熊,赭熊,しゃぐま,yak hair dyed red,red hair,frizzled fake hair,curly fake hair
 赤熊髷,しゃぐままげ,hair tied with red yak's tail hair
 三つ熊,みつぐま,mother bear with two cubs
-熊掌,ゆうしょう,bear's palm
+熊掌,ゆうしょう,bear paw,bear's palm
 八珍,はっちん,eight delicacies
 高麗茶碗,こうらいぢゃわん,Koryo dynasty tea bowl
 熊柳,くまやなぎ,クマヤナギ,Berchemia racemosa
@@ -153665,7 +153665,7 @@
 脱落膜,だつらくまく,decidua
 非手指動作,ひしゅしどうさ,non-manual signals,NMS
 フリフリ,ふりふり,frilly,fluttery
-ビシバシ,びしばし,without holding anything back,mercilessly,relentlessly,energetically,vigorously
+ビシバシ,びしばし,with repeated sharp blows,whack after whack,with crack after crack,hard and repeatedly,strictly,harshly,without holding back,relentlessly,vigorously,singlemindedly,wholeheartedly,energetically
 舞い落ちる,舞落ちる,舞いおちる,まいおちる,to flutter down
 和封筒,わふうとう,Japanese-style oblong, open end envelope
 犬矢来,いぬやらい,short arched
@@ -162698,7 +162698,7 @@
 トランスジェニック,transgenic
 異型大動脈縮窄症,いけいだいどうみゃくしゅくさくしょう,atypical coarctation of aorta
 順行性心筋保護,じゅんこうせいしんきんほご,antegrade cardioplegia
-熱に浮かされる,ねつにうかされる,to be delirious with fever,to have a feverish dream,to be crazy about something
+熱に浮かされる,熱にうかされる,ねつにうかされる,to be delirious with fever,to have a feverish dream,to be crazy about something
 歌曲集,かきょくしゅう,song collection,collection of lieder
 殺人刀,さつじんとう,sword,blade,steel
 コンピュータソフト,コンピューターソフト,コンピュータ・ソフト,コンピューター・ソフト,computer software
@@ -173147,7 +173147,7 @@
 ラジオ星,ラジオせい,radio star
 バーナード星,バーナードせい,Barnard's Star
 様相論理,ようそうろんり,modal logic
-ハデス,ハーデース,Hades,Hades
+ハデス,ハイデス,ハーデース,Hades,Hades
 三角ベース,さんかくベース,baseball played without a second base
 早発,そうはつ,early departure,leaving ahead of schedule,departing early in the morning,early onset,premature onset
 打製石器,だせいせっき,chipped stone tool,flaked stone tool
@@ -210540,6 +210540,7 @@
 代官所,だいかんしょ,magistrate's office,territory under a magistrate's jurisdiction
 けつかる,to have the nerve to do,to dare to do,to have the gall to do
 落ち武者狩り,おちむしゃがり,hunting down of defeated soldiers
+と申すに,ともうすに,I did say !,even though I said,I already told  to !,I'm telling you !,I said!,having said,upon saying
 覆面捜査官,ふくめんそうさかん,undercover police,undercover cop
 噴門部,ふんもんぶ,cardiac region
 エッケホモ,エッケ・ホモ,エクセホモ,エッチェホモ,エクセ・ホモ,エッチェ・ホモ,ecce homo,behold the man
@@ -210937,8 +210938,19 @@
 内肛門括約筋,ないこうもんかつやくきん,internal anal sphincter
 移植前処置,いしょくぜんしょち,conditioning regimen
 祁寒,きかん,bitter cold,extreme cold
+血盟団,けつめいだん,League of Blood
+五一五事件,五・一五事件,ごいちごじけん,May 15 incident
+挙国一致内閣,きょこくいっちないかく,government of national unity,national unity cabinet
+芋畑,いも畑,イモ畑,いもばたけ,potato field,yam field,sweet-potato field
 包括性,ほうかつせい,inclusivity,inclusiveness
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-07-31
+機捜,きそう,mobile investigation unit,MIU
+捜索活動,そうさくかつどう,search operations,search efforts
+先行車,せんこうしゃ,preceding vehicle,car ahead,vehicle in front
+至上命題,しじょうめいだい,absolute priority,supreme imperative,highest priority task,most pressing issue
+銃手,じゅうしゅ,gunner,shooter,rifleman
+微音,びおん,faint sound,slight noise
+度外れる,度はずれる,どはずれる,to be extraordinary,to be exceptional,to go beyond the limit
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-01
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
