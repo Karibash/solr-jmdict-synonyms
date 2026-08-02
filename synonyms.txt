@@ -210,7 +210,7 @@
 お屠蘇,御屠蘇,おとそ,New Year's sake,spiced sake
 お土産,御土産,おみやげ,おみあげ,local specialty or souvenir bought as a gift while traveling,present brought by a visitor,something unpleasant that one is given,unwelcome gift,disservice
 お湯,御湯,おゆ,hot water,hot bath
-お得,お徳,御得,御徳,おとく,おトク,bargain,good-value,economical
+お得,お徳,御得,御徳,おとく,おトク,good-value,economical,advantageous,useful,helpful
 お凸,御凸,おでこ,brow,forehead,prominent forehead,beetle brow,not catching anything
 お婆ん,おばん,old maid,frump,hag,old woman
 お疲れ様,お疲れさま,おつかれ様,御疲れ様,おつかれさま,thank you,good work,see you,goodbye,goodnight
@@ -14487,7 +14487,7 @@
 一時賜金,いちじしきん,lump-sum grant
 一時的,いちじてき,temporary,transitory,short-lived
 一時払い,一時払,いちじばらい,lump-sum payment,paying in a lump sum
-一時預かり,いちじあずかり,checking,temporary custody
+一時預かり,一時預り,一時あずかり,いちじあずかり,temporary custody
 一時預け,いちじあずけ,checking,temporary depositing
 一時しのぎ,一時凌ぎ,いちじしのぎ,makeshift,stopgap,temporary expedient,temporary solution,band-aid
 一次,１次,いちじ,first,preliminary,primary,original,linear,first-order
@@ -15866,7 +15866,7 @@
 猿人,えんじん,ape man
 縁,江に,えん,えにし,えに,え,fate,destiny,relationship,bond,link,connection,family ties,affinity,opportunity,chance,pratyaya,narrow open-air veranda
 縁,ふち,rim,brim,edge,brink
-縁の下,えんのした,out of sight,in the background,unnoticed,under the veranda
+縁の下,えんのした,under the veranda,under the floor,out of sight,in the background,unnoticed
 縁遠い,えんどおい,unconnected,weakly related,alien,far beyond,having little prospect of marriage
 縁家,えんか,related family
 縁起,えんぎ,いんえん,omen,sign of luck,origin,history,causation,dependent arising,doctrine that everything has a cause and there is nothing that arises out of nothing
@@ -30346,7 +30346,7 @@
 手拍子,てびょうし,beating time with one's hands,clapping to the beat,making a careless move,responding to an opponent's move without proper thought
 手箱,てばこ,box to keep valuables, etc.
 手はず,手筈,てはず,arrangements,plan,programme,program,preparations
-手抜き,手抜,てぬき,omitting crucial steps,cutting corners,skimping,intentional negligence,tenuki,making a move which is not a direct counter to one's opponent's last move
+手抜き,手抜,てぬき,omitting crucial steps,cutting corners,skimping,tenuki,playing elsewhere on the board instead of responding locally
 手品,てじな,magic,conjuring,magic trick,conjuring trick,sleight of hand
 手品師,てじなし,magician,conjurer,illusionist
 手風琴,てふうきん,accordion,melodeon,concertina
@@ -32623,7 +32623,7 @@
 鐘,かね,bell,chime
 鐘楼,しょうろう,しゅろう,belfry,bell tower
 障る,さわる,to be harmful to,to hinder,to interfere with,to irritate
-障害,障がい,障碍,障礙,しょうがい,obstacle,impediment,hindrance,barrier,difficulty,disorder,defect,disability,handicap,impairment,dysfunction,steeplechase,obstacle race,steeplechase
+障害,障がい,障碍,障礙,しょうがい,obstacle,impediment,hindrance,barrier,difficulty,disability,handicap,impairment,dysfunction,disorder,defect,steeplechase,obstacle race,steeplechase
 障害物,障碍物,しょうがいぶつ,obstacle,hurdle
 障害物競走,しょうがいぶつきょうそう,obstacle race,steeplechase
 障子,しょうじ,shoji
@@ -35455,7 +35455,7 @@
 青臭い,青くさい,あおくさい,inexperienced,immature,green,naive,grassy-smelling,smelling of raw vegetation
 青春,せいしゅん,youth,adolescence,springtime of life
 青春期,せいしゅんき,adolescence,youth
-青少年,せいしょうねん,young people,youth,the younger generation
+青少年,せいしょうねん,young people,youth,the younger generation,persons under the age of 18
 青畳,あおだたみ,new mat
 青色,あおいろ,せいしょく,blue
 青信号,あおしんごう,green light,green light,go-ahead signal,permission to go ahead
@@ -37409,7 +37409,7 @@
 総和,そうわ,sum total,summation
 聡敏,そうびん,sagacity,cleverness
 草,艸,くさ,grass,weed,herb,thatch,ninja,marijuana,cannabis,not genuine,substandard,LOL,haha
-草の根,くさのね,roots of grass,places hidden from sight,grassroots,rank and file
+草の根,くさのね,roots of grass,grassroots,rank and file,places hidden from sight
 草案,そうあん,draft
 草花,くさばな,そうか,flower,flowering plant
 草冠,艸,草かんむり,くさかんむり,そうこう,kanji "grass radical",grass crown
@@ -41393,7 +41393,7 @@
 電子データ処理,でんしデータしょり,electronic data processing,EDP
 電子ブック,でんしブック,electronic book,e-book,ebook
 電子メール,電子メイル,でんしメール,email,e-mail,electronic mail
-電子レンジ,でんしレンジ,microwave oven
+電子レンジ,でんしレンジ,レンシレンジ,microwave oven
 電子化,でんしか,electronization,digitization,computerization
 電子回路,でんしかいろ,electronic circuit
 電子殻,でんしかく,electron shell
@@ -49902,7 +49902,7 @@
 命取り,命とり,いのちとり,fatal,deadly,mortal
 命拾い,いのちびろい,narrow escape from death
 命数,めいすう,span of life,one's term of existence,one's time,one's days,destiny,fate,assigning a name to a number
-命題,めいだい,proposition,thesis,notion,theory,problem,issue,challenge
+命題,めいだい,proposition,thesis,task,problem,issue,challenge,giving a title,naming
 命知らず,命しらず,いのちしらず,recklessness,daredevilry,daredevil,reckless person
 命中,めいちゅう,hit,hitting the mark
 命中数,めいちゅうすう,number of hits
@@ -51146,7 +51146,7 @@
 輿地,よち,earth,world
 輿入れ,こし入れ,こしいれ,wedding,bridal procession,marriage into a family
 輿望,よぼう,popularity,esteem,reputation,confidence
-預かり,預り,あずかり,under custody,under supervision,undecided match,draw,tie
+預かり,預り,あずかり,safekeeping,temporary custody,keeping in one's care,claim check,deposit receipt,matter left undecided,unresolved issue,deferring,leaving open,custodian,entrustee,person responsible,caretaker,house-sitter,match declared a draw,tie
 預かり物,あずかりもの,something left in charge
 預かる,あずかる,to look after,to take care of,to keep,to hold on to,to keep in custody,to be put in charge of,to be given responsibility for,to be entrusted with,to withhold,to reserve,to leave undecided,to take upon oneself,to settle  oneself
 預け,あずけ,custody,keeping,checking-in
@@ -57200,7 +57200,7 @@
 魂送り,霊送り,たまおくり,sending off the spirits of the dead
 嘆じる,歎じる,たんじる,to grieve,to lament,to deplore,to admire,to sigh in admiration
 嘆ずる,歎ずる,たんずる,to grieve,to lament,to deplore,to admire,to sigh in admiration
-鉄砲玉,鉄砲弾,てっぽうだま,gunshot,bullet,lost messenger,truant messenger,non-returner,bull's-eye
+鉄砲玉,鉄砲弾,てっぽうだま,bullet,round,gunshot,lost messenger,truant messenger,non-returner,bull's-eye,hitman,hired killer
 誼,誼み,好,好み,よしみ,ぎ,よしび,friendship,friendly relations,connection,relation,intimacy
 復唱,復誦,ふくしょう,reciting,repeating
 誹議,非議,ひぎ,criticism,censure
@@ -79861,7 +79861,7 @@
 空きを埋める,あきをうめる,to fill a gap
 悪事を働く,あくじをはたらく,to commit a crime,to do evil
 渥然,あくぜん,glossy
-悪に染まる,あくにそまる,to steeped in vice
+悪に染まる,あくにそまる,to be steeped in vice
 悪を懲らす,あくをこらす,to punish the wicked
 阿兄,あけい,elder brother,my dear brother
 開けっ放す,あけっぱなす,to leave open
@@ -84404,7 +84404,7 @@
 窃ちゃり,せっちゃり,bicycle theft
 パクパク人形,パクパクにんぎょう,puppet with a moving mouth
 レ点,レてん,mark indicating that the order of the adjacent characters is to be reversed,check mark,tick mark
-庵点,いおりてん,part alternation mark,Unicode U+303D symbol
+庵点,いおりてん,part alternation mark,symbol that precedes a song lyric, line of poetry, etc., indicating the beginning of a different vocalist's part
 鰻巻き,うまき,omelette-wrapped eel,basted, roasted eel wrapped in a rolled omelette
 差別表現,さべつひょうげん,word, phrase, or image that is perceived as showing or suggesting discrimination or prejudice against a person or group of people
 砂下ろし,すなおろし,cleaning dirt or sand out of the digestive system
@@ -99178,7 +99178,7 @@
 関心を高める,かんしんをたかめる,to stimulate interest in,to raise awareness of
 精機,せいき,precision machinery,precision machine,precision tool,precision tools,precision equipment
 白豪主義,白濠主義,はくごうしゅぎ,White Australia Policy
-カリカリ,かりかり,crisp,crunchy,grumpily,touchily,edgily,irritably,scratching
+カリカリ,かりかり,crisp,crunchy,grumpily,touchily,edgily,irritably,scratching,crunchies,dry  food,kibble
 置きに,おきに,every,every other,at intervals of,with  in between,apart
 おっと,uh-oh,oops,sorry
 捥ぎたて,もぎ立て,捥ぎ立て,もぎたて,freshly picked
@@ -148563,7 +148563,7 @@
 白あん,白餡,しろあん,white bean jam,sweet white bean paste
 微塵粉,みじん粉,みじんこ,rice granules,coarse glutinous rice flour
 糝粉餅,しんこもち,rice flour dough
-糝粉,新粉,しんこ,rice flour,rice flour dough
+新粉,糝粉,しん粉,しんこ,rice flour,rice flour dough
 亥の子の祝,亥の子の祝い,いのこのいわい,Day-of-the-Boar Festival
 頼母子,憑子,たのもし,mutual financing association
 土竜打ち,もぐら打ち,もぐらうち,driving away moles by hitting the ground with straw bundles prepared by children
@@ -210937,20 +210937,33 @@
 クッパー細胞,クッパーさいぼう,Kupffer cell
 内肛門括約筋,ないこうもんかつやくきん,internal anal sphincter
 移植前処置,いしょくぜんしょち,conditioning regimen
+九皐,きゅうこう,deep, winding ravine,distant, innermost place
 祁寒,きかん,bitter cold,extreme cold
 血盟団,けつめいだん,League of Blood
 五一五事件,五・一五事件,ごいちごじけん,May 15 incident
 挙国一致内閣,きょこくいっちないかく,government of national unity,national unity cabinet
 芋畑,いも畑,イモ畑,いもばたけ,potato field,yam field,sweet-potato field
+嫁入り前,よめいりまえ,unmarried,premarital
 包括性,ほうかつせい,inclusivity,inclusiveness
 機捜,きそう,mobile investigation unit,MIU
+豪宕,ごうとう,bold and unrestrained,uninhibited,free-spirited
 捜索活動,そうさくかつどう,search operations,search efforts
 先行車,せんこうしゃ,preceding vehicle,car ahead,vehicle in front
 至上命題,しじょうめいだい,absolute priority,supreme imperative,highest priority task,most pressing issue
 銃手,じゅうしゅ,gunner,shooter,rifleman
 微音,びおん,faint sound,slight noise
 度外れる,度はずれる,どはずれる,to be extraordinary,to be exceptional,to go beyond the limit
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-01
+星光,せいこう,starlight
+ミッションクリア,ミッション・クリア,clearing a mission,mission cleared
+マジックアイテム,マジック・アイテム,magic item
+探索者,たんさくしゃ,investigator,researcher,explorer,traveler,hunter
+一躍時の人,いちやくときのひと,overnight sensation,man of the hour
+意に介す,いにかいす,to mind,to care,to worry
+艦内,かんない,inside of a warship,interior of a warship
+彼女面,かのじょづら,acting like a girlfriend even though not in a relationship
+響もす,響動もす,どよもす,とよもす,to make  reverberate,to make resound,to shake
+くわっくわっ,クワックワッ,quack quack,cluck cluck,croak croak
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-02
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
