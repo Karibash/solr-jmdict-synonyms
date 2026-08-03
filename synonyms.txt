@@ -9303,7 +9303,7 @@
 ビジュアルフライト,ビジュアル・フライト,visual flight
 ビジュアルマーチャンダイジング,ビジュアル・マーチャンダイジング,visual merchandising
 ビジュアルランゲージ,ビジュアル・ランゲージ,visual language
-ビジョン,ヴィジョン,vision,large display screen
+ビジョン,ヴィジョン,vision,foresight,prospect,large display screen,imagination,insight,sight,eyesight,vision,phantom,vision,illusion
 ビス,screw
 ビスク,bisque
 ビスケット,cookie,biscuit
@@ -26130,7 +26130,7 @@
 合格者,ごうかくしゃ,successful candidate,successful applicant,person who has passed an exam
 合歓,ごうかん,sharing pleasure,sleeping together,silk tree
 合歓,ねむ,silk tree
-合間,合い間,あいま,interval,break,pause,spare time,spare moment
+合間,合い間,あいま,interval,break,pause,spare moment,gap,interval,opening
 合気道家,あいきどうか,aikido practitioner
 合議,ごうぎ,consultation,conference,discussion,counsel
 合議制,ごうぎせい,parliamentary system
@@ -26245,7 +26245,7 @@
 刻み出す,きざみだす,to carve out
 刻みつける,刻み付ける,きざみつける,to engrave,to carve out
 刻み目,きざみめ,notch,nick,marks on a ruler
-刻む,きざむ,to mince,to cut fine,to chop up,to hash,to shred,to carve,to engrave,to chisel,to notch,to tick away,to beat out,to record the passing moments,to etch,to remember distinctly,to have tattooed,to torment
+刻む,きざむ,to mince,to cut fine,to chop up,to hash,to shred,to carve,to engrave,to chisel,to notch,to tick away,to beat out,to record the passing moments,to etch,to remember distinctly,to have tattooed,to torment,to lay up,to play a conservative shot
 刻一刻,こくいっこく,moment by moment,hour by hour
 刻印,こくいん,engraving a seal,engraved seal,inscribed seal,engraving,inscribing,stamping,brand,stamp,reputation
 刻下,こっか,the present
@@ -29508,7 +29508,7 @@
 執行,しっこう,しゅぎょう,しゅうぎょう,しぎょう,execution,carrying out,performance,enforcement,exercise,service,conduct,execution,lead monk performing various tasks in a temple
 執行猶予,しっこうゆうよ,stay of execution,suspended sentence
 執事,しつじ,steward,butler,court official,deacon
-執心,しゅうしん,devotion,attachment,infatuation
+執心,しゅうしん,devotion,attachment,obsession,infatuation,obsession
 執達吏,しったつり,bailiff
 執刀,しっとう,performing a surgical operation
 執念,しゅうねん,tenacity,persistence,obsession,implacability
@@ -43647,7 +43647,7 @@
 いかさま師,如何様師,いかさまし,cheat,swindler
 如実,にょじつ,reality,actuality,actual conditions,true situation,faithful representation,vivid depiction,ultimate reality,absolute truth
 如来,如來,にょらい,Tathagata,perfected one
-尿,にょう,ゆばり,いばり,ゆまり,ばり,しい,しし,しと,urine
+尿,にょう,urine
 尿管,にょうかん,urinary duct,ureter
 尿酸,にょうさん,uric acid
 尿素,にょうそ,urea,carbamide
@@ -44077,7 +44077,7 @@
 破天荒,はてんこう,unheard-of,unprecedented,daring,wild,uninhibited,unconventional,reckless
 破片,はへん,fragment,broken piece,splinter,chip,shard
 破滅,はめつ,ruin,destruction,fall
-破門,はもん,expulsion,excommunication,anathema
+破門,はもん,expulsion,excommunication,anathema,expulsion
 破約,はやく,breaking,cancellation
 破落戸,ごろつき,ゴロツキ,rogue,thug,hoodlum,punk,racketeer
 破裂,はれつ,bursting,rupture,explosion,breakdown,breaking off
@@ -54635,7 +54635,7 @@
 銅,赤金,どう,あか,あかがね,copper,bronze
 読本,とくほん,どくほん,reading-book,reader,guidebook,manual,textbook
 凸凹,でこぼこ,とつおう,だくぼく,unevenness,roughness,ruggedness,bumpiness,inequality,imbalance,unevenness,difference
-突端,とったん,とっぱな,tip of a headland,point
+突端,とったん,とっぱな,とっぱし,tip,point,end,edge,beginning,start
 鈍い,にぶい,dull,blunt,thickheaded,obtuse,stupid,dull,dim,slow,sluggish,inert,lethargic,insensitive,dull,unperceptive,unfeeling
 鈍る,にぶる,なまる,to become blunt,to grow dull,to become less capable,to weaken,to falter
 内々,内内,うちうち,ないない,private,confidential,informal,secret,family circle,inside
@@ -54900,7 +54900,7 @@
 陸稲,おかぼ,りくとう,rice grown on dry land,dry land rice plant
 流行,りゅうこう,fashion,trend,vogue,craze,fad,popularity,prevalence,epidemic
 竜顔,龍顔,りゅうがん,りょうがん,Imperial countenance,face of the Emperor
-竜虎,龍虎,りゅうこ,りょうこ,dragon and tiger,two mighty rivals
+竜虎,龍虎,りゅうこ,りょうこ,two mighty rivals,dragon and tiger
 両側,りょうがわ,りょうそく,both sides
 両足,りょうあし,りょうそく,both feet,both legs
 両損,りょうそん,りょうぞん,loss on both sides
@@ -56653,7 +56653,7 @@
 無様,不様,ぶざま,unsightly,ungraceful,clumsy,awkward,unpresentable,unshapely,ungainly,uncouth,untidy
 部署,部所,ぶしょ,one's post,one's station,department,bureau,section
 無精,不精,ぶしょう,indolence,laziness,sloth
-不調法,無調法,ぶちょうほう,impoliteness,carelessness,misconduct,clumsiness
+不調法,無調法,ぶちょうほう,carelessness,clumsiness,lack of consideration,ineptitude,blunder,mistake,faux pas,slip-up,misconduct,being no good at drinking and entertaining
 ぶっ殺す,打っ殺す,ぶっころす,to kill,to beat to death
 併置,並置,へいち,placing side by side,running simultaneously,juxtaposition
 併呑,并呑,併吞,併どん,へいどん,annexation,absorption,merger,swallowing up
@@ -62232,7 +62232,7 @@
 出会い頭,出合い頭,出会いがしら,出合頭,出会頭,出合いがしら,であいがしら,the moment of meeting,the moment of running into each other,the moment of crossing paths
 掘りごたつ,掘り炬燵,掘り火燵,掘炬燵,掘火燵,ほりごたつ,sunken kotatsu,low table over a hole in the floor
 慰み者,なぐさみもの,plaything
-慰み物,なぐさみもの,source of amusement,plaything
+慰み物,慰みもの,なぐさみ物,なぐさみもの,source of amusement,plaything
 蘭虫,蘭鋳,らんちゅう,ランチュウ,ranchu,variety of goldfish
 絵探し,えさがし,hidden picture puzzle
 心太,ところ天,心天,瓊脂,ところてん,gelidium jelly strips,prostate orgasm
@@ -71259,7 +71259,7 @@
 女性学,じょせいがく,women's studies
 女性解放運動,じょせいかいほううんどう,women's liberation movement
 女性解放論,じょせいかいほうろん,feminism
-女房役,にょうぼうやく,assistant,right-hand man,subordinate,wifely role
+女房役,にょうぼうやく,assistant,right-hand man,subordinate,wifely role,catcher
 女房持ち,女房もち,にょうぼうもち,married man
 女房詞,女房言葉,女房ことば,にょうぼうことば,secret language of court ladies
 女郎屋,じょろうや,brothel
@@ -82499,7 +82499,7 @@
 定期便,ていきびん,regular service
 庭訓,ていきん,home education
 逓降変圧器,ていこうへんあつき,step-down transformer
-抵抗を試みる,ていこうをこころみる,to offer  resistance
+抵抗を試みる,ていこうをこころみる,to put up resistance
 蹄叉,ていさ,frog,fourchette,pad in a horse's hoof that acts as a shock absorber
 汀渚,ていしょ,sand bar,waters edge
 禎祥,ていしょう,good omen
@@ -109543,7 +109543,7 @@
 端黄卵,たんおうらん,telolecithal egg
 等黄卵,とうおうらん,homolecithal egg
 人手にかかる,人手に掛かる,ひとでにかかる,to be murdered,to be aided by someone else,to be raised by someone else
-海星,人手,海盤車,ひとで,ヒトデ,starfish,sea star,asteroid,any echinoderm of the class Asteroidea,northern Pacific seastar
+海星,人手,海盤車,ひとで,ヒトデ,starfish,sea star,asteroid,northern Pacific seastar
 蛇いちご,蛇イチゴ,蛇苺,へびいちご,へびイチゴ,くちなわいちご,ヘビイチゴ,false strawberry,mock strawberry
 毒苺,毒イチゴ,どくいちご,どくイチゴ,false strawberry,mock strawberry
 スーパーボール,スーパー・ボール,bouncy ball
@@ -110628,7 +110628,7 @@
 最新世,さいしんせい,Pleistocene epoch
 暁新世,ぎょうしんせい,Paleocene epoch
 現在世,げんざいせ,this world,this life
-逆走,ぎゃくそう,going in the opposite direction,going against the wind,running or operating a machine in reverse
+逆走,ぎゃくそう,going the wrong way,traveling in the opposite direction,going against the wind,running in reverse
 覚,さとり,サトリ,Satori,folklore monster that can read minds
 ガータースネーク,ガーター・スネーク,garter snake
 間充織,かんじゅうしき,mesenchyme
@@ -133405,7 +133405,7 @@
 無水アルコール,むすいアルコール,anhydrous alcohol,absolute alcohol
 たばこ税,タバコ税,煙草税,タバコぜい,tobacco tax,cigarette tax
 金鍔焼き,金鍔焼,きんつばやき,confection of sweetened beans wrapped in wheat-flour dough
-金鍔,きんつば,confection of sweetened beans wrapped in wheat-flour dough,metal sword guard,polearm
+金つば,金鍔,きんつば,confection of sweetened beans wrapped in wheat-flour dough,metal sword guard,polearm
 ひん抜く,引ん抜く,ひんぬく,to uproot,to pull out
 詠み込む,詠みこむ,詠込む,よみこむ,to include  in a poem
 起き返る,起きかえる,おきかえる,to rise,to get up,to stand up,to sit up
@@ -171320,7 +171320,7 @@
 奥が深い,奥がふかい,おくがふかい,profound,deep
 史上最強,しじょうさいきょう,strongest ever,most powerful in history
 葉越し,葉ごし,はごし,between the leaves,through the leaves
-一掬い,ひとすくい,scoop,scoopful,small ornamental spoon
+一掬い,ひと掬い,１掬い,ひとすくい,one scoop,one scoopful,one spoonful,small ornamental spoon
 鳴きたてる,鳴き立てる,なきたてる,to chirp loudly,to sing noisily
 泣き立てる,なきたてる,to wail,to cry loudly,to howl
 プロバイオティクス,プロバイオティックス,probiotics
@@ -210624,6 +210624,8 @@
 戦人,いくさ人,いくさびと,せんじん,warrior,combatant,soldier
 現界,げんかい,manifestation,materialization,incarnation,appearing,this world,the physical world,the present world
 ＳＦＸ,エス・エフ・エックス,エスエフエックス,special effects,SFX
+半中半外,はんなかはんそと,partial withdrawal during ejaculation,half in, half out
+半外半中,はんそとはんなか,partial withdrawal during ejaculation,half out, half in
 品管,ひんかん,quality control
 了解覚書,了解覚え書き,了解覚書き,りょうかいおぼえがき,memorandum of understanding,MoU
 祖法,そほう,rules and customs handed down over the generations
@@ -210875,6 +210877,8 @@
 瑟瑟,瑟々,しつしつ,rustling,soughing,desolately blowing,rippling,billowing
 瑟瑟座,瑟々座,しつしつざ,stone pedestal made of stacked polygonal blocks
 ダブルスクール,ダブル・スクール,studying at two schools at the same time
+新顎類,しんがくるい,neognaths
+古顎類,こがくるい,paleognaths,palaeognaths
 領邦,りょうほう,territorial state
 領邦国家,りょうほうこっか,territorial state
 思い事,おもいごと,desire,wish
@@ -210945,14 +210949,21 @@
 芋畑,いも畑,イモ畑,いもばたけ,potato field,yam field,sweet-potato field
 嫁入り前,よめいりまえ,unmarried,premarital
 包括性,ほうかつせい,inclusivity,inclusiveness
+中側,なかがわ,inside,interior,inner part
+人畜生,にんちくしょう,inhuman person,fiend,beast,brute
 機捜,きそう,mobile investigation unit,MIU
 豪宕,ごうとう,bold and unrestrained,uninhibited,free-spirited
 捜索活動,そうさくかつどう,search operations,search efforts
 先行車,せんこうしゃ,preceding vehicle,car ahead,vehicle in front
 至上命題,しじょうめいだい,absolute priority,supreme imperative,highest priority task,most pressing issue
+至上課題,しじょうかだい,absolute priority,supreme imperative,highest priority task,most pressing issue
+無断借用,むだんしゃくよう,unauthorized borrowing,borrowing without permission,unauthorized use,misappropriation,plagiarism
+套路,とうろ,taolu,martial arts routine
 銃手,じゅうしゅ,gunner,shooter,rifleman
 微音,びおん,faint sound,slight noise
+発射速度,はっしゃそくど,rate of fire,firing rate,fire rate
 度外れる,度はずれる,どはずれる,to be extraordinary,to be exceptional,to go beyond the limit
+凍気,とうき,freezing air,icy air,extreme cold
 星光,せいこう,starlight
 ミッションクリア,ミッション・クリア,clearing a mission,mission cleared
 マジックアイテム,マジック・アイテム,magic item
@@ -210960,10 +210971,31 @@
 一躍時の人,いちやくときのひと,overnight sensation,man of the hour
 意に介す,いにかいす,to mind,to care,to worry
 艦内,かんない,inside of a warship,interior of a warship
+ふるふる,フルフル,trembling slightly,quivering softly,swaying gently,softly,springy
+タプンタプン,たぷんたぷん,sloshing,splish-splash,jiggling,wobbling,bouncing gently
 彼女面,かのじょづら,acting like a girlfriend even though not in a relationship
 響もす,響動もす,どよもす,とよもす,to make  reverberate,to make resound,to shake
+具象化,ぐしょうか,exteriorization,embodiment,materialization
 くわっくわっ,クワックワッ,quack quack,cluck cluck,croak croak
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-02
+喞子,しょくし,piston
+デカ乳,デカちち,huge breasts,large boobs
+どんがら汁,どんがらじる,dongarajiru,cod soup with vegetables and tofu in miso
+がんす,to be,to exist
+伊勢屋,いせや,Ise merchant,shop name of an Ise merchant,miser,stingy person,skinflint,scrooge,churl
+平侍,ひらざむらい,low-ranking samurai,common samurai
+郷入り,ごういり,confinement to a secluded hut in one's home domain,punishment during the Edo period equivalent to lifelong exile, esp. in the Shōnai domain
+尿,いばり,ゆばり,ゆまり,urine
+尿,しい,しし,しと,urine
+尿,ばり,urine
+算を乱す,算をみだす,さんをみだす,to break and run,to flee in disorder,to scatter in all directions
+轡を並べる,くつわを並べる,轡をならべる,銜を並べる,くつわをならべる,to ride side by side,to walk side by side,to go together,to join forces,to work together,to line up horses' bits
+戦略眼,せんりゃくがん,strategic vision,strategic acumen
+成木,せいぼく,mature tree,adult tree,fully grown tree
+拳士,けんし,kenpō practitioner,martial artist
+尿量,にょうりょう,urine volume,urinary output
+礼返し,れいがえし,returning a favor,gift in acknowledgement of a favor
+合拗音,ごうようおん,contracted sound,palatalised sound,palatalized sound
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-03
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -218255,3 +218287,4 @@
 海援隊,かいえんたい,Kaientai
 グロック,Glock
 三帝協商,さんていきょうしょう,Three Emperors' Alliance
+パコジェット,Pacojet
