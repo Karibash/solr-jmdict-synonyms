@@ -12741,7 +12741,7 @@
 ルーミング,arranging an apartment to one's own taste
 ルーム,room
 ルームクーラー,ルーム・クーラー,room cooler,air conditioner
-ルームサービス,room-service
+ルームサービス,ルーム・サービス,ルームサーヴィス,ルーム・サーヴィス,room service
 ルームチャージ,ルーム・チャージ,fee charged for hotel room
 ルームメイト,ルームメート,roommate
 ルームランナー,ルーム・ランナー,treadmill
@@ -14451,7 +14451,7 @@
 一座,いちざ,the whole company,the party,all those present,everyone in attendance,attendance,presence,banquet,dinner,party,troupe,company,statue,top seat,head
 一再,いっさい,once or twice,repeatedly
 一妻多夫,いっさいたふ,polyandry
-一際,一きわ,ひときわ,conspicuously,noticeably,remarkably,strikingly,outstandingly,especially,particularly
+一際,一きわ,ひと際,ひときわ,conspicuously,noticeably,remarkably,strikingly,outstandingly,especially,particularly
 一昨,いっさく,one previous
 一昨晩,いっさくばん,night before last
 一昨夜,いっさくや,night before last
@@ -18898,7 +18898,7 @@
 釜,かま,iron pot,kettle
 かまを掘る,カマを掘る,釜を掘る,かまをほる,to perform anal sex,to bugger,to sodomize,to sodomise,to crash a car into the back of another,to rear-end
 鎌止め,かまどめ,cutting grass and trees is prohibited
-鎌首,かまくび,sickle-shaped neck,crooked neck,gooseneck
+鎌首,かま首,かまくび,sickle-shaped neck,crooked neck,gooseneck
 鎌倉時代,かまくらじだい,Kamakura period
 鎌足,かまあし,legs bowed in,sitting with heels spread apart
 鎌鼬,鎌イタチ,かまいたち,カマイタチ,cut in the skin caused by a vacuum formed by a whirlwind,mythical weasel-like creatures riding on whirlwinds and inflicting sharp, painless wounds
@@ -21118,7 +21118,7 @@
 巨大分子,きょだいぶんし,macromolecule
 巨弾,きょだん,huge projectile
 巨盗,きょとう,big-time robber
-巨頭,きょとう,leader,magnate,big head
+巨頭,きょとう,leader,magnate,bigwig,extremely large head
 巨乳,きょにゅう,huge breasts,huge boobs
 巨波,きょは,billow,large wave
 巨舶,きょはく,ocean liner
@@ -26692,7 +26692,7 @@
 混濁,溷濁,こんだく,becoming turbid,becoming muddy,becoming cloudy,becoming opaque,becoming muddled,growing dim,disorder,chaos
 混同,こんどう,confusion,mixing,merger
 混沌,渾沌,混とん,こんとん,chaos,confusion,disorder,chaotic,confused,uncertain,disarrayed
-混入,こんにゅう,mixing,blending,adding,adulteration
+混入,こんにゅう,mixing,blending,adding,adulteration,contamination
 混分数,こんぶんすう,mixed fraction,compound number
 混紡,こんぼう,mixed yarn,mixed spinning
 混迷,こんめい,turmoil,chaos,confusion
@@ -30471,7 +30471,7 @@
 儒道,じゅどう,Confucianism
 儒仏,じゅぶつ,Confucianism and Buddhism
 受かる,うかる,to pass
-受ける,請ける,承ける,享ける,うける,ウケる,to receive,to get,to catch,to be struck by,to sustain,to incur,to suffer,to feel,to undergo,to take,to accept,to be given,to find funny,to find humorous,to be amused,to follow,to succeed,to be descended from,to face,to be modified by,to obtain  by paying a fee,to be well-received,to become popular,to go down well
+受ける,請ける,承ける,享ける,うける,ウケる,to receive,to get,to catch,to be struck by,to sustain,to incur,to suffer,to feel,to undergo,to take,to accept,to be given,to find funny,to find humorous,to be amused,to follow,to succeed,to be descended from,to face,to be modified by,to obtain  by paying a fee,to be well-received,to become popular,to go down well,to answer,to respond,to react
 受け継ぐ,受けつぐ,うけつぐ,to inherit,to succeed,to take over
 受け皿,受皿,うけざら,saucer,person  to take over a position or matter,receptacle,receiver
 受け止める,受けとめる,うけとめる,to catch,to stop the blow,to react to,to take,to accept,to come to grips with
@@ -44117,7 +44117,7 @@
 馬頭,めず,horse-headed demon
 馬肉,ばにく,horse meat,horsemeat
 馬匹,ばひつ,horses
-馬面,うまづら,ばめん,うまがお,long thin face,Black Scraper
+馬面,うまづら,ばめん,うまがお,horseface,long thin face,black scraper
 馬力,ばりき,horsepower,hp,energy,vitality,vigour,strength,horse-drawn cart
 俳画,はいが,briefly drawn picture,haiku picture
 俳句,はいく,haiku,17-mora poem, usu. in 3 lines of 5, 7 and 5 morae
@@ -53127,7 +53127,7 @@
 しなやか,supple,flexible,elastic,graceful,elegant,refined
 嬌姿,きょうし,lovely figure
 嬌笑,きょうしょう,charming smile
-嬌声,きょうせい,coquettish voice,flirtatious voice
+嬌声,きょうせい,coquettish voice,seductive squeal,alluring cry
 嬌名,きょうめい,reputation for beauty
 嬌羞,きょうしゅう,charming and coy
 嬲る,嫐る,なぶる,to tease,to make fun of,to make sport of,to ridicule,to mock,to deride,to play with,to fiddle with,to tinker with
@@ -59961,7 +59961,7 @@
 木戸銭,きどせん,gate money,admission fee
 気が張る,きがはる,to strain every nerve,to feel nervous
 気が紛れる,気がまぎれる,きがまぎれる,to be distracted from feelings of depression, boredom, tension, etc.
-気が抜ける,気がぬける,きがぬける,to lose heart,to lose interest,to lose motivation,to be discouraged,to become stale,to go flat,to lose flavor,to lose flavour,to be exhausted,to feel spent
+気が抜ける,気がぬける,きがぬける,to lose heart,to lose interest,to lose motivation,to be discouraged,to become stale,to go flat,to lose flavor,to lose flavour,to be exhausted,to feel spent,to lose focus,to let one's guard down,to become absent-minded
 気が強い,きがつよい,strong-willed,strong of heart
 帰帆,きはん,returning sailboat,setting sail for home port
 気恥ずかしい,気恥かしい,気恥しい,きはずかしい,embarrassed,feeling ashamed,feeling awkward
@@ -73524,7 +73524,7 @@
 大宮御所,おおみやごしょ,Empress Dowager's palace
 大挙,たいきょ,in full force,in great numbers,in droves,large-scale project,grand plan
 大根役者,だいこんやくしゃ,bad actor,lousy actor,wooden actor,ham actor
-大根足,大根脚,だいこんあし,thick legs,fat legs,cankle,cankles
+大根足,大根脚,だいこんあし,thick legs,fat legs
 大根おろし,大根下ろし,大根卸し,だいこんおろし,だいこおろし,grated daikon,daikon grater
 大息,太息,おおいき,たいそく,deep sigh
 大恩,だいおん,great debt of gratitude,great obligation
@@ -94072,7 +94072,7 @@
 よ,hey,you,hey,hey,hold on,yo,hey
 わ,indicates emotion or admiration,indicates emphasis,I,me,wah!,boo!
 な,なあ,なー,なぁ,な〜,なあー,don't,do,hey,listen,look,say,now,,well,,I tell you!,you know,wow,ooh,right?,isn't it?,doesn't it?,don't you?,don't you think?
-さ,-ness,indicates assertion,come,come now
+さ,-ness,indicates assertion,come,come now,come along,here,er,um,well,now,you see,indicates scrutiny, critique or mistrust,indicates retort,indicates hearsay or rumor,hey,yo,used as a stand-in for various particles to mimic dialectal speech,partial equivalent of the "ni" and "he" particles in standard Japanese
 ぞ,adds force or indicates command
 バーコード頭,バーコードあたま,someone with hair combed in stripes across their bald spot
 自宅謹慎,じたくきんしん,confinement to one's home,being made to stay at home
@@ -100326,7 +100326,7 @@
 おっ開く,おっぴらく,to do something in public,to open
 怒り鼻,いかりばな,flared nostrils
 ぶくり,sound of something floating or sinking in water
-座り心地,すわりごこち,level of comfort
+座り心地,すわり心地,すわりごこち,sitting feel,seating comfort
 金魚売り,きんぎょうり,goldfish peddling,goldfish peddler
 粟餅,あわもち,millet dough cake,millet mochi
 搗く,舂く,つく,to hull,to pound,to polish,to stamp
@@ -132688,7 +132688,7 @@
 その折,その折り,其の折,そのおり,on that occasion,at that time,then,in that case
 それにも関わらず,それにも拘わらず,それにも拘らず,それにも関らず,それにもかかわらず,nonetheless,nevertheless,but,yet
 それ自体,其れ自体,それじたい,in itself,the thing itself,this itself,for its own sake,per se
-それ相応,其れ相応,それそうおう,appropriate,suitable,proper,fitting
+それ相応,其れ相応,其相応,それそうおう,appropriate,suitable,proper,fitting
 そろり,ソロリ,slowly and quietly,smoothly
 ため桶,溜め桶,溜桶,ためおけ,bucket,manure bucket,rainwater bucket
 ちょっきり,exactly,just,snip
@@ -139119,7 +139119,7 @@
 老成る,ませる,マセる,to be precocious,to be mature for one's age,to seem grown-up,to seem mature
 等脚類,とうきゃくるい,isopods
 よっこいしょ,huff,heave-ho
-桃尻,ももじり,someone who is bad at horse-riding,a fidgety, restless person
+桃尻,ももじり,someone who is bad at horse-riding,fidgety, restless person,shapely buttocks,nicely rounded bottom
 窓の桟,まどのさん,window frame,window sill
 細縞,ほそじま,pinstriped
 山高帽,やまたかぼう,bowler hat
@@ -143012,7 +143012,7 @@
 弓場,弓庭,ゆば,ゆみば,ゆにわ,archery ground,archery gallery
 一個売り,いっこうり,selling individually,selling piecemeal
 山岨,やまそわ,mountain cliff,mountain precipice
-禄,祿,ろく,stipend,reward
+禄,祿,ろく,stipend,salary,fief,feudal pay,gift,token of appreciation
 新憲法,しんけんぽう,new constitution
 大地主,おおじぬし,large landowner,major landowner,great landowner
 新円,しんえん,new yen
@@ -159345,7 +159345,7 @@
 フルオロキノロン,fluoroquinolone
 ヤンミルズ理論,ヤンミルズりろん,Yang-Mills theory
 乾き物,かわきもの,dry snacks
-〇×,○×,まるばつ,circle and cross,right and wrong,true-false
+○×,〇×,まるばつ,マルバツ,circle and cross,right and wrong,true-false
 本日は晴天なり,ほんじつはせいてんなり,testing, testing
 路次,ろじ,ろし,way,path,route,along the way,along the road
 防雨,ぼうう,protection against rain,rainproof,raintight
@@ -210805,7 +210805,7 @@
 縦位置,たていち,portrait orientation
 横位置,よこいち,landscape orientation
 鑑賞者,かんしょうしゃ,appreciator,viewer
-が,partial equivalent of the "no" particle
+が,partial equivalent of the "no" particle in standard Japanese
 組代,組み代,くみだい,composing charges,composition charges
 組台,組み台,くみだい,composing stand
 局勢,きょくせい,state of things,situation,condition,state of play on the board
@@ -210982,8 +210982,13 @@
 どんがら汁,どんがらじる,dongarajiru,cod soup with vegetables and tofu in miso
 がんす,to be,to exist
 伊勢屋,いせや,Ise merchant,shop name of an Ise merchant,miser,stingy person,skinflint,scrooge,churl
+唐丸籠,唐丸駕篭,とうまるかご,cylindrical bamboo cage for keeping tōmaru fowl,netting-covered bamboo cage used to transport criminals
+唐丸,とうまる,tōmaru,cylindrical bamboo cage for keeping tōmaru fowl,netting-covered bamboo cage used to transport criminals
+早駕籠,はやかご,express palanquin
+講武所,こうぶしょ,Kōbusho,martial arts training institute established by the Edo shogunate in 1854
 平侍,ひらざむらい,low-ranking samurai,common samurai
 郷入り,ごういり,confinement to a secluded hut in one's home domain,punishment during the Edo period equivalent to lifelong exile, esp. in the Shōnai domain
+卒爾ながら,率爾ながら,そつじながら,excuse me for asking so suddenly, but,pardon the abruptness, but,if I may be so forward as to ask
 尿,いばり,ゆばり,ゆまり,urine
 尿,しい,しし,しと,urine
 尿,ばり,urine
@@ -210992,10 +210997,23 @@
 戦略眼,せんりゃくがん,strategic vision,strategic acumen
 成木,せいぼく,mature tree,adult tree,fully grown tree
 拳士,けんし,kenpō practitioner,martial artist
+拳法家,けんぽうか,kenpō practitioner,expert in kenpō
 尿量,にょうりょう,urine volume,urinary output
+いきり勃つ,熱り勃つ,いきりたつ,to be fully erect,to have a vigorous erection
 礼返し,れいがえし,returning a favor,gift in acknowledgement of a favor
 合拗音,ごうようおん,contracted sound,palatalised sound,palatalized sound
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-03
+フォーレスト,forest
+すきっと,スキッと,スキっと,refreshingly,with a feeling of relief,pleasantly,neatly,smartly,clean-cut
+射乳,しゃにゅう,milk ejection,milk discharge
+胸が張り裂ける,胸がはりさける,胸がはり裂ける,胸が張りさける,むねがはりさける,to be heartbroken,to have one's heart break,to be overwhelmed with grief
+肺不全,はいふぜん,respiratory failure,pulmonary insufficiency
+植木職人,うえきしょくにん,gardener,landscape gardener,nurseryman
+部課長,ぶかちょう,department and section managers
+シボレテ,シボレス,shibboleth
+都市ゲリラ,としゲリラ,urban guerrilla
+悪魔学,あくまがく,demonology
+皮膚隆線,ひふりゅうせん,dermal ridge
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-04
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
