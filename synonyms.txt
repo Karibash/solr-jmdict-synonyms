@@ -59191,7 +59191,7 @@
 現尺,げんしゃく,full size
 現段階,げんだんかい,present stage,current phase,current rank,present grade
 言い残す,言残す,いいのこす,to leave word with,to state in one's will,to leave  unsaid,to forget to mention
-言い伝え,言伝え,いいつたえ,tradition,legend
+言い伝え,言伝え,いいつたえ,tradition,folklore,legend,message,word
 言い渡し,言渡し,いいわたし,sentence,judgment,judgement,pronouncement,order,command
 個々人,個個人,ここじん,each individual,each person
 古新聞,ふるしんぶん,old newspapers
@@ -64489,7 +64489,7 @@
 銃座,じゅうざ,emplacement
 銃傷,じゅうしょう,gunshot wound
 はげ山,禿げ山,禿山,ハゲ山,はげやま,bald mountain,bare mountain,treeless hill
-禿げ頭,禿頭,はげ頭,はげあたま,とくとう,bald head,baldness
+禿頭,はげ頭,禿げ頭,はげあたま,とくとう,bald head,baldness
 禿頭病,とくとうびょう,alopecia,loss of hair
 兜蟹,甲蟹,鱟魚,鱟,かぶとがに,カブトガニ,horseshoe crab
 非人情,ひにんじょう,heartless,inhuman,unfeeling
@@ -77787,7 +77787,7 @@
 職業病,しょくぎょうびょう,occupational disease
 職業婦人,しょくぎょうふじん,career woman
 職業意識,しょくぎょういしき,professional sense
-識閾,しきいき,threshold of consciousness
+識閾,識域,しきいき,threshold of consciousness,limen
 誌代,しだい,magazine subscription fee
 末代物,まつだいもの,durable article
 末孫,まっそん,ばっそん,descendant
@@ -80054,7 +80054,7 @@
 妹分,いもうとぶん,protegee,someone who one considers as a younger sister
 妹娘,いもうとむすめ,younger daughter
 芋侍,いもざむらい,rustic samurai,boorish samurai
-卑しからぬ,いやしからぬ,respectable,decent
+卑しからぬ,賤しからぬ,いやしからぬ,respectable,decent
 卑しみ,いやしみ,contempt
 入れ替わり,入れ代わり,入れ替り,入れ代り,いれかわり,substitution,replacement,shifting,change
 入れ札,いれふだ,bid,tender
@@ -112659,7 +112659,7 @@
 斉一説,せいいつせつ,uniformitarianism
 天変地異説,てんぺんちいせつ,catastrophism
 ウォーレス線,ウォーレスせん,Wallace's line
-目を盗む,めをぬすむ,to do without being seen,to do behind  back,to do without the knowledge of
+目を盗む,目をぬすむ,眼を盗む,めをぬすむ,to do without being seen,to do behind  back,to do without the knowledge of
 コテハン,こてハン,user name,user who uses an online handle,namefag
 固定ハンドル,こていハンドル,online handle,screen name,user name,user who uses an online handle
 頭におく,あたまにおく,to take into consideration
@@ -127678,7 +127678,7 @@
 磯馴,そなれ,Japanese garden juniper,dwarf Japanese garden juniper,Juniperus procumbens,J. chinensis var. procumbens
 蔓梅擬,つるうめもどき,ツルウメモドキ,Celastrus orbiculatus
 丸葉の木,まるばのき,マルバノキ,Disanthus cercidifolius
-満天星,灯台躑躅,満天星躑躅,灯台つつじ,満天星つつじ,どうだんつつじ,ドウダンツツジ,Enkianthus perulatus
+満天星,灯台躑躅,満天星躑躅,灯台つつじ,満天星つつじ,ドウダンツツジ,どうだんつつじ,Enkianthus perulatus
 珊瑚水木,さんごみずき,サンゴミズキ,Cornus alba
 杜松,ねず,ネズ,temple juniper,needle juniper
 白玉椿,しらたまつばき,シラタマツバキ,white-flowered camellia
@@ -140868,7 +140868,7 @@
 カンジダ,カンジタ,candida,candidal vaginitis,vaginal yeast infection
 続いて,つづいて,subsequently,next,after,following,in the wake of
 アラフィフ,person around fifty years old
-覚えてろ,おぼえてろ,You'll regret this!,I'll get you for this,Just you wait
+覚えてろ,覚えていろ,おぼえてろ,you'll regret this!,I'll get you for this!,just you wait!
 ベラルーシ語,ベラルーシご,Belarusian
 ハンガリー語,ハンガリーご,Hungarian,Magyar
 窓口機関,まどぐちきかん,contact organization
@@ -154148,7 +154148,7 @@
 蝋義歯,ろうぎし,trial denture,wax denture
 手間が省ける,てまがはぶける,to save trouble,to save effort,to save hassle,to save bother,to save time
 事業体,じぎょうたい,business entity,business unit
-太上天皇,だいじょうてんのう,だじょうてんのう,たいじょうてんのう,おおきすめらみこと,abdicated emperor
+太上天皇,だいじょうてんのう,だじょうてんのう,たいじょうてんのう,おおきすめらみこと,retired emperor,ex-emperor,former emperor,emperor emeritus
 布衣始,布衣始め,ほういはじめ,ceremony in which an abdicated emperor puts on informal court clothes  for the first time
 法筵,ほうえん,preaching place
 鼻盛り,鼻盛,はなもり,adjusting the height of eyeglasses
@@ -210950,7 +210950,9 @@
 嫁入り前,よめいりまえ,unmarried,premarital
 包括性,ほうかつせい,inclusivity,inclusiveness
 中側,なかがわ,inside,interior,inner part
+野ション,やション,のション,urinating outdoors,peeing outside
 人畜生,にんちくしょう,inhuman person,fiend,beast,brute
+楽しがる,愉しがる,たのしがる,to seem to enjoy,to appear to be having fun,to find enjoyable
 機捜,きそう,mobile investigation unit,MIU
 豪宕,ごうとう,bold and unrestrained,uninhibited,free-spirited
 捜索活動,そうさくかつどう,search operations,search efforts
@@ -210982,6 +210984,7 @@
 どんがら汁,どんがらじる,dongarajiru,cod soup with vegetables and tofu in miso
 がんす,to be,to exist
 伊勢屋,いせや,Ise merchant,shop name of an Ise merchant,miser,stingy person,skinflint,scrooge,churl
+弾込め,弾籠め,玉込め,玉籠め,たまごめ,loading,charging,loaded gun
 唐丸籠,唐丸駕篭,とうまるかご,cylindrical bamboo cage for keeping tōmaru fowl,netting-covered bamboo cage used to transport criminals
 唐丸,とうまる,tōmaru,cylindrical bamboo cage for keeping tōmaru fowl,netting-covered bamboo cage used to transport criminals
 早駕籠,はやかご,express palanquin
@@ -211013,7 +211016,13 @@
 都市ゲリラ,としゲリラ,urban guerrilla
 悪魔学,あくまがく,demonology
 皮膚隆線,ひふりゅうせん,dermal ridge
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-04
+獅子尾猿,シシオザル,ししおざる,lion-tailed macaque
+地中熱,ちちゅうねつ,geothermal heat,ground source heat
+アルケミスト,alchemist
+複合助詞,ふくごうじょし,compound particle
+能開法,のうかいほう,Vocational Abilities Development Promotion Act
+技能士,ぎのうし,certified skilled worker,licensed craftsman
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-05
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
