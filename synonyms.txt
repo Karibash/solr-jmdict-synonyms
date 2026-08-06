@@ -12873,7 +12873,7 @@
 レセプト,medical prescription,medical practitioners' receipt for health insurance claim
 レゾナンス,resonance
 レゾリューション,resolution
-レター,letter
+レター,letter,note,letter,character
 レターヘッド,letterhead
 レタス,lettuce
 レタッチ,リタッチ,retouch,retouching,touch-up,tagging up
@@ -13390,7 +13390,7 @@
 悪化,あっか,deterioration,getting worse,worsening,aggravation,degeneration,corruption
 悪果,あっか,bad results
 悪貨,あっか,あくか,bad money
-悪ガキ,悪餓鬼,悪がき,わるがき,わるガキ,brat
+悪ガキ,悪餓鬼,悪がき,わるがき,わるガキ,ワルガキ,brat
 悪寒,おかん,chill,shakes,ague
 悪感,あっかん,あくかん,ill feeling,ill will,antipathy,animosity
 悪感化,あっかんか,evil influence
@@ -13524,7 +13524,7 @@
 圧し込む,圧しこむ,へしこむ,to push into
 押し殺す,圧し殺す,押しころす,圧しころす,押殺す,おしころす,to crush to death,to press to death,to squeeze to death,to suppress,to stifle,to subdue,to hold
 圧し石,おしいし,stone weight
-へし折る,圧し折る,へしおる,to smash,to break
+へし折る,圧し折る,ヘシ折る,へしおる,to smash,to break
 圧す,へす,to dent,to press,to push
 圧する,あっする,to press,to oppress,to dominate,to overwhelm
 圧延,あつえん,rolling,extending by applying pressure
@@ -16538,7 +16538,7 @@
 下界,げかい,the earth below,the ground below,this world
 下絵,したえ,rough sketch,design,cartoon
 下顎,下あご,したあご,かがく,lower jaw,mandible
-下掛かる,下掛る,下がかる,しもがかる,to talk about indecent things
+下掛かる,下掛る,下がかる,しもがかる,シモがかる,to talk about indecent things
 下刈り,したがり,weeding
 下巻,げかん,second volume,third volume,last volume
 下期,しもき,second half of the  year
@@ -22868,7 +22868,7 @@
 慶事,けいじ,happy event,auspicious event,matter for congratulation
 慶祝,けいしゅく,congratulation,celebration
 慶弔,けいちょう,congratulations and condolences
-慧眼,けいがん,keen eye,quick eye,sharp eye,keen insight,keen perception
+慧眼,けいがん,keen eye,sharp eye,keen insight,keen perception
 憩い,憩,いこい,rest,relaxation
 憩う,息う,いこう,to rest,to relax,to repose
 掲げる,かかげる,to put up,to hang out,to fly,to hoist,to raise,to display,to hold up high,to raise overhead,to tout,to herald,to hold up,to parade,to publish,to print,to carry,to tuck up,to roll up,to stoke,to fan
@@ -26087,7 +26087,7 @@
 剛健,ごうけん,vigour,vigor,virility,health,sturdiness
 剛性,ごうせい,stiffness,rigidity
 剛体,ごうたい,rigid body
-剛直,ごうちょく,integrity,moral courage,rigidity
+剛直,ごうちょく,upright,incorruptible,morally courageous,firm
 剛毛,ごうもう,bristle,seta,stiff hair,coarse hair
 強力,剛力,豪力,ごうりき,herculean strength,mountain carrier-guide
 劫火,ごうか,こうか,world-destroying conflagration
@@ -27208,7 +27208,7 @@
 細目,さいもく,particulars,details,specified items
 細流,さいりゅう,streamlet,brooklet,rivulet
 菜,な,greens,vegetables,rape,rapeseed
-菜っ葉,菜葉,なっぱ,leaf vegetable,greens,vegetable leaves
+菜っ葉,菜葉,なっぱ,ナッパ,leaf vegetable,greens,vegetable leaves
 菜園,さいえん,vegetable garden
 菜種,なたね,rapeseed,coleseed
 菜種殻,なたねがら,rapeseed hulls
@@ -38742,7 +38742,7 @@
 拓殖,拓植,たくしょく,colonization,colonisation,development,settlement,exploitation
 拓本,たくほん,rubbing,rubbed copy
 沢,さわ,mountain stream,valley,dale,wetlands,swamp,marsh
-沢庵,たくあん,たくわん,pickled daikon radish
+沢庵,たくあん,たくわん,タクアン,pickled daikon radish
 沢山,たくさん,a lot,lots,plenty,many,a large number,much,a great deal,a good deal,enough,sufficient,enough,too many,too much
 託つ,喞つ,かこつ,to complain about,to grumble about,to moan about,to bemoan
 託ける,託つける,かこつける,to use as a pretext,to use as an excuse
@@ -39196,7 +39196,7 @@
 知覚,智覚,ちかく,perception,sensation,awareness
 知遇,ちぐう,favour,favor,warm friendship
 知恵,智恵,智慧,ちえ,wisdom,wit,sagacity,sense,intelligence,prajna
-知恵を絞る,ちえをしぼる,to rack one's brain
+知恵を絞る,知恵をしぼる,ちえをしぼる,to rack one's brain
 知恵者,ちえしゃ,ちえもの,wise man
 知見,智見,ちけん,knowledge,information,opinion,view
 知己,ちき,acquaintance,close friend
@@ -42680,7 +42680,7 @@
 突き抜く,突抜く,つきぬく,to pierce,to shoot through,to penetrate
 突き抜ける,突抜ける,つきぬける,to pierce through,to break through
 突き飛ばす,突きとばす,つき飛ばす,突飛ばす,つきとばす,to thrust away,to send flying
-突きつける,突き付ける,突付ける,つきつける,to thrust,to stick,to point
+突きつける,突き付ける,突付ける,つきつける,to thrust at someone,to point  at,to hold up threateningly to,to present forcefully,to confront someone with,to force upon
 突き返す,つき返す,突きかえす,突返す,つきかえす,to deal a blow in return,to hit back,to punch back,to reject,to send back
 突き落とす,突き落す,つき落とす,突きおとす,突落す,突落とす,つきおとす,to thrust down,to push off
 突き立てる,突立てる,突きたてる,つきたてる,to stab,to thrust,to plant,to set,to stick
@@ -43682,7 +43682,7 @@
 妊婦服,にんぷふく,maternity clothes
 忍ばせる,しのばせる,to conceal,to hide
 忍び,忍,しのび,stealth,travelling incognito,ninjutsu,ninja,sneak theft,sneak thief,tolerance
-忍び寄る,忍びよる,しのび寄る,しのびよる,to creep,to steal up,to draw near unnoticed
+忍び寄る,忍びよる,しのび寄る,しのびよる,to creep up to,to approach stealthily,to steal up,to draw near unnoticed
 忍び泣く,しのびなく,to shed silent tears
 忍び込む,忍びこむ,忍込む,しのびこむ,to creep in,to steal in,to sneak in
 忍び足,しのびあし,stealthy steps,soft steps
@@ -45082,7 +45082,7 @@
 煩悶,はんもん,worry,agony
 頒布,はんぷ,distribution,circulation
 飯,めし,cooked rice,meal,food,one's living,livelihood
-飯事,ままごと,playing house
+飯事,ままごと,ママゴト,playing house
 飯事をする,ままごとをする,to play house
 飯場,はんば,construction camp,bunkhouse,workers' living quarters
 飯店,はんてん,Chinese restaurant
@@ -47848,7 +47848,7 @@
 偏片,かたはら,one of a pair,one side
 片辺,偏辺,かたほとり,corner,remote country place
 偏流,へんりゅう,drift,leeway,windage
-変,變,へん,strange,odd,peculiar,weird,curious,eccentric,funny,suspicious,fishy,unexpected,change,incident,disturbance,disaster,accident,emergency,flat
+変,變,へん,ヘン,strange,odd,peculiar,weird,curious,eccentric,funny,suspicious,fishy,unexpected,change,incident,disturbance,disaster,accident,emergency,flat
 変える,かえる,to change,to alter,to transform,to convert,to turn,to vary,to reform,to revise,to amend
 変じる,へんじる,to change into,to be transformed,to be transfigured,to transform,to alter,to convert
 変ずる,へんずる,to change into,to be transformed,to be transfigured,to transform,to alter,to convert
@@ -57685,7 +57685,7 @@
 官民,かんみん,government and people,government and private sector,public and private sector
 感情的,かんじょうてき,emotional,sentimental
 感染症,かんせんしょう,infectious disease,infection
-漢方,漢法,かんぽう,traditional Chinese medicine
+漢方,漢法,かんぽう,kampō,traditional  medicine based on ancient Chinese medicine
 監事,かんじ,auditor,controller,comptroller,supervisor,inspector,manager
 管区気象台,かんくきしょうだい,district meteorological observatory
 管財,かんざい,administration of property,custodianship,receivership
@@ -74341,7 +74341,7 @@
 街頭演説,がいとうえんぜつ,roadside speech,soapbox speech
 街頭録音,がいとうろくおん,man-on-the-street interview
 炯々,炯炯,烱々,烱烱,冏々,冏冏,けいけい,glaring,piercing,penetrating
-炯眼,烱眼,けいがん,keen eyes,piercing gaze,penetrating eyes,insightfulness,acumen
+炯眼,烱眼,けいがん,keen eyes,piercing gaze,penetrating eyes,sharp eye,keen insight,keen perception
 忌引,忌引き,きびき,absence from work or school due to mourning,secluding oneself in mourning
 忌明け,忌明,忌み明け,いみあけ,きあけ,いみあき,きめい,end of mourning period
 改元,かいげん,change of era
@@ -74399,7 +74399,7 @@
 理事会,りじかい,board of directors,board of trustees
 理知的,理智的,りちてき,intellectual
 理屈っぽい,りくつっぽい,argumentative
-理屈屋,りくつや,quibbler
+理屈屋,理窟屋,りくつや,argumentative person,captious person,controversialist,quibbler
 理性的,りせいてき,rational
 理神論,りしんろん,deism
 理財,りざい,finance,economy
@@ -76829,7 +76829,7 @@
 隠し味,かくしあじ,subtle seasoning that brings out the flavor,secret ingredient
 隠退蔵物資,いんたいぞうぶっし,secretly hoarded goods
 隠れ家,かくれ家,隠れ処,隠処,隠れが,かくれが,かくれや,hiding place,hideout,refuge,retreat,hideaway
-隠し釘,隠しくぎ,かくしくぎ,concealed nail
+隠し釘,かくし釘,隠しくぎ,かくしくぎ,concealed nail
 隠れ場所,かくればしょ,hiding place,refuge
 隠し縫い,かくしぬい,concealed seams
 穏健派,おんけんは,moderate faction,moderates
@@ -89886,7 +89886,7 @@
 張形,張り形,はりかた,はりがた,dildo
 診断薬,しんだんやく,diagnostic drug,diagnostic pharmaceutical
 遺伝子多型,いでんしたけい,gene polymorphism
-捥り,もぎり,ticket collector,collecting tickets
+捥り,もぎり,モギリ,collecting tickets,ticket collector
 自動発効,じどうはっこう,self-executing
 自動実行,じどうじっこう,self-executing
 自動解凍,じどうかいとう,self-extracting
@@ -92166,7 +92166,7 @@
 食わせる,くわせる,to feed,to let eat,to serve,to force to eat,to support,to provide for,to keep,to inflict,to deal,to administer,to deceive,to cheat,to trick
 食わす,くわす,to feed,to let eat,to serve,to force to eat,to support,to provide for,to keep,to inflict,to deal,to administer,to deceive,to cheat,to trick
 ぐいっと,グイッと,ぐいと,グイと,suddenly and forcefully,in a single gulp,in one go
-ぐうたら,グータラ,lazybones,good-for-nothing,idler,slacker,loafer
+ぐうたら,ぐーたら,グータラ,lazybones,good-for-nothing,idler,slacker,loafer
 グサリ,ぐさり,deeply,hard
 具する,倶する,ぐする,to accompany,to follow,to assemble,to prepare
 ぐつぐつ,グツグツ,simmering,gently
@@ -94060,7 +94060,7 @@
 や,such things as,and  and,the minute,no sooner than,as soon as,be,is,o,oh,huh,what,hi,yes,what?,yes?,no?,is it?,isn't it?
 か,indicates a question,indicates an embedded question,indicates an indirect question,or,whether or not,either  or,some-,hmm,huh,I wonder,it might,maybe,perhaps it's,could it be,shouldn't we ?,why don't we ?,what about ?,how about ?,let's,may I ?,could you ?,some,roughly,about,circa,more or less,or so,won't you ?,why don't you ?,couldn't you ?,shouldn't you ?,why should ?,why would ?,would I  ?,who could have  ?,how could ?,how should ?,OK?,understand?,got it?,really?,right?,didn't  ?,oh,wow,how,come to think of,you say?,ah,now that,very,-al,-ial,-ic,-ical,-ish,-y,in that way
 で,at,in,at,when,by,with,so,therefore,then,accordingly,by the way,incidentally,now then,well
-に,at,in,on,during,to,toward,into,for,because of,for,with,by,from,as,per,in,for,a,and,in addition to,if,although
+に,at,in,on,to,toward,into,for,to,for,in order to,because of,for,with,by,due to,marks the target of an action,marks the recipient of an action,marks the outcome of a change,marks the result of an action,as,for,on,from,by,from,per,in,for,a,with,to,concerning,regarding,on,in,for,as for,about,indicates manner of action,indicates a state,by,with,using,via,marks the item of a decision,marks the thing being decided on,forms a honorific verb,indicates that an action is happening intensively,emphaticizes an action,and,in addition to,I did , but,while it is true that,though there may be,indicates respect toward the subject of the sentence,at,in,I can't , even if I wanted to,although there should be,even though one would expect,when,if,on,although,despite,even though,and yet,because,as,since,so
 へ,ェ,to,towards,for
 を,indicates direct object of action,indicates subject of causative expression,indicates an area traversed,indicates time  over which action takes place,indicates point of departure or separation of action,indicates object of desire, like, hate, etc.
 ものの,although,though,despite the fact that
@@ -103785,7 +103785,7 @@
 エネルギー源,エネルギーげん,energy source
 恋は盲目,こいはもうもく,reason ends where love begins,in love, reason takes flight,love is a blind guide,love makes fools of us all,love is blind
 御魚,おとと,fish
-鈍ちん,鈍チン,にぶちん,にぶチン,dullard
+鈍ちん,鈍チン,にぶちん,ニブちん,にぶチン,dullard
 ラップ音,ラップおん,rapping sound
 鳥天,とりてん,chicken tempura
 力になる,ちからになる,to be helpful,to be dependable,to stand by
@@ -156464,7 +156464,7 @@
 グリスボック,Cape grysbok,southern grysbok
 シャープグリスボック,Sharpe's grysbok,northern grysbok
 サイガ,saiga,saiga antelope
-阿呆たれ,阿呆垂れ,あほたれ,アホたれ,fool,idiot
+阿呆垂れ,阿呆たれ,あほたれ,アホたれ,アホタレ,fool,idiot
 阿呆口,あほうぐち,あほぐち,stupid chatter,foolish talk
 アホ面,阿呆面,あほづら,あほうづら,stupid face,foolish look on one's face
 阿房払い,あほうばらい,stripping a samurai of clothes and swords and exiling him naked
@@ -187438,7 +187438,7 @@
 デモイン,デ・モイン,Des Moines
 山菜おこわ,さんさいおこわ,glutinous rice with vegetables, esp. wild plants
 話が早い,はなしがはやい,being settled quickly,reaching a quick conclusion,no need to say any more,no problem
-四つ折り,四つ折,よつおり,folding into four,quarto
+四つ折り,四つ折,四ツ折り,よつおり,folding into four,quarto
 ルヴァン,ルバン,leaven,levain
 比較宗教学,ひかくしゅうきょうがく,comparative religion
 平成の大合併,へいせいのだいがっぺい,the great municipal mergers of the Heisei era,series of large-scale municipal mergers carried out between 1995 and 2010 under the temporary Special Mergers Law
@@ -192362,7 +192362,7 @@
 空軍機,くうぐんき,air force aircraft
 海軍機,かいぐんき,navy aircraft,naval aircraft
 陸軍機,りくぐんき,army aircraft
-わしゃわしゃ,in a tousled manner,in a ruffled fashion,in a disorderly manner,with a fluster,confusedly,messily,chaotically
+ワシャワシャ,わしゃわしゃ,in a tousled manner,in a ruffled fashion,in a disorderly manner,with a fluster,confusedly,messily,chaotically
 ＦＰＳ,エフ・ピー・エス,エフピーエス,first-person shooter,FPS,frames per second,FPS
 ＲＴＳ,アール・ティー・エス,アールティーエス,real-time strategy,RTS
 ＴＢＳ,ティー・ビー・エス,ティービーエス,turn-based strategy,TBS
@@ -208018,7 +208018,7 @@
 エンシェント,ancient
 六星占術,ろくせいせんじゅつ,rokusei senjutsu,six-star fortune-telling
 大殺界,だいさっかい,three-year period of bad luck
-辛味餅,からみもち,karamimochi,mochi topped with grated daikon, soy sauce, etc.
+からみ餅,辛味餅,辛み餅,辛味もち,辛みもち,からみもち,karamimochi,mochi topped with grated daikon, soy sauce, etc.
 土篩,つちふるい,earth sieve,dirt sifter
 プリンスエドワードアイランド,プリンス・エドワード・アイランド,Prince Edward Island
 アルバータ,Alberta
@@ -210843,6 +210843,7 @@
 桃山,ももやま,momoyama,traditional japanese baked sweet, made by mixing white bean paste with sugar, egg yolk, and a small amount of flour
 網を張る,網をはる,あみを張る,あみをはる,to cast a net,to stretch a net,to keep a sharp lookout,to cast a wide net,to set up an ambush
 笑み崩れる,笑みくずれる,えみくずれる,to break into a broad smile,to relax one's face into a smile
+悪役令嬢,あくやくれいじょう,villainess,antagonist young lady
 パンモロ,パンもろ,full view of panties,completely visible underwear,full panty shot
 名詮自性,名詮自称,みょうせんじしょう,めいせんじしょう,corresponding to one's actual qualities,being true to one's name
 投げ足,なげあし,having one's legs stretched out
@@ -210941,6 +210942,7 @@
 クッパー細胞,クッパーさいぼう,Kupffer cell
 内肛門括約筋,ないこうもんかつやくきん,internal anal sphincter
 移植前処置,いしょくぜんしょち,conditioning regimen
+如何かする,何うかする,どうかする,to not be in one's right mind,to lose one's mind,to go crazy,to be out of sorts,to be off,to be wrong,to deal with,to manage,to handle,to do  or something
 九皐,きゅうこう,deep, winding ravine,distant, innermost place
 祁寒,きかん,bitter cold,extreme cold
 血盟団,けつめいだん,League of Blood
@@ -210979,6 +210981,7 @@
 響もす,響動もす,どよもす,とよもす,to make  reverberate,to make resound,to shake
 具象化,ぐしょうか,exteriorization,embodiment,materialization
 くわっくわっ,クワックワッ,quack quack,cluck cluck,croak croak
+鹿を指して馬となす,鹿を指して馬と為す,しかをさしてうまとなす,to deliberately misinterpret,to invert right and wrong,to point to a deer and call it a horse
 喞子,しょくし,piston
 デカ乳,デカちち,huge breasts,large boobs
 どんがら汁,どんがらじる,dongarajiru,cod soup with vegetables and tofu in miso
@@ -211022,7 +211025,16 @@
 複合助詞,ふくごうじょし,compound particle
 能開法,のうかいほう,Vocational Abilities Development Promotion Act
 技能士,ぎのうし,certified skilled worker,licensed craftsman
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-05
+識閾下,識域下,しきいきか,subliminal,below the threshold of consciousness
+スフィンゴシン,sphingosine,sphingenine
+ティーツリー,ティー・ツリー,tea tree,ti tree
+弩弓,どきゅう,crossbow
+釣艇,ちょうてい,fishing boat
+弄言,哢言,ろうげん,playing with words,frivolous speech,flippant remarks,glib talk,verbosity
+思弁的,しべんてき,speculative,contemplative,theoretical,abstract
+最新型,最新形,さいしんがた,latest model,newest model,latest type
+疑問符立羽,ぎもんふたては,ギモンフタテハ,question mark butterfly
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-06
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
