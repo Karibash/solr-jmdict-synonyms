@@ -12989,7 +12989,7 @@
 ロードレース,ロード・レース,road race
 ロードワーク,ロード・ワーク,roadwork,jogging
 ローネック,ロー・ネック,low-necked collar
-ローヒール,low-heeled shoes
+ローヒール,ロー・ヒール,low heels,low-heeled shoes
 ローファット,low-fat
 ローブ,robe
 ローブラウ,lowbrow
@@ -13390,7 +13390,7 @@
 悪化,あっか,deterioration,getting worse,worsening,aggravation,degeneration,corruption
 悪果,あっか,bad results
 悪貨,あっか,あくか,bad money
-悪ガキ,悪餓鬼,悪がき,わるがき,わるガキ,ワルガキ,brat
+悪ガキ,悪餓鬼,悪がき,わるがき,ワルガキ,わるガキ,brat
 悪寒,おかん,chill,shakes,ague
 悪感,あっかん,あくかん,ill feeling,ill will,antipathy,animosity
 悪感化,あっかんか,evil influence
@@ -16538,7 +16538,7 @@
 下界,げかい,the earth below,the ground below,this world
 下絵,したえ,rough sketch,design,cartoon
 下顎,下あご,したあご,かがく,lower jaw,mandible
-下掛かる,下掛る,下がかる,しもがかる,シモがかる,to talk about indecent things
+下がかる,下掛かる,下掛る,しもがかる,シモがかる,to become indecent,to turn to vulgar topics,to become dirty
 下刈り,したがり,weeding
 下巻,げかん,second volume,third volume,last volume
 下期,しもき,second half of the  year
@@ -21533,7 +21533,7 @@
 怯む,ひるむ,to falter,to flinch,to recoil,to quail,to be intimidated,to feel daunted,to be discouraged,to hesitate
 恐らく,おそらく,probably,likely,in all likelihood,I suspect,I dare say,I'm afraid
 恐れ,怖れ,虞,畏れ,虞れ,おそれ,fear,horror,anxiety,concern,uneasiness,reverence,risk,danger,likelihood,fear,awe,reverence
-恐れおののく,恐れ戦く,恐れ慄く,おそれおののく,to tremble with fear
+恐れおののく,恐れ戦く,恐れ慄く,畏れおののく,畏れ慄く,畏れ戦く,おそれおののく,to tremble with fear
 恐れ入る,畏れ入る,恐れいる,おそれいる,to be sorry,to beg someone's pardon,to feel small,to be much obliged,to be grateful,to be thankful,to be amazed,to be greatly impressed,to admire,to be dumbfounded,to be confounded,to be stunned,to be fed up,to be defeated,to be beaten
 恐ろしい,怖ろしい,畏ろしい,おそろしい,terrible,dreadful,terrifying,frightening,surprising,startling,tremendous,amazing
 恐喝,きょうかつ,blackmail,extortion,threat
@@ -26087,7 +26087,7 @@
 剛健,ごうけん,vigour,vigor,virility,health,sturdiness
 剛性,ごうせい,stiffness,rigidity
 剛体,ごうたい,rigid body
-剛直,ごうちょく,upright,incorruptible,morally courageous,firm
+剛直,ごうちょく,upright,incorruptible,morally courageous,firm,erect penis
 剛毛,ごうもう,bristle,seta,stiff hair,coarse hair
 強力,剛力,豪力,ごうりき,herculean strength,mountain carrier-guide
 劫火,ごうか,こうか,world-destroying conflagration
@@ -26624,7 +26624,7 @@
 恨みっこなし,恨みっこ無し,うらみっこなし,with no hard feelings
 恨み言,怨み言,恨み事,怨み事,恨みごと,怨みごと,うらみ言,うらみごと,grudge,complaint,reproach
 恨む,怨む,うらむ,to bear a grudge against,to resent,to blame,to curse,to feel bitter towards
-恨めしい,怨めしい,怨しい,恨しい,うらめしい,reproachful,hateful,bitter
+恨めしい,怨めしい,怨しい,恨しい,うらめしい,resentful,bitter,reproachful,hateful,detestable,regrettable,disappointing,frustrating
 恨事,こんじ,regrettable matter
 懇ろ,懇,ねんごろ,ねもころ,kind,courteous,hospitable,warmly respectful,intimate,becoming intimate,having an intimate relationship
 懇意,こんい,friendship,familiar terms,intimacy,kindness,goodwill
@@ -37386,7 +37386,7 @@
 総数,そうすう,total,count
 総勢,そうぜい,all members,whole army
 総説,綜説,そうせつ,review article,general remarks
-総選挙,そうせんきょ,general election
+総選挙,そうせんきょ,general election,fan popularity voting,popularity contest
 総体,そうたい,the whole,all,on the whole,generally,all in all,all things considered,from the start,from the outset,in the first place
 総代,そうだい,representative
 総長,そうちょう,president,vice-chancellor,chancellor,secretary-general,director,leader
@@ -48515,7 +48515,7 @@
 法律上,ほうりつじょう,legal,from a legal standpoint,legally speaking,de jure
 法令,ほうれい,statute,law,act,ordinance,regulation
 泡,沫,あわ,あぶく,bubble,foam,froth,suds,lather,head
-泡を食う,あわをくう,to be flurried,to be confused,to lose one's head
+泡を食う,泡を喰う,あわを食う,泡をくう,あわを喰う,あわをくう,to be flurried,to be confused,to lose one's head
 泡盛,あわもり,awamori,strong Okinawan liquor distilled from rice or millet
 泡沫的,ほうまつてき,transient,passing,fleeting,ephemeral,like a bubble on liquid
 泡立つ,泡だつ,あわだつ,to bubble,to foam,to froth
@@ -52718,7 +52718,7 @@
 六十四分音符,ろくじゅうしぶおんぷ,64th note,hemidemisemiquaver,semidemisemiquaver
 六十余州,ろくじゅうよしゅう,66-odd provinces of old Japan,60-odd states
 六十路,むそじ,age sixty,one's sixties
-六重唱,ろくじゅうしょう,vocal sextet
+六重唱,ろくじゅうしょう,sextet
 六重奏,ろくじゅうそう,instrumental sextet
 六書,りくしょ,ろくしょ,the six classes of Chinese characters,the six historical styles of writing Chinese characters,Hexateuch
 六情,ろくじょう,the six emotions
@@ -57273,7 +57273,6 @@
 経済的,けいざいてき,economic,financial,economical,thrifty,frugal
 恋する,こいする,to fall in love,to love
 工学部,こうがくぶ,faculty of engineering,school of engineering,college of engineering,department of engineering
-刻一刻と,こくいっこくと,moment by moment,hour by hour
 国力,こくりょく,national power
 強張る,硬張る,強ばる,こわばる,to stiffen,to become stiff,to harden
 最大限,さいだいげん,maximum,to the maximum degree,to the full,at a maximum,at the most
@@ -60007,7 +60006,7 @@
 降嫁,こうか,marriage of an Imperial princess to a subject
 戸戸,戸々,ここ,each house,every house
 戸口,戸々,戸戸,ここう,houses and inhabitants,population
-心温まる,心暖まる,こころあたたまる,to be heart-warming
+心あたたまる,心温まる,心暖まる,こころあたたまる,to be heart-warming
 心が通う,こころがかよう,to understand each other well,to relate to,to strike a sympathetic chord
 心が動く,こころがうごく,to take a fancy to something,to be moved,to feel inclined to
 心配り,心くばり,こころ配り,こころくばり,exerting care,attention,consideration,thoughtfulness
@@ -73086,7 +73085,7 @@
 連吟,れんぎん,duet
 連声,れんじょう,sandhi,renjō,morphological change of an initial syllable of the second kanji under the influence of the historical coda of the first kanji in a word
 連夜,れんや,every evening,night after night
-連呼,れんこ,calling repeatedly,pronouncing successively
+連呼,れんこ,calling repeatedly,shouting repeatedly,pronouncing successively
 連枝,れんし,off-shoot,noble  sibling
 連発銃,れんぱつじゅう,repeating firearm,a repeater
 連奏,れんそう,performance by two or more musicians playing similar instruments
@@ -77704,7 +77703,7 @@
 燃え残り,もえのこり,embers
 燃えさし,燃え差し,燃え止し,もえさし,ember,brand,stub
 燃料棒,ねんりょうぼう,fuel rod
-燃え滓,燃えかす,もえかす,cinders
+燃えカス,燃えかす,燃え滓,もえかす,cinders,ashes
 燃え種,もえくさ,kindling
 難文,なんぶん,difficult sentence
 難民条約,なんみんじょうやく,Convention Relating to the Status of Refugees
@@ -86880,8 +86879,8 @@
 貸出用,かしだしよう,circulation or lending
 もぎ取る,捥ぎ取る,もぎとる,to pluck off,to pick,to break off,to tear off,to wrest,to wrench free,to snatch
 頑張って,がんばって,do your best,go for it,hang in there,keep at it
-鰺刺,あじさし,アジサシ,tern
-極鰺刺,きょくあじさし,キョクアジサシ,Arctic tern
+鯵刺,鯵刺し,鰺刺,鰺刺し,あじさし,アジサシ,tern
+極鰺刺,極鯵刺,きょくあじさし,キョクアジサシ,Arctic tern
 背黒鰺刺,セグロアジサシ,せぐろあじさし,sooty tern
 ラット,rat
 三悪道,さんあくどう,さんなくどう,さんまくどう,the world of hungry spirits and the world of animals,three evil worlds hell
@@ -93177,7 +93176,7 @@
 係合,けいごう,joining elements so they mate or hook together,engagement
 組織図,そしきず,organization chart,organisation chart
 未必の故意,みひつのこい,conscious neglect,willful negligence,wilful negligence
-当てにする,あてにする,to count on,to expect,to put confidence in,to trust in,to depend on
+当てにする,あてにする,アテにする,to count on,to expect,to put confidence in,to trust in,to depend on
 サインイン,sign-in
 撚る,縒る,よる,to twist,to lay
 外適応,がいてきおう,exaptation
@@ -97370,9 +97369,9 @@
 ラマダン,ラマダーン,Ramadan,fasting month
 酸塊,すぐり,スグリ,gooseberry,currant,plants from the Ribes genus
 赤酸塊,赤すぐり,赤スグリ,あかすぐり,あかスグリ,アカスグリ,redcurrant,red currant
-黒酸塊,黒すぐり,黒スグリ,くろすぐり,くろスグリ,クロスグリ,blackcurrant
+黒すぐり,黒スグリ,黒酸塊,くろすぐり,クロスグリ,くろスグリ,blackcurrant
 西洋すぐり,西洋酸塊,せいようすぐり,セイヨウスグリ,
-黒房酸塊,黒房すぐり,黒房スグリ,くろふさすぐり,くろふさスグリ,クロフサスグリ,blackcurrant
+黒房すぐり,黒房酸塊,黒房スグリ,クロフサスグリ,くろふさすぐり,blackcurrant
 房酸塊,房すぐり,房スグリ,ふさすぐり,ふさスグリ,フサスグリ,cultivated currant
 忠実忠実しい,まめまめしい,hardworking,painstaking,diligent,conscientious,sincere
 高慢ちき,こうまんちき,arrogant,haughty,stuck-up,arrogant bastard,snob
@@ -97424,7 +97423,7 @@
 非合法化,ひごうほうか,banning,making something illegal
 べとつく,ベトつく,to be sticky
 マストアイテム,マスト・アイテム,must-have,essential item
-絵面,絵づら,えづら,impression given by a painting or image
+絵面,絵づら,絵ヅラ,えづら,impression given by a painting or image
 ガムテ,packing tape
 興産,こうさん,industry,industries
 配属者,はいぞくしゃ,person attached to some unit
@@ -99211,7 +99210,7 @@
 ロケ地,ロケち,ロケチ,local site,location for making or filming a movie
 ゆすり取る,強請り取る,ゆすりとる,to extort,to shake down
 エキュー,European Currency Unit,ECU
-相見積,合い見積,相みつ,合いみつ,あいみつ,competitive bids,competitive bidding
+相見積,合い見積,相みつ,合いみつ,あいみつ,アイミツ,competitive bids,competitive bidding
 経済通貨同盟,けいざいつうかどうめい,Economic and Monetary Union,EMU
 為替相場メカニズム,かわせそうばメカニズム,Exchange Rate Mechanism,ERM
 萱草,かんぞう,カンゾウ,daylily,day lily
@@ -114134,7 +114133,7 @@
 駱駝虫,らくだむし,ラクダムシ,inocelliid snakefly
 立羽蝶,たてはちょう,タテハチョウ,nymphalid
 黄立羽,黄蛺蝶,黄蛺,きたては,キタテハ,Asian comma butterfly
-瑠璃立羽,るりたては,ルリタテハ,blue admiral
+瑠璃立羽,ルリタテハ,るりたては,blue admiral
 キモ可愛い,きも可愛い,キモかわいい,きもかわいい,キモカワイイ,both repellant and attractive at the same time,both cute and disgusting
 男根期,だんこんき,phallic stage
 肛門期,こうもんき,anal stage
@@ -127693,7 +127692,7 @@
 天門冬,てんもんどう,dried Chinese asparagus root
 鳴子百合,なるこゆり,ナルコユリ,Solomon's seal
 紅葉李,べにばすもも,Prunus cerasifera var. atropurpurea,pissard plum
-布袋葵,ほていあおい,ホテイアオイ,common water hyacinth
+布袋葵,ホテイアオイ,ほていあおい,common water hyacinth
 合歓の木,合歓木,夜合樹,ネムノキ,ねむのき,silk tree
 風船葛,フウセンカズラ,ふうせんかずら,balloon vine,love-in-a-puff
 紅葉葵,もみじあおい,モミジアオイ,scarlet rosemallow
@@ -132339,7 +132338,7 @@
 汎論理主義,はんろんりしゅぎ,panlogism
 農村医学,のうそんいがく,rural medicine
 熱帯医学,ねったいいがく,tropical medicine
-中国医学,ちゅうごくいがく,Chinese medicine
+中国医学,ちゅうごくいがく,traditional Chinese medicine,TCM
 心身医学,しんしんいがく,psychosomatic medicine
 社会医学,しゃかいいがく,social medicine
 航空医学,こうくういがく,aviation medicine
@@ -139194,7 +139193,7 @@
 明暗を分ける,めいあんをわける,to decide the outcome,to be very different,to be sharply contrasted
 性の解放,せいのかいほう,sexual liberation
 漁り猫,すなどりねこ,スナドリネコ,fishing cat
-漁り,漁,すなどり,fishing,collecting shells,fisherman
+漁り,漁,すなどり,fishing,collecting shells,fisherman,fisher
 翅鞘,ししょう,elytron
 洋算,ようざん,ようさん,Western arithmetic
 足搦,あしがら,leg lock
@@ -142806,7 +142805,7 @@
 信濃金梅,しなのきんばい,シナノキンバイ,Trollius riederianus var. japonicus
 ひどい目にあわせる,ひどい目に遭わせる,酷い目にあわせる,酷い目に遭わせる,ひどいめにあわせる,to bring someone to grief,to give someone hell
 被爆国,ひばくこく,country that has been a victim of nuclear bombing
-ことん,clunk,thump
+コトン,ことん,with a clink,with a tap,with a click,with a clunk,instantly
 ぴゅう,ぴゅん,ピュウッ,ピュー,whiz,swoosh,whoosh,whistling sound
 ところてん式に,ところてんしきに,systematically,in turn,consequentially,mechanically,automatically
 屁とも思わない,へともおもわない,not give a damn,not care a bit
@@ -151049,7 +151048,6 @@
 鑑評会,かんぴょうかい,awards ceremony recognizing excellence
 優秀賞,ゆうしゅうしょう,award of excellence,merit award
 和酒,わしゅ,traditional Japanese alcohol
-閉てる,たてる,to shut,to close
 山月,さんげつ,moon over a mountain
 誰一人,誰ひとり,だれ一人,だれひとり,anyone,a single person,no one,nobody
 サイトマップ,サイト・マップ,site map,sitemap
@@ -185415,7 +185413,7 @@
 下総,しもうさ,Shimōsa
 伯耆,ほうき,Hōki
 備後,びんご,Bingo
-因幡,いなば,Inaba
+因幡,稲羽,いなば,Inaba
 岩代,いわしろ,Iwashiro
 陸中,りくちゅう,Rikuchū
 遠江,とおとうみ,Tōtōmi
@@ -210945,6 +210943,7 @@
 如何かする,何うかする,どうかする,to not be in one's right mind,to lose one's mind,to go crazy,to be out of sorts,to be off,to be wrong,to deal with,to manage,to handle,to do  or something
 九皐,きゅうこう,deep, winding ravine,distant, innermost place
 祁寒,きかん,bitter cold,extreme cold
+憲政の常道,けんせいのじょうどう,standard procedures of constitutional government,convention that the majority party in the lower house forms the cabinet,convention that leaders of the two major parties alternate as prime minister
 血盟団,けつめいだん,League of Blood
 五一五事件,五・一五事件,ごいちごじけん,May 15 incident
 挙国一致内閣,きょこくいっちないかく,government of national unity,national unity cabinet
@@ -211030,11 +211029,31 @@
 ティーツリー,ティー・ツリー,tea tree,ti tree
 弩弓,どきゅう,crossbow
 釣艇,ちょうてい,fishing boat
+港都,こうと,port town,seaport
 弄言,哢言,ろうげん,playing with words,frivolous speech,flippant remarks,glib talk,verbosity
 思弁的,しべんてき,speculative,contemplative,theoretical,abstract
 最新型,最新形,さいしんがた,latest model,newest model,latest type
-疑問符立羽,ぎもんふたては,ギモンフタテハ,question mark butterfly
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-06
+因州,いんしゅう,Inaba
+武器屋,ぶきや,weapon shop,weapon store
+帝国軍,ていこくぐん,imperial army
+隠し戸,かくしど,hidden door,secret door,trapdoor
+隠し金,かくしがね,hidden money,secret funds,hidden gold
+隠し戸棚,かくしとだな,hidden cupboard,secret cabinet,concealed closet
+隠し金庫,かくしきんこ,hidden safe,secret safe,hidden vault
+ギモンフタテハ,question mark butterfly
+比例性,ひれいせい,proportionality
+混成曲,こんせいきょく,medley,pastiche,potpourri
+オウム目,オウムめ,Psittaciformes
+双臀,そうでん,buttocks
+象,きさ,elephant
+同室者,どうしつしゃ,roommate,person sharing a room,flatmate
+使い残す,つかいのこす,to leave  unused,to not use completely,to leave money unspent
+煮殺す,にころす,to boil to death,to kill by boiling
+うねくる,to twist and turn,to meander,to undulate,to wriggle
+引きむしる,引き毟る,ひき毟る,引毟る,ひきむしる,to tear off forcefully,to pluck off,to pull off
+自滅的,じめつてき,self-destructive,self-defeating,suicidal
+コーディアル,コーデイアル,cordial,cordial
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-07
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
