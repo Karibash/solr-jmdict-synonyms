@@ -23854,7 +23854,7 @@
 元軍,げんぐん,Yuan dynasty Chinese-Mongolian military
 元結い,元結,もとゆい,もとい,もっとい,cord for tying the hair
 元号,げんごう,name of an imperial era,Japanese era name
-元込め,もとごめ,breech-loading
+元込め,元込,もとごめ,breech-loading
 元込め銃,もとごめじゅう,breechloader
 元三,がんざん,がんさん,New Year's period
 元始,げんし,origin
@@ -29114,7 +29114,7 @@
 持ち寄る,持ちよる,持寄る,もち寄る,もちよる,to gather,to gather
 持ち去る,もちさる,to take away,to carry away
 持ち古す,もちふるす,to have long in use
-持ち合わせる,持ちあわせる,持ち合せる,もちあわせる,to happen to have on hand or in stock
+持ち合わせる,持ちあわせる,持ち合せる,もちあわせる,to happen to have,to have on hand,to carry
 持ち込む,持ちこむ,持込む,もちこむ,to bring in,to take in,to carry in,to approach,to bring,to lodge,to propose,to bring,to take
 持ち出す,持出す,もちだす,to take out,to carry out,to bring out from where it belongs,to mention something,to broach a topic,to bring up,to raise,to mention
 持ち上げる,持ちあげる,持上げる,もちあげる,to elevate,to raise,to lift up,to flatter,to extol,to praise to the sky
@@ -51776,7 +51776,7 @@
 立ちすくむ,立ち竦む,たちすくむ,to be petrified,to be unable to move,to be paralyzed,to be stupefied
 立ち込める,立ちこめる,立ち籠める,たち込める,立ち篭める,立込める,立ち罩める,たちこめる,to hang over,to shroud,to enshroud,to envelop,to screen
 立つ鳥跡を濁さず,立つ鳥あとを濁さず,立つ鳥後を濁さず,発つ鳥あとを濁さず,発つ鳥後を濁さず,発つ鳥跡を濁さず,たつとりあとをにごさず,it is simply common courtesy to clean up after yourself,a bird does not foul the nest it is about to leave,on leaving a place, one should see that all is in good order
-立てる,たてる,to stand up,to put up,to set up,to erect,to raise,to thrust into,to bury into,to dig into,to make,to start,to raise,to cause,to make,to establish,to set up,to develop,to formulate,to put up,to make,to treat with respect,to give  their due,to make  look good,to avoid embarrassing,to sharpen,to make clear,to shut,to close,to make tea,to perform the tea ceremony,to divide by,to do  vigorously
+立てる,起てる,閉てる,たてる,to stand  up,to put upright,to set up,to erect,to raise,to turn up,to plant,to thrust into,to bury into,to dig into,to make,to let out,to produce,to raise,to kick up,to stir up,to cause,to send up,to give off,to make,to formulate,to lay out,to establish,to develop,to draw up,to set,to spread,to circulate,to put up,to appoint as,to make,to have fulfill,to found,to establish,to set up,to make,to sustain,to live off of,to establish  as,to make a reputation,to open,to start,to do logically,to lay out coherently,to sharpen,to list,to give,to make  for,to treat with respect,to give  their due,to speak,to make,to declare,to stir up,to work up,to excite,to intensify,to lend one's ears,to listen attentively,to save  face,to make  look good,to avoid embarassing,to prepare,to heat,to make,to perform,to shut,to close,to grow out,to divide by,to send,to make,to perform,to do  vigorously,to do  to the utmost,to do  remarkably
 立て掛ける,立てかける,たてかける,to lean against,to set against
 立て替える,立替える,たてかえる,to pay for someone else,to lend someone the money to pay for,to make a temporary payment on someone's behalf
 立て直る,たてなおる,to recover,to rally,to pick up
@@ -128597,7 +128597,7 @@
 眠りこける,ねむりこける,to sleep like a log,to sleep deeply
 愛器,あいき,favourite musical instrument, utensil, etc.
 茶湯,ちゃとう,an offering of tea and hot water made to Buddha or the spirit of the deceased,a tea infusion,tea and hot water,tea ceremony
-点てる,たてる,to make tea,to perform the tea ceremony
+点てる,たてる,to make,to perform
 様式化,ようしきか,stylization,conventionalization,standardization,formalization
 茶事,ちゃごと,ちゃじ,さじ,tea gathering,some matter concerning tea,family tea gathering held in memory of deceased ancestors
 大寄せ,大ヨセ,大寄,おおよせ,starting an important maneuver at the end of a game,calling many prostitutes and entertainers and having a big party
@@ -134470,7 +134470,7 @@
 スケープゴーティング,scapegoating
 シュナウザー,シュナウツァー,schnauzer
 スクールフィギュア,スクール・フィギュア,school figure,compulsory figure
-シンチレーター,scintillator
+シンチレータ,シンチレーター,scintillator
 シザースジャンプ,シザース・ジャンプ,scissors jump
 スクランブラー,scrambler
 スクリーンパス,スクリーン・パス,screen pass
@@ -208179,7 +208179,7 @@
 カクッと,カクっと,かくっと,collapsing,losing strength,slumping,losing balance
 甲州味噌,甲州みそ,こうしゅうみそ,Kōshū miso,traditional miso of Yamanashi Prefecture fermented using both rice and barley kōji
 暁現象,あかつきげんしょう,dawn phenomenon,dawn effect
-ノーズシャドウ,nose contouring
+ノーズシャドウ,ノーズシャドー,nose contouring
 ドピュ,どぴゅ,ドピュッ,どぴゅっ,with a splurt,spurting,gushing out
 気道閉塞,きどうへいそく,airway obstruction,respiratory obstruction
 汚ッサン,汚っさん,おっさん,dirty old man
@@ -211053,7 +211053,11 @@
 引きむしる,引き毟る,ひき毟る,引毟る,ひきむしる,to tear off forcefully,to pluck off,to pull off
 自滅的,じめつてき,self-destructive,self-defeating,suicidal
 コーディアル,コーデイアル,cordial,cordial
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-07
+自家蛍光,じかけいこう,autofluorescence
+線形公園,せんけいこうえん,linear park
+痴れ事,しれ事,しれごと,foolish act,folly,nonsense,absurdity,rubbish
+潜艦,せんかん,submarine
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-08
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
