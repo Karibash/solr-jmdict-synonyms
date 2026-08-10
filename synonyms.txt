@@ -250,7 +250,7 @@
 上さん,かみさん,カミさん,wife,wife,landlady
 かも知れない,かもしれない,may,might,perhaps,may be,possibly
 かも知れません,かもしれません,may,might,perhaps,may be,possibly
-から,from,since,from,by,because,since,out of,through,after,since,expresses sympathy or warning
+から,from,since,at,through,via,by,from,because,as,since,so,therefore,from,of,out of,from,out of,from among,after,since,from,by,from,based on,according to,in,by,because of,from,out of,due to,by,owing to,as much as,upwards of,at least,more than,marks the starting state of a change,expresses warning, sympathy, excitement or determination emphasizes the previous statement,trails off with an implied reason or consequence left unstated,so,even,to begin with, even,right from,starting with,it is precisely due to,it is because,now that,since,so long as,because,so,therefore,accordingly,consequently,on those grounds,that is why,for that reason,just from,simply by,by,with,by means of,via
 揶揄い,からかい,teasing,banter,ribbing,jest,making fun,poking fun
 からから,カラカラ,カラッカラ,parched,dried-up,bone-dry,empty,hollow,rattling,clattering,laughing loudly,roaring with laughter
 絡繰り,絡繰,機関,からくり,カラクリ,mechanism,machinery,contrivance,device,trick,dodge,mechanical doll,string puppet
@@ -3296,7 +3296,7 @@
 カツレツ,cutlet
 カツ丼,かつ丼,カツどん,かつどん,katsudon,pork cutlet served on top of a bowl of rice
 カテーテル,catheter
-カテコールアミン,catecholamine
+カテコールアミン,カテコラミン,catecholamine
 カテゴリ,カテゴリー,カテゴリィ,category
 カテドラル,カセドラル,cathedral
 カデンツ,cadence
@@ -53533,7 +53533,7 @@
 羚羊,れいよう,レイヨウ,antelope
 羸弱,るいじゃく,weakness,feebleness,imbecility
 翕然,きゅうぜん,as one,with one accord,unanimously
-翔る,駆ける,翔ける,かける,to soar,to fly,to run,to dash
+翔る,駆ける,かける,to soar,to fly,to run,to dash
 翡翠色,ひすいいろ,jade green
 翩翻,へんぽん,fluttering,flapping,waving
 耄碌,もうろく,senility,dotage,decrepitude
@@ -63872,7 +63872,7 @@
 念誦,ねんじゅ,invocation
 陰気くさい,陰気臭い,いんきくさい,dismal,gloomy
 陰々滅々,陰陰滅滅,いんいんめつめつ,gloomy and depressing,mournful
-陰陽師,おんみょうじ,おんようじ,おみょうじ,おんにょうし,いんようし,diviner,sorcerer,exorcist,medium
+陰陽師,おんみょうじ,おんようじ,いんようし,yin-yang diviner,sorcerer,exorcist,medium
 陰謀家,いんぼうか,conspirator,plotter
 琴爪,ことづめ,koto plectrum
 琴柱,箏柱,筝柱,ことじ,bridge of a koto
@@ -68874,9 +68874,9 @@
 船幅,せんぷく,ship's beam
 船渠,せんきょ,dock
 船路,ふなじ,sea route,voyage
-船端,舷,ふなばた,side of a boat,gunwale
+船端,舟端,舷,船ばた,舟ばた,ふなばた,side of a boat,gunwale
 船影,せんえい,ふなかげ,sign of a ship,outline of a ship
-船縁,船べり,舷,ふなべり,side of a boat,gunwale
+船べり,船縁,舟べり,舷,ふなべり,side of a boat,gunwale
 船霊,船玉,船魂,ふなだま,guardian deity of a ship
 船積み,船積,舟積,舟積み,ふなづみ,lading,shipment
 船頭,せんどう,boatman,ferryman
@@ -95104,7 +95104,7 @@
 好評嘖々,好評嘖嘖,こうひょうさくさく,enjoying great popularity,receiving widespread high praise,being a great success with the public
 乞食坊主,こじきぼうず,こつじきぼうず,Buddhist monk
 歳々年々,歳歳年年,さいさいねんねん,annually,every year,year in and year out,from year to year
-一昨々年,一昨昨年,さきおととし,さおととし,さいととし,いっさくさくねん,two years before last,three years back
+一昨々年,一昨昨年,さきおととし,いっさくさくねん,さおととし,さいととし,two years before last,three years back,three years ago
 砂塵濛々,砂塵濛濛,砂塵朦々,砂塵朦朦,さじんもうもう,big clouds of dust,haze of dust
 四季折々,四季折折,しきおりおり,from season to season,season by season,of each season,in each season
 詩人墨客,しじんぼっかく,しじんぼっきゃく,poets and artists,persons who take delight in such refined pursuits as poetry, literature, painting, and calligraphy
@@ -98183,7 +98183,7 @@
 近似解,きんじかい,approximate solution
 重力場,じゅうりょくば,gravitational field
 ハドロン,hadron
-かませ犬,噛ませ犬,咬ませ犬,嚙ませ犬,かませいぬ,straw man,fall guy,foil,patsy
+かませ犬,噛ませ犬,咬ませ犬,嚙ませ犬,かませいぬ,sacrificial opponent,jobber,foil,weak player brought in to make the opponent appear stronger
 メソン,meson
 バリオン,baryon
 レプトン,lepton
@@ -102169,8 +102169,8 @@
 身元不明者,みもとふめいしゃ,John Doe,Jane Doe,person unknown
 楮,こうぞ,かぞ,コウゾ,kozo,Japanese paper mulberry tree
 漉く,抄く,すく,to make something  from wet, pulpy material by spreading it thin and drying it
-ガン見,がん見,がんみ,gazing at,staring at fixedly,eyeballing,glaring,giving a hard look
-チラ見,ちら見,ちらみ,glancing look,quick glimpse
+ガン見,がん見,ガンみ,staring at,gazing at,eyeballing,glaring,giving a hard look
+チラ見,ちら見,ちらみ,taking a glance at,glimpsing at,taking a peek at,quick look,peep
 チラ見せ,ちら見せ,チラみせ,ちらみせ,giving,giving a glimpse
 スタバる,to go to Starbucks
 カフェる,to go to a cafe
@@ -133494,7 +133494,7 @@
 枕草紙,まくらぞうし,まくらそうし,private diary,pillow book,book of erotic pictures
 パンパンガール,パンパン・ガール,prostitute,pan-pan girl
 プロトアネモニン,protoanemonin
-コスチュームプレー,コスチューム・プレー,cosplay,period drama,costume drama,costume play
+コスチュームプレイ,コスチューム・プレイ,コスチュームプレー,period drama,costume drama,costume play,cosplay
 白イタチ,白いたち,白鼬,しろいたち,シロイタチ,ferret
 機能性食品,きのうせいしょくひん,functional food
 保健機能食品,ほけんきのうしょくひん,health-promoting food
@@ -209684,7 +209684,7 @@
 糸巻海星,イトマキヒトデ,いとまきひとで,blue bat star
 夏虫疑氷,夏虫疑冰,かちゅうぎひょう,being narrow-minded due to limited experience,refusing to believe in things outside of one's own limited experience,a summer insect doubts the existence of ice
 疑氷,ぎひょう,lingering doubt,suspicion
-快美,かいび,pleasantly beautiful,extremely pleasant,sweet,delicious,mellow
+快美,かいび,extremely pleasant,sweet,delicious,mellow,pleasantly beautiful
 恥も外聞も,恥じも外聞も,はじもがいぶんも,shame and public reputation,sense of shame and concern for appearances
 快楽中枢,かいらくちゅうすう,pleasure center,reward center
 変身バンク,へんしんバンク,stock transformation sequence
@@ -210960,6 +210960,7 @@
 先行車,せんこうしゃ,preceding vehicle,car ahead,vehicle in front
 至上命題,しじょうめいだい,absolute priority,supreme imperative,highest priority task,most pressing issue
 至上課題,しじょうかだい,absolute priority,supreme imperative,highest priority task,most pressing issue
+引くに引けない,引くに引けぬ,引くに引かれぬ,ひくにひけない,unable to back down,unable to withdraw,stuck in a position where one cannot pull back,committed
 無断借用,むだんしゃくよう,unauthorized borrowing,borrowing without permission,unauthorized use,misappropriation,plagiarism
 套路,とうろ,taolu,martial arts routine
 銃手,じゅうしゅ,gunner,shooter,rifleman
@@ -211071,12 +211072,22 @@
 稼得能力,かとくのうりょく,earning capacity,earning potential
 稼得,かとく,earning
 海魔,かいま,sea monster,sea demon
+翔ける,翔る,かける,to soar,to fly
 天翔ける,天駆ける,天翔る,天かける,天がける,あまがける,あまかける,to soar
 河心,かしん,center of a river,middle of a river,midstream
 邪笑,じゃしょう,wicked smile,evil grin,sinister laugh
-編訳,へんやく,translation and editing
+編訳,へんやく,editing and translating,compilation and translation,edited and translated by
 操縦者,そうじゅうしゃ,pilot,operator,steersman,helmsman
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-09
+編訳者,へんやくしゃ,editor-translator,translator-editor
+淫悦,いんえつ,lewd pleasure,lascivious delight,carnal joy
+消えてしまいたい,きえてしまいたい,wanting to disappear,wishing the ground would swallow one up
+チラ見え,ちら見え,ちらみえ,catching a glimpse,catching sight,showing briefly
+腹肉,はらにく,belly fat,belly flesh
+元禄時代,げんろくじだい,Genroku period,Genroku era
+有史時代,ゆうしじだい,historical times,historical period
+鹿鳴館時代,ろくめいかんじだい,Rokumeikan era,period of Westernization in Meiji-era Japan, marked by Western-style balls at the Rokumeikan
+政策金融機関,せいさくきんゆうきかん,policy-based financial institution,policy-driven financial institution,policy bank
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-10
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
