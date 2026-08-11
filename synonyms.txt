@@ -250,7 +250,7 @@
 上さん,かみさん,カミさん,wife,wife,landlady
 かも知れない,かもしれない,may,might,perhaps,may be,possibly
 かも知れません,かもしれません,may,might,perhaps,may be,possibly
-から,from,since,at,through,via,by,from,because,as,since,so,therefore,from,of,out of,from,out of,from among,after,since,from,by,from,based on,according to,in,by,because of,from,out of,due to,by,owing to,as much as,upwards of,at least,more than,marks the starting state of a change,expresses warning, sympathy, excitement or determination emphasizes the previous statement,trails off with an implied reason or consequence left unstated,so,even,to begin with, even,right from,starting with,it is precisely due to,it is because,now that,since,so long as,because,so,therefore,accordingly,consequently,on those grounds,that is why,for that reason,just from,simply by,by,with,by means of,via
+から,from,since,at,through,via,by,from,because,as,since,so,therefore,from,of,out of,from,out of,from among,after,since,from,by,from,based on,according to,in,by,because of,from,out of,due to,by,owing to,as much as,upwards of,at least,more than,marks the starting state of a change,expresses warning, sympathy, excitement or determination,emphasizes the previous statement,trails off with an implied reason or consequence left unstated,so,even,to begin with, even,right from,starting with,it is precisely due to,it is because,now that,since,so long as,because,so,therefore,accordingly,consequently,on those grounds,that is why,for that reason,just from,simply by,by,with,by means of,via
 揶揄い,からかい,teasing,banter,ribbing,jest,making fun,poking fun
 からから,カラカラ,カラッカラ,parched,dried-up,bone-dry,empty,hollow,rattling,clattering,laughing loudly,roaring with laughter
 絡繰り,絡繰,機関,からくり,カラクリ,mechanism,machinery,contrivance,device,trick,dodge,mechanical doll,string puppet
@@ -1609,7 +1609,7 @@
 アプローチライト,アプローチ・ライト,approach light
 アヘッド,ahead
 アベイラビリティ,アベイラビリティー,availability
-アベック,couple,back-to-back,dual,tandem,double
+アベック,アヴェック,back-to-back,dual,tandem,double,couple
 アベニュー,アヴェニュー,アヴェニュ,avenue,boulevard
 アベレージ,average
 アベレージゴルファー,アベレージ・ゴルファー,average golfer
@@ -15885,7 +15885,7 @@
 縁日,えんにち,temple festival,fair,fete day,day related to a particular deity and thought to bring divine blessing to those who celebrate it
 艶,つや,ツヤ,gloss,luster,lustre,shine,sheen,polish,mellowness,youthfulness,interest,appeal,charm,color,colour,feeling,romance,love,sexiness
 艶かしい,艶めかしい,生めかしい,媚かしい,なまめかしい,charming,captivating,bewitching,seductive,coquettish
-艶めく,つやめく,to be shiny,to be glossy,to be alluring,to look sexy
+艶めく,つやめく,to be glossy,to glisten,to shine with a luster,to be shiny,to look alluring,to be sexy,to be seductive
 艶やか,艷やか,あでやか,glamorous,charming,fascinatingly elegant,lovely,gorgeous,beguiling,bewitching
 艶事,つやごと,love affair,romance
 艶種,つや種,つやだね,love affair,love rumour,love rumor
@@ -17820,7 +17820,7 @@
 雅味,がみ,refinement,elegance,sophistication,gracefulness
 雅量,がりょう,magnanimity,generosity,tolerance
 餓鬼,がき,ガキ,brat,kid,urchin,little devil,preta,hungry ghost
-ガキ大将,がき大将,餓鬼大将,がきだいしょう,leader of the pack,neighborhood bully
+ガキ大将,餓鬼大将,がき大将,がきだいしょう,leader of the pack,neighborhood bully
 餓鬼道,がきどう,hungry ghost realm,preta realm
 餓狼,がろう,hungry wolf
 介して,かいして,through
@@ -19318,7 +19318,7 @@
 甘党,あまとう,person who prefers sweet things to alcoholic drinks,person with a sweet tooth
 甘美,かんび,sweet,luscious,sweet,delightful,pleasant,mellow,mellifluous
 甘味料,かんみりょう,sweetener,sweetening agent,sweetening
-甘露,かんろ,nectar,sweetness,honeydew
+甘露,かんろ,delicious,scrumptious,nectar,ambrosia,sweet dew sent by heaven as a sign of benevolent rule,amrita,ambrosia of the gods,the Buddha's teachings,honeydew,top-grade sencha tea,sweetened water,sweet sake
 監禁,かんきん,confinement,imprisonment,incarceration
 監獄,かんごく,prison
 監査記録,かんさきろく,audit trail
@@ -21186,7 +21186,7 @@
 鋸屑,のこくず,のこぎりくず,きょせつ,sawdust
 鋸歯,きょし,のこぎりば,teeth of a saw,saw teeth,serration,serration
 漁り,あさり,searching,rummaging,fishing,collecting shells
-漁る,あさる,すなどる,いさる,to fish,to look for,to search for,to hunt for,to scavenge,to scrounge,to look through,to rummage through,to go on a spree,to binge
+漁る,あさる,to look for,to search for,to hunt for,to scavenge,to scrounge,to look through,to rummage through,to go on a spree,to binge,to fish
 漁獲,ぎょかく,fishery,fishing,catch,haul
 漁業,ぎょぎょう,fishing industry,fishery
 漁港,ぎょこう,fishing harbour,fishing harbor
@@ -33501,7 +33501,7 @@
 心霊手術,しんれいしゅじゅつ,psychic surgery
 心労,しんろう,anxiety,worry,fear
 慎み,謹み,慎しみ,虔み,虔しみ,つつしみ,modesty,self-control,discretion
-慎み深い,虔み深い,つつしみぶかい,discreet,modest,cautious
+慎み深い,つつしみ深い,慎みぶかい,虔み深い,つつしみぶかい,modest,reserved,discreet,careful,prudent,circumspect,cautious
 慎重,しんちょう,careful,cautious,prudent,discreet,deliberate
 振られる,ふられる,フラれる,to be given the cold shoulder,to be jilted,to be rejected,to be dumped
 振り,風,ふり,フリ,swing,shake,sweep,wave,wag,appearance,behaviour,behavior,pretence,pretense,show,pretending,coming to restaurant, ryokan, etc. without a reservation or introduction,postures,lead in,setup,unsewn part of a hanging sleeve on a traditional Japanese woman's garment,counter for swords, blades, etc.
@@ -47728,7 +47728,7 @@
 壁紙,かべがみ,wallpaper,wallpaper,background image,desktop image
 壁蝨,蜱,蟎,ダニ,だに,tick,mite,hoodlum,tough
 癖,くせ,へき,クセ,habit,tendency,peculiarity,idiosyncrasy,mannerism,quirk,crease,wrinkle,curl,kink
-癖になる,くせになる,クセになる,to become a habit,to be addictive,to be moreish
+癖になる,クセになる,くせになる,to become a  habit,to become a habitual practice,to become addictive,to grow on one,to become moreish
 癖のある,くせのある,quirky,idiosyncratic
 碧眼,へきがん,blue eyes
 碧玉,へきぎょく,jasper
@@ -53698,7 +53698,7 @@
 襞,ひだ,ヒダ,fold,pleat,gathers,tuck,folds,crease,detail,nuance,shade,wrinkle,lamella,gill
 襦袢,じゅばん,ジバン,ジュバン,undershirt,singlet
 襤褸,ぼろ,ボロ,rag,old cloth,tattered clothes,ragged clothes,rags,fault,defect,weakness,worn-out,run-down,shabby,ragged,tattered
-ボロ家,ボロ屋,ぼろ家,ぼろ屋,襤褸家,襤褸屋,ぼろや,run-down shabby house,rag and scrap merchant
+ボロ家,ボロ屋,襤褸家,襤褸屋,ぼろ家,ぼろ屋,ぼろや,run-down house,dilapidated house,shabby old house,rag and scrap merchant
 襯衣,しんい,underwear,shirt
 覿面,てき面,てきめん,immediate,instant,instantaneous,prompt
 訃音,ふおん,ふいん,report of a death
@@ -100339,7 +100339,7 @@
 浪士,ろうし,ronin,lordless samurai
 土産物,みやげもの,souvenir
 その癖,其の癖,そのくせ,and yet,even so,nonetheless,for all that
-ただでは,This isn't over,I will get my revenge
+ただでは,タダでは,having serious consequences,costing dearly,cannot get away with it,will not go unpunished,for free,for nothing,easily,without charge
 檳榔樹,びんろうじゅ,ビンロウジュ,areca palm,betel palm,betel nut tree
 鼻頭,はながしら,tip of the nose
 文福茶釜,ぶんぶくちゃがま,bunbuku chagama
@@ -101229,7 +101229,7 @@
 反っ歯,反歯,そっ歯,そっぱ,prominent front teeth,buckteeth,projecting teeth
 合字,ごうじ,ligature
 そつ,ソツ,slip-up,mistake,fault,error,oversight,waste,needless expense
-吾妻しい,あずましい,feeling good,feeling comfortable
+吾妻しい,あずましい,pleasant,feeling good,comfortable,calm,satisfactory
 業務上,ぎょうむじょう,job-related,operational,business,in the course of one's work
 漁協,ぎょきょう,fishery cooperative
 固有種,こゆうしゅ,endemic species
@@ -142297,7 +142297,7 @@
 鋼青色,こうせいしょく,electric blue,steel blue
 東北地方,とうほくちほう,Tōhoku region,Tohoku region
 陸に上がった河童,陸に上がったカッパ,おかにあがったかっぱ,りくにあがったカッパ,a fish out of water,a kappa up on land
-車室,しゃしつ,compartment,interior
+車室,しゃしつ,compartment,interior,parking bay,parking space
 フッ,hah,pooh,pfft,poof,huff,puff
 稜,りょう,edge,angle,ridge
 イエロースポテットソウテール,イエロースポテット・ソウテール,yellowspotted sawtail
@@ -174237,7 +174237,7 @@
 高速ギヤ,こうそくギヤ,high gear,top gear,high-speed gear
 特定厨,とくていちゅう,person who identifies someone's private information,doxxer,doxer,Internet sleuth,person who identifies real-life locations or items appearing in anime, video games, etc.
 騒く,ぞめく,to frolic,to revel,to make merry
-船外活動,せんがいかつどう,extravehicular activity,EVA
+船外活動,せんがいかつどう,extravehicular activity,spacewalk,EVA
 小獣,しょうじゅう,small animal
 吐き気がする,はきけがする,to feel nauseous
 ハイト,height
@@ -177053,7 +177053,7 @@
 発射基地,はっしゃきち,launch site
 遥任,ようにん,absentee appointment to a distant administrative post
 ８強,八強,はちきょう,はっきょう,quarterfinal round,final eight
-空振り三振,からぶりさんしん,strikeout,vain attempts,failing despite giving one's best
+空振り三振,からぶりさんしん,swinging strikeout,vain attempts,failing despite giving one's best
 エピセンター,epicenter
 高度プロ,こうどプロ,sophisticated and professional work system
 好きくない,すきくない,disliking,not liking
@@ -195780,7 +195780,7 @@
 ラテ,radio and television
 ラッテ,rat
 ヘッデン,headlamp,head torch
-ディアボロ,diabolo,spinning top
+ディアボロ,diabolo,Chinese yo-yo
 活字鋳造機,かつじちゅうぞうき,typefounding machine,type caster
 鑑賞会,かんしょうかい,special showing,screening,viewing party
 フリッタータ,frittata
@@ -211016,6 +211016,8 @@
 植木職人,うえきしょくにん,gardener,landscape gardener,nurseryman
 部課長,ぶかちょう,department and section managers
 シボレテ,シボレス,shibboleth
+巨女,きょじょ,giant woman,giantess,tall woman,woman of large build
+巨鳥,きょちょう,giant bird,huge bird
 都市ゲリラ,としゲリラ,urban guerrilla
 悪魔学,あくまがく,demonology
 皮膚隆線,ひふりゅうせん,dermal ridge
@@ -211034,13 +211036,16 @@
 弄言,哢言,ろうげん,playing with words,frivolous speech,flippant remarks,glib talk,verbosity
 思弁的,しべんてき,speculative,contemplative,theoretical,abstract
 最新型,最新形,さいしんがた,latest model,newest model,latest type
+総統閣下,そうとうかっか,His Excellency the Supreme Leader
 因州,いんしゅう,Inaba
 武器屋,ぶきや,weapon shop,weapon store
 帝国軍,ていこくぐん,imperial army
+隠し扉,かくしとびら,hidden door,concealed door,secret door
 隠し戸,かくしど,hidden door,secret door,trapdoor
 隠し金,かくしがね,hidden money,secret funds,hidden gold
 隠し戸棚,かくしとだな,hidden cupboard,secret cabinet,concealed closet
 隠し金庫,かくしきんこ,hidden safe,secret safe,hidden vault
+巨神,きょしん,giant god,colossal deity,titan
 ギモンフタテハ,question mark butterfly
 比例性,ひれいせい,proportionality
 混成曲,こんせいきょく,medley,pastiche,potpourri
@@ -211087,7 +211092,19 @@
 有史時代,ゆうしじだい,historical times,historical period
 鹿鳴館時代,ろくめいかんじだい,Rokumeikan era,period of Westernization in Meiji-era Japan, marked by Western-style balls at the Rokumeikan
 政策金融機関,せいさくきんゆうきかん,policy-based financial institution,policy-driven financial institution,policy bank
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-10
+厚生課,こうせいか,welfare section,welfare office
+漁る,すなどる,いさる,to fish
+はっはっ,ハッハッ,ha-ha,with a hearty laugh,panting,with heavy, rapid breathing
+甘露水,かんろすい,sweetened water,sugar water,syrup,nectar
+甘露酒,かんろしゅ,sweet sake,rich sweet sake,sweet liquor made by boiling egg and mirin with kudzu starch, aconite and cinnamon
+条播き,筋播き,筋まき,条まき,すじまき,row seeding,drill seeding,drilling
+先走り,さきばしり,jumping the gun,premature action,presuming to act ahead of others,overhastiness,omen,portent,harbinger,first produce of the season,herald,runner sent ahead to announce one's lord's arrival,foot soldier who marched with an army,ashigaru,pre-cum,pre-ejaculate
+眼状紋,がんじょうもん,eyespot,ocellus
+大好きホールド,だいしゅきホールド,hugging one's partner and wrapping one's legs around their waist
+条播,じょうは,drill seeding,row seeding,drilling
+島嶼群,島しょ群,とうしょぐん,group of islands,island group,archipelago
+消し,けし,reduction,reducing move
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-11
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
