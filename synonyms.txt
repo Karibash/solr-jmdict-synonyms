@@ -15200,7 +15200,7 @@
 陰部,いんぶ,pubic region,private parts,genital area
 陰文,いんぶん,lettering of an engraving
 陰弁慶,かげべんけい,lion at home but weakling elsewhere
-陰謀,隠謀,いんぼう,plot,intrigue,scheme,conspiracy,agreement between two or more people to commit an unlawful act
+陰謀,隠謀,いんぼう,plot,intrigue,scheme,conspiracy
 陰毛,いんもう,pubic hair
 陰門,いんもん,vulva
 陰陽道,おんみょうどう,おんようどう,Onmyōdō,way of Yin and Yang,occult divination system based on the Taoist theory of the five elements
@@ -19318,7 +19318,7 @@
 甘党,あまとう,person who prefers sweet things to alcoholic drinks,person with a sweet tooth
 甘美,かんび,sweet,luscious,sweet,delightful,pleasant,mellow,mellifluous
 甘味料,かんみりょう,sweetener,sweetening agent,sweetening
-甘露,かんろ,delicious,scrumptious,nectar,ambrosia,sweet dew sent by heaven as a sign of benevolent rule,amrita,ambrosia of the gods,the Buddha's teachings,honeydew,top-grade sencha tea,sweetened water,sweet sake
+甘露,かんろ,deliciously sweet,delectable,nectar-like,scrumptious,ambrosia-like,sweet dew sent by heaven as a sign of benevolent rule,sweetened water,sweet sake,amrita,ambrosia of the gods,honeydew,top-grade sencha,excellent green tea,the Buddha's teachings
 監禁,かんきん,confinement,imprisonment,incarceration
 監獄,かんごく,prison
 監査記録,かんさきろく,audit trail
@@ -21243,7 +21243,7 @@
 供え,そなえ,offering
 供える,そなえる,to offer,to sacrifice,to dedicate
 供回り,供廻り,ともまわり,retinue,suite
-供給,きょうきゅう,supply,provision
+供給,きょうきゅう,supply,provision,service,supply
 供給源,きょうきゅうげん,source of supply
 供給者,きょうきゅうしゃ,supplier
 供給地,きょうきゅうち,supply center,supply centre
@@ -22263,7 +22263,7 @@
 区役所,くやくしょ,ward office,council
 狗肉,くにく,dog meat,dog flesh
 矩形,くけい,さしがた,rectangle
-苦い,にがい,bitter
+苦い,にがい,bitter,sour,bitter,displeased,unpleasant,bitter,painful,distressing,hard,trying
 苦しい,くるしい,painful,difficult,tough,hard,distressing,difficult,stressful,awkward,straitened,tight,needy,struggling,strained,lame,forced,far-fetched,hard to do,unpleasant
 苦しい時の神頼み,苦しいときの神頼み,くるしいときのかみだのみ,danger past, God forgotten,once on shore, we pray no more,man turns to God only in times of trouble,there are no atheists in foxholes
 苦しみ,くるしみ,pain,anguish,distress,suffering,hardship
@@ -33482,7 +33482,7 @@
 心電図,しんでんず,electrocardiogram,ECG,EKG
 心当たり,心当り,心あたり,心辺り,こころあたり,having in mind,happening to know,idea,inkling
 心頭滅却,しんとうめっきゃく,clearing one's mind of all worldly thoughts
-心得,こころえ,knowledge,understanding,rules,regulations,guideline,directions,deputy,acting
+心得,こころえ,knowledge,proficiency,understanding,command,experience,essentials,know-how,guidelines,rules,basics,precautions,directions,preparedness,readiness,mental attitude,frame of mind,deputy,acting
 心得る,こころえる,to know,to understand,to be aware of,to regard as,to take for,to,to have a knowledge of,to have a command of,to know
 心配,しんぱい,worry,concern,anxiety,uneasiness,fear,care,help,aid,assistance
 心拍,心搏,しんぱく,heartbeat
@@ -34081,7 +34081,7 @@
 人絹,じんけん,rayon,artificial silk
 人見知り,人見知,人見しり,ひとみしり,shyness,fear of strangers,stranger anxiety
 人後,じんご,behind others,losing out to others
-人語,じんご,human speech
+人語,じんご,human speech,human language,sound of people talking
 人交り,ひとまじわり,association with people
 人口,じんこう,population,common talk
 人口に膾炙する,じんこうにかいしゃする,to become well-known,to become common knowledge,to become famous,to be on everyone's lips
@@ -34429,7 +34429,7 @@
 垂れ下がる,たれさがる,to hang,to dangle
 垂れ下げる,たれさげる,to hang,to droop,to lower
 垂れ飾り,たれかざり,pendant
-垂れ流す,たれながす,to discharge
+垂れ流す,たれ流す,たれながす,to leak,to soil one's pants,to wet oneself,to dump,to discharge,to leak,to bleed
 垂下,すいか,being pendent,hanging down
 垂教,すいきょう,information,instruction
 垂示,すいし,すいじ,instruction,teaching,explanation,Zen priest's sermon
@@ -35084,7 +35084,7 @@
 正投手,せいとうしゅ,regular pitcher
 正東,せいとう,due east
 正当,せいとう,just,justifiable,right,due,proper,equitable,reasonable,legitimate,legal,lawful
-正当化,せいとうか,justification,warrant
+正当化,せいとうか,justification,rationalization
 正当性,せいとうせい,lawfulness,propriety,reasonableness,appropriateness,legality,legitimacy,justifiability,validity
 正当防衛,せいとうぼうえい,legitimate self-defence,legitimate self-defense
 正答,せいとう,correct answer,answering correctly,giving a correct answer
@@ -46648,7 +46648,6 @@
 赴く,趣く,趨く,おもむく,to go in the direction of,to proceed toward,to proceed according to,to repair to,to betake oneself to,to become,to face,to abide by,to agree to,to consent to,to obey
 赴任,ふにん,moving to a different location to start a new job,new appointment
 赴任地,ふにんち,place of  post,place of appointment
-侮,ぶ,despised,made light of
 侮り,あなどり,contempt,scorn
 侮言,ぶげん,insult
 侮辱,ぶじょく,insult,affront,slight,contempt
@@ -56757,7 +56756,7 @@
 間々,間間,まま,occasionally,now and then,sometimes
 摩滅,磨滅,まめつ,defacement,abrasion,wear and tear,crushing of a nerve
 摩耗,磨耗,まもう,wear,abrasion
-眉墨,黛,まゆ墨,まゆずみ,eyebrow pencil,blackened eyebrows,distant mountain range
+眉墨,黛,まゆ墨,まゆずみ,eyebrow makeup,eyebrow pencil,blackened eyebrows,distant mountain range
 丸暗記,まる暗記,丸諳記,まるあんき,rote memorization,rote learning,indiscriminate memorizing
 丸い,円い,まるい,まろい,round,circular,spherical,curved,smooth,harmonious,calm,peaceful,amiable,amicable
 丸顔,円顔,まるがお,round face,moon face
@@ -56811,7 +56810,7 @@
 苗字,名字,みょうじ,surname,family name,last name
 民族,みんぞく,people,race,nation,ethnic group,ethnos
 民俗,みんぞく,folk customs,folkways,ethnic customs
-向い,向かい,対い,むかい,facing,opposite,across the street,other side
+向かい,向い,対い,むかい,facing,opposite,across the street,other side
 向かい合う,向かいあう,向い合う,むかいあう,to face each other,to be opposite
 向い風,向かい風,むかいかぜ,headwind,head wind
 向かい側,向い側,向かいがわ,向いがわ,むかいがわ,opposite side,other side,other party
@@ -56989,7 +56988,7 @@
 分かりやすい,分かり易い,分りやすい,分り易い,わかりやすい,easy-to-understand
 分かる,解る,判る,分る,理解る,わかる,to understand,to comprehend,to grasp,to see,to get,to follow,to become clear,to be known,to be discovered,to be realized,to be found out,to make sense,I know!,I think so too!
 分かれ争う,分れ争う,別れ争う,わかれあらそう,to be divided,to quarrel and separate
-分かれ道,別れ道,わかれ道,分れ道,別れ路,わかれみち,branch road,forked road,branch,fork,crossroads,crossroads,turning point,parting of the ways
+分かれ道,別れ道,別れ路,わかれ道,分れ道,わかれみち,branch road,forked road,branch,fork,crossroads,crossroads,turning point,parting of the ways
 別れる,わかれる,to part,to part from,to part with,to be apart from,to separate,to break up,to divorce,to lose,to be bereaved
 分かれる,岐れる,分れる,わかれる,to branch,to fork,to diverge,to separate,to split,to divide,to disperse,to scatter
 若々しい,若若しい,わかわかしい,youthful,young,young-looking
@@ -62156,7 +62155,7 @@
 唐獅子,からじし,からしし,Chinese lion,Chinese guardian lion,Chinese-style figure of a lion,artistic rendering of a lion
 上り調子,のぼりちょうし,のぼりぢょうし,rise,improvement,uptrend
 出生届け,出生届,しゅっしょうとどけ,しゅっせいとどけ,birth registration
-希代,稀代,きたい,きだい,uncommon,rare,extraordinary,matchless
+稀代,希代,きだい,きたい,uncommon,rare,extraordinary,matchless
 連判,れんばん,れんぱん,joint seal,joint signatures
 告文,こうもん,こくぶん,written report to the gods,imperial edict,written appeal to a superior
 大安吉日,たいあんきちじつ,たいあんきちにち,very auspicious day for all types of occasions
@@ -70616,7 +70615,7 @@
 山人,やまびと,さんじん,mountain folk,hermit,mountain wizard,word used as part of a pseudonym by artists, writers, etc.
 山元,山下,山本,やまもと,foot of a mountain,base of a mountain,mine,colliery,owner of a mountain,operator of a mine
 山の手,山手,やまのて,hilly section of a city,Yamanote,place near the mountains
-山犬,豺,やまいぬ,Japanese wolf,wild dog
+山犬,山狗,豺,やまいぬ,ヤマイヌ,Japanese wolf,wild dog
 山辺,山べ,やまべ,mountain,vicinity of a mountain
 山伝い,やまづたい,from mountain to mountain
 山守,山守り,やまもり,ranger,mountain guardian
@@ -73434,7 +73433,7 @@
 大白,たいはく,large cup
 大白鳥,おおはくちょう,オオハクチョウ,whooper swan
 大礼,たいれい,state ceremony,imperial ceremony,important ceremony
-大礼服,たいれいふく,court dress,full-dress uniform
+大礼服,たいれいふく,だいれいふく,court dress,full-dress uniform
 大目,おおめ,magnanimity,tolerance,large eyes
 大立ち回り,おおたちまわり,fight,scuffle
 大立者,大立て者,おおだてもの,leading figure,prominent figure,big name,bigwig,star actor
@@ -74269,7 +74268,7 @@
 養護施設,ようごしせつ,children's home,child care institution,orphanage
 養護教諭,ようごきょうゆ,school nurse,nurse teacher,health teacher
 様変わり,様変り,さまがわり,changing completely,transformation
-様様,様々,さまさま,our gracious,honorific that attaches to name of a person or thing that has bestowed grace or favour upon you
+様様,様々,さまさま,all thanks to,is a lifesaver,couldn't do without,our gracious,hats off to
 洋弓,ようきゅう,archery,Western-style bow
 洋犬,ようけん,Western breed of dog
 洋本,ようほん,book of Western origin
@@ -82550,7 +82549,7 @@
 手を変え品を変え,手を替え品を替え,てをかえしなをかえ,by hook or by crook,by all possible means
 手を変える,てをかえる,to resort to other means
 手を組む,手をくむ,てをくむ,to join hands together,to join forces,to collaborate
-手を差し伸べる,てをさしのべる,to lend a hand,to give a hand,to help,to extend a helping hand
+手を差し伸べる,手をさしのべる,手を差しのべる,手を差し延べる,手をさし伸べる,てをさしのべる,to lend a hand,to give a hand,to help,to extend a helping hand
 手を透かす,手を空かす,てをすかす,to make oneself available
 手を染める,てをそめる,to get involved,to begin,to have a hand
 手を携えて,手をたずさえて,てをたずさえて,together,jointly,cooperatively,in partnership,side by side,holding hands
@@ -92175,7 +92174,7 @@
 嗾ける,けしかける,to instigate,to incite,to spur on,to set
 毳々しい,毳毳しい,けばけばしい,ケバケバしい,gaudy,showy,garish,loud
 献じる,けんじる,to present,to offer,to dedicate
-けんもほろろ,けんもほろほろ,curt,blunt,brusque
+剣もほろろ,けんもほろろ,けんもほろほろ,curt,blunt,brusque
 減じる,げんじる,to decrease,to be reduced,to grow less,to abate,to reduce,to lessen,to cut down,to mitigate,to diminish,to subtract,to deduct,to take off
 斯うした,此うした,こうした,such
 斯うして,こうして,thus,in this way
@@ -131422,7 +131421,7 @@
 ウェブ検索,ウエブ検索,ウェブけんさく,web search
 ウェルネス,ウエルネス,wellness
 ウォーター,ウォータ,ウオーター,water
-膣口,腟口,ちつこう,vaginal opening
+膣口,腟口,膣孔,ちつこう,vaginal opening
 後戯,こうぎ,postcoital activity,afterplay,pillow talk
 性反応,せいはんのう,reaction,response
 肛門性交,こうもんせいこう,anal sex,anal intercourse
@@ -153857,7 +153856,7 @@
 デュラム粉,デュラムこ,durum flour
 紅大豆,べにだいず,benidaizu soybean,crimson soybean
 環状オリゴ糖,かんじょうオリゴとう,cyclic oligosaccharide
-大のお気に入り,だいのおきにいり,most favorite thing
+大のお気に入り,だいのおきにいり,most favorite,in high favor
 アレルギー物質,アレルギーぶっしつ,allergen
 チェック表,チェックひょう,checklist
 手延べ,てのべ,hand-pulling
@@ -211027,6 +211026,7 @@
 複合助詞,ふくごうじょし,compound particle
 能開法,のうかいほう,Vocational Abilities Development Promotion Act
 技能士,ぎのうし,certified skilled worker,licensed craftsman
+人目を盗む,ひとめをぬすむ,to do without being seen,to do behind others' backs,to do secretly,to do without the knowledge of others
 識閾下,識域下,しきいきか,subliminal,below the threshold of consciousness
 スフィンゴシン,sphingosine,sphingenine
 ティーツリー,ティー・ツリー,tea tree,ti tree
@@ -211104,7 +211104,22 @@
 条播,じょうは,drill seeding,row seeding,drilling
 島嶼群,島しょ群,とうしょぐん,group of islands,island group,archipelago
 消し,けし,reduction,reducing move
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-11
+レイノー病,レイノーびょう,Raynaud syndrome,Raynaud's disease
+柑皮症,かんぴしょう,carotenosis,aurantiasis
+降って湧いた,降ってわいた,ふって湧いた,ふってわいた,sudden and unexpected,coming out of nowhere,out of the blue
+半固形,はんこけい,semisolid,semi-solid
+何万,なんまん,tens of thousands
+一線を画す,いっせんをかくす,to draw a line,to make a distinction,to distinguish
+音を立てて崩れる,音をたてて崩れる,おとをたててくずれる,to come crashing down,to crumble to pieces,to collapse completely
+カリ高,雁高,かりだか,pronounced corona,prominent coronal ridge,having a large glans ridge
+何億,なんおく,hundreds of millions
+何兆,なんちょう,trillions
+同刻,どうこく,same time,same moment
+内臓破裂,ないぞうはれつ,ruptured internal organs,visceral rupture,rupture of an internal organ
+カナード,canard,foreplane,diving plane,dive plane,false rumor,fabrication,false news
+何ともはや,なんともはや,really,very,extremely,terribly,awfully
+升級,ションジー,しょうきゅう,sheng ji
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-12
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -218397,3 +218412,4 @@
 グロック,Glock
 三帝協商,さんていきょうしょう,Three Emperors' Alliance
 パコジェット,Pacojet
+盲人書簡,もうじんしょかん,Letter on the Blind
