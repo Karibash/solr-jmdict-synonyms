@@ -13752,7 +13752,7 @@
 伊勢参り,いせまいり,Ise pilgrimage,pilgrimage to the Ise Grand Shrine,Ise pilgrim
 伊勢大神宮,いせだいじんぐう,the Grand Shrines of Ise
 伊勢大廟,いせたいびょう,the Grand Shrines of Ise
-伊達,だて,elegance,dandyism,sophistication,having style,affectation,showing off,putting on an air,appearances,doing something just for show
+伊達,だて,ダテ,elegance,dandyism,sophistication,having style,affectation,showing off,putting on an air,appearances,doing something just for show
 伊達姿,だてすがた,flashy appearance
 伊達者,だてしゃ,dandy,dude
 伊達衆,だてしゅう,dandy,gallant,chivalrous person
@@ -16462,7 +16462,7 @@
 音字,おんじ,syllabary,phonetic symbol
 音質,おんしつ,tone quality,sound quality
 音信,おんしん,いんしん,correspondence,news,letter,tidings
-音声,おんせい,おんじょう,voice,speech,sound of a voice,sound
+音声,おんせい,voice,speech,phone,speech sound,audio,sound,sound recordist,audio engineer
 音声圧縮,おんせいあっしゅく,voice compression
 音声学,おんせいがく,phonetics
 音節,おんせつ,syllable
@@ -29640,7 +29640,7 @@
 実兄,じっけい,biological older brother
 実験,じっけん,experiment,experimentation
 実験群,じっけんぐん,experimental group
-実験室,じっけんしつ,laboratory
+実験室,實験室,じっけんしつ,laboratory
 実験的,じっけんてき,experimental
 実験的研究,じっけんてきけんきゅう,experimental study
 実現,じつげん,implementation,materialization,materialisation,realization,realisation,actualization,actualisation
@@ -36957,7 +36957,7 @@
 素子,そし,element,elemental device,device,data,datum
 素質,そしつ,makings,aptitude,talent,qualities,nature,character,temperament,constitution,diathesis
 素手,すで,bare hand,empty hand
-素振り,素振,そぶり,behavior,behaviour,manner,attitude,bearing
+素振り,素振,素ぶり,そぶり,behavior,behaviour,manner,attitude,bearing
 素人,しろうと,しろと,しらびと,amateur,layman,ordinary person,novice,respectable woman,unlicensed prostitute
 素数,そすう,prime number
 素性,素姓,種姓,素生,すじょう,そせい,しゅせい,すぞう,しゅしょう,birth,lineage,parentage,origin,identity,background,history,past,provenance,origin
@@ -36972,7 +36972,7 @@
 素片,そへん,fragments,chips,materials
 素朴,素樸,そぼく,simple,artless,naive,unsophisticated
 素面,すめん,not wearing a mask,sober face,sobriety,face with no make-up,unpainted face
-素麺,索麺,そうめん,ソーメン,fine white noodles
+素麺,索麺,素麵,そうめん,ソーメン,そーめん,sōmen,fine white noodles
 素養,そよう,grounding,knowledge,training,achievements,attainments,accomplishments
 素粒子,そりゅうし,elementary particle,particle
 素粒子加速器,そりゅうしかそくき,particle accelerator
@@ -39297,7 +39297,7 @@
 地雷原,じらいげん,minefield
 地理,ちり,geography
 地理学,ちりがく,geography
-地力,ちりょく,fertility
+地力,ちりょく,soil fertility,soil productivity
 弛み,たるみ,slack,slackening,sagginess,flabbiness,dullness,letdown,depression,ennui
 弛む,たるむ,たゆむ,to slacken,to loosen,to relax,to droop,to sag,to slack off,to not put one's heart in
 恥,辱,羞,耻,恥じ,はじ,じょく,shame,embarrassment,disgrace
@@ -47639,7 +47639,7 @@
 並ぶ,列ぶ,双ぶ,ならぶ,to line up,to stand in a line,to rival,to match,to equal
 並べる,双べる,ならべる,to line up,to set up,to arrange in a line,to enumerate,to itemize,to be equal,to compare well,to be as good
 並べ方,ならべかた,arrangement
-並べ立てる,ならべたてる,to place in a row,to line up,to list,to enumerate,to talk a lot of nonsense,to tell a lot of lies
+並べ立てる,ならべたてる,to place in a row,to line up,to range in order,to set out,to list one after another,to rattle off,to reel off,to enumerate
 並み外れ,並外れ,なみはずれ,out of the common,far above the average,extraordinary,abnormal,unreasonable
 並み居る,並居る,並みいる,並いる,なみいる,to sit in a row,to be present
 並み型,なみがた,ordinary size,middle size,standard size
@@ -70096,7 +70096,7 @@
 そっ首,素っ首,そっくび,head
 素封家,そほうか,wealthy person or family
 素浪人,すろうにん,poor or lowly masterless samurai
-素振り,すぶり,practice-swinging
+素振り,素ぶり,すぶり,practice-swinging
 素通し,すどおし,transparent,plain
 素粒子論,そりゅうしろん,theory of elementary particles
 素語り,すがたり,reciting without samisen accompaniment
@@ -96998,7 +96998,7 @@
 納まり返る,おさまりかえる,to be satisfied with one's position,to be quite content
 お寒い,御寒い,おさむい,poor,unsatisfactory,inadequate,cold,chilly
 納め,収め,おさめ,the end,last time,finishing up,closing
-押し合い圧し合い,押し合いへし合い,押合い圧し合い,おしあいへしあい,pushing and shoving,jostling,hustling
+押し合いへし合い,押し合い圧し合い,押合い圧し合い,おしあいへしあい,pushing and shoving,jostling,hustling
 お仕置き,御仕置き,おしおき,punishment,spanking,smacking,scolding,criminal punishment
 押し込み強盗,押込み強盗,おしこみごうとう,housebreaker,burglar
 慙愧,慚愧,ざんき,ざんぎ,shame,compunction,remorse,humiliation,shame felt towards oneself and others
@@ -171522,7 +171522,7 @@
 ＵＴＦ８,ＵＴＦ-８,ユー・ティー・エフ・はち,ユー・ティー・エフ・エイト,ユーティーエフエイト,UTF-8,8-bit Unicode Transformation Format
 戦争ごっこ,せんそうごっこ,playing soldiers
 チャイ語,チャイご,Chinese language
-あなた達,貴方達,貴方たち,貴女達,貴女たち,あなたたち,you
+あなた達,貴方達,貴女達,貴男達,貴男たち,貴方たち,貴女たち,あなたたち,you
 ドイ語,ドイご,German language
 スペ語,スペご,Spanish language
 スパイン,spine,backbone,spine ramp
@@ -211092,6 +211092,7 @@
 有史時代,ゆうしじだい,historical times,historical period
 鹿鳴館時代,ろくめいかんじだい,Rokumeikan era,period of Westernization in Meiji-era Japan, marked by Western-style balls at the Rokumeikan
 政策金融機関,せいさくきんゆうきかん,policy-based financial institution,policy-driven financial institution,policy bank
+お役に立てる,お役にたてる,御役に立てる,おやくにたてる,to be of help,to be of service,to be able to assist
 厚生課,こうせいか,welfare section,welfare office
 漁る,すなどる,いさる,to fish
 はっはっ,ハッハッ,ha-ha,with a hearty laugh,panting,with heavy, rapid breathing
@@ -211119,7 +211120,11 @@
 カナード,canard,foreplane,diving plane,dive plane,false rumor,fabrication,false news
 何ともはや,なんともはや,really,very,extremely,terribly,awfully
 升級,ションジー,しょうきゅう,sheng ji
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-12
+下手い,へたい,unskillful,poor,awkward
+音声,おんじょう,voice,gagaku instrumental music
+薬剤師会,やくざいしかい,pharmacist association,pharmaceutical association
+圧力隔壁,あつりょくかくへき,pressure bulkhead
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-13
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
