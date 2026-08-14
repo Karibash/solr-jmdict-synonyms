@@ -14160,7 +14160,7 @@
 遺髪,いはつ,hair of the deceased
 遺品,いひん,things left  by the deceased,inherited item,estate,memento,keepsake,lost item,lost property
 遺風,いふう,hereditary custom,surviving tradition,teachings passed down from previous generations
-遺物,いぶつ,relic,remains,memento
+遺物,いぶつ,artifact,relic,archaeological find,relic,vestige of a bygone era,something surviving from the past,anachronism,outdated thing,something out of step with the times,keepsake,memento,relic,lost article,lost property,lost item
 遺文,いぶん,literary remains
 遺芳,いほう,memory or autograph of deceased
 遺命,いめい,will,dying instructions
@@ -35432,7 +35432,7 @@
 誓約,せいやく,oath,vow,pledge,covenant
 請い,乞い,こい,request,entreaty
 請け合う,受け合う,請合う,受合う,うけあう,to undertake,to take on,to assure,to guarantee,to vouch,to promise
-請け負う,請負う,うけおう,to contract,to undertake,to take on,to take responsibility for,to be liable for
+請け負う,請負う,請けおう,うけおう,to contract,to undertake,to take on,to take responsibility for,to be liable for
 請願,せいがん,petition
 請求,せいきゅう,claim,demand,charge,application,request,billing
 請求書,せいきゅうしょ,bill,account,invoice,information request form
@@ -38145,7 +38145,7 @@
 体質,たいしつ,constitution,physical make-up,predisposition,disposition,tendency,character,innate characteristics,make-up,nature,culture
 体臭,たいしゅう,body odor,body odour,personal odor,personal odour,characteristic
 体重,たいじゅう,weight
-体制,たいせい,order,system,structure,set-up,organization,organisation
+体制,たいせい,order,system,structure,set-up,organization,organisation,the establishment,regime,those in power,structural plan,body plan,anatomy
 体積,たいせき,capacity,volume
 体積抵抗,たいせきていこう,volume resistivity
 体操,たいそう,gymnastics,physical exercises,artistic gymnastics,gymnastics competition,physical education,PE
@@ -41246,7 +41246,7 @@
 伝,伝手,つて,ツテ,means of making contact,intermediary,go-between,connections,influence,pull,good offices
 伝,でん,legend,tradition,biography,life,method,way,horseback transportation and communication relay system used in ancient Japan
 伝い,づたい,along,alongside,following
-伝う,つたう,to go along,to walk along,to follow
+伝う,つたう,to move along,to go alongside,to walk along,to follow,to run down,to trickle down
 伝え,つたえ,conveying,communicating,getting across,telling,transmitting,message,word,tradition,folklore,legend
 伝える,つたえる,to convey,to report,to transmit,to communicate,to tell,to impart,to propagate,to teach,to bequeath
 伝え聞く,つたえきく,to learn by hearsay
@@ -56507,7 +56507,7 @@
 引き出し,引出し,抽き出し,抽斗,抽出し,抽匣,ひきだし,drawer,withdrawal,variety of knowledge and experience useful for handling things impromptu
 引き出す,引出す,引きだす,ひきだす,to pull out,to take out,to draw out,to lead out,to summon,to bring,to drag,to withdraw,to draw,to bring out,to extract,to get,to obtain,to elicit,to draw,to derive,to get  out of someone,to coax out of someone,to get someone to pay,to make someone produce
 引き継ぎ,引継ぎ,引継,ひきつぎ,taking over,handing over,transfer of control,inheriting,passing on the baton
-引きつける,引き付ける,ひき付ける,引付ける,ひきつける,to attract,to draw near,to charm,to attract,to fascinate,to entice,to have a convulsion
+引きつける,引き付ける,ひき付ける,引付ける,ひきつける,to attract,to draw close,to draw near,to charm,to attract,to captivate,to fascinate,to entice,to have a convulsion,to convulse
 引き続き,引続き,ひきつづき,continuously,continually,without a break,next,then,after that
 引き続く,引続く,ひき続く,引きつづく,ひきつづく,to continue,to occur in succession,to come next
 引きつる,引き攣る,ひきつる,to have a cramp,to twitch,to spasm,to stiffen,to freeze,to grow tight,to shrink,to tauten
@@ -91637,7 +91637,7 @@
 領空侵犯,りょうくうしんぱん,airspace incursion,airspace violation
 倫理的投資,りんりてきとうし,ethical investment
 臨界前核実験,りんかいぜんかくじっけん,subcritical nuclear experiment
-臨戦態勢,りんせんたいせい,war preparation
+臨戦態勢,りんせんたいせい,war readiness,combat preparedness,readiness for battle
 累積投票,るいせきとうひょう,cumulative voting
 冷媒,れいばい,refrigerant,coolant
 劣化ウラン,れっかウラン,depleted uranium
@@ -114377,7 +114377,7 @@
 善祓,よしはらえ,purification to invite good fortune
 悪祓,あしはらえ,purification to cleanse one of sin
 巳の日の祓,みのひのはらえ,purification ceremony held on the first day of the snake in the 3rd month of the lunar calendar
-大祓の詞,おおはらえのことば,norito read at a great purification event
+大祓詞,大祓の詞,大祓の言葉,大祓のことば,大祓言葉,おおはらえのことば,norito read at a great purification event
 中臣祓,中臣の祓,なかとみのはらえ,grand purification ceremony
 祓串,はらえぐし,tamagushi used at Ise Shrine's purification ceremonies
 大幣,おおぬさ,streamers,being in great demand
@@ -211061,6 +211061,7 @@
 コーディアル,コーデイアル,cordial,cordial
 自家蛍光,じかけいこう,autofluorescence
 線形公園,せんけいこうえん,linear park
+千々に乱れる,ちぢにみだれる,to be broken into pieces,to be in a jumble,to be in disarray,to be thrown into turmoil
 痴れ事,しれ事,しれごと,foolish act,folly,nonsense,absurdity,rubbish
 潜艦,せんかん,submarine
 まっこと,really,truly
@@ -211124,7 +211125,17 @@
 音声,おんじょう,voice,gagaku instrumental music
 薬剤師会,やくざいしかい,pharmacist association,pharmaceutical association
 圧力隔壁,あつりょくかくへき,pressure bulkhead
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-13
+ＪＰＹＣ,ジェー・ピー・ワイ・シー,ジェーピーワイシー,JPYC
+骨の折れる,ほねのおれる,laborious,arduous,strenuous,painstaking,trying,taxing
+コートラック,コート・ラック,coat rack
+刻みねぎ,刻み葱,きざみねぎ,chopped leeks
+活力説,かつりょくせつ,vitalism
+ビデオチャット,ビデオ・チャット,video chat,videoconferencing
+捕鼠,ほそ,rat-catching
+床下浸水,ゆかしたしんすい,inundation below floor level,flooding under the floorboards
+プラットフォーマー,platform company,platform provider,platformer
+レーゼシナリオ,レーゼ・シナリオ,closet screenplay
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-14
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
