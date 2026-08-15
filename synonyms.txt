@@ -149072,7 +149072,7 @@
 静寂主義,せいじゃくしゅぎ,quietism
 青緑色,せいりょくしょく,あおみどりいろ,bluish green,turquoise,aqua
 青化法,せいかほう,cyanide process
-青黛,せいたい,blue eyebrow pencil,blue eyebrows,deep blue,dark blue
+青黛,せいたい,blue eyebrow makeup,blue eyebrows,deep blue,dark blue,blue pigment used for makeup
 剃り跡,そり跡,そりあと,stubble
 青ひげ,青髭,青ヒゲ,青髯,青鬚,あおひげ,use of blue eyebrow pencil to indicate a character has shaved his cheeks
 青っぽい,あおっぽい,bluish,greenish,immature,inexperienced,green,naive
@@ -155764,7 +155764,7 @@
 甘粕,甘糟,あまかす,thick amazake,thick sweet sake
 醤油粕,しょうゆ粕,醤油かす,しょうゆかす,soy sauce lees,soy sauce cake
 糟粕,そうはく,sake lees
-食酢,しょくず,しょくす,vinegar,table vinegar
+食酢,食醋,しょくず,しょくす,vinegar,table vinegar
 糟酢,滓酢,粕酢,かすず,vinegar made from sake lees
 揚げカス,揚げかす,揚げ滓,あげカス,あげかす,scraps of food, batter, etc. remaining in deep-frying oil
 鰯滓,鰯粕,いわしかす,fish cake,sardine meal
@@ -158872,7 +158872,7 @@
 琳派,りんぱ,Rimpa school
 九州男児,きゅうしゅうだんじ,strapping Kyushu lad,virile son of Kyushu
 オーバースペック,overspec,over-engineered,overqualified
-翠黛,すいたい,green eyebrow pencil,green-shaded eyebrows,hazy green
+翠黛,すいたい,green eyebrow makeup,green-shaded eyebrows,hazy green
 大原女,おはらめ,おおはらめ,woman peddler in Kyoto from Ohara
 ワンボ,minivan,people-mover,6-8 seat automobile with sliding door or doors
 サザン,southern
@@ -163951,7 +163951,7 @@
 傷弓の鳥,傷弓之鳥,しょうきゅうのとり,once bitten twice shy,someone who has become overly cautious due to a bad experience
 乗り口,乗口,のりぐち,のりくち,entry door,entrance,door for boarding,equipage for restraining and mounting horses
 信じがたい,信じ難い,しんじがたい,unbelievable,incredible,implausible
-ずり上げる,ずりあげる,to slide up,to drag up
+ずり上げる,ズリ上げる,ずりあげる,to slide up,to drag up
 研磨仕上げ,けんましあげ,polishing,polished finish,burnished finish
 他の追随を許さない,たのついずいをゆるさない,unsurpassable,peerless,having no equal,outclassing
 大泡立草,おおあわだちそう,オオアワダチソウ,giant goldenrod,late goldenrod
@@ -211132,10 +211132,15 @@
 活力説,かつりょくせつ,vitalism
 ビデオチャット,ビデオ・チャット,video chat,videoconferencing
 捕鼠,ほそ,rat-catching
+コンテナハウス,コンテナ・ハウス,shipping container home
 床下浸水,ゆかしたしんすい,inundation below floor level,flooding under the floorboards
+ビジネスカジュアル,ビジネス・カジュアル,business casual
 プラットフォーマー,platform company,platform provider,platformer
 レーゼシナリオ,レーゼ・シナリオ,closet screenplay
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-14
+清涼菓子,せいりょうがし,refreshing candy
+ずり下げる,ズリ下げる,ずりさげる,to pull down,to slide down
+オフィスカジュアル,オフィス・カジュアル,office casual
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-15
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
