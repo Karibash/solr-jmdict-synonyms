@@ -2657,7 +2657,7 @@
 エレベーション,elevation
 エレベーター,エレベータ,elevator,lift,elevator
 エレメンタリー,elementary
-エレメント,element,elements
+エレメント,element,component,element,element,device,component,zipper tooth
 エロ,erotic,pornographic,obscene,perverted,horny,dirty
 エロキューション,elocution
 エログロ,エロ・グロ,erotic and grotesque
@@ -19458,7 +19458,7 @@
 観測ヘリコプター,かんそくヘリコプター,observation helicopter
 観点,かんてん,point of view,viewpoint,standpoint,perspective,angle
 観念,かんねん,idea,notion,concept,conception,sense,resignation,acceptance,preparedness,observation and contemplation,meditation
-観念主義,かんねんしゅぎ,German idealism
+観念主義,かんねんしゅぎ,idealism
 観葉植物,観用植物,かんようしょくぶつ,ornamental  plant,houseplant
 観覧,かんらん,viewing
 観覧車,かんらんしゃ,Ferris wheel
@@ -25553,7 +25553,7 @@
 広場,ひろば,public square,square,plaza,piazza,forum,open space,clearing
 広大,宏大,弘大,こうだい,vast,extensive,immense,huge,large,grand,magnificent
 広島県,廣島縣,ひろしまけん,Hiroshima prefecture
-広東,廣東,カントン,Guangdong,Kwangtung,Guangzhou
+広東,廣東,カントン,Guangdong,Kwangtung,Guangzhou,Canton
 広東語,カントンご,Cantonese
 広漠,宏漠,こうばく,vast,wide,boundless
 広範,広汎,廣汎,こうはん,wide,extensive,comprehensive,far-reaching,widespread
@@ -30510,7 +30510,7 @@
 受諾,じゅだく,acceptance
 受注,受註,じゅちゅう,accepting an order,receiving an order,orders received,closed won
 受け渡す,受渡す,うけわたす,to deliver,to hand over,to transfer
-受動,じゅどう,passivity
+受動,じゅどう,passivity,passiveness,passivity,passive
 受動喫煙,じゅどうきつえん,passive smoking,second-hand smoking
 受動的,じゅどうてき,passive
 受難,じゅなん,sufferings,ordeals,agony,Passion,crucifixion
@@ -34944,7 +34944,7 @@
 整合性,せいごうせい,integrity,consistency,conformity,compliance
 整数,せいすう,integer
 整然,井然,せいぜん,orderly,regular,systematic,well-organized,well-organised,trim,tidy,accurate
-整地,せいち,levelling of ground,preparation of soil
+整地,せいち,levelling of ground,preparation of soil,rearranging stones
 整頓,せいとん,orderliness,put in order,tidying up,arranging neatly
 整備,せいび,maintenance,servicing,putting in place,development,improvement,preparation,provision,equipping,outfitting
 整理,せいり,sorting,arrangement,organization,putting in order,adjustment,regulation,liquidation,settlement,consolidation,clearance,paying off,retrenchment,curtailment,cutting down,disposal
@@ -38063,7 +38063,7 @@
 打ち出す,打出す,打ちだす,うちだす,to emboss,to print out,to print,to work out,to hammer out,to come out with,to set forth,to strike,to begin striking,to start beating
 打ち勝つ,打ち克つ,打勝つ,打克つ,うちかつ,to conquer,to defeat,to overcome,to out-hit
 打ち上げ,打上げ,打ち揚げ,打揚げ,うちあげ,launch,lift-off,shooting off,display,end,close,completion,party to celebrate the successful completion of a project,wrap party
-打ち上げる,打ち揚げる,打上げる,打揚げる,うちあげる,to launch,to shoot up,to hit  high,to dash,to wash up,to finish,to close,to report
+打ち上げる,打ち揚げる,打上げる,打揚げる,撃ち上げる,撃ちあげる,うちあげる,to launch,to shoot up,to hit  high,to dash,to wash up,to finish,to close,to report
 打ち据える,打ちすえる,打据える,うちすえる,to strike  down,to knock down,to thrash,to beat severely,to place firmly
 打ち切る,打切る,うちきる,to stop,to abort,to discontinue,to close
 打ち破る,討ち破る,打破る,撃ち破る,うち破る,うちやぶる,to break,to smash,to defeat,to destroy,to eliminate
@@ -55291,7 +55291,7 @@
 お神輿,お御輿,御神輿,おみこし,mikoshi,portable Shinto shrine carried through the streets during festivals,lower back,waist,hips
 思い,想い,念い,おもい,thought,imagination,mind,heart,desire,wish,hope,expectation,love,affection,feelings,emotion,sentiment,experience
 思いつく,思い付く,おもいつく,to think of,to hit upon,to come into one's mind,to be struck with an idea,to remember,to recall
-思い出,想い出,思いで,想いで,思出,想出,おもいで,memories,recollections,reminiscence
+思い出,想い出,思いで,想いで,思出,想出,思ひ出,おもいで,おもひで,memories,recollections,reminiscence
 思う,想う,憶う,念う,懐う,惟う,意う,おもう,to think,to consider,to believe,to reckon,to think,to plan,to judge,to assess,to regard,to imagine,to suppose,to dream,to expect,to look forward to,to feel,to be,to desire,to want,to care  for,to yearn for,to worry about,to love,to recall,to remember
 重々しい,重重しい,重おもしい,おもおもしい,serious,grave,dignified,solemn
 面白み,面白味,おもしろみ,interest,appeal,attraction,fun
@@ -68878,7 +68878,7 @@
 船べり,船縁,舟べり,舷,ふなべり,side of a boat,gunwale
 船霊,船玉,船魂,ふなだま,guardian deity of a ship
 船積み,船積,舟積,舟積み,ふなづみ,lading,shipment
-船頭,せんどう,boatman,ferryman
+船頭,せんどう,captain,skipper,boatman,oarsman,ferryman,head of a fishing crew,fishing master
 船齢,せんれい,age of a vessel
 船籍,せんせき,ship's nationality,ship's country of registration
 船籍港,せんせきこう,port of registry
@@ -72701,7 +72701,7 @@
 積り書,積もり書き,積り書き,つもりがき,written estimate
 積み降ろし,積み下ろし,積み卸し,積卸し,積みおろし,積下ろし,積降ろし,積卸,つみおろし,loading and unloading
 積悪,せきあく,しゃくあく,accumulation of bad deeds,accumulated sins
-積雪量,せきせつりょう,amount of snowfall,snow accumulation
+積雪量,せきせつりょう,snow accumulation,depth of snow cover,amount of snowfall
 積善,せきぜん,しゃくぜん,accumulation of good deeds
 積極策,せっきょくさく,positive plan,constructive policy
 積み替え,積替え,積み換え,積換え,つみかえ,transshipment,reshipment
@@ -80271,7 +80271,7 @@
 覚え易い,おぼえやすい,easy to learn
 溺れ損なう,おぼれそこなう,to come near being drowned
 重い罪,おもいつみ,serious crime,grave crime
-思い出話,おもいでばなし,reminiscent talk
+思い出話,想い出話,思い出ばなし,おもいでばなし,talking about memories,reminiscences
 思いを致す,思いをいたす,おもいをいたす,to think of,to give one's thought to
 重く用いる,おもくもちいる,to give an important position
 表で遊ぶ,おもてであそぶ,to play outside
@@ -80399,7 +80399,7 @@
 角に切る,かくにきる,to cut into squares
 格物致知,かくぶつちち,gaining a perfect knowledge of natural laws
 角分散,かくぶんさん,angular dispersion
-核崩壊,かくほうかい,disintegration of a cell nucleus
+核崩壊,かくほうかい,nuclear decay,nuclear disintegration,karyorrhexis
 核防衛力,かくぼうえいりょく,nuclear defenses,nuclear defences
 革命児,かくめいじ,revolutionary,child of the revolution,man of revolutionary temperament
 隠れ伏す,かくれふす,to lie concealed
@@ -89881,7 +89881,7 @@
 話しぶり,話し振り,話ぶり,話振り,はなしぶり,way of talking,manner of speaking
 張り,ばり,in the style of,reminiscent of,attached or stretched on
 淫具,いんぐ,sex toy
-張形,張り形,はりかた,はりがた,dildo
+張形,張り型,張型,張り形,はりかた,はりがた,dildo
 診断薬,しんだんやく,diagnostic drug,diagnostic pharmaceutical
 遺伝子多型,いでんしたけい,gene polymorphism
 捥り,もぎり,モギリ,collecting tickets,ticket collector
@@ -105276,7 +105276,7 @@
 在り,有り,有,あり,existing,alright,acceptable,passable,to be,to have
 現代仮名遣い,現代仮名遣,現代かな遣い,現代仮名使い,げんだいかなづかい,modern kana orthography,new kana orthography
 歴史的仮名遣い,歴史的仮名遣,れきしてきかなづかい,historical kana orthography,old kana orthography
-いまわの際,今際の際,今わの際,いまわのきわ,verge of death,dying moments
+いまわの際,今際の際,今わの際,今際のきわ,今わのきわ,いまわのきわ,verge of death,dying moments
 中堅企業,ちゅうけんきぎょう,medium-sized enterprise
 然れば,されば,therefore,thus,so,well, then,that's right,indeed,absolutely,on earth?
 然ればこそ,さればこそ,for that very reason,that is exactly why,as expected,just as one thought,sure enough
@@ -108535,7 +108535,7 @@
 ルーク,rook
 ポーン,ぽーん,ぽおん,with a boing,with a sproing,with a plonk,with a crack,with a pop,with vigour,with a kick,tossing,through the air
 幻影肢,げんえいし,phantom limb
-動作主,どうさしゅ,performer of an action,agent,actor
+動作主,どうさしゅ,agent
 アミューズメントパーク,アミューズメント・パーク,amusement park
 田楽豆腐,でんがくどうふ,skewered pieces of tofu baked and coated with miso
 仕掛け物,仕掛物,しかけもの,implements used to enhance the effect of a play
@@ -144558,7 +144558,7 @@
 寸鉄人を殺す,すんてつひとをころす,to make a cutting remark,to kill someone with a short blade
 正対,せいたい,confronting directly,meeting face-to-face
 言うことなし,言う事なし,言うこと無し,言う事無し,いうことなし,nothing one can say,not a thing one can complain about,better than one could hope for
-言うことを聞かない,言う事を聞かない,いうことを聞かない,いうことをきかない,not doing as one is told,disobedient,unruly
+言うことを聞かない,言う事を聞かない,いうことを聞かない,言うことをきかない,いうことをきかない,not doing as one is told,being disobedient,being unruly
 斜めならず,ななめならず,なのめならず,unusually,extraordinarily,uncommonly
 掛け構い,掛構い,かけかまい,worry,concern,trouble,relationship,connection,involvement
 水葬礼,すいそうれい,みずそうれい,burial at sea
@@ -211123,6 +211123,7 @@
 升級,ションジー,しょうきゅう,sheng ji
 下手い,へたい,unskillful,poor,awkward
 音声,おんじょう,voice,gagaku instrumental music
+被動者,ひどうしゃ,patient
 薬剤師会,やくざいしかい,pharmacist association,pharmaceutical association
 圧力隔壁,あつりょくかくへき,pressure bulkhead
 ＪＰＹＣ,ジェー・ピー・ワイ・シー,ジェーピーワイシー,JPYC
@@ -211131,6 +211132,9 @@
 刻みねぎ,刻み葱,きざみねぎ,chopped leeks
 活力説,かつりょくせつ,vitalism
 ビデオチャット,ビデオ・チャット,video chat,videoconferencing
+ビデオ通話,ビデオつうわ,video call,video chat,videoconferencing
+キャリアショップ,キャリア・ショップ,mobile phone shop,carrier store
+プロピオール酸,プロピオールさん,propiolic acid
 捕鼠,ほそ,rat-catching
 コンテナハウス,コンテナ・ハウス,shipping container home
 床下浸水,ゆかしたしんすい,inundation below floor level,flooding under the floorboards
@@ -211140,7 +211144,16 @@
 清涼菓子,せいりょうがし,refreshing candy
 ずり下げる,ズリ下げる,ずりさげる,to pull down,to slide down
 オフィスカジュアル,オフィス・カジュアル,office casual
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-15
+ライフリング,rifling
+人肉嗜食,じんにくししょく,cannibalism,anthropophagy,eating human flesh
+非暴力不服従,非暴力・不服従,ひぼうりょくふふくじゅう,nonviolent resistance
+一人一殺,いちにんいっさつ,killing one by one
+被動,ひどう,passivity,passive voice
+スタイル抜群,スタイルばつぐん,great figure,outstanding proportions,amazing body
+拡張型心筋症,かくちょうがたしんきんしょう,dilated cardiomyopathy,DCM
+射程距離,しゃていきょり,range,firing range
+ごんぶと,thick,fat,chubby,hefty,plump
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-16
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
