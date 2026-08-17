@@ -2328,7 +2328,7 @@
 エーカー,エイカー,acre
 エイジ,エージ,age,period,era
 エージェンシー,エイジェンシー,agency
-エージェント,エイジェント,agent,agent
+エージェント,エイジェント,agent,agent,secret agent,spy
 エージグループ,age-group
 エージシューター,エージ・シューター,age shooter
 エイジズム,エージズム,agism,ageism
@@ -49486,8 +49486,8 @@
 未成品,みせいひん,unfinished goods
 未製品,みせいひん,unfinished article
 未設,みせつ,uninstalled,projected
-未然,みぜん,before it happens,previously
-未然に防ぐ,みぜんにふせぐ,to prevent,to take precautions
+未然,みぜん,before it happens,beforehand
+未然に防ぐ,みぜんにふせぐ,to prevent,to forestall,to avert
 未然形,みぜんけい,irrealis form
 未組織,みそしき,unorganized,unorganised
 未知,みち,not yet known,unknown,strange
@@ -49712,7 +49712,7 @@
 無事息災,ぶじそくさい,safe and healthy,health and longevity
 無慈悲,むじひ,merciless,ruthless,pitiless,unfeeling
 無実,むじつ,innocence,guiltlessness,false accusation,false charge,absence of the fact,insubstantiality,lacking substance,insincerity,dishonesty
-無邪気,むじゃき,innocent,simple-minded
+無邪気,むじゃき,innocent,childlike,sweet and innocent,artless,guileless,free of malice,ingenuous,thoughtless,simple-minded,lacking consideration
 無手順,むてじゅん,ASCII data transfer with XON-XOFF flow control
 無宗派,むしゅうは,non-sectarian
 無重力,むじゅうりょく,weightlessness,zero gravity
@@ -82499,7 +82499,7 @@
 逓降変圧器,ていこうへんあつき,step-down transformer
 抵抗を試みる,ていこうをこころみる,to put up resistance
 蹄叉,ていさ,frog,fourchette,pad in a horse's hoof that acts as a shock absorber
-汀渚,ていしょ,sand bar,waters edge
+汀渚,ていしょ,water's edge,shore
 禎祥,ていしょう,good omen
 逓次,ていじ,successively,in order
 悌順,ていじゅん,obedience
@@ -211094,6 +211094,7 @@
 鹿鳴館時代,ろくめいかんじだい,Rokumeikan era,period of Westernization in Meiji-era Japan, marked by Western-style balls at the Rokumeikan
 政策金融機関,せいさくきんゆうきかん,policy-based financial institution,policy-driven financial institution,policy bank
 お役に立てる,お役にたてる,御役に立てる,おやくにたてる,to be of help,to be of service,to be able to assist
+公宅,こうたく,government-provided housing for civil servants,public housing
 厚生課,こうせいか,welfare section,welfare office
 漁る,すなどる,いさる,to fish
 はっはっ,ハッハッ,ha-ha,with a hearty laugh,panting,with heavy, rapid breathing
@@ -211106,6 +211107,7 @@
 条播,じょうは,drill seeding,row seeding,drilling
 島嶼群,島しょ群,とうしょぐん,group of islands,island group,archipelago
 消し,けし,reduction,reducing move
+シムルグ,シームルグ,simurgh,simurg
 レイノー病,レイノーびょう,Raynaud syndrome,Raynaud's disease
 柑皮症,かんぴしょう,carotenosis,aurantiasis
 降って湧いた,降ってわいた,ふって湧いた,ふってわいた,sudden and unexpected,coming out of nowhere,out of the blue
@@ -211153,7 +211155,17 @@
 拡張型心筋症,かくちょうがたしんきんしょう,dilated cardiomyopathy,DCM
 射程距離,しゃていきょり,range,firing range
 ごんぶと,thick,fat,chubby,hefty,plump
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-16
+児童性愛,じどうせいあい,pedophilia,paedophilia
+児童性愛者,じどうせいあいしゃ,pedophile,paedophile
+魔法士,魔法師,まほうし,magician,wizard,sorcerer,witch,mage
+世界史的,せかいしてき,world-historical
+枯れすすき,枯れススキ,枯れ薄,枯薄,枯れ芒,枯芒,かれすすき,カレススキ,withered silver grass,withered Japanese pampas grass,dead susuki grass
+急湍,きゅうたん,swift shoal,rapid shallows
+急灘,きゅうだん,きゅうなん,swift shoal,rapid shallows
+速度違反自動取締装置,そくどいはんじどうとりしまりそうち,speed camera,automatic speed limit enforcement device
+犯人グループ,はんにんグループ,criminal group
+爆弾犬,ばくだんけん,dog fitted with a bomb,anti-tank dog
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-17
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
