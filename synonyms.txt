@@ -14783,7 +14783,7 @@
 一俵,いっぴょう,one  bagful
 一票,１票,いっぴょう,one vote,one ballot
 一秒,１秒,いちびょう,one second
-一品,いっぴん,ひとしな,item,article,dish,course,finest item
+一品,ひと品,いっぴん,ひとしな,item,article,dish,course,finest item
 一品料理,１品料理,いっぴんりょうり,service à la carte,single dish eaten by itself
 一頻り,一しきり,ひとしきり,for a while,for some time,for a period
 一夫一婦,いっぷいっぷ,monogamy
@@ -36228,7 +36228,7 @@
 宣教師,せんきょうし,missionary
 宣言,せんげん,declaration,proclamation,announcement
 宣言発表,せんげんはっぴょう,declaration
-宣告,せんこく,sentence,verdict,pronouncement
+宣告,せんこく,sentencing,pronouncement of a verdict,passing of sentence,declaration,announcement,pronouncement
 宣誓,せんせい,oath,abjuration,pledge
 宣戦,せんせん,declaration of war
 宣伝,せんでん,publicity,advertisement,advertising,propaganda
@@ -41188,7 +41188,7 @@
 転出,てんしゅつ,moving out,moving to a different place,transfer,being transferred
 転職,てんしょく,change of job,change of occupation,career change
 転身,てんしん,changing
-転生,てんせい,てんしょう,transmigration,reincarnation,metempsychosis
+転生,てんせい,てんしょう,reincarnation,rebirth,transmigration,metempsychosis
 転送,轉送,てんそう,transfer,forwarding,redirection,transfer,transmission
 転送電話,てんそうでんわ,call forwarding,call diversion
 転置行列,てんちぎょうれつ,transposed matrix,transpose
@@ -45167,7 +45167,7 @@
 嫌というほど,嫌と言う程,嫌と言うほど,イヤと言うほど,いやと言うほど,嫌という程,イヤという程,いやという程,イヤと言う程,いやと言う程,厭というほど,厭と言うほど,否というほど,否と言うほど,いやというほど,イヤというほど,enough,too much,bitterly,extremely,keenly
 否む,辞む,いなむ,to refuse,to decline,to deny
 否む,いやむ,to detest,to dislike
-否めない,いなめない,cannot deny,undeniable,incontrovertible
+否めない,否めん,否めぬ,否め無い,いなめない,undeniable,impossible to deny,incontrovertible
 否や,いなや,as soon as,no sooner than,one way or another,objection
 否運,非運,ひうん,bad fortune,misfortune
 否応,いや応,いやおう,yes or no answer,agreement or disagreement,consent or refusal
@@ -47864,7 +47864,7 @@
 変わる,変る,かわる,to change,to be transformed,to be altered,to vary,to move to,to be different,to be uncommon,to be unusual
 変ロ短調,へんロたんちょう,B flat minor
 変圧,へんあつ,transformation
-変圧器,へんあつき,transformer
+変圧器,へんあつき,transformer,converter
 変圧所,へんあつじょ,transformer substation
 変位,へんい,change of position,displacement
 変異,へんい,unusual occurrence,variation,mutation
@@ -49091,7 +49091,7 @@
 凡骨,ぼんこつ,ordinary person
 凡才,ぼんさい,mediocrity,ordinary ability
 凡作,ぼんさく,mediocre work,poor work
-凡策,ぼんさく,mediocre policy,commonplace policy,worthless policy
+凡策,ぼんさく,mediocre stratagem,predictable tactic,poor scheme,trite ploy,unimaginative plan
 凡試合,ぼんしあい,dull match,dull game
 凡失,ぼんしつ,common mistake
 凡手,ぼんしゅ,mediocre ability,person of ordinary skills,uninteresting
@@ -50578,7 +50578,7 @@
 優に,裕に,ゆうに,easily,comfortably,amply,fully,well over
 優れた,勝れた,すぐれた,great,excellent,outstanding
 優れる,勝れる,傑れる,すぐれる,to be better,to be superior,to surpass,to excel,to be excellent
-優渥,ゆうあく,gracious
+優渥,ゆうあく,gracious,benevolent,benign,magnanimous
 優位,ゆうい,predominance,superiority,ascendancy,advantage,supremacy
 優位性,ゆういせい,superiority,predominance
 優越,ゆうえつ,supremacy,predominance,being superior to
@@ -186129,7 +186129,7 @@
 タビー,tabby,plain weave,tabby
 タビュレーター,tabulator
 法人番号,ほうじんばんごう,corporate number,13-digit identification number for corporations
-第二新卒,第２新卒,だいにしんそつ,recent graduate looking to change jobs
+第二新卒,第２新卒,だいにしんそつ,recent graduate seeking to change jobs
 足の裏の米粒,あしのうらのこめつぶ,pointless  degree,meaningless qualification,useless license,a grain of rice on the sole of the foot
 ほーほー,ホーホー,ほうほう,hoot hoot,tu-whit tu-whoo,oh!,I see,huh!
 声を潜める,声をひそめる,こえをひそめる,to lower one's voice,to speak with a hushed voice
@@ -192237,7 +192237,7 @@
 受け木,受木,うけぎ,support
 突っ込みどころ,突っ込み所,ツッコミ所,つっこみどころ,ツッコミどころ,something one can poke fun at,something worthy of ridicule,inconsistency
 配送費,はいそうひ,delivery charge,shipping fee
-可もなく不可もなく,可も無く不可も無く,可もなく不可も無く,かもなくふかもなく,neither good nor bad
+可もなく不可もなく,可も無く不可も無く,可も無く不可もなく,可もなく不可も無く,かもなくふかもなく,neither good nor bad
 昔懐かしい,昔なつかしい,むかしなつかしい,reminiscent of the good old times,nostalgia-inducing
 カッティングマシン,カッティング・マシン,cutting machine,cutter
 商標権者,しょうひょうけんしゃ,trademark holder
@@ -211165,7 +211165,11 @@
 速度違反自動取締装置,そくどいはんじどうとりしまりそうち,speed camera,automatic speed limit enforcement device
 犯人グループ,はんにんグループ,criminal group
 爆弾犬,ばくだんけん,dog fitted with a bomb,anti-tank dog
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-17
+髪菜,はっさい,fat choy
+ドッグパーク,ドッグ・パーク,dog park
+上火,うわび,heat applied from above,overhead heat,upper oven temperature in baking
+ハーダー腺,ハーダーせん,Harderian gland
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-18
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
