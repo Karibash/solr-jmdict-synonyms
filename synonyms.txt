@@ -24463,7 +24463,7 @@
 戸惑い,とまどい,being at sea,losing one's bearings,confusion,wonderment,disorientation upon waking at night,forgetting which house or room to enter
 戸惑う,途惑う,とまどう,to be bewildered,to be perplexed
 故,こ,the late,the deceased
-故,ゆえ,reason,cause,circumstances,grounds,because of,as a result of
+故,ゆえ,reason,circumstances,grounds,cause,because of,due to,as a result of
 故に,ゆえに,therefore,consequently
 故意,こい,intent,intention,bad faith,mens rea
 故旧,こきゅう,old acquaintance
@@ -28955,7 +28955,7 @@
 事項索引,じこうさくいん,subject index
 事細か,こと細か,ことこまか,detailed,minute
 事細かに,こと細かに,ことこまかに,minutely,in detail
-事実,じじつ,fact,truth,reality
+事実,じじつ,fact,truth,reality,actuality,in fact,actually
 事実上,じじつじょう,as a matter of fact,actually,effectively,in reality,in effect
 事実調査,じじつちょうさ,fact-finding
 事実無根,じじつむこん,groundless,entirely contrary to fact
@@ -31771,7 +31771,7 @@
 所,処,處,ところ,とこ,place,spot,scene,site,address,district,area,locality,one's house,point,aspect,side,facet,passage,part,space,room,thing,matter,whereupon,as a result,about to,on the verge of,was just doing,was in the process of doing,have just done,just finished doing,approximately,around,about
 所で,ところで,by the way,incidentally,well,now,even if,no matter
 所ではない,処ではない,どころではない,not the time for,not the place for,far from,anything but,is out of the question,isn't the word for it
-所以,ゆえん,reason,grounds
+所以,ゆえん,reason,grounds,circumstances
 所為,しょい,そい,act,deed,one's doing,cause,reason
 所謂,言わゆる,謂わゆる,いわゆる,what is called,what you call,what they call,so-called
 所轄,しょかつ,jurisdiction
@@ -47994,7 +47994,7 @@
 返る,反る,かえる,to return,to come back,to go back,to turn over,to become extremely,to become completely
 返歌,へんか,ode in reply
 返還,へんかん,return,restoration
-返却,へんきゃく,return of something,repayment
+返却,へんきゃく,return,repayment,giving back
 返却値,へんきゃくち,return value
 返金,へんきん,refund,repayment,reimbursement
 返済,へんさい,repayment,reimbursement,refund,redemption
@@ -49487,7 +49487,7 @@
 未製品,みせいひん,unfinished article
 未設,みせつ,uninstalled,projected
 未然,みぜん,before it happens,beforehand
-未然に防ぐ,みぜんにふせぐ,to prevent,to forestall,to avert
+未然に防ぐ,みぜんにふせぐ,to prevent a thing from occurring,to forestall,to avert,to nip in the bud
 未然形,みぜんけい,irrealis form
 未組織,みそしき,unorganized,unorganised
 未知,みち,not yet known,unknown,strange
@@ -50834,7 +50834,7 @@
 有料道路,ゆうりょうどうろ,toll road
 有力,ゆうりょく,influential,prominent,leading,strong,powerful,likely,plausible,promising,convincing,substantial
 猶子,ゆうし,nephew,another child considered as one's own
-猶予,猶余,猶与,ゆうよ,postponement,deferment,extension
+猶予,猶与,猶余,ゆうよ,postponement,deferment,extension,hesitation,delaying,dawdling,suspended sentence
 猶予なく,ゆうよなく,without delay,promptly
 由,因,縁,よし,reason,significance,cause,piece of information that one has heard,I hear that,it is said that
 由縁,ゆえん,acquaintance,relation,affinity,reason
@@ -51752,7 +51752,7 @@
 立ち会う,立会う,たちあう,to be present,to be witness to,to attend
 立ち回り先,立回り先,たちまわりさき,whereabouts,present location
 立ち回る,立回る,立ちまわる,たちまわる,to walk about,to walk around,to conduct oneself,to act,to maneuver,to play one's cards,to stop by,to drop by,to turn up,to show up,to enact a fighting scene,to brawl
-立ち寄る,立寄る,立ちよる,たちよる,to drop in,to drop by,to call at,to stop by,to stop off,to stop in
+立ち寄る,立寄る,立ちよる,たちよる,to drop by,to stop by,to visit briefly,to approach,to draw near,to come close
 立ち去る,立去る,たちさる,to leave,to depart,to take one's leave
 立ち交じる,立ち混じる,立ちまじる,立ち交る,たち混じる,たちまじる,to join
 立ち向かう,立ち向う,立ちむかう,立向う,立向かう,たち向かう,たち向う,たちむかう,to fight against,to oppose,to face
@@ -55900,7 +55900,7 @@
 徐々に,徐徐に,除々に,除除に,じょじょに,gradually,steadily,slowly,little by little,step by step,by degrees
 人跡未到,人跡未踏,じんせきみとう,unexplored
 人知,人智,じんち,human intellect,knowledge
-吸い殻,吸殻,吸いがら,吸がら,すいがら,cigarette end,cigarette butt,tobacco ashes
+吸い殻,吸殻,吸いがら,吸がら,すいがら,cigarette end,cigarette butt
 酔狂,粋狂,酔興,すいきょう,whim,caprice,vagary,eccentricity
 吸い取り紙,吸取り紙,吸取紙,すいとりがみ,blotting paper
 数ヶ月,数カ月,数ヵ月,数か月,数ケ月,数箇月,すうかげつ,several months
@@ -57046,7 +57046,7 @@
 使える,遣える,つかえる,to be usable,to be serviceable,to be useful
 低温,ていおん,low temperature
 低音,ていおん,low tone,bass,low voice
-同額,どうがく,the same amount
+同額,どうがく,the same amount of money,the same sum,the same price
 同学,どうがく,studying the same subject,studying at the same school,studying under the same teacher,schoolmate,classmate,fellow student
 内炎,内焔,ないえん,inner cone,reducing flame
 内苑,ないえん,inner garden,inner park
@@ -61349,7 +61349,7 @@
 従卒,じゅうそつ,orderly,officer's servant,batman,soldier assigned to wait on an officer
 従物,じゅうぶつ,accessory,appurtenance
 走狗,そうく,hound,hunting dog,running dog,dupe,tool of another person,cat's-paw
-奏上,そうじょう,report to the Emperor
+奏上,そうじょう,report to the throne,reporting to the emperor,reporting to the monarch,offering  to the deity
 奏効,そうこう,efficacy
 奏請,そうせい,petitioning the Emperor
 送致,そうち,sending,forwarding
@@ -70557,7 +70557,7 @@
 砂防林,さぼうりん,erosion-control forest
 砂風呂,すなぶろ,sand bath
 砂原,すなはら,sandy plain,desert
-砂埃,砂ぼこり,すなぼこり,cloud of dust
+砂埃,砂ぼこり,すなぼこり,cloud of dust,dust storm
 砂粒,すなつぶ,grains of sand
 砂絵,すなえ,sand picture
 砂煙,すなけむり,cloud of sand
@@ -81101,7 +81101,7 @@
 洸洸,洸々,こうこう,valiant,brave,surge
 甲骨文,こうこつぶん,oracle bone script
 後昆,こうこん,grandchildren,posterity
-光彩陸離,こうさいりくり,dazzling,brilliant
+光彩陸離,こうさいりくり,dazzling,brilliant,resplendent
 尻座,こうざ,crouching
 絞罪,こうざい,execution by hanging,hanging
 皇嗣,こうし,Imperial heir,Crown Prince
@@ -94621,7 +94621,7 @@
 粗ごなし,荒ごなし,あらごなし,crushing up,grinding,rough preparation,spadework
 有らずもがな,あらずもがな,uncalled for,unnecessary,gratuitous
 紫羅欄花,あらせいとう,アラセイトウ,garden stock,gillyflower
-改め,あらため,former,previous,changed,examination,inspection,investigation
+改め,あらため,now known as,renamed as,examination,inspection,investigation
 有らぬ,在らぬ,あらぬ,wrong,groundless,false,improper,different,separate,unrelated,unexpected,surprising
 粗挽き,粗びき,荒挽き,あら挽き,荒びき,粗碾き,あらびき,coarsely ground,minced
 有られもない,あられもない,unladylike,unbecoming,immodest,unthinkable,impossible,ridiculous
@@ -95517,7 +95517,7 @@
 原野商法,げんやしょうほう,fraudulent sale of worthless land
 絢爛華麗,けんらんかれい,luxurious and gorgeous,splendid,dazzling,magnificent
 堅牢堅固,けんろうけんご,firm and solid,stout and durable
-恋人同士,恋人同志,こいびとどうし,pair of lovers,girlfriend and boyfriend
+恋人同士,恋人同志,こいびとどうし,pair of lovers,couple
 高位高官,こういこうかん,,persons in high positions
 豪快奔放,ごうかいほんぽう,big-hearted and free-spirited,daring and uninhibited
 狡猾老獪,こうかつろうかい,sly and crafty
@@ -101346,7 +101346,7 @@
 ちょい役,ちょいやく,small part,bit part,extra
 廃駅,はいえき,abandoned station,closed station
 秘境駅,ひきょうえき,secluded station,out-of-the-way station,unfrequented station
-一事不再理,いちじふさいり,ne bis in idem,prohibition against double jeopardy
+一事不再理,いちじふさいり,prohibition against double jeopardy,ne bis in idem
 版権物,版権もの,版権モノ,はんけんもの,copyrighted material,unauthorized derivative work
 超常的,ちょうじょうてき,supernatural,paranormal
 ユーザーニーズ,ユーザー・ニーズ,user needs
@@ -122488,13 +122488,13 @@
 音楽ソフト,おんがくソフト,music software
 音源モジュール,おんげんモジュール,tone generator module
 音声チャネル,おんせいチャネル,voice channel
-音声トラック,おんじょうトラック,soundtrack
+音声トラック,おんせいトラック,soundtrack
 音声ネットワーク,おんせいネットワーク,voice network
 音声ファイル,おんせいファイル,sound file
 音声メール,おんせいメール,voicemail
 音声応答ユニット,おんせいおうとうユニット,ARU,Audio Response Unit
 音声応答装置,おんせいおうとうそうち,audio response unit,voice response unit
-音声会議システム,おんじょうかいぎシステム,voice conferencing system
+音声会議システム,おんせいかいぎシステム,voice conferencing system
 音声合成,おんせいごうせい,speech synthesis,voice synthesis
 音声合成装置,おんせいごうせいそうち,speech synthesizer
 音声処理技術,おんせいしょりぎじゅつ,voice processing technology
@@ -142502,7 +142502,7 @@
 裸火,はだかび,naked flame,naked light
 アナバス亜目,アナバスあもく,Anabantoidei
 有り得,ありう,to be possible,to be conceivable,to be likely,to be probable
-あんま,very,much
+あんま,very,much,too much,excessively,overly
 くんろ,to give,to let one have,to do for one
 途上与信,とじょうよしん,credit monitoring,credit limit monitoring
 やんけ,isn't it,right?,you know?
@@ -145818,7 +145818,7 @@
 花見月,はなみづき,third lunar month
 夢見月,ゆめみづき,third lunar month
 日本代表,にほんだいひょう,にっぽんだいひょう,Japanese representative,Japanese delegate,Japanese delegation
-ずり下がる,ずりさがる,to slide down,to slip down
+ずり下がる,ズリ下がる,ずりさがる,to slide down,to slip down
 言語化,げんごか,verbalization,putting into words
 どうかと思う,どうかとおもう,to think  is improper,to question,to have a problem with
 船首像,せんしゅぞう,figurehead
@@ -149416,7 +149416,7 @@
 遺伝学者,いでんがくしゃ,geneticist
 襟の折り返し,えりのおりかえし,lapel
 コージェライト,コーディアライト,cordierite
-じわっと,slowly but steadily
+じわっと,ジワッと,じわーっと,ジワーッと,ジワーっと,ジワっと,slowly but steadily
 超対称性,ちょうたいしょうせい,supersymmetry,SUSY
 プレコ,plecostomus,pleco,plec
 アイスポットシクリッド,アイスポット・シクリッド,eye-spot cichlid,peacock bass
@@ -211065,6 +211065,7 @@
 痴れ事,しれ事,しれごと,foolish act,folly,nonsense,absurdity,rubbish
 潜艦,せんかん,submarine
 まっこと,really,truly
+風下に立つ,風下にたつ,かざしもにたつ,to take a backseat,to fall behind,to be at a disadvantage,to be in a weak position,to stand downwind
 風下にいる,風下に居る,かざしもにいる,かざしたにいる,to take a backseat,to fall behind,to be at a disadvantage,to be in a weak position,to be downwind,to be under someone's influence,to imitate someone's style,to follow someone's customs
 無断使用,むだんしよう,unauthorized use,unauthorized usage,use without permission
 打撃力,だげきりょく,hitting power,striking power,batting power,offensive capability
@@ -211076,6 +211077,7 @@
 領事裁判権,りょうじさいばんけん,consular jurisdiction,jurisdiction of foreign consuls,right of a country's consul to try that country's citizens under its laws
 キロ程,粁程,キロてい,distance in kilometers,kilometrage
 稼得能力,かとくのうりょく,earning capacity,earning potential
+押し引き,押引き,押引,おしひき,pushing and pulling,back-and-forth,give and take,push-pull,weighing whether to attack or defend,haggling,bargaining
 稼得,かとく,earning
 海魔,かいま,sea monster,sea demon
 翔ける,翔る,かける,to soar,to fly
@@ -211094,6 +211096,7 @@
 鹿鳴館時代,ろくめいかんじだい,Rokumeikan era,period of Westernization in Meiji-era Japan, marked by Western-style balls at the Rokumeikan
 政策金融機関,せいさくきんゆうきかん,policy-based financial institution,policy-driven financial institution,policy bank
 お役に立てる,お役にたてる,御役に立てる,おやくにたてる,to be of help,to be of service,to be able to assist
+ちゅう事,ちゅうこと,that means,in other words,so that means,so you're saying
 公宅,こうたく,government-provided housing for civil servants,public housing
 厚生課,こうせいか,welfare section,welfare office
 漁る,すなどる,いさる,to fish
@@ -211121,6 +211124,7 @@
 同刻,どうこく,same time,same moment
 内臓破裂,ないぞうはれつ,ruptured internal organs,visceral rupture,rupture of an internal organ
 カナード,canard,foreplane,diving plane,dive plane,false rumor,fabrication,false news
+黒騎士,くろきし,black knight,masterless knight
 何ともはや,なんともはや,really,very,extremely,terribly,awfully
 升級,ションジー,しょうきゅう,sheng ji
 下手い,へたい,unskillful,poor,awkward
@@ -211128,7 +211132,9 @@
 被動者,ひどうしゃ,patient
 薬剤師会,やくざいしかい,pharmacist association,pharmaceutical association
 圧力隔壁,あつりょくかくへき,pressure bulkhead
+般若波羅蜜多心経,はんにゃはらみったしんぎょう,The Heart of the Perfection of Wisdom,Heart Sutra
 ＪＰＹＣ,ジェー・ピー・ワイ・シー,ジェーピーワイシー,JPYC
+晦匿,かいとく,hiding one's abilites
 骨の折れる,ほねのおれる,laborious,arduous,strenuous,painstaking,trying,taxing
 コートラック,コート・ラック,coat rack
 刻みねぎ,刻み葱,きざみねぎ,chopped leeks
@@ -211137,6 +211143,8 @@
 ビデオ通話,ビデオつうわ,video call,video chat,videoconferencing
 キャリアショップ,キャリア・ショップ,mobile phone shop,carrier store
 プロピオール酸,プロピオールさん,propiolic acid
+服薬指導,ふくやくしどう,medication counseling,patient compliance instructions,instructions on dosage and administration of drugs,guidance on taking medication
+オンライン帰省,オンラインきせい,video call with one's family,video chat with one's relatives
 捕鼠,ほそ,rat-catching
 コンテナハウス,コンテナ・ハウス,shipping container home
 床下浸水,ゆかしたしんすい,inundation below floor level,flooding under the floorboards
@@ -211167,9 +211175,32 @@
 爆弾犬,ばくだんけん,dog fitted with a bomb,anti-tank dog
 髪菜,はっさい,fat choy
 ドッグパーク,ドッグ・パーク,dog park
+強膜輪,鞏膜輪,きょうまくりん,scleral ring,sclerotic ring
+曲頸亜目,きょくけいあもく,Pleurodira
+プテロダクティルス,プテロダクチルス,pterodactylus,pterodactyl
+翼指竜亜目,よくしりゅうるい,Pterodactyloidea
+鳥中足骨類,とりちゅうそくこつるい,avemetatarsalians
 上火,うわび,heat applied from above,overhead heat,upper oven temperature in baking
+触毛,しょくもう,vibrissa,tactile hair
 ハーダー腺,ハーダーせん,Harderian gland
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-18
+タカヘ,South Island takahē,takahē
+ニュージーランドクイナ,weka,Māori hen,woodhen
+ウェカ,weka,Māori hen,woodhen
+発酵種,はっこうしゅ,leaven,fermentation starter
+アフリカマナティー,アフリカ・マナティー,African manatee,West African manatee
+カカ,New Zealand kākā,kākā
+黒赤筑紫鴨,クロアカツクシガモ,くろあかつくしがも,paradise shelduck,paradise duck,pūtangitangi
+緑の回廊,みどりのかいろう,green corridor,wildlife corridor
+輝板,きばん,tapetum,tapetum lucidum
+タペタム,tapetum,tapetum lucidum
+姫梟鸚哥,ヒメフクロウインコ,ひめふくろういんこ,night parrot
+マホガニーフクロモモンガ,マホガニー・フクロモモンガ,mahogany glider
+斑鬣犬,ぶちたてがみいぬ,spotted hyena,laughing hyena
+二重処罰,にじゅうしょばつ,double jeopardy,double punishment,double penalty
+斑ハイエナ,ブチハイエナ,ぶちハイエナ,spotted hyena,laughing hyena
+直腸肛門反射,ちょくちょうこうもんはんしゃ,rectoanal reflex
+千里鏡,せんりきょう,telescope
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-19
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -214284,6 +214315,7 @@
 大烏,おおがらす,The Raven
 大王製紙,だいおうせいし,Daio Paper Corporation
 大岡越前,おおおかえちぜん,Ōoka Echizen
+大海人,おおあま,Emperor Temmu
 大垣女子短期大学,おおがきじょしたんきだいがく,Oogaki Women's Junior College
 大垣養護学校,おおがきようごがっこう,Oogaki Special Needs School
 大学体育協会,だいがくたいいくきょうかい,College Physical Education Association
@@ -218463,3 +218495,4 @@
 三帝協商,さんていきょうしょう,Three Emperors' Alliance
 パコジェット,Pacojet
 盲人書簡,もうじんしょかん,Letter on the Blind
+光復節,こうふくせつ,Korean Liberation Day,Gwangbokjeol
