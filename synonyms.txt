@@ -13101,7 +13101,7 @@
 ロマンチック,ロマンティック,ロマンチツク,romantic
 ＲＯＭ,ロム,read-only memory,ROM,lurker
 ロリータコンプレックス,ロリータ・コンプレックス,lolicon,sexual attraction to prepubescent girls,male pedophile,male pedophilia
-ロリコン,lolicon,attraction to prepubescent girls,man attracted to very young girls,appeal for the cuteness of young or prepubescent female characters,characters presenting a young, childlike and carefree aesthetic
+ロリコン,lolicon,attraction to prepubescent girls,someone attracted to very young girls,lolicon,someone attracted to young or young-looking female characters
 ロング,long
 ロングサーキットアピール,ロングサーキット・アピール,long-circuit appeal
 ロングショット,longshot
@@ -14327,7 +14327,7 @@
 一回,１回,いっかい,once,one time,one round,one game,one bout,one heat,one inning
 一回り,ひと回り,一まわり,ひとまわり,one round,one turn,a circuit,one size,one cycle of the twelve years of the Chinese zodiac
 一回忌,いっかいき,first anniversary of a person's death,first death anniversary
-一回戦,いっかいせん,first game,first round
+一回戦,１回戦,いっかいせん,first game,first round
 一回分,いっかいぶん,dose,installment,instalment
 一塊,一塊り,ひと塊り,ひと塊,いっかい,ひとかたまり,one lump,one group
 一階,１階,いっかい,first floor,ground floor,one floor,one storey,one rank
@@ -17179,7 +17179,7 @@
 嘉賞,佳賞,かしょう,approval,praise
 嘉例,かれい,happy precedent
 夏,なつ,summer
-夏衣,なつごろも,summer clothes
+夏衣,なつごろも,なつぎぬ,summer clothes
 夏羽織,なつばおり,summer haori
 夏越し,なつごし,keeping over the summer
 夏掛け,なつがけ,summer-use futon
@@ -31998,7 +31998,7 @@
 女郎,女臈,じょろう,じょろ,じょうろ,prostitute
 女郎花,おみなえし,オミナエシ,golden lace,scabious patrinia,yellow patrinia
 序で,序,ついで,opportunity,occasion,chance,order,sequence,successor
-序の口,序ノ口,じょのくち,the beginning,lowest division in sumo
+序の口,序ノ口,じょのくち,the beginning,just the start,jonokuchi,lowest division in sumo
 序曲,じょきょく,overture,prelude
 序章,じょしょう,preface,foreword,introduction,introductory chapter,beginning,start
 序説,じょせつ,introduction
@@ -34333,7 +34333,7 @@
 刃物,刃もの,はもの,edged tool,cutting instrument,knife
 塵,芥,ゴミ,ごみ,rubbish,trash,garbage,refuse,litter
 塵芥,じんかい,ちりあくた,ごみあくた,rubbish,trash,garbage,refuse,worthless thing
-塵,ちり,dust,trash,garbage,rubbish,dirt,negligible amount,tiny bit,hustle and bustle,worldly cares,impurities of the world,ritual gestures indicating that a fight will be clean
+塵,ちり,dust,small debris,trash,garbage,rubbish,negligible amount,tiny bit,hustle and bustle,worldly cares,impurities of the world,ritual gestures indicating that a fight will be clean
 ちり取り,塵取り,ちり取,チリ取り,塵取,ちりとり,チリトリ,dustpan
 尋ねる,訊ねる,たずねる,to ask,to enquire,to inquire,to search,to look for,to look into,to investigate
 尋ね人,たずねびと,missing person,wanted person
@@ -39842,7 +39842,7 @@
 丁字,ていじ,letter "T",T-shaped
 丁字形,ていじけい,T-shaped
 丁字形定規,ていじけいじょうぎ,T-square
-丁重,鄭重,ていちょう,polite,courteous,hospitable
+丁重,鄭重,ていちょう,polite,courteous,hospitable,respectful,careful,handled with great care,treated with attention
 丁数,ちょうすう,number of leaves,number of sheets,even number
 丁稚,でっち,apprentice,shop boy
 丁稚奉公,でっち奉公,でっちぼうこう,でっちほうこう,apprenticeship
@@ -46545,7 +46545,7 @@
 普及版,ふきゅうばん,cheap edition,popular edition
 普及率,ふきゅうりつ,diffusion rate,rate of spread
 普賢,ふげん,Samantabhadra,Universal Compassion
-普請,ふしん,building,construction,group effort by Buddhist practitioners,group activities by a community
+普請,ふしん,construction,building,communal construction labor,building with the help of many people
 普請場,ふしんば,building plot
 普選,ふせん,universal suffrage
 普段,ふだん,usual,normal,everyday,habitual,ordinary,usually,normally,generally,habitually,always
@@ -47994,7 +47994,7 @@
 返る,反る,かえる,to return,to come back,to go back,to turn over,to become extremely,to become completely
 返歌,へんか,ode in reply
 返還,へんかん,return,restoration
-返却,へんきゃく,return,repayment,giving back
+返却,へんきゃく,return,returning,giving back,repayment
 返却値,へんきゃくち,return value
 返金,へんきん,refund,repayment,reimbursement
 返済,へんさい,repayment,reimbursement,refund,redemption
@@ -51752,7 +51752,7 @@
 立ち会う,立会う,たちあう,to be present,to be witness to,to attend
 立ち回り先,立回り先,たちまわりさき,whereabouts,present location
 立ち回る,立回る,立ちまわる,たちまわる,to walk about,to walk around,to conduct oneself,to act,to maneuver,to play one's cards,to stop by,to drop by,to turn up,to show up,to enact a fighting scene,to brawl
-立ち寄る,立寄る,立ちよる,たちよる,to drop by,to stop by,to visit briefly,to approach,to draw near,to come close
+立ち寄る,立寄る,立ちよる,たちよる,to drop by,to stop by,to drop in,to visit briefly,to approach,to draw near,to come close
 立ち去る,立去る,たちさる,to leave,to depart,to take one's leave
 立ち交じる,立ち混じる,立ちまじる,立ち交る,たち混じる,たちまじる,to join
 立ち向かう,立ち向う,立ちむかう,立向う,立向かう,たち向かう,たち向う,たちむかう,to fight against,to oppose,to face
@@ -56216,7 +56216,7 @@
 途切れる,跡切れる,とぎれる,to break off,to come to an end,to be interrupted,to be cut short,to pause
 研ぐ,磨ぐ,砥ぐ,とぐ,to sharpen,to hone,to whet,to grind,to wash,to scour,to polish,to burnish
 刺,棘,とげ,トゲ,thorn,spine,prickle,splinter,hard sharp item,biting words
-刺々しい,刺刺しい,とげとげしい,トゲトゲしい,sharp,harsh,hostile,stinging,biting,cutting,barbed
+刺々しい,刺刺しい,棘々しい,棘棘しい,とげとげしい,トゲトゲしい,sharp,harsh,hostile,cutting,barbed,stinging,spiky,prickly,jagged,biting
 所々,所所,処々,処処,ところどころ,しょしょ,here and there,in places
 年老,年老い,としおい,old person
 年寄り,年寄,年より,としより,old person,elderly person,senior citizen,trustee of the Japan Sumo Association,retired high-ranking wrestler who is licensed to coach and receives retirement pay,senior statesman,important local official
@@ -57521,7 +57521,7 @@
 直交性,ちょっこうせい,orthogonal,quadrature component
 隣り合わせ,隣合わせ,隣りあわせ,隣あわせ,となり合わせ,隣合せ,隣り合せ,となりあわせ,adjoining each other,next to each other,being in close proximity to something,being constantly exposed to
 止めどなく,止め処なく,止めど無く,止め処無く,とめど無く,とめどなく,とどめなく,endlessly,ceaselessly,nonstop,incessantly
-難なく,難無く,なんなく,easily
+難なく,難無く,なんなく,without trouble,easily,readily
 逃げ道,逃げ路,逃道,にげみち,way out,means to escape,escape route
 根っこ,根っ子,ねっこ,root,stump,root,base,foundation,origin,source
 寝ぼける,寝惚ける,寝とぼける,ねぼける,ねとぼける,to be still half asleep,to be half awake,to be not yet quite awake
@@ -58883,7 +58883,7 @@
 一から十まで,一から十迄,いちからじゅうまで,from A to Z,in every particular,all without exception,in everything,through and through,from one to ten
 一目置く,いちもくおく,to take off one's hat to a person,to acknowledge another's superiority
 意中の人,いちゅうのひと,sweetheart,person in one's thoughts
-出で立ち,いでたち,dress,outfit
+出で立ち,いで立ち,いでたち,dress,outfit
 イエズス会,イエズスかい,Society of Jesus,Jesuits
 言いさす,言い止す,言止す,いいさす,to break off,to stop
 維管束,いかんそく,vascular bundle,fibrovascular bundle
@@ -72880,7 +72880,7 @@
 鉄血,てっけつ,blood and iron,military might
 金床,鉄床,鉄砧,かなとこ,てっちん,anvil
 鉄柱,てっちゅう,iron pole
-鉄面皮,てつめんぴ,impudence,shamelessness,brazenness,arrogance,audacity,effrontery,nerve
+鉄面皮,てつめんぴ,impudence,shamelessness,brazenness,arrogance,audacity,effrontery,nerve,brazen person,shameless person,impudent person
 鉄柵,てっさく,iron railing,iron fence
 鉄剤,てつざい,iron preparations
 鉄拳,てっけん,tightly clenched fist
@@ -87101,7 +87101,7 @@
 薯蕷,とろろ,grated yam
 諸経費,しょけいひ,sundry expenses
 助け合い,たすけあい,cooperation,mutual aid
-序二段,じょにだん,jonidan  division
+序二段,じょにだん,jonidan,second lowest division
 勝ち馬,勝馬,かちうま,winning horse,winner
 勝差,しょうさ,difference in wins
 宵待草,よいまちぐさ,evening primrose
@@ -92310,7 +92310,7 @@
 馬鹿げる,莫迦げる,ばかげる,バカげる,to be foolish,to be stupid,to be ridiculous,to be absurd
 ぱらつく,パラつく,to sprinkle
 引かす,落籍す,ひかす,to redeem debts
-ひけらかす,to show off,to make a display
+衒らかす,ひけらかす,to show off,to make a display
 打ちひしぐ,打ち拉ぐ,うちひしぐ,to crush
 饑い,ひだるい,hungry
 ひもじい,very hungry,starving,ravenous
@@ -93126,7 +93126,7 @@
 おみ足,御御足,御々足,おみあし,foot,leg
 論理積,ろんりせき,logical product,AND operation,conjunction,intersection
 負論理,ふろんり,negative logic
-里山,さとやま,undeveloped woodland near populated area,settlement pattern of living in upland valleys and cultivating lower slopes
+里山,さとやま,satoyama,rural landscape coexisting with local agricultural communities
 より良い,よりよい,よりいい,better,superior
 夜遅く,夜おそく,よるおそく,late at night,at a late hour
 創作料理,そうさくりょうり,creative cookery,creative cuisine
@@ -94500,7 +94500,7 @@
 乗り捨て料金,乗捨料金,のりすてりょうきん,one-way car rental fee
 焼き窯,やきがま,oven,kiln
 声を出す,声をだす,こえをだす,to speak,to say,to vocalize
-言うことを聞く,言う事を聞く,いうことを聞く,いうことをきく,to do what one is told to,to take someone's advice,to listen to what someone says
+言うことを聞く,言う事を聞く,いうことを聞く,言うことをきく,言う事をきく,いうことをきく,to do what one is told to,to take someone's advice,to listen to what someone says,to do what one wants something  to do,to work as expected,to obey,to cooperate
 夜が明ける,夜があける,よがあける,dawn breaks,day dawns
 起き出す,起きだす,おきだす,to get out of bed,to show a leg
 呼び方,よびかた,way of calling
@@ -127561,7 +127561,7 @@
 白魔法,しろまほう,white magic
 草付き,草付,くさつき,patch of plants or shrubs
 攀じる,よじる,to clamber up,to climb up
-通学路,つうがくろ,school route,street for students going to and from school
+通学路,つうがくろ,school route,street used by students going to and from school
 うながっぱ,maki sushi typically made from eel and cucumber, often with a face-like pattern when cut,mascot character used by Tajimi City in Gifu
 呼び出し側,よびだしがわ,caller,calling party
 進んで,すすんで,voluntarily,willingly,of one's own free will
@@ -138175,7 +138175,7 @@
 数値化,すうちか,quantification,expressing in numerical form,conversion to numerical form
 瓦状,かわら状,かわらじょう,imbricate,tegular,overlapping
 異能,いのう,unusual power,superpower,ability beyond that of humans
-賂,賄,賂い,まいない,bribe
+賂,賄,賂い,まいない,bribe,offering
 手技療法,しゅぎりょうほう,manual therapy
 優勢勝ち,ゆうせいがち,winning by judges' decision
 共役角,きょうやくかく,conjugate angles
@@ -211166,6 +211166,7 @@
 児童性愛,じどうせいあい,pedophilia,paedophilia
 児童性愛者,じどうせいあいしゃ,pedophile,paedophile
 魔法士,魔法師,まほうし,magician,wizard,sorcerer,witch,mage
+黄薔薇,黄バラ,黄ばら,きばら,yellow rose
 世界史的,せかいしてき,world-historical
 枯れすすき,枯れススキ,枯れ薄,枯薄,枯れ芒,枯芒,かれすすき,カレススキ,withered silver grass,withered Japanese pampas grass,dead susuki grass
 急湍,きゅうたん,swift shoal,rapid shallows
@@ -211200,7 +211201,20 @@
 斑ハイエナ,ブチハイエナ,ぶちハイエナ,spotted hyena,laughing hyena
 直腸肛門反射,ちょくちょうこうもんはんしゃ,rectoanal reflex
 千里鏡,せんりきょう,telescope
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-19
+ナチ公,ナチこう,Nazi,kraut,German
+お祓い棒,お払い棒,おはらいぼう,purification wand with paper streamers used in rites
+立憲政友会,りっけんせいゆうかい,Friends of Constitutional Government Party
+柔々,柔柔,やわやわ,ヤワヤワ,softly,smoothly,tenderly,pliantly,gently,mildly,calmly,carefully,unhurriedly
+診療室,しんりょうしつ,examination room,treatment room,doctor's office
+ノーリスク,ノー・リスク,no-risk,risk-free,without risk
+筋肉増強剤,きんにくぞうきょうざい,muscle-building drug,anabolic steroid
+精彩を欠く,生彩を欠く,せいさいをかく,to lack luster,to be dull,to be unimpressive,to be off form,to be sluggish,to be lethargic
+ミスショット,ミス・ショット,mishit,bad shot,missed shot
+ご贔屓に,御贔屓に,ごひいきに,we appreciate your continued patronage,thank you for your continued support,please continue to patronize
+国際商業会議所,こくさいしょうぎょうかいぎしょ,International Chamber of Commerce,ICC
+ＩＣＣ,アイ・シー・シー,アイシーシー,International Criminal Court,ICC,International Chamber of Commerce,ICC,International Control Commission,ICC
+政友会,せいゆうかい,Friends of Constitutional Government Party
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-20
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -218496,3 +218510,4 @@
 パコジェット,Pacojet
 盲人書簡,もうじんしょかん,Letter on the Blind
 光復節,こうふくせつ,Korean Liberation Day,Gwangbokjeol
+黄巣の乱,こうそうのらん,Huang Chao Rebellion
