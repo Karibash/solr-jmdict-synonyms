@@ -285,7 +285,7 @@
 キーキー,キイキイ,キィキィ,きーきー,きいきい,きぃきぃ,with a  creak,with a squeak,with a screech
 きかん気,利かん気,聞かん気,きかんき,unruly,unyielding,disobedient,strong-willed
 きちきち,キチキチ,jam-packed,grinding noise,precisely,correctly,Oriental longheaded locust
-きちっと,exactly,perfectly
+きちっと,properly,accurately,exactly,precisely,regularly,neatly,tidily,orderly
 きちんと,properly,accurately,exactly,precisely,regularly,neatly,tidily,orderly
 きっかり,キッカリ,exactly,just,precisely,punctually,exactly on time
 きっちり,キッチリ,exactly,precisely,punctually,on the dot,closely,tightly,perfectly,properly,without fail
@@ -15528,7 +15528,7 @@
 栄える,さかえる,to prosper,to flourish,to thrive
 栄位,えいい,exalted position
 栄華,栄花,えいが,prosperity,glory,splendour,splendor,majesty,luxury
-栄冠,えいかん,laurels,garland
+栄冠,えいかん,crown of victory,laurels,honor,glory,fame
 栄枯,えいこ,vicissitudes,ups and downs
 栄枯盛衰,えいこせいすい,ups and downs of life,vicissitudes of fortune
 栄光,えいこう,glory
@@ -25502,7 +25502,7 @@
 工具,こうぐ,tool,implement
 工具入,こうぐいれ,toolbox
 工芸,こうげい,industrial arts,craft
-工作,こうさく,handicraft,work,construction,manufacturing,maneuvering,manoeuvering
+工作,こうさく,handicraft,work,construction,manufacturing,maneuvering,manoeuvring
 工作機械,こうさくきかい,machine tool
 工作物,こうさくぶつ,manufactured article,work,construction,structure
 工事,こうじ,construction work
@@ -29176,7 +29176,7 @@
 時計店,とけいてん,watch store,watch shop,watchmaker
 時限,じげん,period,period or division of time,time limit
 時限爆弾,じげんばくだん,time bomb
-時効,じこう,statute of limitations,lapse of rights after a period of time,prescription,becoming invalid or void after a set time,ageing,aging
+時効,じこう,prescription,statute of limitations,limitation period,lapsing with time,no longer standing,becoming void,becoming bygones,ageing,aging
 時刻,時剋,じこく,time,hour,favourable time,opportunity,chance
 時刻表,じこくひょう,timetable,schedule
 時差,じさ,time difference
@@ -30538,7 +30538,7 @@
 寿命,じゅみょう,lifespan,life,lifetime,life,service life,end of an object's  life
 寿齢,じゅれい,long life,age,life
 寿老人,じゅろうじん,god of longevity
-授かる,さずかる,to be awarded,to be given an award,to receive,to be gifted or endowed,to be blessed,to be initiated
+授かる,さずかる,to be granted,to be awarded,to be gifted with,to be blessed with,to be endowed with,to be taught,to be instructed,to be initiated
 授ける,さずける,to grant,to give,to confer,to award,to teach,to instruct,to impart
 授業,じゅぎょう,lesson,class,teaching,instruction,classwork,schoolwork
 授業を受ける,じゅぎょうをうける,to take a class
@@ -33390,7 +33390,7 @@
 侵略戦争,しんりゃくせんそう,war of aggression,war of conquest
 侵略的,しんりゃくてき,aggressive
 唇,脣,くちびる,lip,lips
-唇音,しんおん,labial sound
+唇音,しんおん,labial,labial consonant
 寝かす,ねかす,to put to bed,to let sleep,to lay  down,to put on its side,to let  lie idle,to set aside unused,to let  lie unsold,to  ferment,to  age,to let  rise,to lay down
 寝かせる,ねかせる,to put to bed,to let sleep,to lay  down,to put on its side,to let  lie idle,to set aside unused,to let  lie unsold,to  ferment,to  age,to let  rise,to lay down
 寝ずの番,不寝の番,ねずのばん,night watch,night watchman,sleepless vigil
@@ -43954,7 +43954,7 @@
 能事,のうじ,one's work
 能書,のうしょ,excellent calligraphy,calligraphy
 能書き,のうがき,advertising the excellence of one's wares,boasting,self-advertisement,statement of the virtues of a medicine,description of the virtues of a drug
-能動,のうどう,activity
+能動,のうどう,activity,activity,active
 能動態,のうどうたい,active voice
 能動的,のうどうてき,active
 能動免疫,のうどうめんえき,active immunity
@@ -46964,7 +46964,7 @@
 複素数,ふくそすう,complex number
 複葉機,ふくようき,biplane
 複利,ふくり,compound interest
-覆い,被い,蔽い,掩い,おおい,cover,mantle,shroud,hood
+覆い,被い,蔽い,掩い,おおい,cover,mantle,shroud,hood,casing
 覆す,くつがえす,to overturn,to capsize,to upset,to overthrow,to reverse,to disprove,to overrule
 覆る,くつがえる,to topple over,to be overturned,to capsize,to be overruled,to be reversed,to be discredited
 覆水盆に返らず,覆水盆に帰らず,ふくすいぼんにかえらず,what's done is done,it is no use crying over spilt milk,spilt water won't go back into its tray
@@ -48639,7 +48639,7 @@
 傍訓,ぼうくん,marginal notes
 傍系,ぼうけい,collateral family,subsidiary line,affiliate,coset
 傍見,おかみ,looking on by an outsider
-脇見,わき見,傍視,わきみ,ぼうし,looking from the side,looking aside
+脇見,わき見,傍視,わきみ,looking aside,looking away,looking the other way
 傍耳,かたみみ,things overheard
 傍若無人,旁若無人,ぼうじゃくぶじん,behaving outrageously as though there were no one around,acting without consideration for others,arrogance,audacity,insolence
 傍受,ぼうじゅ,interception,monitoring,tapping
@@ -52886,7 +52886,7 @@
 佗寝,佗び寝,わびね,lonesome sleep,sleeping alone
 佗人,わびびと,lonesome person,unwanted person,poverty-stricken person
 佗声,わびごえ,sad voice
-佇む,彳む,たたずむ,to stand  a while,to loiter,to stop
+佇む,彳む,たたずむ,to stand still,to remain in one place,to linger,to stand alone,to stand quietly,to wander about,to loiter
 佇立,ちょりつ,standing still
 佩,珮,はい,type of ancient oriental belt,counter for swords
 佩剣,はいけん,wearing a sword,sword one is wearing
@@ -53324,7 +53324,7 @@
 樅,もみ,モミ,Japanese fir,momi fir
 橙,だいだい,ダイダイ,bitter orange,sour orange,Seville orange,orange
 橈骨,とう骨,とうこつ,radius
-檄を飛ばす,激を飛ばす,げきを飛ばす,檄をとばす,激をとばす,げきをとばす,to issue a manifesto,to appeal
+檄を飛ばす,激を飛ばす,ゲキを飛ばす,げきを飛ばす,檄をとばす,激をとばす,げきをとばす,to make an appeal,to rally  to one's cause,to call to action,to spur on,to fire  up,to rally,to give a pep talk,to shout encouragement
 檄文,げきぶん,written appeal,manifesto,declaration
 檻,おり,cage,pen,cell
 鬱を散じる,うつをさんじる,to chase one's gloom away,to free one's thoughts from melancholy
@@ -64083,7 +64083,7 @@
 音響効果,おんきょうこうか,sound effects,acoustics
 音響学,おんきょうがく,acoustics
 音韻論,おんいんろん,phonology
-暗中飛躍,あんちゅうひやく,behind-the-scenes maneuvering,behind-the-scenes manoeuvering,secret maneuvers,secret manoeuvres
+暗中飛躍,あんちゅうひやく,behind-the-scenes maneuvering,behind-the-scenes manoeuvring,secret maneuvers,secret manoeuvres
 暗号文,あんごうぶん,cryptogram,cipher text
 暗号学,あんごうがく,cryptography,cryptology
 暗剣殺,あんけんさつ,unpropitious direction
@@ -65198,7 +65198,7 @@
 透視力,とうしりょく,clairvoyant powers
 透視画法,とうしがほう,perspective
 透磁率,とうじりつ,magnetic permeability
-透かし彫り,すかしぼり,fretwork
+透かし彫り,透彫,透かし彫,すかしぼり,sukashibori,fretwork,openwork
 透かし絵,すかしえ,transparency
 誘い込む,さそいこむ,to entice,to tempt,to invite someone to join in
 誘拐罪,ゆうかいざい,kidnapping
@@ -74414,7 +74414,7 @@
 理論闘争,りろんとうそう,theoretical dispute
 裏白,うらじろ,ウラジロ,Gleichenia japonica,white underside,white bottom,white inner
 裏芸,うらげい,one's party piece,parlor trick,hidden talent
-裏面工作,りめんこうさく,string-pulling,backstage manoeuvering
+裏面工作,りめんこうさく,string-pulling,backstage maneuvering,backstage manoeuvring
 裏番組,うらばんぐみ,program competing with another in the same timeslot,counterprogram
 鯉口,こい口,こいぐち,こいくち,opening of a scabbard,mouth of a sword sheath,style of shirt with carp-mouth shaped sleeves
 陵墓,りょうぼ,imperial tomb,imperial mausoleum
@@ -74920,7 +74920,7 @@
 単項式,たんこうしき,monomial
 単細胞生物,たんさいぼうせいぶつ,unicellular organism,single-celled organism
 単勝,たんしょう,winning at the races
-弾丸道路,だんがんどうろ,long, straight, wide-open highway
+弾丸道路,だんがんどうろ,expressway,superhighway
 弾片,だんぺん,shrapnel,shell or bullet fragment
 弾き手,ひきて,performer or player
 弾き初め,ひきぞめ,initial playing of an instrument in the New Year
@@ -85156,7 +85156,7 @@
 駅前広場,えきまえひろば,station square,station plaza
 駅長室,えきちょうしつ,stationmaster's office
 越冬隊,えっとうたい,wintering party
-演習場,えんしゅうじょう,maneuvering ground,manoeuvering ground
+演習場,えんしゅうじょう,maneuvering ground,manoeuvring ground
 演奏家,えんそうか,performing musician
 演奏者,えんそうしゃ,performer,player
 演奏旅行,えんそうりょこう,concert  tour
@@ -211136,6 +211136,9 @@
 ＪＰＹＣ,ジェー・ピー・ワイ・シー,ジェーピーワイシー,JPYC
 晦匿,かいとく,hiding one's abilites
 骨の折れる,ほねのおれる,laborious,arduous,strenuous,painstaking,trying,taxing
+神漏美,かむろみ,かみろみ,female ancestral god,female deity
+神漏岐,神漏伎,かむろき,かみろき,male ancestral god,male deity
+瀬織津姫,瀬織津比売,瀬織津比咩,瀬織津媛,せおりつひめ,Seoritsuhime
 コートラック,コート・ラック,coat rack
 刻みねぎ,刻み葱,きざみねぎ,chopped leeks
 活力説,かつりょくせつ,vitalism
@@ -211155,6 +211158,7 @@
 ずり下げる,ズリ下げる,ずりさげる,to pull down,to slide down
 オフィスカジュアル,オフィス・カジュアル,office casual
 ライフリング,rifling
+嗜食,ししょく,eating with liking,relishing,indulging in,eating regularly,habitually eating
 人肉嗜食,じんにくししょく,cannibalism,anthropophagy,eating human flesh
 非暴力不服従,非暴力・不服従,ひぼうりょくふふくじゅう,nonviolent resistance
 一人一殺,いちにんいっさつ,killing one by one
@@ -211176,6 +211180,7 @@
 爆弾犬,ばくだんけん,dog fitted with a bomb,anti-tank dog
 髪菜,はっさい,fat choy
 ドッグパーク,ドッグ・パーク,dog park
+番街,ばんがい,nth avenue
 強膜輪,鞏膜輪,きょうまくりん,scleral ring,sclerotic ring
 曲頸亜目,きょくけいあもく,Pleurodira
 プテロダクティルス,プテロダクチルス,pterodactylus,pterodactyl
@@ -211207,14 +211212,23 @@
 柔々,柔柔,やわやわ,ヤワヤワ,softly,smoothly,tenderly,pliantly,gently,mildly,calmly,carefully,unhurriedly
 診療室,しんりょうしつ,examination room,treatment room,doctor's office
 ノーリスク,ノー・リスク,no-risk,risk-free,without risk
-筋肉増強剤,きんにくぞうきょうざい,muscle-building drug,anabolic steroid
+筋肉増強剤,きんにくぞうきょうざい,muscle-building drug,muscle-building agent
 精彩を欠く,生彩を欠く,せいさいをかく,to lack luster,to be dull,to be unimpressive,to be off form,to be sluggish,to be lethargic
+弾速,だんそく,bullet speed,muzzle velocity
 ミスショット,ミス・ショット,mishit,bad shot,missed shot
 ご贔屓に,御贔屓に,ごひいきに,we appreciate your continued patronage,thank you for your continued support,please continue to patronize
 国際商業会議所,こくさいしょうぎょうかいぎしょ,International Chamber of Commerce,ICC
 ＩＣＣ,アイ・シー・シー,アイシーシー,International Criminal Court,ICC,International Chamber of Commerce,ICC,International Control Commission,ICC
+ミンダナオオオヤママユ,caesar cobra moth
+黄帯矢毒蛙,キオビヤドクガエル,きおびやどくがえる,yellow-banded poison dart frog,yellow-headed poison dart frog,bumblebee poison frog
 政友会,せいゆうかい,Friends of Constitutional Government Party
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-20
+負い,おい,extra,additional,more
+調音点,ちょうおんてん,place of articulation
+傍視,ぼうし,looking on,looking from the sides,standing by and watching,looking aside,looking away,looking the other way
+ロカイユ,rocaille,rocaille
+グロット,grotto
+霊液,れいえき,elixir,ichor,divine fluid
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-21
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
