@@ -159,7 +159,7 @@
 お産,御産,おさん,birth,childbirth,delivery
 お仕舞い,お終い,御仕舞い,御終い,お仕舞,御仕舞,おしまい,the end,closing,being done for,that's it,that's enough,that's all
 お使い,お遣い,御使い,御遣い,お使,御使,おつかい,errand,mission,going on an errand,messenger,bearer,errand boy,errand girl,familiar spirit
-お姉さん,お姐さん,御姉さん,御姐さん,おねえさん,older sister,elder sister,young lady,miss,ma'am,older girl
+お姉さん,お姐さん,御姉さん,御姐さん,おねえさん,おねいさん,older sister,elder sister,young lady,miss,ma'am,older girl
 お子さん,御子さん,おこさん,child
 お子様,お子さま,御子様,御子さま,おこさま,child,child,kid
 お歯黒,鉄漿,御歯黒,おはぐろ,tooth blackening,tooth-blackening dye
@@ -7916,7 +7916,7 @@
 ドンパチ,どんぱち,sound of pistol fire,sound of exploding gunpowder,exchange of  fire,shootout,conflict,war
 ドンファン,ドン・ファン,Don Juan,womanizer,libertine
 ドンマイ,どんまい,don't worry about it,never mind,it's OK
-ナーサリー,ナースリー,ナーサリ,nursery
+ナーサリー,ナースリー,ナーサリ,day nursery,nursery school,nursery,children's room
 ナーサリーテール,ナーサリー・テール,nursery tale
 ナース,nurse
 ナースステーション,ナース・ステーション,nurses' station,nursing station
@@ -9474,7 +9474,7 @@
 ピュア,ピュアー,pure
 ピュアモルト,ピュア・モルト,pure malt
 ピュアリスト,purist
-ピラニア,piranha
+ピラニア,ピラーニャ,piranha
 ピラフ,pilaf,pilau,pulao
 ピラミッド,ピラミット,pyramid
 ピラミッドセリング,ピラミッド・セリング,pyramid selling
@@ -9892,7 +9892,7 @@
 フランシウム,francium
 フランスデモ,フランス・デモ,large street demonstration
 フランスパン,フランス・パン,French bread,breadstick
-フランス語,フランスご,French
+フランス語,仏蘭西語,フランスご,French
 フランセ,French
 フランチャイズ,franchise
 フランチャイズチェーン,フランチャイズ・チェーン,franchise chain,FC
@@ -10637,7 +10637,7 @@
 ベビーサークル,ベビー・サークル,play pen
 ベビーシッター,ベビー・シッター,ベイビーシッター,ベビーシッタ,ベビシッター,ベービーシッター,babysitter
 ベビーパウダー,ベビー・パウダー,baby powder
-ベビーフェイス,ベイビーフェイス,ベビーフェース,ベビー・フェイス,ベイビー・フェイス,ベビー・フェース,baby face,childlike face,babyface,face,good guy
+ベビーフェイス,ベイビーフェイス,ベビー・フェイス,ベイビー・フェイス,ベビーフェース,ベビー・フェース,baby face,childlike face,babyface,face,good guy
 ベビーブーム,ベビー・ブーム,ベイビーブーム,baby boom
 ベビーベッド,ベビー・ベッド,ベビーベット,cot,bassinet,crib
 ベビーホテル,ベビー・ホテル,unlicensed child care
@@ -13124,7 +13124,7 @@
 ワーキングホリデー,ワーキング・ホリデー,working holiday
 ワーキングランチ,ワーキング・ランチ,working lunch
 ワーク,work
-ワークシェアリング,ワークシェリング,ワーク・シェアリング,ワーク・シェリング,work-sharing,job-sharing
+ワークシェアリング,ワーク・シェアリング,ワークシェリング,ワーク・シェリング,work-sharing,job-sharing
 ワークショップ,ワークショプ,workshop
 ワークステーション,workstation
 ワークソング,ワーク・ソング,work song
@@ -20885,7 +20885,7 @@
 泣き崩れる,泣崩れる,なきくずれる,to break down crying
 泣き明かす,泣き明す,泣明す,なきあかす,to weep the night away,to cry all night long
 泣き面に蜂,泣きっ面に蜂,なきつらにはち,なきっつらにはち,making matters worse,adding insult to injury,bees to a tearful face
-泣き落とす,泣き落す,泣落とす,泣落す,なきおとす,to persuade by tears,to use tears to get one's way
+泣き落とす,泣き落す,泣きおとす,泣落とす,泣落す,なきおとす,to persuade by tears,to use tears to get one's way
 泣く,なく,to cry,to shed tears,to weep,to sob,to suffer,to be troubled,to face hardship,to accept,to do reluctantly,to make sacrifices,to be not worth the name,to suffer,to be spoiled,to be put to shame,to lament,to bemoan,to bewail
 泣ける,なける,to shed tears,to be moved to tears
 泣き沈む,泣沈む,なきしずむ,to abandon oneself to grief
@@ -23268,7 +23268,7 @@
 結び目,むすびめ,knot
 結ぶ,むすぶ,to tie,to bind,to link,to bear,to close,to confirm,to conclude,to connect,to close tightly,to purse,to unite,to ally,to join hands
 結わえる,ゆわえる,to bind,to fasten,to tie up
-結果,けっか,result,consequence,outcome,effect,as a result of,as a consequence of,after,following,bearing fruit,fruiting
+結果,けっか,result,consequence,outcome,effect,as a result,as a consequence,in consequence,following,bearing fruit,fruiting
 結果論,けっかろん,hindsight-based opinion
 結核,けっかく,tuberculosis,TB,concretion
 結球,けっきゅう,head,forming a head,coming to a head
@@ -24504,7 +24504,7 @@
 股旅,またたび,wandering life of a gambler
 胡国,ここく,North China barbarian nations
 胡坐,胡座,胡床,趺坐,あぐら,sitting cross-legged
-胡坐をかく,胡座をかく,胡坐かく,胡坐を掻く,あぐらを掻く,胡座かく,胡座を掻く,胡坐を搔く,あぐらをかく,あぐらかく,to sit cross-legged,to rest on one's laurels,to be self-complacent
+胡坐をかく,胡座をかく,胡坐を掻く,胡坐かく,あぐらを掻く,胡座かく,胡座を掻く,胡坐を搔く,あぐらをかく,あぐらかく,to sit cross-legged,to rest on one's laurels,to be self-complacent
 胡散臭い,うさん臭い,うさんくさい,suspicious-looking,shady,questionable,dubious,fishy
 胡桃,くるみ,クルミ,walnut
 胡麻,ごま,ゴマ,sesame seeds,sesame
@@ -24791,7 +24791,7 @@
 お中元,御中元,おちゅうげん,mid-year gift,summer gift
 お釣り,お釣,御釣り,御釣,おつり,change,toilet splashback
 御殿,ご殿,ごてん,palace,court
-お日様,お日さま,お陽さま,お陽様,御日様,御陽様,おひさま,the Sun
+お日様,お陽様,お日さま,お陽さま,御日様,御陽様,おひさま,the Sun
 お年玉,御年玉,おとしだま,New Year's gift
 ご飯,御飯,ごはん,cooked rice,meal
 御物,ぎょぶつ,Imperial treasures
@@ -27900,7 +27900,7 @@
 山荘,さんそう,mountain villa,mountain retreat,mountain cottage
 山賊,さんぞく,bandit,brigand
 山地,さんち,mountainous region,mountainous district,hilly district
-山茶花,さざんか,さんざか,さんさか,さんちゃか,サザンカ,sasanqua
+山茶花,さざんか,サザンカ,さんざか,さんさか,さんちゃか,sasanqua
 山中,さんちゅう,やまなか,in the mountains,among the mountains
 山頂,さんちょう,summit
 山登り,やまのぼり,mountain climbing,mountaineering
@@ -31584,7 +31584,7 @@
 春眠,しゅんみん,deep sleep,sleep soundly
 春眠暁を覚えず,しゅんみんあかつきをおぼえず,in spring one sleeps a sleep that knows no dawn,in spring one sleeps like a log
 瞬く,またたく,まばたく,まだたく,to twinkle,to flicker,to waver,to blink,to wink,to bat
-瞬間,しゅんかん,moment,instant,second
+瞬間,しゅんかん,moment,instant,second,just then,right at that moment,at that instant,for a moment,for an instant,momentarily
 瞬間電断,しゅんかんでんだん,power flicker
 瞬刻,しゅんこく,moment,instant
 瞬時,しゅんじ,instant,moment,second,flash,blink of an eye
@@ -34442,7 +34442,7 @@
 垂範,すいはん,setting an example
 垂木,たる木,椽,榱,架,たるき,はえき,rafter
 垂楊,すいよう,weeping willow
-垂涎,すいぜん,すいえん,すいせん,avid desire,craving,thirst,envy,watering at the mouth,drooling
+垂涎,垂ぜん,すいぜん,すいえん,すいせん,avid desire,craving,thirst,envy,watering at the mouth,drooling
 垂迹,すいじゃく,すいしゃく,manifested form,temporary manifestation
 推す,おす,to recommend,to endorse,to nominate,to support,to back,to infer,to deduce,to gather,to conjecture,to surmise,to think  through,to ponder deeply,to be a fan of,to stan
 推移,すいい,transition,change,progress,development,shift,passing
@@ -36982,7 +36982,7 @@
 組み合わせる,組合わせる,組合せる,組み合せる,組みあわせる,くみあわせる,to put together,to combine,to join together,to join up,to match against
 組み合わせ錠,くみあわせじょう,combination lock
 組み込み,組込み,組込,くみこみ,cut-in,insertion,inclusion,built-in,predefined,embedded
-組み込む,組込む,組みこむ,くみこむ,to insert,to include,to incorporate,to install,to embed
+組み込む,組込む,組みこむ,くみ込む,くみこむ,to insert,to include,to incorporate,to install,to embed
 組み替え,組替え,組み換え,組換え,くみかえ,rearrangement,recomposition,recombination,reclassification
 組み替える,組み換える,組替える,組換える,くみかえる,to rearrange,to recompose,to reset,to recombine
 組み入れる,組入れる,くみいれる,to incorporate,to work into,to insert
@@ -40597,7 +40597,7 @@
 偵察隊,ていさつたい,scouting party,patrol
 偵知,ていち,spying out,discovering
 剃上げ額,すりあげびたい,high and broad forehead
-剃刀,かみそり,かみすり,そり,カミソリ,razor
+剃刀,かみそり,カミソリ,かみすり,そり,razor
 剃刀研ぎ,かみそりとぎ,one who sharpens razors
 剃刀気触れ,かみそりかぶれ,razor burn,razor rash
 剃刀砥,かみそりど,razor strop,hone
@@ -40655,7 +40655,7 @@
 定比例,ていひれい,fixed proportion
 定評,ていひょう,established reputation
 定本,ていほん,revised edition,authoritative edition,standard edition,final version of a book as edited by the author,revised edition of a book as edited by the author
-定理,ていり,theorem,proposition
+定理,ていり,theorem
 定量,ていりょう,fixed quantity
 定例,ていれい,じょうれい,regular,ordinary,established usage,precedent,regular practice
 帝,御門,みかど,ごもん,emperor,mikado,imperial residence
@@ -53553,7 +53553,7 @@
 脾臓,脾臟,ひぞう,spleen
 腓骨,ひこつ,fibula,fibular,peroneal
 こむら返り,腓返り,こむらがえり,cramp in the leg
-不甲斐ない,不甲斐無い,腑甲斐ない,腑甲斐無い,ふがいない,good-for-nothing,spineless,gutless,spiritless,feckless,pluckless,cowardly,tame,timid,pathetic,pitiful,disappointing,shameful,useless,worthless
+不甲斐ない,不甲斐無い,腑甲斐無い,腑甲斐ない,ふがいない,good-for-nothing,spineless,gutless,spiritless,feckless,pluckless,cowardly,tame,timid,pathetic,pitiful,disappointing,shameful,useless,worthless
 腑抜け,ふぬけ,coward,namby-pamby,wimp,weak-kneed person,spineless person
 胼胝,胝,たこ,タコ,callus,corn
 腱,けん,tendon
@@ -54993,7 +54993,7 @@
 明かり,灯り,灯火,灯,灯かり,明り,あかり,light,glow,gleam,light,lights,lamp,proof
 空き巣,空巣,明き巣,あきす,empty nest,empty house,empty home,burglary,burglar,sneak thief,prowler
 秋晴れ,秋晴,あきばれ,しゅうせい,clear autumnal weather
-空き瓶,空瓶,空きビン,空きびん,空き壜,あきびん,からびん,empty bottle
+空き瓶,空瓶,空き壜,空きビン,空きびん,あきびん,からびん,empty bottle
 飽きる,厭きる,倦きる,あきる,to get tired of,to tire of,to lose interest in,to grow weary of,to get fed up with,to get sick of,to become bored with,to become sated,to become satiated,to have one's fill
 呆れ返る,あきれ返る,呆れかえる,あきれかえる,to be utterly amazed,to be stunned,to be disgusted
 空く,すく,to become less crowded,to thin out,to get empty,to be hungry
@@ -55106,7 +55106,7 @@
 一獲,一攫,いっかく,one grab
 一攫千金,一獲千金,いっかくせんきん,getting rich quick,making a killing,making a fortune at a single stroke
 一ヶ月,一ヵ月,一カ月,一か月,一箇月,一ケ月,１ヶ月,１ヵ月,１カ月,１か月,１箇月,１ケ月,いっかげつ,one month
-一箇所,一カ所,一ヶ所,一か所,一ヵ所,一ケ所,１箇所,１カ所,１ヶ所,１か所,１ヵ所,１ケ所,一個所,１個所,いっかしょ,one place,the same place,one spot,one location,one part,one passage
+一箇所,一カ所,一ヶ所,１箇所,１カ所,１ヶ所,一か所,一ヵ所,一ケ所,一個所,１か所,１ヵ所,１ケ所,１個所,いっかしょ,one place,the same place,one spot,one location,one part,one passage
 一騎打ち,一騎討ち,一騎打,一騎討,いっきうち,single combat,duel,one-on-one fight
 一軒家,一軒屋,いっけんや,detached house,single house,single building,isolated house,house in isolated location
 一才,一歳,１才,１歳,いっさい,one-year-old
@@ -55347,7 +55347,7 @@
 関わる,係わる,拘る,関る,拘わる,係る,かかわる,to be involved,to get involved,to concern oneself,to take part,to interfere,to relate to,to pertain to,to concern,to have to do with,to  affect,to concern,to have a serious bearing,to stick,to adhere,to be particular
 花期,花季,かき,flowering season
 夏季,かき,なつき,summer season,summer,summertime
-書き入れ時,かき入れ時,かきいれ時,書入れ時,掻き入れ時,かきいれどき,busiest and most profitable business period,peak season
+書き入れ時,かき入れ時,掻き入れ時,かきいれ時,書入れ時,かきいれどき,busiest and most profitable business period,peak season
 書き換える,書き替える,書き変える,書きかえる,書換える,書替える,かきかえる,to rewrite,to overwrite,to renew,to transfer
 書き込み,書込み,かきこみ,writing,entry,posting
 書き添える,書添える,かきそえる,to add,to write a postscript
@@ -56059,7 +56059,7 @@
 建て坪,建坪,たてつぼ,floor space,floorage
 建前,建て前,立前,立て前,たてまえ,face,official stance,public position or attitude,ceremony for the erection of the framework of a house
 例え,喩え,譬え,喩,譬,たとえ,example,simile,metaphor,allegory,fable,parable
-仮令,縦え,縦令,たとえ,たとい,even if,no matter,if,though,although,supposing,supposing that,-ever
+仮令,縦令,縦え,たとえ,たとい,even if,no matter,if,though,although,supposing,supposing that,-ever
 例える,喩える,譬える,たとえる,to compare  to,to liken,to speak figuratively,to use a simile,to use a metaphor
 楽しげ,愉しげ,たのしげ,happy,cheerful,pleasant
 煙草,莨,烟草,タバコ,たばこ,tobacco,cigarette,cigar,tobacco plant
@@ -56406,7 +56406,7 @@
 栄え,映え,はえ,glory,splendour,honour
 映える,栄える,はえる,to shine,to glow,to look attractive,to look nice,to be set off
 儚い,果敢無い,果無い,果敢ない,果ない,はかない,fleeting,transient,short-lived,momentary,ephemeral,fickle,vain,empty,mere,faint
-捗々しい,捗捗しい,果々しい,果果しい,はかばかしい,quick,rapid,swift,satisfactory
+捗々しい,果々しい,捗捗しい,果果しい,はかばかしい,quick,rapid,swift,satisfactory
 計る,測る,量る,はかる,to measure,to weigh,to survey,to time,to conjecture,to infer,to surmise
 図る,謀る,はかる,to plan,to attempt,to devise,to plot,to conspire,to scheme,to aim for,to strive for,to work towards,to seek,to deceive,to trick,to take in
 剥がす,剥す,剝がす,はがす,へがす,to tear off,to peel off,to rip off,to strip off,to skin,to flay,to disrobe,to deprive of,to detach,to disconnect
@@ -56612,7 +56612,7 @@
 両親,りょうしん,ふたおや,parents,both parents
 二形,両形,双成り,二成り,二成,双成,ふたなり,hermaphrodite,androgyny,hermaphroditism,hermaphroditic female characters
 双葉,二葉,嫩,ふたば,seed leaves,cotyledons,bud,sprout,early stages,very beginning
-普段着,ふだん着,不断着,ふだんぎ,everyday clothes,ordinary clothes,casual wear,informal dress
+普段着,不断着,ふだん着,ふだんぎ,everyday clothes,ordinary clothes,casual wear,informal dress
 縁取る,縁どる,ふちどる,to border,to fringe,to hem,to edge
 二日酔い,宿酔,二日酔,ふつかよい,hangover
 不釣合い,不釣り合い,不釣合,ふつりあい,imbalance,disproportion,disparity,mismatch,asymmetry
@@ -56821,7 +56821,7 @@
 向こう側,向う側,向側,向こうがわ,むこうがわ,other side,opposite side,other party
 蒸し器,蒸器,むしき,steamer,steam cooker
 虫歯,むし歯,齲歯,むしば,tooth decay,decayed tooth,dental cavity,dental caries
-武者震い,武者ぶるい,武者振るい,武者顫い,むしゃぶるい,trembling with excitement
+武者震い,武者振るい,武者顫い,武者ぶるい,むしゃぶるい,trembling with excitement
 寧ろ,寧,むしろ,rather,better,instead,if anything
 筵,莚,蓆,席,むしろ,えん,ムシロ,woven mat,seat
 目,眼,め,eye,eyeball,eyesight,sight,vision,look,stare,gaze,glance,notice,attention,observation,eyes,an experience,viewpoint,discrimination,discernment,judgement,eye,appearance,chance,possibility,spacing,opening,stitch,texture,weave,grain,eye,intersection,square,dot,pip,rolled number,graduation,division,tooth,ordinal number suffix,somewhat,-ish,point,eye
@@ -58081,7 +58081,7 @@
 疾駆,しっく,riding fast,driving a horse fast
 指呼,しこ,beckoning
 呻吟,しんぎん,moaning,groaning
-尻込み,しり込み,尻ごみ,後込み,しりごみ,hesitation,wavering,faltering,balking,recoil,flinching
+尻込み,しり込み,後込み,尻ごみ,しりごみ,hesitation,wavering,faltering,balking,recoil,flinching
 四散,しさん,scattering
 死守,ししゅ,defending to the last,desperate defence,stubborn defence
 賞美,称美,しょうび,admiration,praise,prizing,appreciation
@@ -92355,7 +92355,7 @@
 蹌踉ける,蹣跚ける,よろける,to stagger,to stumble
 歴とした,れっきとした,れきとした,accepted,fully-fledged,clear,respectable
 態とらしい,わざとらしい,unnatural,affected,studied,forced
-モニュモニュ,crying,weeping
+もにゅもにゅ,モニュモニュ,squishily,with a soft squishing motion,munchingly,with a chewing motion,mumblingly,while stammering
 オリハルコン,orichalcum
 個人戦,こじんせん,individual match,single game
 団体戦,だんたいせん,team competition,team game
@@ -93980,7 +93980,7 @@
 ピーラー,peeler,peeler
 諸口,しょくち,sundries,miscellaneous
 オークル,オーカー,ochre,ocher
-イエローオーカー,イエローオークル,イエローオーカ,イエロー・オーカー,イエロー・オークル,イエロー・オーカ,yellow ochre,yellow ocher
+イエローオーカー,イエローオークル,イエロー・オーカー,イエロー・オークル,イエローオーカ,イエロー・オーカ,yellow ochre,yellow ocher
 スレ,thread,topic,conversation,post
 告る,こくる,コクる,to confess one's love,to profess one's feelings
 行政紙削減法,ぎょうせいしさくげんほう,Government Paperwork Elimination Act
@@ -98638,7 +98638,7 @@
 お相伴,おしょうばん,sharing a meal
 メー,メエ,baa,meh
 豆板醤,豆瓣醤,トーバンジャン,doubanjiang
-香菜,シャンツァイ,シャンサイ,こうさい,coriander,cilantro,dhania,Chinese parsley
+香菜,シャンツァイ,こうさい,シャンサイ,coriander,cilantro,dhania,Chinese parsley
 コリアンダー,coriander,cilantro,dhania,Chinese parsley
 市松人形,いちまつにんぎょう,ichimatsu doll,traditional Japanese doll with a torso made of hardened sawdust
 乙女チック,おとめチック,girly,girlie,girlish
@@ -100074,7 +100074,7 @@
 大覚寺統,だいかくじとう,imperial lineage starting with Emperor Kameyama
 持明院統,じみょういんとう,imperial lineage from Emperor Gofukakusa to Emperor Gokomatsu
 貿易船,ぼうえきせん,trading vessel
-盲蛇,盲ヘビ,めくら蛇,めくらへび,メクラヘビ,blind snake,worm snake,fools rush in
+盲蛇,めくら蛇,メクラ蛇,盲ヘビ,めくらへび,メクラヘビ,blind snake,worm snake,fools rush in
 盲虻,めくらあぶ,メクラアブ,deerfly
 盲蛇に怖じず,めくらへびにおじず,fools rush in where angels fear to tread,the blind don't fear snakes
 めくら縞,盲縞,盲目縞,メクラ縞,めくらじま,plain blue cotton
@@ -199777,7 +199777,7 @@
 調理者,ちょうりしゃ,cook
 自然毒,しぜんどく,naturally occurring poison,natural toxin
 再加熱,さいかねつ,reheating
-レイバーデー,レイバーデイ,レーバーデー,レーバーデイ,レイバー・デー,レイバー・デイ,レーバー・デー,レーバー・デイ,Labor Day,Labour Day
+レイバーデー,レイバー・デー,レイバーデイ,レーバーデー,レーバーデイ,レイバー・デイ,レーバー・デー,レーバー・デイ,Labor Day,Labour Day
 おはこんばんちは,おはこんばんちわ,おはこんばんにちは,おはこんばんにちわ,good morning, good day and good evening,hello
 儲,しんじゃ,fanboy,fanatic,superfan
 パンとサーカス,bread and circuses
@@ -206222,7 +206222,7 @@
 八坂刀売神,やさかとめのかみ,Yasakatome,deity worshipped at various  Suwa shrines, and consort of Takeminakata
 諏訪大明神,すわだいみょうじん,Suwa deities,Suwa Daimyōjin
 諏訪八幡も照覧あれ,すわはちまんもしょうらんあれ,may Takeminakata  and Hachiman bear witness,samurai vow of truthfulness
-止めネジ,止めねじ,留めネジ,留めねじ,止め螺子,留め螺子,止め螺旋,とめねじ,set screw
+止めネジ,止めねじ,留めネジ,留めねじ,止め螺子,留め螺子,止め螺旋,留め螺旋,とめねじ,set screw
 無リン,無りん,無燐,むりん,phosphate-free
 酒面雁,サカツラガン,さかつらがん,swan goose,Chinese goose
 小白鳥,コハクチョウ,こはくちょう,tundra swan,Bewick's swan,whistling swan
@@ -209612,7 +209612,7 @@
 おかっぱ頭,お河童頭,おかっぱあたま,bobbed hairstyle,short bob
 滅,めつ,destruction,ruin,extinction,nirvana,cessation,death,dying,being overwhelmed
 支部長,しぶちょう,branch manager,branch office head,director of a local chapter
-七支刀,七枝刀,しちしとう,ななつさやのたち,shichishitō,Seven-Branched Sword,ancient ceremonial iron sword with six branch-like protrusions kept at Isonokami Shrine
+七支刀,七枝刀,しちしとう,ななつさやのたち,Shichishitō,Seven-Branched Sword,ancient ceremonial iron sword with six branch-like protrusions kept at Isonokami Shrine
 全面衝突,ぜんめんしょうとつ,all-out conflict,full-scale confrontation
 仮定的,かていてき,hypothetical,theoretical,presumptive
 解放戦線,かいほうせんせん,liberation front
@@ -210928,7 +210928,7 @@
 私有財産制,しゆうざいさんせい,private property system,system of private ownership of property,private ownership of the means of production
 統監府,とうかんふ,Residency-General of Korea
 朝鮮総督府,ちょうせんそうとくふ,Government-General of Korea
-二十一か条の要求,二十一カ条の要求,二十一ヶ条の要求,二十一ヵ条の要求,２１か条の要求,２１カ条の要求,２１ヶ条の要求,２１ヵ条の要求,にじゅういっかじょうのようきゅう,Twenty-One Demands
+二十一か条の要求,二十一カ条の要求,２１か条の要求,２１カ条の要求,二十一ヶ条の要求,二十一ヵ条の要求,２１ヶ条の要求,２１ヵ条の要求,にじゅういっかじょうのようきゅう,Twenty-One Demands
 三一独立運動,三・一独立運動,さんいちどくりつうんどう,March First Movement,Samil Movement
 赤色骨髄,せきしょくこつずい,red bone marrow,red marrow
 前駆細胞,ぜんくさいぼう,precursor cell
@@ -211228,7 +211228,9 @@
 ロカイユ,rocaille,rocaille
 グロット,grotto
 霊液,れいえき,elixir,ichor,divine fluid
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-21
+ジオスミン,ジェオスミン,ゲオスミン,geosmin
+身体表現性障害,しんたいひょうげんせいしょうがい,somatic symptom disorder,somatoform disorder
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-22
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -218525,3 +218527,4 @@
 盲人書簡,もうじんしょかん,Letter on the Blind
 光復節,こうふくせつ,Korean Liberation Day,Gwangbokjeol
 黄巣の乱,こうそうのらん,Huang Chao Rebellion
+楚漢戦争,そかんせんそう,Chu-Han Contention,Chu-Han War
