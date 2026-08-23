@@ -14669,7 +14669,7 @@
 一直,いっちょく,lining out to first base
 一直線,いっちょくせん,straight line
 一通,いっつう,one copy,one letter,one-way traffic,pure straight,winning hand containing nine consecutive tiles of the same suit
-一通り,ひと通り,ひととおり,generally,in the main,briefly,roughly,more or less,everything,all parts,bit of everything,whole process,ordinary,usual,average,common,one method
+一通り,ひと通り,一とおり,ひととおり,generally,in the main,briefly,roughly,more or less,everything,all parts,bit of everything,whole process,ordinary,usual,average,common,one method
 一掴み,一つかみ,ひと掴み,一掴,一攫み,ひとつかみ,a handful,grasping,gripping,grabbing,taking a handful
 一坪本社,ひとつぼほんしゃ,small company headquarters located in Tokyo simply for name value
 一定,いってい,to fix,to settle,to standardize,to regularize,constant,definite,uniform,defined,certain,prescribed
@@ -23514,7 +23514,7 @@
 堅物,かたぶつ,straight-laced person,stubborn person
 堅塁,堅累,けんるい,stronghold
 堅牢,けんろう,solid,strong,sturdy,durable,stout
-嫌い,きらい,disliked,hated,disagreeable,tendency,smack,touch,distinction,discrimination
+嫌い,きらい,disliking,hating,detesting,tendency,smack,touch,distinction,discrimination
 嫌う,きらう,to hate,to dislike,to loathe,to abhor,to avoid,to disregard,to act without regard,to be bad for
 嫌がらせ,厭がらせ,いやがらせ,イヤガラセ,イヤがらせ,harassment,pestering
 嫌らしい,厭らしい,いやらしい,やらしい,unpleasant,disagreeable,nasty,lewd,lascivious,obscene,filthy,dirty
@@ -28640,7 +28640,7 @@
 止める,留める,停める,とめる,to stop,to turn off,to park,to prevent,to suppress,to hold back,to hold,to relieve,to stop,to dissuade,to forbid,to prohibit,to notice,to be aware of,to concentrate on,to pay attention to,to remember,to bear in mind,to fix,to fasten,to tack,to pin,to nail,to button,to staple,to detain,to keep in custody
 止める,已める,廃める,やめる,to stop,to cease,to discontinue,to end,to quit,to cancel,to abandon,to give up,to abolish,to abstain,to refrain
 止血,しけつ,stopping of bleeding,stanching,hemostasis,haemostasis
-止血剤,しけつざい,hemostatic agent,styptic
+止血剤,しけつざい,hemostatic agent,haemostatic agent,hemostatic,styptic
 止宿,ししゅく,lodging,putting up
 死,し,death,out,death penalty
 死ぬ,しぬ,ﾀﾋぬ,to die,to pass away,to lose spirit,to lose vigor,to look dead,to cease,to stop
@@ -30199,7 +30199,7 @@
 取り込む,取込む,取りこむ,摂り込む,摂りこむ,とりこむ,to take in,to bring in,to adopt,to introduce,to capture,to import,to win over,to please,to curry favour with,to flatter,to defraud of,to swindle,to embezzle,to be busy,to be in confusion,to have trouble
 取り混ぜる,取混ぜる,とりまぜる,to mix,to put together
 取り残す,取残す,とり残す,とりのこす,to leave behind
-取り持つ,取持つ,執り持つ,執持つ,とりもつ,to act as a go-between,to mediate,to arrange,to entertain,to treat,to receive
+取り持つ,執り持つ,取持つ,執持つ,とりもつ,to act as a go-between,to mediate,to arrange,to entertain,to treat,to receive
 取り次ぐ,取次ぐ,取りつぐ,取り継ぐ,取継ぐ,とりつぐ,to pass on,to convey,to transmit,to relay,to tell,to inform,to announce,to answer,to usher in,to act as an agent,to act as an intermediary,to handle
 取り出す,取出す,取りだす,とり出す,採り出す,採りだす,とりだす,to take out,to produce,to pick out,to fetch,to retrieve
 取り除く,取除く,とり除く,取りのぞく,とりのぞく,to remove,to deinstall,to take away,to set apart
@@ -36172,7 +36172,7 @@
 千鳥,鵆,鴴,ちどり,チドリ,plover
 千鳥足,ちどりあし,tottering steps,drunken staggering
 千摺り,千擦り,センズリ,せんずり,masturbation
-千島,ちしま,Kurile Islands
+千島,ちしま,Kuril Islands,Kurile Islands,Chishima Islands
 千日,せんにち,one thousand days
 千年,せんねん,thousand years,millennium,long time
 千年間,せんねんかん,thousand-year period
@@ -36916,7 +36916,7 @@
 礎石,そせき,foundation stone,cornerstone
 祖型,そけい,archetype,prototype
 祖国,そこく,homeland,motherland,fatherland,native country
-祖国復帰,そこくふっき,returning to one's fatherland
+祖国復帰,そこくふっき,returning to one's fatherland,reversion to Japan,return to Japan
 祖先,そせん,ancestor
 祖先崇拝,そせんすうはい,ancestor worship
 祖父,そふ,じじ,じい,おおじ,おじ,そぶ,grandfather,old man,kyogen mask used for the role of an old man
@@ -40828,7 +40828,7 @@
 適量,てきりょう,proper quantity,suitable amount,proper dose,optimal dose
 適例,てきれい,exemplification,good example,case in point
 適齢期,てきれいき,suitable age,marriageable age
-溺れる,おぼれる,to struggle in the water,to sink below the surface and become unable to breathe,to  drown,to indulge in,to lose one's head over something,to be addicted,to wallow in
+溺れる,おぼれる,to struggle in the water,to be drowning,to sink below the surface and become unable to breathe,to indulge in,to lose one's head over something,to be addicted,to wallow in
 溺れ込む,おぼれこむ,to drown,to get addicted,to become infatuated
 溺愛,できあい,infatuation,adoration,blind love,doting
 溺死,できし,death by drowning
@@ -45313,7 +45313,7 @@
 被減数,ひげんすう,minuend
 被告,ひこく,defendant,the accused
 被告人,ひこくにん,accused,defendant,prisoner at the bar
-被差別,ひさべつ,discrimination
+被差別,ひさべつ,being discriminated against,suffering discrimination,being a victim of discrimination
 被災,ひさい,suffering,being hit,falling victim
 被災者,ひさいしゃ,person affected by a disaster,afflicted person,victim,sufferer,survivor
 被災地,ひさいち,stricken area,disaster-stricken area,affected area,afflicted area
@@ -53266,7 +53266,7 @@
 撥ね飛ばす,跳ね飛ばす,はね飛ばす,はねとばす,to send  flying,to splatter,to drive  off
 撥ね付ける,撥ねつける,はねつける,to flatly refuse,to reject,to spurn
 撥音,はつおん,syllabic nasal
-すりこ木,擂り粉木,擂粉木,摺り子木,摺子木,すりこぎ,pestle
+すりこ木,擂り粉木,摺り子木,擂粉木,摺子木,すりこぎ,pestle
 擡げる,もたげる,to raise
 擲弾,てき弾,てきだん,grenade
 擲弾発射筒,てきだんはっしゃとう,grenade launcher
@@ -60062,7 +60062,7 @@
 草の葉,くさのは,blade of grass
 腐り,くさり,rottenness,decay,corruption
 草分け,くさわけ,pathfinder,trailblazer,early settler,pioneer,founder,originator,groundbreaker
-癖毛,くせ毛,くせげ,kinky hair,frizzy hair,unruly hair,curly hair
+くせ毛,クセ毛,癖毛,くせげ,kinky hair,frizzy hair,unruly hair,curly hair
 薬になる,くすりになる,to be beneficial,to do  good
 空対空ミサイル,くうたいくうミサイル,air-to-air missile
 食わず嫌い,喰わず嫌い,食わずぎらい,食わず嫌,くわずぎらい,disliking a certain food without having tried it,disliking something without having tried it,being prejudiced against,having an instinctive aversion to
@@ -75966,7 +75966,7 @@
 千枚張り,せんまいばり,multilayered,cheeky
 千振,せんぶり,センブリ,Japanese green gentian,alderfly,alder fly
 千家,せんけ,Senke school of tea ceremony
-千島列島,ちしまれっとう,Kurile Islands
+千島列島,ちしまれっとう,Kuril Islands,Kurile Islands,Chishima Islands
 千鳥格子,ちどりごうし,hound's-tooth check
 千鳥掛け,千鳥がけ,ちどりがけ,cross-stitch
 千紫万紅,せんしばんこう,multitude of colors,multitude of colours
@@ -82858,7 +82858,7 @@
 寝掛け,ねがけ,half-asleep
 根がつく,根が付く,ねがつく,to take root,to strike root
 ネコ属,猫族,ネコぞく,ねこぞく,Felis
-根付く,根づく,ねづく,to take root,to strike
+根付く,根づく,ねづく,to take root,to strike,to become established,to take root
 熱しやすい,熱し易い,ねっしやすい,excitable
 熱延,ねつえん,hot rolling
 熱原子核,ねつげんしかく,thermal nucleus
@@ -131427,7 +131427,7 @@
 肛門性交,こうもんせいこう,anal sex,anal intercourse
 ツイル,twill
 アーバンツイル,アーバン・ツイル,urban twill
-癖っ毛,くせっ毛,くせっけ,kinky hair,frizzy hair,unruly hair,curly hair
+くせっ毛,クセっ毛,癖っ毛,クセッ毛,くせっけ,kinky hair,frizzy hair,unruly hair,curly hair
 包装米飯,ほうそうべいはん,cooked rice pack
 セックステクニック,セックス・テクニック,sexual technique
 セックステ,sexual technique
@@ -150731,7 +150731,7 @@
 品題,ほんだい,chapter title,section title,volume title
 編章,篇章,へんしょう,volumes and chapters,composition,writing
 品,ひん,elegance,grace,refinement,class,dignity,article,item,counter for items,counter for dishes or courses
-取り憑く,憑りつく,憑り付く,取りつく,とりつく,to possess,to take hold of,to haunt
+取り憑く,憑りつく,憑り付く,とりつく,to possess,to take hold of,to haunt
 取っ付く,取っつく,取付く,とっつく,to cling to,to hold on to,to hold fast to,to set about doing,to begin,to commence,to undertake,to take hold of,to possess,to haunt,to approach,to deal with
 竹筏,てっぱい,テッパイ,Taiwanese bamboo raft
 母なる,ははなる,Mother
@@ -159898,7 +159898,7 @@
 藩鎮,はんちん,jiedushi
 キリバス,Kiribati
 白ロシア,はくロシア,Belarus,Belorussia,White Russia
-外堀を埋める,そとぼりをうめる,to remove obstacles in the way of one's objective,to take an indirect approach,to fill in the outer moat
+外堀を埋める,外堀から埋める,そとぼりをうめる,to remove obstacles in the way of one's objective,to take an indirect approach,to fill in the outer moat
 死都,しと,dead city,ghost town
 海鳴,かいめい,oceanic noise,rumbling of the sea,mistpouffer
 海浜流,かいひんりゅう,nearshore currents
@@ -189559,7 +189559,7 @@
 サイドテール,サイド・テール,side ponytail
 音声出力,おんせいしゅつりょく,speech output,voice output,audio output
 有機薄膜太陽電池,ゆうきはくまくたいようでんち,organic thin-film solar cell,plastic solar cell
-線状降水帯,せんじょうこうすいたい,linear rainband,lengthy band of rain
+線状降水帯,せんじょうこうすいたい,rainband,lengthy band of rain
 どろっと,ドロッと,ドロっと,thickly,stickily,viscously
 映える,ばえる,バエる,to be Instagrammable,to be Insta-worthy,to look attractive enough to post on social media,to be photogenic
 殿移り,とのうつり,moving houses
@@ -211223,14 +211223,34 @@
 黄帯矢毒蛙,キオビヤドクガエル,きおびやどくがえる,yellow-banded poison dart frog,yellow-headed poison dart frog,bumblebee poison frog
 政友会,せいゆうかい,Friends of Constitutional Government Party
 負い,おい,extra,additional,more
+請負契約,うけおいけいやく,contract agreement,contract,general contract
 調音点,ちょうおんてん,place of articulation
 傍視,ぼうし,looking on,looking from the sides,standing by and watching,looking aside,looking away,looking the other way
+被ダメージ,ひダメージ,damage taken,damage received,incoming damage
+被支配者,ひしはいしゃ,the ruled,the governed,subjects
+被保護者,ひほごしゃ,ward,protégé,protégée
+被ダメ,ひダメ,damage taken,damage received,incoming damage
 ロカイユ,rocaille,rocaille
 グロット,grotto
 霊液,れいえき,elixir,ichor,divine fluid
 ジオスミン,ジェオスミン,ゲオスミン,geosmin
+フロントライン,フロント・ライン,frontline,front line
+腕一本,腕１本,うでいっぽん,one's own strength and skill alone,nothing to rely on but oneself,self-made
 身体表現性障害,しんたいひょうげんせいしょうがい,somatic symptom disorder,somatoform disorder
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-22
+ストレートネック,text neck,tech neck,forward head posture,neck injury from excessive texting, etc.
+イオン導入,イオンどうにゅう,iontophoresis
+イオントフォレシス,iontophoresis
+発酵茶,はっこうちゃ,fermented tea
+不発酵茶,ふはっこうちゃ,unfermented tea
+だがしかし,but,however,yet
+イワリス,Père David's rock squirrel,Chinese rock squirrel
+日本海驢,ニホンアシカ,にほんあしか,Japanese sea lion
+プラクシス,praxis
+グリシルグリシン,glycylglycine
+トラネキサム酸,トラネキサムさん,tranexamic acid
+無発酵茶,むはっこうちゃ,unfermented tea
+止血薬,しけつやく,hemostatic agent,haemostatic agent,hemostatic,styptic
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-23
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -218528,3 +218548,4 @@
 光復節,こうふくせつ,Korean Liberation Day,Gwangbokjeol
 黄巣の乱,こうそうのらん,Huang Chao Rebellion
 楚漢戦争,そかんせんそう,Chu-Han Contention,Chu-Han War
+納涼祭,納涼まつり,納涼祭り,のうりょうまつり,Nōryō Matsuri
