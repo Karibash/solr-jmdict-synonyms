@@ -4170,7 +4170,7 @@
 グレー,グレイ,grey,gray
 グレーイング,graying,greying
 グレーカラー,gray-collar,grey-collar
-グレーゾーン,グレー・ゾーン,gray zone,grey zone,gray area
+グレーゾーン,グレー・ゾーン,グレイゾーン,グレイ・ゾーン,gray zone,grey zone,gray area
 グレート,グレイト,great
 グレード,グレイド,grade
 グレードアップ,グレード・アップ,upgrade,update
@@ -4319,7 +4319,7 @@
 コーナーキャビネット,コーナー・キャビネット,corner cabinet
 コーナートップ,コーナー・トップ,corner top,relay racing system in which the next runners line up in the order the current runners pass a designated point
 コーナーワーク,コーナー・ワーク,working the corners,hitting the corners of the plate,pitcher's technique of throwing a ball aiming at the edge of the strike zone,cornering skill
-コーナリング,cornering
+コーナリング,コーナーリング,cornering
 珈琲,コーヒー,coffee
 コーヒーショップ,コーヒー・ショップ,coffee shop
 コーヒーシロップ,コーヒー・シロップ,coffee syrup
@@ -31952,7 +31952,7 @@
 女らしい,おんならしい,womanly,ladylike,feminine
 女医,じょい,female doctor
 女一般,おんないっぱん,women in general
-女王,じょおう,じょうおう,にょおう,queen,female champion
+女王,じょおう,じょうおう,にょおう,queen,female monarch,female sovereign,queen consort,consort of a king,queen,princess,title for female imperial family members three or more generations removed from an emperor,female champion
 女王らしい,じょおうらしい,queen-like
 女王陛下,じょおうへいか,Her Majesty the Queen
 女学生,じょがくせい,schoolgirl,female student
@@ -46940,7 +46940,7 @@
 腹上死,ふくじょうし,death during sexual intercourse
 腹心,ふくしん,one's confidant,trusted friend,trusted retainer
 腹切り,腹切,はらきり,harakiri,seppuku,ritual suicide by disembowelment
-腹痛,ふくつう,はらいた,stomach ache,abdominal pain
+腹痛,腹いた,ふくつう,はらいた,stomach ache,abdominal pain
 腹ばい,腹這い,はらばい,lying on one's belly,crawling on one's belly,belly crawl
 腹部,ふくぶ,abdomen,abdominal region,belly,middle part
 腹膜,ふくまく,peritoneum
@@ -50559,7 +50559,7 @@
 輸入,ゆにゅう,しゅにゅう,import,importation,introduction,afferent
 輸入額,ゆにゅうがく,level of imports
 輸贏,ゆえい,しゅえい,gain or loss,victory or defeat
-只,唯,徒,但,常,ただ,タダ,ordinary,common,usual,free of charge,unaffected,as is,safe,only,merely,just,simply,but,however,nevertheless
+只,唯,徒,但,ただ,タダ,ordinary,common,usual,free of charge,free,unaffected,as is,safe,only,merely,just,simply,but,however,nevertheless,except
 唯でさえ,ただでさえ,even at the best of times,already,under normal circumstances,in addition to,as it is
 唯一,ゆいいつ,ゆいつ,ゆういつ,only,sole,unique
 唯一無二,ゆいいつむに,ゆいつむに,one and only,unique
@@ -53565,7 +53565,7 @@
 膠,にかわ,gelatinous glue
 にべも無い,にべもない,ニベもない,curt,blunt,point-blank
 膠化,こうか,gelatinization,gelatinisation
-膠原病,こうげんびょう,collagen disease
+膠原病,こうげんびょう,collagen disease,connective tissue disease
 膠漆,こうしつ,glue and lacquer,great intimacy
 膠質,こうしつ,にかわしつ,colloid
 膠着,こう着,こうちゃく,agglutination,adhesion,deadlock,stalemate,standstill,agglutination
@@ -56497,7 +56497,7 @@
 引き落とす,引落す,引き落す,引落とす,ひきおとす,to pull down,to debit,to pay by direct debit
 引き換え,引換え,引き替え,引替え,引換,引替,ひきかえ,exchange,conversion
 引き換える,引き替える,引換える,引替える,引きかえる,ひきかえる,to exchange,to convert,to be in contrast,to contrast
-引き金,引金,引き鉄,引鉄,引きがね,ひきがね,trigger,trigger,immediate cause
+引き金,引金,銃爪,引鉄,引き鉄,引きがね,ひきがね,trigger,trigger,immediate cause
 引き込み線,引込み線,引込線,ひきこみせん,siding,service line,service wire
 引き下げる,引下げる,ひきさげる,to lower,to bring down,to reduce,to cut,to demote,to withdraw,to abandon,to withdraw,to pull back,to move back
 引き算,引算,ひき算,ひきざん,subtraction
@@ -59657,7 +59657,7 @@
 紙鋏,紙鋏み,かみばさみ,scissors for cutting paper
 紙切れ,紙きれ,かみきれ,piece of paper,slip of paper,strip of paper,scrap of paper
 雷親父,かみなりおやじ,snarling old man,irascible old man
-悲しいかな,悲しい哉,哀哉,かなしいかな,sad to say,how sad,alas
+悲しいかな,哀しいかな,悲しい哉,哀しい哉,悲哉,哀哉,かなしい哉,かなしいかな,sad to say,how sad,alas
 簡抜,かんばつ,selection
 緩下剤,かんげざい,laxatives
 看経,かんきん,silent reading of the sutras,sutra chanting
@@ -82858,7 +82858,7 @@
 寝掛け,ねがけ,half-asleep
 根がつく,根が付く,ねがつく,to take root,to strike root
 ネコ属,猫族,ネコぞく,ねこぞく,Felis
-根付く,根づく,ねづく,to take root,to strike,to become established,to take root
+根付く,根づく,ねづく,to take root,to strike root,to root,to become established,to take hold,to take root
 熱しやすい,熱し易い,ねっしやすい,excitable
 熱延,ねつえん,hot rolling
 熱原子核,ねつげんしかく,thermal nucleus
@@ -90886,7 +90886,7 @@
 私設秘書,しせつひしょ,private secretary
 私服警官,しふくけいかん,plainclothes police officer
 脂肪吸引,しぼうきゅういん,liposuction
-視覚障害者,視覚障がい者,しかくしょうがいしゃ,visually impaired person
+視覚障害者,視覚障がい者,視覚障碍者,しかくしょうがいしゃ,visually impaired person
 視力矯正手術,しりょくきょうせいしゅじゅつ,vision correcting surgery
 試験管ベビー,試験管ベイビー,しけんかんベビー,しけんかんベイビー,test-tube baby
 試験薬,しけんやく,experimental drug
@@ -100123,7 +100123,7 @@
 上海事変,シャンハイじへん,Shanghai Incident,January 28 Incident,Battle of Shanghai
 第一次上海事変,だいいちじシャンハイじへん,Shanghai Incident,January 28 Incident
 第二次上海事変,だいにじシャンハイじへん,Battle of Shanghai
-支那事変,しなじへん,Second Sino-Japanese War
+支那事変,シナ事変,しなじへん,Second Sino-Japanese War
 日華事変,にっかじへん,Second Sino-Japanese War
 中日戦争,ちゅうにちせんそう,Second Sino-Japanese War
 日華戦争,にっかせんそう,Second Sino-Japanese War
@@ -152362,7 +152362,7 @@
 応札倍率,おうさつばいりつ,bid-to-cover ratio
 赤字体質,あかじたいしつ,disposition to operate in the red,tendency to have chronic deficits
 お国,御国,おくに,your native country,your hometown,my home country,countryside,country,daimyo's territory
-少なくない,すくなくない,not negligible,not a little,to no small degree,to no small extent,quite a lot
+少なくない,少なく無い,すくなくない,not negligible,not a little,to no small degree,to no small extent,quite a lot
 欠かせない,かかせない,indispensable,vital,fundamental,imperative,crucial,critical
 上質葉,じょうしつば,high-quality leaves
 倫理規定,りんりきてい,code of ethics,ethical code,ethical consideration,ethical provision,ethics regulation,honor  code
@@ -173108,7 +173108,7 @@
 ３Ｄカメラ,スリーディーカメラ,3D camera,stereo camera
 ３Ｄテレビ,スリーディーテレビ,3D television
 ３Ｄグラフィックス,スリーディーグラフィックス,3D graphics
-プロジェクションマッピング,プロジェクション・マッピング,projection mapping
+プロジェクションマッピング,プロジェクション・マッピング,プロジェクトマッピング,projection mapping
 ３Ｄプロジェクションマッピング,スリーディープロジェクションマッピング,スリーディー・プロジェクション・マッピング,3D projection mapping,projection mapping
 手を休める,てをやすめる,to rest,to take a break
 電照菊,でんしょうぎく,chrysanthemum grown with artificial light
@@ -174163,7 +174163,7 @@
 偶奇性,ぐうきせい,parity
 温蔵庫,おんぞうこ,heating cabinet,warming drawer
 グレーマーケット,グレー・マーケット,grey market,gray market
-グレーエリア,グレイエリア,グレー・エリア,グレイ・エリア,gray area,grey area
+グレーエリア,グレー・エリア,グレイエリア,グレイ・エリア,gray area,grey area
 好気性,こうきせい,aerotropism,aerobic,aerotropic
 保修,ほしゅう,maintenance
 動ともすると,ややともすると,being apt to,being liable to,being inclined to
@@ -211230,27 +211230,53 @@
 被支配者,ひしはいしゃ,the ruled,the governed,subjects
 被保護者,ひほごしゃ,ward,protégé,protégée
 被ダメ,ひダメ,damage taken,damage received,incoming damage
+人を選ぶ,ひとをえらぶ,to choose a person,to select someone,to pick people,to not be for everyone,to not suit everyone's tastes,to be an acquired taste
 ロカイユ,rocaille,rocaille
 グロット,grotto
 霊液,れいえき,elixir,ichor,divine fluid
 ジオスミン,ジェオスミン,ゲオスミン,geosmin
+テーブルビート,table beet,beet,beetroot
+火焔菜,かえんさい,beet,beetroot,table beet
+ビートルート,beetroot,beet,table beet
+蔑如,べつじょ,looking down on,despising,contempt
 フロントライン,フロント・ライン,frontline,front line
+監督責任,かんとくせきにん,supervisory responsibility,managerial responsibility
 腕一本,腕１本,うでいっぽん,one's own strength and skill alone,nothing to rely on but oneself,self-made
 身体表現性障害,しんたいひょうげんせいしょうがい,somatic symptom disorder,somatoform disorder
 ストレートネック,text neck,tech neck,forward head posture,neck injury from excessive texting, etc.
 イオン導入,イオンどうにゅう,iontophoresis
 イオントフォレシス,iontophoresis
+どちらとも無く,どちらともなく,both,together,jointly,simultaneously
 発酵茶,はっこうちゃ,fermented tea
 不発酵茶,ふはっこうちゃ,unfermented tea
+行衣,ぎょうい,ぎょうえ,white robe worn by ascetics,white garments worn by pilgrims
 だがしかし,but,however,yet
 イワリス,Père David's rock squirrel,Chinese rock squirrel
+野犬,ノイヌ,のいぬ,feral dog
 日本海驢,ニホンアシカ,にほんあしか,Japanese sea lion
 プラクシス,praxis
 グリシルグリシン,glycylglycine
 トラネキサム酸,トラネキサムさん,tranexamic acid
 無発酵茶,むはっこうちゃ,unfermented tea
 止血薬,しけつやく,hemostatic agent,haemostatic agent,hemostatic,styptic
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-23
+磁気バブル,じきバブル,magnetic bubble
+磁気コアメモリ,じきコアメモリ,magnetic core memory,magnetic-core memory,core memory
+半導体メモリ,はんどうたいメモリ,semiconductor memory
+ブラウザゲーム,ブラウザ・ゲーム,ブラウザーゲーム,browser game
+銅鏃,どうぞく,copper arrowhead
+ディスクメディア,ディスク・メディア,disk media,disc media
+使い捨てカイロ,使い捨て懐炉,使い捨てかいろ,つかいすてかいろ,disposable hand warmer,disposable pocket warmer
+対立者,たいりつしゃ,opponent,rival,adversary
+外旋,がいせん,external rotation
+最狭,さいきょう,narrowest,most cramped
+有効射程,ゆうこうしゃてい,effective range,effective firing range
+爽気,そうき,refreshing air,crisp air,cool air,refreshing mood,feeling of refreshment,invigorating feeling
+屍食,屍喰,ししょく,necrophagy,necrophagia,eating corpses
+情報筋,じょうほうすじ,sources,information channels,information sources
+年齢不詳,ねんれいふしょう,unknown age,uncertain age,unidentified age
+電気治療,でんきちりょう,electrotherapy,electrotherapeutics
+あはき法,あはきほう,Act on Practitioners of Massage, Shiatsu, Acupuncture, Moxibustion and others
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-24
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
