@@ -10843,7 +10843,7 @@
 ホールアウト,ホール・アウト,hole out
 ホールインワン,ホール・イン・ワン,hole in one
 ホールディング,holding,carrying,holding
-ホールド,hold
+ホールド,hold,holding,long press,touch and hold,hold,hold,hold
 ホールドアップ,ホールド・アップ,holdup,stickup,holding up one's hands,hands up!,stick 'em up!
 ホーン,horn
 ホイール,ホイル,wheel
@@ -23360,7 +23360,7 @@
 月桂樹,げっけいじゅ,ゲッケイジュ,bay laurel,bay tree,sweet bay,laurel tree
 月経,げっけい,menstruation,menstrual period
 月経周期,げっけいしゅうき,menstrual cycle
-月経前,げっけいまえ,premenstrual
+月経前,げっけいぜん,げっけいまえ,premenstrual
 月見,つきみ,moon viewing
 月見蕎麦,つきみそば,soba with egg
 月光,げっこう,moonlight,moonbeam
@@ -29302,7 +29302,7 @@
 自我,じが,ego,self,ego
 自画自賛,自画自讃,自我自賛,じがじさん,singing one's own praises,praising one's own wares
 自画像,じがぞう,self-portrait
-自覚,じかく,self-consciousness,self-awareness
+自覚,じかく,self-awareness,awareness,consciousness,realization,perceiving,taking in,sensing,feeling,self-consciousness
 自覚症状,じかくしょうじょう,subjective symptoms,patient's complaints
 自活,じかつ,self-support
 自棄,焼け,やけ,ヤケ,desperation,despair,self-abandonment
@@ -31770,7 +31770,7 @@
 初老,しょろう,past middle age,nearing old age,near-elderly,age 40
 所,処,處,ところ,とこ,place,spot,scene,site,address,district,area,locality,one's house,point,aspect,side,facet,passage,part,space,room,thing,matter,whereupon,as a result,about to,on the verge of,was just doing,was in the process of doing,have just done,just finished doing,approximately,around,about
 所で,ところで,by the way,incidentally,well,now,even if,no matter
-所ではない,処ではない,どころではない,not the time for,not the place for,far from,anything but,is out of the question,isn't the word for it
+所ではない,処ではない,どころではない,not the time for,not the place for,far from,anything but,is out of the question,far more than,nowhere near just,well beyond,easily more than,isn't the word for it
 所以,ゆえん,reason,grounds,circumstances
 所為,しょい,そい,act,deed,one's doing,cause,reason
 所謂,言わゆる,謂わゆる,いわゆる,what is called,what you call,what they call,so-called
@@ -34466,7 +34466,7 @@
 水,みず,water,fluid,liquid,flood,floodwaters,water offered to wrestlers just prior to a bout,break granted to wrestlers engaged in a prolonged bout
 がっこ,tsukemono,Japanese pickled vegetables
 水掛け論,水かけ論,水掛論,みずかけろん,endless argument,pointless argument,fruitless dispute,futile discussion,argument over whose field to water
-水たまり,水溜り,水溜まり,水溜,みずたまり,puddle,pool of water
+水たまり,水溜まり,水溜り,水溜,みずたまり,puddle,pool of water
 水を差す,水をさす,水を注す,水を刺す,水差す,水さす,水注す,水刺す,みずをさす,to pour water,to dilute with water,to hinder,to hamper,to throw cold water on,to put a damper on,to estrange
 水域,すいいき,waters,water area
 水稲,すいとう,wet-land rice
@@ -46590,7 +46590,7 @@
 浮力,ふりょく,buoyancy,floating power
 浮浪,ふろう,vagrancy,vagabondage,wander around
 浮浪者,ふろうしゃ,vagrant,vagabond,tramp,homeless person,hobo,bum
-父,ちち,ちゃん,てて,かぞ,かそ,しし,あて,father
+父,ちち,father
 父の日,ちちのひ,Father's Day
 父兄,ふけい,guardians,parents,father and older brother
 父兄会,ふけいかい,parents' association
@@ -47191,7 +47191,7 @@
 分譲,ぶんじょう,selling  lots
 分譲地,ぶんじょうち,lots for sale
 分食,分蝕,ぶんしょく,partial eclipse
-分身,ぶんしん,ふんじん,other self,alter ego,part of oneself,representation of oneself,incarnations of Buddha
+分身,ぶんしん,ふんじん,other self,alter ego,part of oneself,representation of oneself,clone,to be split off,to clone oneself,to divide,incarnations of Buddha
 分進,ぶんしん,dividing and advancing
 分針,ふんしん,minute hand
 分水界,ぶんすいかい,watershed,divide
@@ -53674,7 +53674,7 @@
 さそり座,蠍座,蝎座,さそりざ,Scorpio,the Scorpion
 マテ貝,馬刀貝,馬蛤貝,蟶貝,まてがい,マテガイ,razor clam
 蟒,蟒蛇,蠎,うわばみ,ウワバミ,large snake,heavy drinking,heavy drinker
-蠢く,動めく,蠕く,うごめく,to wriggle,to squirm,to crawl like a worm
+蠢く,動めく,蠢めく,蠕く,うごめく,to wriggle,to squirm,to crawl like a worm
 蠕動,ぜん動,ぜんどう,vermiculation,peristalsis,crawling like a worm
 蠢動,惷動,しゅんどう,wriggling,squirming,writhing,maneuvering,manoeuvring,planning mischief
 蠱惑,蟲惑,こわく,fascination,glamour,glamor,enchantment,seduction
@@ -92539,7 +92539,7 @@
 大人びる,おとなびる,to look  grown-up,to be adult-like,to mature
 大発見,だいはっけん,breakthrough,great discovery
 大忙し,大いそがし,おおいそがし,very busy
-知らす,しらす,to inform,to notify,to know,to reign
+知らす,しらす,to notify,to advise,to inform,to know,to reign,to govern
 地ビール,じビール,local beer,microbrew
 恥ずべき,はずべき,disgraceful,shameful
 着こなし,着熟し,きこなし,manner of wearing clothes,way of dressing,way one dresses
@@ -111707,7 +111707,7 @@
 御辺,ごへん,おんあたり,you
 其処許,其許,そこもと,that place,there,you
 其の許,そのもと,you
-拙論,せつろん,poor argument,my argument
+拙論,せつろん,poor argument,one's argument,one's thesis,one's essay
 拙,せつ,poor,unskillful,clumsy,I,me
 弊,へい,bad habit,harm,my,our
 愚妹,ぐまい,younger sister
@@ -144976,7 +144976,7 @@
 イメレス,image response
 ホゾ穴,ほぞ穴,枘穴,ほぞあな,mortice,mortise
 枘,ほぞ,tenon,cog,pivot
-樗材,ちょざい,deadwood,useless person
+樗材,ちょざい,deadwood,useless person,useless ability,I,me
 舵面,だめん,control surface
 一本指,いっぽんゆび,finger,one's finger
 末日聖徒,まつじつせいと,Latter-day Saints
@@ -172199,7 +172199,7 @@
 筈のない,はずの無い,筈の無い,はずのない,that is not supposed to,that ought not to,that should never,that cannot possibly
 セックスワーク,セックス・ワーク,sex work
 ラップトップパソコン,ラップトップ・パソコン,laptop,laptop computer
-やってられない,I can't go on like this
+やってられない,やってらんない,やってられん,can't go on like this,can't stand it anymore,can't take it any longer
 ハンセン病療養所,ハンセンびょうりょうようじょ,leper colony,leprosarium
 美婦,びふ,beautiful woman,beauty
 登高器,とうこうき,ascender,ascendeur,jumar
@@ -182732,7 +182732,7 @@
 酒ヤクザ,酒やくざ,酒８９３,さけヤクザ,drinking oneself into a stupor
 童丱,どうかん,child
 社割,しゃわり,employee discount,corporate discount,company discount
-所じゃない,処じゃない,どころじゃない,not the time for,not the place for,far from,anything but,is out of the question,isn't the word for it
+所じゃない,処じゃない,どころじゃない,not the time for,not the place for,far from,anything but,is out of the question,far more than,nowhere near just,well beyond,easily more than,isn't the word for it
 社員割引,しゃいんわりびき,employee discount,corporate discount,company discount
 退行現象,たいこうげんしょう,regression to an earlier stage
 とりビー,let's start with beer
@@ -188115,7 +188115,7 @@
 乙女ゲーム,おとめゲーム,otome game,dating simulation game with a female protagonist and male love interests
 マサイ麒麟,マサイきりん,マサイキリン,masai giraffe,maasai giraffe,Kilimanjaro giraffe
 正極材,せいきょくざい,positive electrode material
-きゅう師,灸師,きゅうし,moxibustion practitioner,moxibustionist
+きゅう師,灸師,きゆう師,きゅうし,moxibustion practitioner,moxibustionist
 和事,わごと,wagoto,love scene,style of acting for love stories
 海警,かいけい,China Coast Guard,maritime security,coast guard
 変異株,へんいかぶ,mutant strain,mutation,variant
@@ -208431,7 +208431,7 @@
 身分犯,みぶんはん,status offense,status crime,crime requiring a specific status
 加重犯,かじゅうはん,aggravated offense,aggravated crime
 銃殺刑,じゅうさつけい,execution by a firing squad
-膝を折る,ひざを折る,膝をおる,ひざをおる,to surrender,to give in,to yield,to concede,to bend the knee,to kneel,to crouch
+膝を折る,ひざを折る,膝をおる,ひざをおる,to bend the knee,to kneel,to crouch,to surrender,to give in,to yield,to concede
 膝を屈する,ひざを屈する,ひざをくっする,to surrender,to give in,to yield,to submit,to bend one's knee
 ジリッ,じりっ,ジリっ,slowly,little by little,gradually,with a sizzle,burning,scorching,oozing out
 取り散らかす,とり散らかす,取りちらかす,取散らかす,とりちらかす,to scatter about,to leave untidy,to mess up,to leave things scattered around
@@ -211028,6 +211028,7 @@
 技能士,ぎのうし,certified skilled worker,licensed craftsman
 人目を盗む,ひとめをぬすむ,to do without being seen,to do behind others' backs,to do secretly,to do without the knowledge of others
 識閾下,識域下,しきいきか,subliminal,below the threshold of consciousness
+現新比較テスト,げんしんひかくテスト,old-vs-new comparison test,current-vs-new benchmark
 スフィンゴシン,sphingosine,sphingenine
 ティーツリー,ティー・ツリー,tea tree,ti tree
 弩弓,どきゅう,crossbow
@@ -211161,8 +211162,10 @@
 嗜食,ししょく,eating with liking,relishing,indulging in,eating regularly,habitually eating
 人肉嗜食,じんにくししょく,cannibalism,anthropophagy,eating human flesh
 非暴力不服従,非暴力・不服従,ひぼうりょくふふくじゅう,nonviolent resistance
+布絵本,布えほん,ぬのえほん,busy book,quiet book
+布の絵本,布のえほん,ぬののえほん,busy book,quiet book
 一人一殺,いちにんいっさつ,killing one by one
-被動,ひどう,passivity,passive voice
+被動,ひどう,passivity,passive,passive voice,passivity,passiveness
 スタイル抜群,スタイルばつぐん,great figure,outstanding proportions,amazing body
 拡張型心筋症,かくちょうがたしんきんしょう,dilated cardiomyopathy,DCM
 射程距離,しゃていきょり,range,firing range
@@ -211182,6 +211185,7 @@
 ドッグパーク,ドッグ・パーク,dog park
 番街,ばんがい,nth avenue
 強膜輪,鞏膜輪,きょうまくりん,scleral ring,sclerotic ring
+潜頸亜目,せんけいあもく,Cryptodira
 曲頸亜目,きょくけいあもく,Pleurodira
 プテロダクティルス,プテロダクチルス,pterodactylus,pterodactyl
 翼指竜亜目,よくしりゅうるい,Pterodactyloidea
@@ -211201,7 +211205,9 @@
 タペタム,tapetum,tapetum lucidum
 姫梟鸚哥,ヒメフクロウインコ,ひめふくろういんこ,night parrot
 マホガニーフクロモモンガ,マホガニー・フクロモモンガ,mahogany glider
+粗毛兎,アラゲウサギ,あらげうさぎ,hispid hare,Assam rabbit,bristly rabbit
 斑鬣犬,ぶちたてがみいぬ,spotted hyena,laughing hyena
+オレンジヒキガエル,golden toad
 二重処罰,にじゅうしょばつ,double jeopardy,double punishment,double penalty
 斑ハイエナ,ブチハイエナ,ぶちハイエナ,spotted hyena,laughing hyena
 直腸肛門反射,ちょくちょうこうもんはんしゃ,rectoanal reflex
@@ -211251,6 +211257,8 @@
 不発酵茶,ふはっこうちゃ,unfermented tea
 行衣,ぎょうい,ぎょうえ,white robe worn by ascetics,white garments worn by pilgrims
 だがしかし,but,however,yet
+コビトジャコウネズミ,Etruscan shrew,Etruscan pygmy shrew,white-toothed pygmy shrew,Savi's pygmy shrew
+アフリカオオノガン,kori bustard
 イワリス,Père David's rock squirrel,Chinese rock squirrel
 野犬,ノイヌ,のいぬ,feral dog
 日本海驢,ニホンアシカ,にほんあしか,Japanese sea lion
@@ -211275,8 +211283,30 @@
 情報筋,じょうほうすじ,sources,information channels,information sources
 年齢不詳,ねんれいふしょう,unknown age,uncertain age,unidentified age
 電気治療,でんきちりょう,electrotherapy,electrotherapeutics
+電気針,電気鍼,でんきばり,electric needle,acusector,electro-acupuncture
+良導絡,りょうどうらく,ryodoraku,electro-acupuncture system
 あはき法,あはきほう,Act on Practitioners of Massage, Shiatsu, Acupuncture, Moxibustion and others
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-24
+副動詞,ふくどうし,converb
+雪鳥,ユキドリ,ゆきどり,snow petrel
+美容家,びようか,beautician,cosmetologist
+保健センター,ほけんセンター,health center
+穴鳥,アナドリ,あなどり,Bulwer's petrel
+戦債,せんさい,war debt,war bond,war loan
+声門破裂音,せいもんはれつおん,glottal stop,glottal plosive
+声門閉鎖音,せいもんへいさおん,glottal stop,glottal plosive
+音形論,おんけいろん,phonology,sound pattern theory
+今日中,今日じゅう,きょうじゅう,by the end of today,sometime today,during today
+疾走感,しっそうかん,sense of speed,feeling of velocity,feeling of rushing
+加速力,かそくりょく,accelerating power,accelerating force,acceleration capability
+直進性,ちょくしんせい,straight-line stability,directional stability,straight-line propagation,straightness
+ボアアップ,ボア・アップ,boring out,increasing engine displacement
+ブローパイプ,blowpipe
+老朽車,ろうきゅうしゃ,worn-out vehicle,decrepit car
+吸気系,きゅうきけい,intake system,air intake system
+採光窓,さいこうまど,skylight,clerestory,lighting window
+偏執的,へんしゅうてき,へんしつてき,paranoid,obsessive,fixated,monomaniacal
+成り果せる,成りおおせる,なりおおせる,to turn completely into,to become completely
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-25
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
