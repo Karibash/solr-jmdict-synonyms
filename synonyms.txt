@@ -1087,7 +1087,7 @@
 めく,to show signs of,to have the appearance of
 メソメソ,めそめそ,sobbing,weeping,whimpering
 めっきり,remarkably,noticeably,visibly,considerably,perceptibly,appreciably,very much
-もう,もー,もぉ,already,yet,by now,now,any more,any longer,soon,shortly,before long,presently,further,more,again,another,the other,jeez,geez,gee,boy,come on,damn,seriously
+もう,もー,もぉ,already,yet,by now,now,any more,any longer,soon,shortly,before long,presently,further,more,again,another,the other,jeez,geez,gee,boy,come on,damn,seriously,truly,really,extremely
 藻掻く,踠く,藻搔く,もがく,to struggle,to writhe,to wriggle,to squirm,to act frantically,to make desperate efforts
 若し,もし,if,in case,supposing
 若しかしたら,もしかしたら,perhaps,maybe,perchance,by some chance,by any chance
@@ -29217,7 +29217,7 @@
 次条,じじょう,the next article,the next entry
 次数,じすう,degree,order
 次世代,じせだい,next generation,future generation
-次席,じせき,associate,junior,assistant,next in rank,runner-up
+次席,じせき,associate,junior,assistant,next in rank,runner-up,second highest rank,second place
 次善,じぜん,second best
 次善策,じぜんさく,plan B,alternative plan,workaround
 次打者,じだしゃ,batter on deck
@@ -29699,7 +29699,7 @@
 実例,じつれい,example,illustration,precedent
 実録,じつろく,authentic account
 実話,じつわ,true story
-偲ぶ,しのぶ,to recollect,to remember,to reminisce,to be nostalgic for,to imagine,to guess,to infer
+偲ぶ,慕ぶ,しのぶ,to recollect,to remember,to reminisce,to be nostalgic for,to imagine,to guess,to infer,to admire,to praise,to commend
 芝,しば,lawn,sod,turf
 芝刈り機,芝刈機,芝刈り器,しばかりき,lawnmower
 芝居,しばい,play,drama
@@ -36753,7 +36753,7 @@
 全形,ぜんけい,the whole form,perfect form
 全景,ぜんけい,panoramic view,bird's-eye view
 全景写真,ぜんけいしゃしん,panoramic photo
-全権,ぜんけん,plenipotentiary powers,full authority
+全権,ぜんけん,plenipotentiary powers,full authority,plenipotentiary,delegate with full powers
 全権委員,ぜんけんいいん,plenipotentiary
 全権公使,ぜんけんこうし,minister plenipotentiary
 全権大使,ぜんけんたいし,ambassador plenipotentiary
@@ -37924,7 +37924,7 @@
 他心,たしん,other intention,secret purpose,ulterior motive,ill will,fickleness,double-mindedness
 他人の空似,他人のそら似,たにんのそらに,accidental resemblance
 他人扱い,たにんあつかい,treating like a stranger
-他人行儀,たにんぎょうぎ,standing on formality,in a reserved manner,treating a friend as a stranger,unduly distant,formal
+他人行儀,たにんぎょうぎ,ceremonial,unduly distant,overly formal,reserved
 他世界,たせかい,other worlds
 他姓,たせい,another surname
 他生,たしょう,previous existence,future existence,transmigration
@@ -49245,7 +49245,7 @@
 また木,股木,叉木,又木,またぎ,forked tree,forked branch
 又頼み,まただのみ,indirect request
 又隣,またどなり,second door from here
-抹殺,まっさつ,erasure,obliteration,denial,ignoring
+抹殺,まっさつ,elimination,killing off,disposal,purging,denial,ignoring,disregard,dismissal,erasure,rubbing out,scrubbing out
 抹消,まっしょう,erasure,striking off,crossing out,cancellation,deletion
 抹消登録証明書,まっしょうとうろくしょうめいしょ,proof of vehicle having been registered as disposed of
 抹茶,まっ茶,末茶,まっちゃ,matcha,powdered green tea
@@ -49487,7 +49487,7 @@
 未製品,みせいひん,unfinished article
 未設,みせつ,uninstalled,projected
 未然,みぜん,before it happens,beforehand
-未然に防ぐ,みぜんにふせぐ,to prevent a thing from occurring,to forestall,to avert,to nip in the bud
+未然に防ぐ,未然にふせぐ,みぜんにふせぐ,to prevent  from occurring,to forestall,to avert,to nip in the bud
 未然形,みぜんけい,irrealis form
 未組織,みそしき,unorganized,unorganised
 未知,みち,not yet known,unknown,strange
@@ -134697,7 +134697,7 @@
 ウイングチップ,ウィングチップ,ウイング・チップ,ウィング・チップ,wingtip,full brogues,wing tip
 ウイニングポスト,ウィニングポスト,ウイニング・ポスト,ウィニング・ポスト,winning post
 ウイニング,ウィニング,winning
-ワイヤブラシ,ワイヤ・ブラシ,wire brush
+ワイヤーブラシ,ワイヤブラシ,ワイヤー・ブラシ,ワイヤ・ブラシ,ワイアブラシ,ワイアーブラシ,wire brush
 ワイヤラス,ワイヤ・ラス,wire lath
 ワーカーズコレクティブ,ワーカーズ・コレクティブ,workers' collective
 ワークハウス,workhouse
@@ -211225,6 +211225,7 @@
 ご贔屓に,御贔屓に,ごひいきに,we appreciate your continued patronage,thank you for your continued support,please continue to patronize
 国際商業会議所,こくさいしょうぎょうかいぎしょ,International Chamber of Commerce,ICC
 ＩＣＣ,アイ・シー・シー,アイシーシー,International Criminal Court,ICC,International Chamber of Commerce,ICC,International Control Commission,ICC
+おそ下がり,遅下がり,おそさがり,peak delay,late fall,delayed drop
 ミンダナオオオヤママユ,caesar cobra moth
 黄帯矢毒蛙,キオビヤドクガエル,きおびやどくがえる,yellow-banded poison dart frog,yellow-headed poison dart frog,bumblebee poison frog
 政友会,せいゆうかい,Friends of Constitutional Government Party
@@ -211244,6 +211245,8 @@
 テーブルビート,table beet,beet,beetroot
 火焔菜,かえんさい,beet,beetroot,table beet
 ビートルート,beetroot,beet,table beet
+ヒユ科,ヒユか,amaranth family,Amaranthaceae
+単１電池,単一電池,たんいちでんち,D battery,D-cell,R20 battery
 蔑如,べつじょ,looking down on,despising,contempt
 フロントライン,フロント・ライン,frontline,front line
 監督責任,かんとくせきにん,supervisory responsibility,managerial responsibility
@@ -211284,7 +211287,7 @@
 年齢不詳,ねんれいふしょう,unknown age,uncertain age,unidentified age
 電気治療,でんきちりょう,electrotherapy,electrotherapeutics
 電気針,電気鍼,でんきばり,electric needle,acusector,electro-acupuncture
-良導絡,りょうどうらく,ryodoraku,electro-acupuncture system
+良導絡,りょうどうらく,ryodoraku,electro-acupuncture system invented by Yoshio Nakatani
 あはき法,あはきほう,Act on Practitioners of Massage, Shiatsu, Acupuncture, Moxibustion and others
 副動詞,ふくどうし,converb
 雪鳥,ユキドリ,ゆきどり,snow petrel
@@ -211306,7 +211309,16 @@
 採光窓,さいこうまど,skylight,clerestory,lighting window
 偏執的,へんしゅうてき,へんしつてき,paranoid,obsessive,fixated,monomaniacal
 成り果せる,成りおおせる,なりおおせる,to turn completely into,to become completely
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-25
+磁気ワイヤ,磁気ワイヤー,じきワイヤ,じきワイヤー,magnetic wire
+プレスアップ,press-up,press up,push up
+コンパクトカセット,コンパクト・カセット,compact cassette,cassette tape
+記録計,きろくけい,recorder,data logger
+記録計器,きろくけいき,recorder,data logger
+データレコーダー,データ・レコーダー,データーレコーダー,データーレコーダ,data recorder
+ヘッドクリーナー,ヘッド・クリーナー,head cleaner
+ピンチローラー,ピンチ・ローラー,pinch roller
+厄介がる,やっかいがる,to consider troublesome,to regard as a nuisance
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-26
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
