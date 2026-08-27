@@ -23268,7 +23268,7 @@
 結び目,むすびめ,knot
 結ぶ,むすぶ,to tie,to bind,to link,to bear,to close,to confirm,to conclude,to connect,to close tightly,to purse,to unite,to ally,to join hands
 結わえる,ゆわえる,to bind,to fasten,to tie up
-結果,けっか,result,consequence,outcome,effect,as a result,as a consequence,in consequence,following,bearing fruit,fruiting
+結果,けっか,result,consequence,outcome,effect,product,consequently,as a result,hence,thus,accordingly,as a result of,following,as a consequence of,bearing fruit,fruiting
 結果論,けっかろん,hindsight-based opinion
 結核,けっかく,tuberculosis,TB,concretion
 結球,けっきゅう,head,forming a head,coming to a head
@@ -34337,7 +34337,7 @@
 ちり取り,塵取り,ちり取,チリ取り,塵取,ちりとり,チリトリ,dustpan
 尋ねる,訊ねる,たずねる,to ask,to enquire,to inquire,to search,to look for,to look into,to investigate
 尋ね人,たずねびと,missing person,wanted person
-尋常,じんじょう,common,usual
+尋常,じんじょう,common,ordinary,usual,average,normal,fair,gracious,honorable,frank,open,tame,ready,understated,modest,pleasant,discreetly elegant,demure,elementary school,primary school
 尋常一様,じんじょういちよう,ordinary,common,mediocre
 尋問,訊問,じんもん,questioning,interrogation,examination
 痛く,甚く,いたく,extremely,exceedingly,deeply,painfully
@@ -35270,7 +35270,7 @@
 生命保険,せいめいほけん,life insurance
 生命倫理,せいめいりんり,bioethics
 生卵,生玉子,生たまご,なまたまご,raw egg
-生理,せいり,physiology,menstruation,one's period
+生理,せいり,physiology,one's period,menstruation
 生理的,せいりてき,physiological,physical,visceral,instinctive,in one's guts
 生理日,せいりび,days of one's menstrual period
 生録,なまろく,live recording
@@ -37619,7 +37619,7 @@
 側役,そばやく,personal attendant
 則る,法る,乗っ取る,のっとる,to follow,to conform to,to be in accordance with
 即する,則する,そくする,to conform to,to agree with,to be adapted to,to be based on
-即ち,則ち,乃ち,輒ち,便ち,すなわち,つなわち,that is,namely,i.e.,precisely,exactly,just,nothing but,neither more nor less,then
+即ち,則ち,乃ち,便ち,輒ち,迺ち,すなわち,つなわち,that is,namely,i.e.,or,precisely,exactly,just,nothing but,neither more nor less,if one does , then,in that case,then,so,accordingly,thereupon,then
 即位,そくい,accession to the throne,enthronement
 即応,そくおう,compliance,conformance,adaptation,response,reaction
 即興,そっきょう,improvisation,improvised,impromptu,extempore,ad-lib,off-the-cuff
@@ -37924,7 +37924,7 @@
 他心,たしん,other intention,secret purpose,ulterior motive,ill will,fickleness,double-mindedness
 他人の空似,他人のそら似,たにんのそらに,accidental resemblance
 他人扱い,たにんあつかい,treating like a stranger
-他人行儀,たにんぎょうぎ,ceremonial,unduly distant,overly formal,reserved
+他人行儀,たにんぎょうぎ,ceremonious,unduly distant,overly formal,reserved
 他世界,たせかい,other worlds
 他姓,たせい,another surname
 他生,たしょう,previous existence,future existence,transmigration
@@ -39854,7 +39854,7 @@
 丁年者,ていねんしゃ,adult
 丁半,ちょうはん,even and odd numbers,chō-han,gambling game in which two dice are thrown and players bet on whether the total is odd or even
 丁付け,ちょうづけ,paging,pagination,numbering
-丁目,ちょうめ,district of a town,city block
+丁目,ちょうめ,nth district of a town,nth city block
 兆,ちょう,10^12,1,000,000,000,000,trillion,sign,omen,indication,portent
 兆す,萌す,きざす,to show signs,to have symptoms,to give indications,to bud,to germinate,to sprout
 兆民,ちょうみん,the whole nation,all the people
@@ -45115,7 +45115,7 @@
 番線,ばんせん,track number,platform number,wire gauge
 番組,ばんぐみ,program,programme
 番台,ばんだい,attendant's booth,door-keeper's stand,watcher's seat
-番地,ばんち,house number,address
+番地,ばんち,lot number,house number,street number,address,residence,address,memory address,nth house,nth plot of land
 番茶,ばんちゃ,coarse tea
 番頭,ばんとう,chief clerk,head clerk,store manager
 番付,番附,番付け,ばんづけ,ranked list,program
@@ -54959,7 +54959,7 @@
 瞑る,つぶる,つむる,to close,to shut
 禀性,ひんせい,りんせい,nature,character
 臍帯,さい帯,さいたい,せいたい,umbilical cord
-茹だる,茹る,ゆだる,うだる,to boil,to seethe,to be oppressed by heat
+茹だる,茹る,ゆだる,to boil,to seethe
 蜉蝣,蜻蛉,かげろう,カゲロウ,mayfly,ephemerality,dragonfly
 蜻蛉,蜻蜓,蜻蜒,とんぼ,とんぼう,トンボ,dragonfly
 螟虫,髄虫,ずいむし,めいちゅう,pyralid larva,borer
@@ -211182,9 +211182,12 @@
 犯人グループ,はんにんグループ,criminal group
 爆弾犬,ばくだんけん,dog fitted with a bomb,anti-tank dog
 髪菜,はっさい,fat choy
+ネーミングセンス,ネーミング・センス,ability to think up names,knack for naming things
 ドッグパーク,ドッグ・パーク,dog park
 番街,ばんがい,nth avenue
 強膜輪,鞏膜輪,きょうまくりん,scleral ring,sclerotic ring
+偽鰐類,ぎがくるい,pseudosuchia
+鳥頸類,ちょうけいるい,ornithodira
 潜頸亜目,せんけいあもく,Cryptodira
 曲頸亜目,きょくけいあもく,Pleurodira
 プテロダクティルス,プテロダクチルス,pterodactylus,pterodactyl
@@ -211204,6 +211207,7 @@
 輝板,きばん,tapetum,tapetum lucidum
 タペタム,tapetum,tapetum lucidum
 姫梟鸚哥,ヒメフクロウインコ,ひめふくろういんこ,night parrot
+黒足鼬,クロアシイタチ,くろあしいたち,black-footed ferret,American polecat,prairie dog hunter
 マホガニーフクロモモンガ,マホガニー・フクロモモンガ,mahogany glider
 粗毛兎,アラゲウサギ,あらげうさぎ,hispid hare,Assam rabbit,bristly rabbit
 斑鬣犬,ぶちたてがみいぬ,spotted hyena,laughing hyena
@@ -211283,6 +211287,7 @@
 有効射程,ゆうこうしゃてい,effective range,effective firing range
 爽気,そうき,refreshing air,crisp air,cool air,refreshing mood,feeling of refreshment,invigorating feeling
 屍食,屍喰,ししょく,necrophagy,necrophagia,eating corpses
+屍食鬼,屍喰鬼,ししょくき,ghoul,corpse-eating demon
 情報筋,じょうほうすじ,sources,information channels,information sources
 年齢不詳,ねんれいふしょう,unknown age,uncertain age,unidentified age
 電気治療,でんきちりょう,electrotherapy,electrotherapeutics
@@ -211308,6 +211313,7 @@
 吸気系,きゅうきけい,intake system,air intake system
 採光窓,さいこうまど,skylight,clerestory,lighting window
 偏執的,へんしゅうてき,へんしつてき,paranoid,obsessive,fixated,monomaniacal
+生理前症候群,せいりぜんしょうこうぐん,せいりまえしょうこうぐん,premenstrual syndrome,PMS
 成り果せる,成りおおせる,なりおおせる,to turn completely into,to become completely
 磁気ワイヤ,磁気ワイヤー,じきワイヤ,じきワイヤー,magnetic wire
 プレスアップ,press-up,press up,push up
@@ -211317,8 +211323,14 @@
 データレコーダー,データ・レコーダー,データーレコーダー,データーレコーダ,data recorder
 ヘッドクリーナー,ヘッド・クリーナー,head cleaner
 ピンチローラー,ピンチ・ローラー,pinch roller
+家凸,いえとつ,suddenly appearing uninvited at someone's home
 厄介がる,やっかいがる,to consider troublesome,to regard as a nuisance
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-26
+茹だる,茹る,うだる,to be oppressed by heat,to swelter,to boil,to seethe
+尾長犬鷲,尾長狗鷲,オナガイヌワシ,おながいぬわし,wedge-tailed eagle
+尾長揚羽,尾長揚羽蝶,オナガアゲハ,おながあげは,long-tailed spangle,long-tailed swallowtail
+昔々あるところに,昔々ある所に,むかしむかしある所に,昔々ある処に,むかしむかしある処に,むかしむかしあるところに,once upon a time
+組織網,そしきもう,organizational network,organizational web
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-27
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
