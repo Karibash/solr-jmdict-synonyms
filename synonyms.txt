@@ -757,7 +757,7 @@
 と仮定して,とかていして,assuming that,supposing that
 と仮定しても,とかていしても,even assuming that,even granted that
 と共に,とともに,together with,as X, then Y
-という訳,と言う訳,と言うわけ,というわけ,this is why,this means,it is the case that
+という訳,と言う訳,と言うわけ,とゆう訳,というわけ,とゆうわけ,this is why,that is the reason why,it is the case that,so,thus,with that,for this reason,because of this,as such,therefore
 と言えば,といえば,speaking of,when it comes to,as for,if one were to say
 言える,云える,いえる,to be possible to say,to be able to say,said,have said
 と言われる,といわれる,to be called,to be referred to as
@@ -3507,7 +3507,7 @@
 ガスステーション,ガス・ステーション,gas station
 ガスタービン,ガス・タービン,gas turbine
 ガストアルバイター,foreign worker
-ガストロカメラ,gastrocamera
+ガストロカメラ,ガストロ・カメラ,gastrocamera,gastroscope
 ガストロノミー,gastronomy
 ガストロノミスト,gastronomist
 ガストロノミック,gastronomic
@@ -38333,7 +38333,7 @@
 逮捕者,たいほしゃ,arrestee,person arrested
 逮捕状,たいほじょう,arrest warrant
 隊員,たいいん,troops,group members,team members,SDF officials
-隊長,たいちょう,commanding officer
+隊長,たいちょう,captain,commander,commanding officer,leader
 黛青,たいせい,blackish blue
 鯛,タイ,たい,sea bream,porgy
 代,しろ,substitution,material,price,margin,area required for something,shiro
@@ -48414,7 +48414,7 @@
 放つ,はなつ,to fire,to shoot,to hit,to break wind,to set free,to release,to let loose,to emit,to give off,to send out,to set fire to
 放り込む,抛り込む,放りこむ,ほうり込む,抛りこむ,ほうりこむ,ホウリコむ,to throw into,to toss into,to throw-in,to play a throw-in
 放り出す,放りだす,ほうり出す,抛り出す,ほうりだす,to throw out,to drop,to toss,to dump,to abandon,to neglect,to leave behind,to give up,to dismiss,to fire,to expel
-放り上げる,ほうりあげる,to hurl up
+放り上げる,放りあげる,ほうり上げる,抛り上げる,抛りあげる,ほうりあげる,to hurl up
 放る,抛る,投る,ほうる,ほる,to throw,to fling,to hurl,to toss,to neglect,to abandon,to leave alone,to give up on,to leave undone,to leave unfinished
 放れる,はなれる,to get free,to be freed,to be released
 放映,ほうえい,televising,broadcasting,airing
@@ -48812,7 +48812,7 @@
 頬っぺ,ほっぺ,cheek
 頬っぺた,頰っぺた,頬っ辺,頰っ辺,ほっぺた,cheek
 頬紅,ほお紅,頰紅,ほおべに,cheek rouge,blusher,blush
-頬骨,ほおぼね,きょうこつ,ほほぼね,cheekbone,zygomatic bone,malar bone
+頬骨,頰骨,ほおぼね,きょうこつ,ほほぼね,cheekbone,zygomatic bone,malar bone
 頬髭,頬ひげ,頬髯,ほおひげ,whiskers,sideburns,sideboards
 北,きた,north,the North,northern territories,North Korea,north wind
 北北東,北々東,ほくほくとう,north-northeast,north-north-east
@@ -140192,7 +140192,7 @@
 農村地帯,のうそんちたい,agrarian community,farming area,farming region
 妻問婚,つまどいこん,type of marriage where the man merely visits his wife without living with her,duolocal marriage
 下支え,したざさえ,support,backup,prop,backstay,underpinning
-構音障害,こうおんしょうがい,dysarthria
+構音障害,こうおんしょうがい,articulation disorder,dysarthria
 モラハラ,moral harassment,psychological abuse,victimization,workplace bullying
 ずり落ちる,ズリ落ちる,摺り落ちる,ずりおちる,to slip down,to slide down,to glide down
 婚人,よばいびと,suitor
@@ -211196,6 +211196,7 @@
 上火,うわび,heat applied from above,overhead heat,upper oven temperature in baking
 触毛,しょくもう,vibrissa,tactile hair
 ハーダー腺,ハーダーせん,Harderian gland
+クラウングループ,クラウン・グループ,crown group
 タカヘ,South Island takahē,takahē
 ニュージーランドクイナ,weka,Māori hen,woodhen
 ウェカ,weka,Māori hen,woodhen
@@ -211300,6 +211301,7 @@
 保健センター,ほけんセンター,health center
 穴鳥,アナドリ,あなどり,Bulwer's petrel
 戦債,せんさい,war debt,war bond,war loan
+閉室,へいしつ,closing a room,keeping a room closed,closing down an office,closing down a facility,closing a department
 声門破裂音,せいもんはれつおん,glottal stop,glottal plosive
 声門閉鎖音,せいもんへいさおん,glottal stop,glottal plosive
 音形論,おんけいろん,phonology,sound pattern theory
@@ -211328,9 +211330,23 @@
 茹だる,茹る,うだる,to be oppressed by heat,to swelter,to boil,to seethe
 尾長犬鷲,尾長狗鷲,オナガイヌワシ,おながいぬわし,wedge-tailed eagle
 尾長揚羽,尾長揚羽蝶,オナガアゲハ,おながあげは,long-tailed spangle,long-tailed swallowtail
+ディサースリア,dysarthria
 昔々あるところに,昔々ある所に,むかしむかしある所に,昔々ある処に,むかしむかしある処に,むかしむかしあるところに,once upon a time
 組織網,そしきもう,organizational network,organizational web
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-27
+球面収差,きゅうめんしゅうさ,spherical aberration
+小紙,しょうし,small piece of paper,scrap of paper,our newspaper,this newspaper
+孫衛星,まごえいせい,subsatellite,submoon,moonlet
+ひそひそ声,ヒソヒソ声,ひそひそごえ,whisper,whispered voice,low voice,quiet voice
+父,ちゃん,dad,father
+父,かぞ,かそ,father
+傾斜路,けいしゃろ,ramp,slope,incline
+大塊,たいかい,large mass,huge lump,large clod,Earth,nature,the universe,the cosmos
+一髪千鈞,いっぱつせんきん,hanging by a thread,being in imminent danger,critical situation,a thousand weights on a single hair
+乱れ咲く,みだれ咲く,乱れざく,みだれざく,to bloom in profusion,to bloom wildly,to flower abundantly
+ハングオン,ハング・オン,hanging off,shifting one's body to the inside of a turn
+最遅,さいち,slowest,latest,tardiest
+画像編集,がぞうへんしゅう,image editing
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-28
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -212197,6 +212213,7 @@
 バット２１,バットトゥエンティーワン,Bat*21
 バトルロワイアル,バトルロワイヤル,バトル・ロワイアル,バトル・ロワイヤル,Battle Royale
 バネブー,Spoink
+ババリア,バヴァリア,Bavaria
 バフォメット,バホメット,Baphomet
 バブルボブル,Bubble Bobble
 バベル１７,バベルセブンティーン,Babel-17
