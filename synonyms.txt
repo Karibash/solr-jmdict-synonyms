@@ -21386,7 +21386,7 @@
 共同防衛,きょうどうぼうえい,joint defense,joint defence
 共白髪,友白髪,ともしらが,growing old together,white hemp thread
 共犯,きょうはん,complicity
-共犯者,きょうはんしゃ,accomplice,henchman
+共犯者,きょうはんしゃ,accomplice,co-conspirator
 共販,きょうはん,cooperative selling
 共販会社,きょうはんがいしゃ,cooperative sales company
 共編,きょうへん,joint editorship
@@ -46590,7 +46590,7 @@
 浮力,ふりょく,buoyancy,floating power
 浮浪,ふろう,vagrancy,vagabondage,wander around
 浮浪者,ふろうしゃ,vagrant,vagabond,tramp,homeless person,hobo,bum
-父,ちち,father
+父,ちち,father,father,pioneer,founder,God,Father
 父の日,ちちのひ,Father's Day
 父兄,ふけい,guardians,parents,father and older brother
 父兄会,ふけいかい,parents' association
@@ -107824,7 +107824,7 @@
 奥宮,おくみや,rear shrine
 新宮,しんぐう,newly constructed shrine
 今宮,いまみや,newly born imperial prince,newly constructed  shrine
-分霊,ぶんれい,division of a shrine's tutelary deity, in order to share it with another shrine,spirit divided in such a manner
+分霊,ぶんれい,making a branch shrine for a deity,enshrining a divided portion of a deity's spirit at another shrine
 鎮祭,ちんさい,religious ceremony
 勧請,かんじょう,praying for the coming of a deity,ceremonial transfer of a divided tutelary deity to a new location
 大宮,おおみや,imperial palace,shrine,Grand Empress Dowager,Empress Dowager,woman of imperial lineage who has borne a child,elderly woman of imperial lineage
@@ -137862,7 +137862,7 @@
 法務官,ほうむかん,legal officer,legal office,judge advocate,praetor,pretor
 紺四郎,こんしろう,consul
 ローマ進軍,ローマしんぐん,March on Rome
-ＳＳ,エス・エス,エスエス,service station,gas station,shortstop,sporty sedan,steamship,SS,Secret Service,suspended solids,SS,Schutzstaffel,SS,SS rank
+ＳＳ,エス・エス,エスエス,service station,gas station,shortstop,sporty sedan,steamship,SS,Secret Service,suspended solids,SS,Schutzstaffel,SS,SS rank,short story
 ミュンヘン一揆,ミュンヘンいっき,Beer Hall Putsch,Munich Putsch
 ミュンヘン会談,ミュンヘンかいだん,Munich Conference
 ミュンヘン協定,ミュンヘンきょうてい,Munich Agreement,Munich Pact
@@ -211301,6 +211301,7 @@
 保健センター,ほけんセンター,health center
 穴鳥,アナドリ,あなどり,Bulwer's petrel
 戦債,せんさい,war debt,war bond,war loan
+父,てて,father
 閉室,へいしつ,closing a room,keeping a room closed,closing down an office,closing down a facility,closing a department
 声門破裂音,せいもんはれつおん,glottal stop,glottal plosive
 声門閉鎖音,せいもんへいさおん,glottal stop,glottal plosive
@@ -211334,6 +211335,7 @@
 昔々あるところに,昔々ある所に,むかしむかしある所に,昔々ある処に,むかしむかしある処に,むかしむかしあるところに,once upon a time
 組織網,そしきもう,organizational network,organizational web
 球面収差,きゅうめんしゅうさ,spherical aberration
+軟焦点レンズ,なんしょうてんレンズ,soft-focus lens
 小紙,しょうし,small piece of paper,scrap of paper,our newspaper,this newspaper
 孫衛星,まごえいせい,subsatellite,submoon,moonlet
 ひそひそ声,ヒソヒソ声,ひそひそごえ,whisper,whispered voice,low voice,quiet voice
@@ -211342,11 +211344,21 @@
 傾斜路,けいしゃろ,ramp,slope,incline
 大塊,たいかい,large mass,huge lump,large clod,Earth,nature,the universe,the cosmos
 一髪千鈞,いっぱつせんきん,hanging by a thread,being in imminent danger,critical situation,a thousand weights on a single hair
+孤峰,こほう,solitary peak,solitary summit
 乱れ咲く,みだれ咲く,乱れざく,みだれざく,to bloom in profusion,to bloom wildly,to flower abundantly
 ハングオン,ハング・オン,hanging off,shifting one's body to the inside of a turn
 最遅,さいち,slowest,latest,tardiest
+軟焦点,なんしょうてん,soft focus
 画像編集,がぞうへんしゅう,image editing
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-28
+チェレンコフ光,チェレンコフこう,Cherenkov light
+テクノブレイク,death from excessive masturbation
+ディフィカルト,difficult,troublesome,bothersome
+運動障害性構音障害,うんどうしょうがいせいこうおんしょうがい,dysarthria
+運動性構音障害,うんどうせいこうおんしょうがい,dysarthria
+ソフトフォーカスレンズ,ソフト・フォーカス・レンズ,soft-focus lens
+グリッター,glitter
+基礎代謝量,きそたいしゃりょう,basal metabolic rate,BMR
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-29
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
