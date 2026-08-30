@@ -8460,7 +8460,7 @@
 ハウスオーガン,ハウス・オーガン,house organ
 ハウスカード,ハウス・カード,credit card issued by a particular store or business
 ハウスキーパー,housekeeper
-ハウスキーピング,housekeeping
+ハウスキーピング,housekeeping,housework,household chores,room cleaning,housekeeping,deleting or moving to other storage old files or data
 ハウスクリーニング,housecleaning
 ハウスダスト,ハウス・ダスト,house dust
 ハウスハズバンド,ハウス・ハズバンド,househusband,stay-at-home dad
@@ -25794,7 +25794,7 @@
 考え事,考えごと,かんがえごと,something to think about,one's thoughts,concern,worry,thinking about something,being absorbed in one's thoughts
 考え出す,考えだす,かんがえだす,to think out,to devise,to invent,to begin to think,to come up with a plan
 考え直す,考えなおす,かんがえなおす,to reconsider,to rethink,to reassess
-考え抜く,かんがえぬく,to think thoroughly
+考え抜く,考えぬく,かんがえぬく,to think thoroughly
 考え方,かんがえかた,way of thinking,point of view,opinion,approach,attitude
 考案,考按,こうあん,plan,device,idea,design,contrivance,conception,invention
 考課,こうか,evaluation,rating
@@ -35973,7 +35973,7 @@
 絶倫,ぜつりん,matchless,peerless,unequaled,unequalled,unparalleled,unrivaled
 舌,した,tongue,tongue-like object,clapper,talon,reed
 舌禍,ぜっか,careless remark,incriminating remark,unfortunate statement,slip of the tongue
-舌鼓を打つ,したつづみをうつ,to smack one's lips,to eat with relish
+舌鼓を打つ,舌鼓をうつ,したつづみをうつ,to smack one's lips,to eat with relish
 舌先,したさき,tip of tongue
 舌戦,ぜっせん,war of words
 舌足らず,舌たらず,したたらず,unclear speech,garbled speech,poor enunciation,poorly expressed,unclear,imprecise,inadequate
@@ -38508,7 +38508,7 @@
 大企業,だいきぎょう,large company,large enterprise,large corporation
 大喜び,大喜,大悦び,おおよろこび,great joy,delight,jubilation
 大器晩成,たいきばんせい,great talents mature late
-大気,大氣,たいき,atmosphere,air,magnanimity,generosity
+大気,大氣,たいき,atmosphere,air,magnanimous,generous,large-hearted,broad-minded
 大気汚染,たいきおせん,air pollution
 大規模,だいきぼ,large-scale
 大規模集積回路,だいきぼしゅうせきかいろ,large-scale integration,LSI
@@ -39037,7 +39037,7 @@
 端株,はかぶ,odd lot
 端局,たんきょく,terminal
 端子,たんし,terminal,pin,port
-端緒,たんしょ,たんちょ,start,beginning,first step,clue
+端緒,端初,たんしょ,たんちょ,start,beginning,first step,clue
 端数,はすう,fraction,odd amount,leftover amount
 端正,端整,たんせい,handsome,shapely,clean-cut,decent,proper,correct,upright,graceful
 端切れ,端布,端ぎれ,はぎれ,scrap of cloth,odds and ends
@@ -44190,7 +44190,7 @@
 敗退,はいたい,being defeated,being eliminated
 敗北,はいぼく,defeat,loss,reverse,setback
 敗北感,はいぼくかん,sense of defeat
-杯,盃,坏,觴,盞,觚,巵,卮,酒盃,さかずき,さかづき,うき,sake cup,cup for alcoholic beverages,ritual exchange of cups
+杯,盃,坏,觴,盞,觚,巵,卮,酒盃,さかずき,さかづき,sake cup,cup for alcoholic beverages,ritual exchange of cups
 牌,パイ,tile
 背,脊,せい,height,stature
 背が高い,背がたかい,せが高い,せがたかい,tall
@@ -54933,7 +54933,7 @@
 倅,伜,悴,忰,せがれ,son,punk,brat,penis
 倩々,熟々,倩,熟,つらつら,carefully,closely,attentively,profoundly,deeply,at length
 偖,扨,扠,さて,well,now,then
-傀儡,かいらい,くぐつ,puppet,marionette,dummy,puppeteer,prostitute
+傀儡,かいらい,くぐつ,puppet,marionette,puppet,figurehead,stooge,dummy,prostitute
 佝僂,痀瘻,くる,rickets,person with rickets,hunchback
 儺,な,driving out evil spirits
 抉る,刳る,剔る,えぐる,くる,to gouge,to hollow out,to bore,to excavate,to scoop out,to greatly perturb,to cause emotional pain,to get to the bottom of things,to relentlessly bring the truth to light
@@ -149074,7 +149074,7 @@
 青化法,せいかほう,cyanide process
 青黛,せいたい,blue eyebrow makeup,blue eyebrows,deep blue,dark blue,blue pigment used for makeup
 剃り跡,そり跡,そりあと,stubble
-青ひげ,青髭,青ヒゲ,青髯,青鬚,あおひげ,use of blue eyebrow pencil to indicate a character has shaved his cheeks
+青ひげ,青髭,青ヒゲ,青髯,青鬚,あおひげ,grey appearance after shaving one's beard,five o'clock shadow,stubble,use of blue pigment to indicate a character has shaved
 青っぽい,あおっぽい,bluish,greenish,immature,inexperienced,green,naive
 個人所得,こじんしょとく,personal income
 軽減措置,けいげんそち,relief measure,mitigation measure
@@ -211358,7 +211358,12 @@
 ソフトフォーカスレンズ,ソフト・フォーカス・レンズ,soft-focus lens
 グリッター,glitter
 基礎代謝量,きそたいしゃりょう,basal metabolic rate,BMR
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-29
+閃光手榴弾,せんこうしゅりゅうだん,flashbang,stun grenade
+スタングレネード,stun grenade
+メガネサナエ,Stylurus oculatus
+併結,へいけつ,coupling,joining together
+あてぃし,アティシ,I,me
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-30
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
