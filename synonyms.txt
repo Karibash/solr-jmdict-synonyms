@@ -16895,7 +16895,7 @@
 何かかにか,何か彼にか,なにかかにか,this and that,something or other,one thing or another
 何か無しに,なんかなしに,casually
 何が何だか,なにがなんだか,what's what,heads or tails
-何が何でも,何がなんでも,なにが何でも,なにがなんでも,by all means,by all costs
+何が何でも,何がなんでも,なにが何でも,なにがなんでも,by all means,at all costs
 何しろ,なにしろ,in any case,at any rate,anyhow,anyway,as you know,for you see,particularly,because,since,for,after all
 何たる,なんたる,what,what  is like
 何だか,なんだか,little,somewhat,somehow
@@ -38577,7 +38577,7 @@
 大書,たいしょ,writing in large letters
 大女,おおおんな,huge woman,giantess
 大勝,大捷,たいしょう,great victory,decisive victory,overwhelming victory,landslide victory
-大小,だいしょう,size,large and small,various sizes,daishō,large and small drums,long months and short months,sic bo,tai sai,dai siu,big and small
+大小,だいしょう,size,dimension,magnitude,large and small,various sizes,daishō,large and small drums,long months and short months,sic bo,tai sai,dai siu,big and small
 大笑い,おおわらい,great laughter,burst of laughter
 大詔,たいしょう,imperial rescript
 大賞,たいしょう,big prize,first prize
@@ -76333,14 +76333,14 @@
 耳介,じかい,auricle,pinna
 耳打ち,耳うち,耳打,みみうち,whispering into a person's ear
 耳孔,じこう,earhole
-耳垂れ,耳だれ,みみだれ,ear discharge
+耳垂れ,耳だれ,耳漏,耳漏れ,みみだれ,ear discharge,running ear,question mark
 耳底,じてい,depths of the ear,inner ear
 耳くそ,耳屎,耳糞,みみくそ,earwax,cerumen
 耳疾,じしつ,infections or diseases of the ear
 耳殻,じかく,auricle,pinna
 耳かき,耳掻き,耳搔き,みみかき,earpick,ear cleaning
 耳遠い,みみどおい,hard of hearing,unfamiliar
-耳漏,じろう,earwax,ear discharge
+耳漏,耳ろう,じろう,otorrhea,ear discharge
 耳語,じご,whispering
 耳隠し,みみかくし,hairdo covering the ears
 耳こすり,耳擦り,みみこすり,whispering into someone's ear,snide remark,sly dig,insinuation
@@ -104152,7 +104152,7 @@
 秤動,ひょうどう,oscillation of a heavenly body,libration
 端午の節句,たんごのせっく,Boys' Day celebration
 道なり,道形,みちなり,following the road,the way the road goes
-形,態,なり,style,way,shape,form,appearance,state
+形,態,なり,style,way,shape,form,appearance,state,dress,attire,clothing,getup,outfit,personal appearance
 しめる,auxiliary verb indicating the causative voice,auxiliary verb indicating the permissive voice,auxiliary verb strengthening the honorific notion
 成らしめる,ならしめる,to make become,to let become
 権利を放棄する,けんりをほうきする,to waive one's right,to waive a right
@@ -211204,15 +211204,19 @@
 アフリカマナティー,アフリカ・マナティー,African manatee,West African manatee
 カカ,New Zealand kākā,kākā
 黒赤筑紫鴨,クロアカツクシガモ,くろあかつくしがも,paradise shelduck,paradise duck,pūtangitangi
+生息地分断化,せいそくちぶんだんか,habitat fragmentation
 緑の回廊,みどりのかいろう,green corridor,wildlife corridor
 輝板,きばん,tapetum,tapetum lucidum
 タペタム,tapetum,tapetum lucidum
 姫梟鸚哥,ヒメフクロウインコ,ひめふくろういんこ,night parrot
+ババリアマツネズミ,Bavarian pine vole
 黒足鼬,クロアシイタチ,くろあしいたち,black-footed ferret,American polecat,prairie dog hunter
+ブッシュマンウサギ,riverine rabbit,bushman rabbit,bushman hare
 マホガニーフクロモモンガ,マホガニー・フクロモモンガ,mahogany glider
 粗毛兎,アラゲウサギ,あらげうさぎ,hispid hare,Assam rabbit,bristly rabbit
 斑鬣犬,ぶちたてがみいぬ,spotted hyena,laughing hyena
 オレンジヒキガエル,golden toad
+ハーストイーグル,Haast's eagle
 二重処罰,にじゅうしょばつ,double jeopardy,double punishment,double penalty
 斑ハイエナ,ブチハイエナ,ぶちハイエナ,spotted hyena,laughing hyena
 直腸肛門反射,ちょくちょうこうもんはんしゃ,rectoanal reflex
@@ -211221,6 +211225,7 @@
 お祓い棒,お払い棒,おはらいぼう,purification wand with paper streamers used in rites
 立憲政友会,りっけんせいゆうかい,Friends of Constitutional Government Party
 柔々,柔柔,やわやわ,ヤワヤワ,softly,smoothly,tenderly,pliantly,gently,mildly,calmly,carefully,unhurriedly
+これに伴い,此れに伴い,これにともない,along with this,in connection with this,as a result of this,accordingly
 診療室,しんりょうしつ,examination room,treatment room,doctor's office
 ノーリスク,ノー・リスク,no-risk,risk-free,without risk
 筋肉増強剤,きんにくぞうきょうざい,muscle-building drug,muscle-building agent
@@ -211233,6 +211238,7 @@
 おそ下がり,遅下がり,おそさがり,peak delay,late fall,delayed drop
 ミンダナオオオヤママユ,caesar cobra moth
 黄帯矢毒蛙,キオビヤドクガエル,きおびやどくがえる,yellow-banded poison dart frog,yellow-headed poison dart frog,bumblebee poison frog
+ギガンテウスオオツノジカ,Irish elk,giant deer,Irish deer
 政友会,せいゆうかい,Friends of Constitutional Government Party
 負い,おい,extra,additional,more
 請負契約,うけおいけいやく,contract agreement,contract,general contract
@@ -211363,7 +211369,8 @@
 メガネサナエ,Stylurus oculatus
 併結,へいけつ,coupling,joining together
 あてぃし,アティシ,I,me
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-30
+クランク軸,クランクじく,crankshaft
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-31
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
