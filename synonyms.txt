@@ -33964,7 +33964,7 @@
 辛辣,辛らつ,しんらつ,bitter,sharp,biting,severe,scathing,harsh
 進み,すすみ,progress
 進み出る,すすみでる,to step forward,to volunteer
-進む,すすむ,to advance,to go forward,to precede,to go ahead,to make progress,to improve,to deepen,to heighten,to be fast,to be ahead,to do of one's own free will
+進む,すすむ,to advance,to go forward,to move forward,to precede,to go ahead,to be ahead,to advance,to move on,to enter,to make progress,to move ahead,to continue,to progress,to advance,to get on,to intensify,to heighten,to grow,to deepen,to worsen,to advance,to do of one's own free will,to be willing,to become enthusiastic,to be fast,to gain,to be ahead,to grow,to become hungry
 進める,すすめる,to advance,to move forward,to put  forward,to carry forward,to proceed with,to make progress in,to further,to advance,to hasten,to speed up,to raise,to elevate,to promote,to develop,to stimulate
 進化,しんか,evolution,evolution,becoming more advanced,progress,development,improvement
 進学,しんがく,advancing to the next stage of education,going on to
@@ -45891,7 +45891,7 @@
 病症,びょうしょう,nature of a disease
 病状,びょうじょう,condition of a patient,state of a disease,pathology
 病人,びょうにん,sick person,patient,invalid
-病巣,びょうそう,focus,nidus,lesion
+病巣,病竈,びょうそう,focus,nidus,lesion
 病徴,びょうちょう,symptom
 病的,びょうてき,pathological,morbid,unhealthy,diseased,unwholesome,abnormal
 病棟,びょうとう,ward
@@ -51248,7 +51248,7 @@
 洋食,ようしょく,Western food,Western dish,Western cooking,Japanized Western cuisine
 洋風,ようふう,Western style
 洋服,ようふく,Western-style clothes
-洋服ダンス,洋服タンス,洋服箪笥,洋服だんす,洋服たんす,ようふくダンス,ようふくタンス,ようふくだんす,ようふくたんす,wardrobe,chest of drawers,clothespress,dresser,tallboy
+洋服ダンス,洋服タンス,洋服箪笥,洋服だんす,洋服たんす,ようふくだんす,ようふくたんす,wardrobe,chest of drawers,clothespress,dresser,tallboy
 溶かす,融かす,解かす,とかす,to melt,to liquefy,to thaw,to dissolve,to bring into solution,to lose,to squander
 溶く,融く,熔く,鎔く,とく,to mix,to dissolve,to mix in,to scramble,to stir,to beat,to melt,to liquefy,to smelt,to thaw,to fuse
 溶けやすい,溶け易い,とけやすい,low-melting,easily thawed,soluble
@@ -52683,7 +52683,7 @@
 老朽,ろうきゅう,infirmity,decrepitude,senility,senescence,superannuation
 老後,ろうご,old age
 老巧,老功,ろうこう,experienced,seasoned,veteran
-老妻,ろうさい,old woman
+老妻,ろうさい,one's old wife
 老子,ろうし,Laozi,Lao Tzu,Lao Tse
 老若男女,ろうにゃくなんにょ,ろうじゃくだんじょ,men and women of all ages
 老人,ろうじん,old person,senior citizen,the aged,the elderly
@@ -65390,7 +65390,7 @@
 手生け,手活け,ていけ,doing one's own flower arranging,marrying or making a mistress of a geisha
 手合い,手合,てあい,that kind,competition,match
 手向かい,手向い,てむかい,たむかい,resistance
-手向かう,てむかう,to resist
+手向かう,てむかう,to resist,to fight back,to oppose
 手回り,てまわり,at hand,personal effects or belongings
 手回り品,てまわりひん,personal effects or belongings
 手羽,てば,chicken wing
@@ -139402,7 +139402,7 @@
 自己防衛,じこぼうえい,self-defense
 毎冬,まいふゆ,every winter
 金の亡者,かねのもうじゃ,money monger,money-happy person,person who is money-mad,money-grubber
-に伴い,にともない,as,because,with,due to
+に伴い,にともない,along with,in line with,following,due to,as a result of,in accordance with
 相即,そうそく,coming together and dissolving into oneness,being closely related,being inseparable
 オスマン帝国,オスマンていこく,Ottoman Empire
 イッカク科,イッカクか,Monodontidae
@@ -211225,7 +211225,6 @@
 お祓い棒,お払い棒,おはらいぼう,purification wand with paper streamers used in rites
 立憲政友会,りっけんせいゆうかい,Friends of Constitutional Government Party
 柔々,柔柔,やわやわ,ヤワヤワ,softly,smoothly,tenderly,pliantly,gently,mildly,calmly,carefully,unhurriedly
-これに伴い,此れに伴い,これにともない,along with this,in connection with this,as a result of this,accordingly
 診療室,しんりょうしつ,examination room,treatment room,doctor's office
 ノーリスク,ノー・リスク,no-risk,risk-free,without risk
 筋肉増強剤,きんにくぞうきょうざい,muscle-building drug,muscle-building agent
@@ -211356,6 +211355,9 @@
 最遅,さいち,slowest,latest,tardiest
 軟焦点,なんしょうてん,soft focus
 画像編集,がぞうへんしゅう,image editing
+画像編集アプリ,がぞうへんしゅうアプリ,image editing application
+写真加工,しゃしんかこう,photo editing
+写真加工アプリ,しゃしんかこうアプリ,photo editing application
 チェレンコフ光,チェレンコフこう,Cherenkov light
 テクノブレイク,death from excessive masturbation
 ディフィカルト,difficult,troublesome,bothersome
@@ -211370,7 +211372,10 @@
 併結,へいけつ,coupling,joining together
 あてぃし,アティシ,I,me
 クランク軸,クランクじく,crankshaft
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-08-31
+持続性抑うつ症,持続性抑鬱症,じぞくせいよくうつしょう,persistent depressive disorder,PDD
+新人研修,しんじんけんしゅう,training for new employees,onboarding training,orientation course
+ヤコバ,overnight bus,night bus
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-01
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
