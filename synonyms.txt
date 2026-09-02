@@ -40602,7 +40602,7 @@
 剃刀気触れ,かみそりかぶれ,razor burn,razor rash
 剃刀砥,かみそりど,razor strop,hone
 カミソリ負け,かみそり負け,剃刀負け,かみそりまけ,razor burn,razor rash,razor cut
-剃髪,ていはつ,tonsure,shaving one's head
+剃髪,ていはつ,shaving one's head,tonsure
 貞はる,さだはる,to harp too long on a subject
 貞潔,ていけつ,chastity,purity
 貞淑,ていしゅく,chastity,virtue,fidelity,feminine modesty
@@ -57755,7 +57755,7 @@
 端座,端坐,たんざ,sitting upright
 幽棲,幽栖,ゆうせい,living a quiet life in seclusion away from the masses
 座礁,坐礁,ざしょう,running aground,being stranded,grounding,beaching
-嚇怒,赫怒,かくど,greatly enraged,furious
+赫怒,嚇怒,かくど,rage,fury
 掘削,掘鑿,掘さく,くっさく,digging out,excavation
 諒察,亮察,了察,りょうさつ,consideration,taking into account,sympathy with
 七転八倒,七顛八倒,七顚八倒,しちてんばっとう,しってんばっとう,tossing oneself about in great pain,writhing in agony
@@ -80967,7 +80967,7 @@
 経協,けいきょう,management association,management conference,management institute
 経験を問わず,けいけんをとわず,no experience necessary
 桂月,けいげつ,moon
-馨香,けいこう,fragrance,perfume,aroma,honor,honour,fame
+馨香,けいこう,けいきょう,fragrance,perfume,aroma,honor,honour,fame
 計算違い,けいさんちがい,miscalculation
 計算簿,けいさんぼ,account book
 経済戦,けいざいせん,economic war
@@ -132682,7 +132682,7 @@
 すっすっ,スッスッ,smoothly,frictionlessly,easily
 ずんと,づんと,much,remarkably,noticeably,not at all,quickly and vigorously,unhesitatingly
 せせら笑い,嘲笑い,冷笑い,せせらわらい,sardonic laugh,scornful smile
-その筋,其の筋,そのすじ,that field,the authorities
+その筋,其筋,其の筋,そのすじ,that field,the authorities,the yakuza,organized crime circles
 その折,その折り,其の折,そのおり,on that occasion,at that time,then,in that case
 それにも関わらず,それにも拘わらず,それにも拘らず,それにも関らず,それにもかかわらず,nonetheless,nevertheless,but,yet
 それ自体,其れ自体,それじたい,in itself,the thing itself,this itself,for its own sake,per se
@@ -171378,7 +171378,7 @@
 僕んち,僕ん家,ぼくんち,ボクンチ,my home
 直流送電,ちょくりゅうそうでん,direct-current power transmission
 先に進める,さきにすすめる,to proceed with,to continue with,to move on,to go forward,to pursue
-ヘイト,ヘート,hate,hate crime,hate speech,racism,racially motivated hate
+ヘイト,ヘート,hate,hate crime,hate speech,racism,racially motivated hate,hate,threat,aggro,attention from an enemy
 サウンダー,サウンダ,sounder
 ひねり回す,捻り回す,ひねりまわす,to fiddle with,to play with
 スカート内盗撮,スカートないとうさつ,upskirting
@@ -181599,7 +181599,7 @@
 近過去,きんかこ,recent past tense,present perfect,recent past
 遠過去,えんかこ,remote past tense
 タミータイム,タミー・タイム,tummy time,time spent by a baby on their stomach while awake
-壁打ち,かべうち,bouncing a ball against a wall
+壁打ち,かべうち,bouncing a ball against a wall,bouncing ideas off of someone,using someone as a sounding board,preliminary pitch,continually posting on social media without engaging in dialogue
 間髪入れず,間髪いれず,間髪容れず,かんぱついれず,かんはついれず,immediately,instantly,with nary a pause,without a moment's delay
 どういう訳か,どう言う訳か,どう言うわけか,どういうわけか,somehow,for some reason or other
 ってなもん,てなもん,something like,something called
@@ -211236,6 +211236,7 @@
 ＩＣＣ,アイ・シー・シー,アイシーシー,International Criminal Court,ICC,International Chamber of Commerce,ICC,International Control Commission,ICC
 おそ下がり,遅下がり,おそさがり,peak delay,late fall,delayed drop
 ミンダナオオオヤママユ,caesar cobra moth
+ナンベイオオヤガ,white witch,ghost moth,great gray witch,great owlet moth
 黄帯矢毒蛙,キオビヤドクガエル,きおびやどくがえる,yellow-banded poison dart frog,yellow-headed poison dart frog,bumblebee poison frog
 ギガンテウスオオツノジカ,Irish elk,giant deer,Irish deer
 政友会,せいゆうかい,Friends of Constitutional Government Party
@@ -211258,6 +211259,7 @@
 ヒユ科,ヒユか,amaranth family,Amaranthaceae
 単１電池,単一電池,たんいちでんち,D battery,D-cell,R20 battery
 蔑如,べつじょ,looking down on,despising,contempt
+モード系,モードけい,mode fashion (style characterized by bold, fashionable, black or monochrome looks,high fashion style
 フロントライン,フロント・ライン,frontline,front line
 監督責任,かんとくせきにん,supervisory responsibility,managerial responsibility
 腕一本,腕１本,うでいっぽん,one's own strength and skill alone,nothing to rely on but oneself,self-made
@@ -211375,7 +211377,11 @@
 持続性抑うつ症,持続性抑鬱症,じぞくせいよくうつしょう,persistent depressive disorder,PDD
 新人研修,しんじんけんしゅう,training for new employees,onboarding training,orientation course
 ヤコバ,overnight bus,night bus
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-01
+牛カルビ,ぎゅうカルビ,beef rib meat
+寸書,すんしょ,short letter,brief note,letter
+甑に坐するが如し,こしきにざするがごとし,extremely hot summer weather,like sitting in an earthenware steamer
+リバプロ,reverse proxy
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-02
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
