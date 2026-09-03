@@ -77118,7 +77118,7 @@
 糸鋸,糸のこ,糸ノコ,いとのこ,いとノコ,fretsaw,coping saw,jigsaw
 糸織り,糸織,いとおり,cloth woven from twisted silk yarn
 糸繰り,いとくり,reel,spinner
-思いの丈,思いのたけ,おもいのたけ,one's whole heart,everything one feels
+思いの丈,思いのたけ,想いの丈,想いのたけ,おもいのたけ,one's whole heart,everything one feels
 思い出し笑い,思いだし笑い,おもいだしわらい,reminiscent smile,laughing at a memory,smiling to oneself as one recalls something pleasant or amusing
 思弁哲学,しべんてつがく,speculative philosophy
 思し召し,思召,思召し,おぼし召し,思しめし,おぼしめし,thoughts,opinion,discretion,will,however much money you wish to give,fondness,love,fancy,liking
@@ -82503,7 +82503,7 @@
 禎祥,ていしょう,good omen
 逓次,ていじ,successively,in order
 悌順,ていじゅん,obedience
-鄭声,ていせい,music of the state of Zheng
+鄭声,ていせい,licentious music,decadent music,music of the ancient Chinese state of Zheng
 鄭箋,ていせん,commentary on the Book of Odes by Zheng Xuan
 碇置,ていち,anchorage
 釘頭,ていとう,nailhead
@@ -99102,7 +99102,7 @@
 べた,ベタ,all over,filled in,solid,gapless,complete,total,clichéd,hackneyed,corny,predictable,plaintext,solid printing,solid typesetting,contact print
 乗り間違える,のりまちがえる,to get on the wrong vehicle
 探しに,さがしに,in search of,in order to look for
-気を失う,きをうしなう,to lose consciousness,to faint,to black out
+気を失う,気をうしなう,きをうしなう,to lose consciousness,to faint,to black out,to lose motivation,get discouraged
 親代代,親代々,おやだいだい,inheritance
 間が悪い,まがわるい,awkward,embarrassed,embarrassing,inconvenient,inopportune,untimely,unfortunate,unlucky
 円関数,えんかんすう,circular function,trigonometric function
@@ -162943,7 +162943,7 @@
 手稿,しゅこう,manuscript
 千里馬,チョンリマ,Chollima,winged horse of East Asian mythologies
 分画,分劃,ぶんかく,demarcation,graduation,fractionation,fraction
-横薙ぎ,横なぎ,よこなぎ,sweeping sideways,mowing down
+横薙ぎ,横なぎ,横薙,よこなぎ,sweeping sideways,mowing down
 体ごと,からだごと,bodily,with all one's weight,with one's whole body
 鍛金,たんきん,hammering
 シュッと,quickly,swishing,whooshing
@@ -211259,7 +211259,7 @@
 ヒユ科,ヒユか,amaranth family,Amaranthaceae
 単１電池,単一電池,たんいちでんち,D battery,D-cell,R20 battery
 蔑如,べつじょ,looking down on,despising,contempt
-モード系,モードけい,mode fashion (style characterized by bold, fashionable, black or monochrome looks,high fashion style
+モード系,モードけい,mode fashion,avant-garde fashion style
 フロントライン,フロント・ライン,frontline,front line
 監督責任,かんとくせきにん,supervisory responsibility,managerial responsibility
 腕一本,腕１本,うでいっぽん,one's own strength and skill alone,nothing to rely on but oneself,self-made
@@ -211379,9 +211379,17 @@
 ヤコバ,overnight bus,night bus
 牛カルビ,ぎゅうカルビ,beef rib meat
 寸書,すんしょ,short letter,brief note,letter
+寸楮,すんちょ,short letter,brief note,letter
+快楽順応,かいらくじゅんのう,hedonic adaptation,hedonic treadmill
 甑に坐するが如し,こしきにざするがごとし,extremely hot summer weather,like sitting in an earthenware steamer
 リバプロ,reverse proxy
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-02
+痿疾,いしつ,limb paralysis,impotence
+死徴,しちょう,signs of death
+死徴学,しちょうがく,thanatography
+外甥,がいせい,one's wife's nephew,one's sister's son
+鉄桶,てっとう,steel tub,iron tub,impregnable,impenetrable,unassailable
+蟹行,かいこう,walking sideways,walking like a crab,cross-wise writing,alphabet usually written horizontally​
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-03
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
