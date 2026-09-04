@@ -4945,7 +4945,7 @@
 サイバネーション,cybernation
 サイバネティックス,サイバネティクス,サイベネティックス,cybernetics
 サイフォン,サイホン,siphon
-サイボーグ,cyborg,cybernetic organism
+サイボーグ,サイボーク,cyborg,cybernetic organism
 サイムルキャスト,simulcast
 サイレージ,silage
 サイレン,siren
@@ -39848,7 +39848,7 @@
 丁稚奉公,でっち奉公,でっちぼうこう,でっちほうこう,apprenticeship
 丁定規,ていじょうぎ,T-square
 丁度,恰度,ちょうど,exactly,precisely,just,right,opportunely,fortunately,just,as if,as though
-丁寧,叮嚀,ていねい,polite,courteous,civil,careful,close,thorough,conscientious
+丁寧,叮嚀,鄭寧,ていねい,polite,courteous,civil,careful,close,thorough,conscientious
 丁寧語,ていねいご,polite language
 丁年,ていねん,adulthood,one's majority
 丁年者,ていねんしゃ,adult
@@ -54357,7 +54357,7 @@
 借家,借屋,しゃくや,しゃっか,rented house,house for rent
 借家人,しゃくやにん,しゃっかにん,tenant,renter
 借問,しゃもん,しゃくもん,inquiring,enquiring
-寂しい,淋しい,さびしい,さみしい,lonely,lonesome,solitary,desolate
+寂しい,淋しい,さびしい,さみしい,lonely,lonesome,forlorn,desolate,deserted,lonely,isolated,solitary,sad,lacking,wanting,insufficient
 寂然,せきぜん,じゃくねん,lonely,desolate,forlornness,desolation
 弱年者,若年者,じゃくねんしゃ,じゃくねんもの,youngster,young and immature person
 主客,しゅかく,しゅきゃく,host and guest,the principal and the auxiliary,the principal and the subsidiary,the primary and the subordinate,subject and object,subject and object
@@ -99102,7 +99102,7 @@
 べた,ベタ,all over,filled in,solid,gapless,complete,total,clichéd,hackneyed,corny,predictable,plaintext,solid printing,solid typesetting,contact print
 乗り間違える,のりまちがえる,to get on the wrong vehicle
 探しに,さがしに,in search of,in order to look for
-気を失う,気をうしなう,きをうしなう,to lose consciousness,to faint,to black out,to lose motivation,get discouraged
+気を失う,気をうしなう,きをうしなう,to lose consciousness,to faint,to black out,to lose motivation,to get discouraged
 親代代,親代々,おやだいだい,inheritance
 間が悪い,まがわるい,awkward,embarrassed,embarrassing,inconvenient,inopportune,untimely,unfortunate,unlucky
 円関数,えんかんすう,circular function,trigonometric function
@@ -110830,7 +110830,7 @@
 何やかんや,何や彼んや,なんやかんや,one thing or another,this and that,something or another
 薔薇戦争,バラ戦争,ばら戦争,ばらせんそう,War of the Roses
 となく,adds vagueness and indirectness to the word or phrase it is used with
-遍,返,へん,number of times
+遍,返,へん,counter for occurrences
 指値注文,指し値注文,さしねちゅうもん,limit order
 おっぱいアイス,soft ice cream sold in a balloon
 そうもない,そうもありません,very unlikely to,showing no signs of
@@ -132750,7 +132750,7 @@
 もっそり,slowly,unrefined
 やおら,slowly,leisurely,gently,quietly,deliberately,suddenly,abruptly
 やっつけ仕事,遣っ付け仕事,やっつけしごと,rush job,slipshod job,quick-and-dirty work
-ゆくりなく,unexpectedly
+ゆくりなく,unexpectedly,surprisingly
 良しなに,よしなに,suitably,properly,duly,as you see fit,as you think best
 より糸,縒り糸,撚り糸,縒糸,撚糸,よりいと,twisting,twisted yarn,twisted thread,twine
 リン青銅,燐青銅,リンせいどう,りんせいどう,phosphor bronze
@@ -211178,6 +211178,7 @@
 枯れすすき,枯れススキ,枯れ薄,枯薄,枯れ芒,枯芒,かれすすき,カレススキ,withered silver grass,withered Japanese pampas grass,dead susuki grass
 急湍,きゅうたん,swift shoal,rapid shallows
 急灘,きゅうだん,きゅうなん,swift shoal,rapid shallows
+家具転対策,かぐてんたいさく,furniture tipping countermeasures,furniture tip-over precautions
 速度違反自動取締装置,そくどいはんじどうとりしまりそうち,speed camera,automatic speed limit enforcement device
 犯人グループ,はんにんグループ,criminal group
 爆弾犬,ばくだんけん,dog fitted with a bomb,anti-tank dog
@@ -211251,6 +211252,7 @@
 人を選ぶ,ひとをえらぶ,to choose a person,to select someone,to pick people,to not be for everyone,to not suit everyone's tastes,to be an acquired taste
 ロカイユ,rocaille,rocaille
 グロット,grotto
+前社,ぜんしゃ,previous company,previous employer,previous job
 霊液,れいえき,elixir,ichor,divine fluid
 ジオスミン,ジェオスミン,ゲオスミン,geosmin
 テーブルビート,table beet,beet,beetroot
@@ -211354,6 +211356,7 @@
 孤峰,こほう,solitary peak,solitary summit
 乱れ咲く,みだれ咲く,乱れざく,みだれざく,to bloom in profusion,to bloom wildly,to flower abundantly
 ハングオン,ハング・オン,hanging off,shifting one's body to the inside of a turn
+霊脈,れいみゃく,spiritual vein,spiritual current,ley line,occult channel
 最遅,さいち,slowest,latest,tardiest
 軟焦点,なんしょうてん,soft focus
 画像編集,がぞうへんしゅう,image editing
@@ -211388,8 +211391,14 @@
 死徴学,しちょうがく,thanatography
 外甥,がいせい,one's wife's nephew,one's sister's son
 鉄桶,てっとう,steel tub,iron tub,impregnable,impenetrable,unassailable
-蟹行,かいこう,walking sideways,walking like a crab,cross-wise writing,alphabet usually written horizontally​
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-03
+蟹行,かいこう,walking sideways,walking like a crab,cross-wise writing,alphabet usually written horizontally
+薙髪,ちはつ,shaving one's head,tonsure
+手次寺,手次ぎ寺,てつぎでら,family temple
+ラジオマーカービーコン,ラジオ・マーカー・ビーコン,radio marker beacon
+サイバーパトロール,サイバー・パトロール,cyber patrol
+ダークパターン,ダーク・パターン,dark pattern
+仏頭,ぶっとう,Buddha's head,head of a Buddha statue
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-04
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
