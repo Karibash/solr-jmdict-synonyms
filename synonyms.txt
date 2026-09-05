@@ -16959,7 +16959,7 @@
 何者か,何ものか,なにものか,someone
 何処か,どこか,どっか,somewhere,in some respects,in some way
 何処ともなく,何処とも無く,どこともなく,いずこともなく,aimlessly,somehow
-何処となく,何処と無く,どことなく,somehow,for some reason,in some way,vaguely
+何処となく,何処と無く,何所となく,何所と無く,どことなく,somehow,for some reason,in some way,vaguely
 何処も,どこも,everywhere,wherever,nowhere,nothing
 何処まで,何処迄,どこまで,how far,to what extent,up to what point
 何処までも,何処迄も,どこまでも,anywhere,for all time,to the ends of the earth,through thick and thin,come hell or high water,to the bitter end,to the utmost,persistently,stubbornly,in all respects,on every point,thoroughly,exhaustively
@@ -26413,7 +26413,7 @@
 黒眼鏡,くろめがね,sunglasses,shady glasses,dark glasses
 黒蟻,くろあり,クロアリ,black ant
 黒金剛石,くろこんごうせき,black diamond,carbon,carbonado
-黒血,くろち,venous blood
+黒血,くろち,purulent blood,blood from a wound or sore
 黒鍵,こっけん,black key
 黒光り,黒びかり,くろびかり,black lustre,black luster
 黒砂糖,くろざとう,brown sugar,muscovado
@@ -45258,7 +45258,7 @@
 皮下注射,ひかちゅうしゃ,hypodermic injection
 皮革,ひかく,leather,hide
 皮質,ひしつ,cortex
-皮切り,かわきり,beginning,start
+皮切り,かわきり,beginning,start,first moxa treatment
 皮相,ひそう,surface,outward appearance,superficial,shallow
 皮肉,ひにく,irony,sarcasm,cynicism,satire,unexpected,different from what one expected,not as one had planned,surface,something superficial,skin and bone,body
 皮剥ぎ,皮剥,皮剝ぎ,皮剝,かわはぎ,カワハギ,thread-sail filefish,skinning,stripping,barking,skinner,barker
@@ -132750,7 +132750,7 @@
 もっそり,slowly,unrefined
 やおら,slowly,leisurely,gently,quietly,deliberately,suddenly,abruptly
 やっつけ仕事,遣っ付け仕事,やっつけしごと,rush job,slipshod job,quick-and-dirty work
-ゆくりなく,unexpectedly,surprisingly
+ゆくりなく,ゆくりなくも,unexpectedly,surprisingly
 良しなに,よしなに,suitably,properly,duly,as you see fit,as you think best
 より糸,縒り糸,撚り糸,縒糸,撚糸,よりいと,twisting,twisted yarn,twisted thread,twine
 リン青銅,燐青銅,リンせいどう,りんせいどう,phosphor bronze
@@ -211241,6 +211241,7 @@
 黄帯矢毒蛙,キオビヤドクガエル,きおびやどくがえる,yellow-banded poison dart frog,yellow-headed poison dart frog,bumblebee poison frog
 ギガンテウスオオツノジカ,Irish elk,giant deer,Irish deer
 政友会,せいゆうかい,Friends of Constitutional Government Party
+黄変種,おうへんしゅ,xanthochromatic variant,xanthochromatic species
 負い,おい,extra,additional,more
 請負契約,うけおいけいやく,contract agreement,contract,general contract
 調音点,ちょうおんてん,place of articulation
@@ -211394,11 +211395,22 @@
 蟹行,かいこう,walking sideways,walking like a crab,cross-wise writing,alphabet usually written horizontally
 薙髪,ちはつ,shaving one's head,tonsure
 手次寺,手次ぎ寺,てつぎでら,family temple
+手次,手継,手次ぎ,手継ぎ,てつぎ,family temple,handing down through successive generations,passing down,something handed down through successive generations,heirloom
 ラジオマーカービーコン,ラジオ・マーカー・ビーコン,radio marker beacon
 サイバーパトロール,サイバー・パトロール,cyber patrol
 ダークパターン,ダーク・パターン,dark pattern
 仏頭,ぶっとう,Buddha's head,head of a Buddha statue
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-04
+運転中,うんてんちゅう,while driving,in operation,under way,on stream
+赤口日,しゃっくにち,しやくこうにち,unlucky day
+グルカ兵,グルカへい,Ghurka
+非決定論的,ひけっていろんてき,non-deterministic
+鉄艦,てっかん,armored ship,armoured ship
+転得,てんとく,subsequent purchase
+核子,さなご,melon seeds,rice flour residue
+固有の領土,こゆうのりょうど,inherent territory,territory regarded as inherently belonging to a country
+肘窩,ちゅうか,cubital fossa,bend of elbow
+閻浮檀金,えんぶだごん,えんぶたんごん,pure gold,gold from the river running through the groves of Jambu trees
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-05
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -218698,3 +218710,5 @@
 黄巣の乱,こうそうのらん,Huang Chao Rebellion
 楚漢戦争,そかんせんそう,Chu-Han Contention,Chu-Han War
 納涼祭,納涼まつり,納涼祭り,のうりょうまつり,Nōryō Matsuri
+国家サイバー統括室,こっかサイバーとうかつしつ,National Cybersecurity Office,NCO
+国家情報局,こっかじょうほうきょく,National Intelligence Bureau
