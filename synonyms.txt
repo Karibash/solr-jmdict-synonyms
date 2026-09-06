@@ -40478,7 +40478,7 @@
 坪当たり,坪当り,坪当,つぼあたり,per tsubo
 壺,壷,壼,つぼ,ツボ,pot,jar,vase,dice cup,depression,basin,aim,what one wants,the mark,key point,essence,acupuncture point,moxibustion point,pressure point,point that appeals to one's sense of humor,something one finds amusing,position on the fingerboard,target
 爪,つめ,nail,claw,talon,hoof,plectrum,pick,hook,clasp
-爪で拾って箕で零す,つめでひろってみでこぼす,penny wise and pound foolish
+爪で拾って箕で零す,つめでひろってみでこぼす,to squander what has been saved up laboriously,to blow one's hard-earned fortune,to spill through a winnowing basket what one has collected with their fingernails
 爪痕,爪あと,爪跡,つめ跡,ツメ跡,つめあと,fingernail mark,scratch,scars,traces,ravages,after-effects
 つま先,爪先,つまさき,toes,tips of the toes,toe of a shoe, sock, etc.
 つま先で歩く,爪先で歩く,つまさきであるく,to tiptoe
@@ -40986,7 +40986,7 @@
 天際,てんさい,horizon
 天産,てんさん,natural products
 天産物,てんさんぶつ,natural products
-天蚕糸,てぐす,silkworm gut,catgut
+天蚕糸,てぐす,silkworm gut,fishing gut,artificial gut,gut fishing line
 天使,てんし,angel
 天子,てんし,emperor,ruler,heavenly being,celestial being
 天資,てんし,nature,natural elements
@@ -42374,7 +42374,7 @@
 同労者,どうろうしゃ,fellow worker
 同衾,どうきん,sleeping together,sleeping with,sharing a bed
 堂,どう,temple,shrine,chapel,hall,company,front room
-堂にいる,堂に入る,どうにいる,to become an expert,to be master at
+堂に入る,堂にいる,どうにいる,to become an expert,to be a master
 導き,みちびき,guidance
 導き出す,導きだす,みちびきだす,to draw,to deduce,to derive
 導く,みちびく,to guide,to lead,to show the way,to conduct,to derive,to deduce
@@ -55109,7 +55109,7 @@
 一箇所,一カ所,一ヶ所,１箇所,１カ所,１ヶ所,一か所,一ヵ所,一ケ所,一個所,１か所,１ヵ所,１ケ所,１個所,いっかしょ,one place,the same place,one spot,one location,one part,one passage
 一騎打ち,一騎討ち,一騎打,一騎討,いっきうち,single combat,duel,one-on-one fight
 一軒家,一軒屋,いっけんや,detached house,single house,single building,isolated house,house in isolated location
-一才,一歳,１才,１歳,いっさい,one-year-old
+一歳,一才,１歳,１才,いっさい,one-year-old,one year old
 一切合切,一切合財,いっさいがっさい,any and every thing,altogether,lock, stock, and barrel,the whole shooting match,the whole kit and caboodle,without reserve
 一昨々夜,一昨昨夜,いっさくさくや,two nights before last
 逸書,佚書,いっしょ,lost book
@@ -55486,7 +55486,7 @@
 来す,来たす,きたす,to cause,to induce,to bring about,to produce
 来る,来たる,きたる,next,forthcoming,coming,to come,to arrive,to be due to
 機知,機智,きち,wit,resources,tact
-切っ掛け,切掛け,切っかけ,切掛,切っ掛,切かけ,切欠,きっかけ,キッカケ,chance,start,cue,excuse,motive,impetus,occasion
+切っ掛け,切掛け,切っかけ,切掛,切っ掛,切かけ,切欠,きっかけ,キッカケ,chance,start,opportunity,cue,occasion,impetus,cause,reason,excuse,motive
 切っ先,鋒,切先,切尖,きっ先,きっさき,ほう,point,pointed verbal attack
 切符売り場,切符売場,きっぷうりば,ticket window,box office,ticket
 狐憑き,狐付き,狐つき,キツネ憑き,きつねつき,possession by a fox spirit,person possessed by a fox spirit
@@ -77925,7 +77925,7 @@
 振り逃げ,振逃げ,ふりにげ,making first base after an uncaught third strike
 振動数,しんどうすう,frequency
 振替休日,振り替え休日,振替え休日,ふりかえきゅうじつ,substitute national holiday,day off in lieu of a national holiday that falls on a Sunday,compensatory holiday,compensatory day off work
-振替輸送,ふりかえゆそう,transfer
+振替輸送,ふりかえゆそう,transfer,substitute transportation,alternative transportation
 振る舞い酒,振舞い酒,ふるまい酒,振舞酒,ふるまいざけ,sake offered to someone,treat of sake
 震天動地,しんてんどうち,earth-shaking
 震え声,ふるえ声,ふるえごえ,trembling voice,quavering voice
@@ -106657,7 +106657,7 @@
 サーボモーター,servomotor
 キャッシュレスシステム,キャッシュレス・システム,cashless system
 我思う故に我あり,我思うゆえに我あり,我思う故に我在り,我思う故に我有り,我思うゆえに我在り,われ思うゆえにわれあり,われおもうゆえにわれあり,I think, therefore I am,cogito, ergo sum
-シュレーディンガーの猫,シュレーディンガーのねこ,Schrödinger's cat
+シュレディンガーの猫,シュレーディンガーの猫,シュレディンガーのねこ,シュレーディンガーのねこ,Schrödinger's cat
 デカルト座標,デカルトざひょう,Cartesian coordinates,rectangular coordinates
 権兵衛,權兵衞,ごんべえ,ごんべい,John Doe,person of unknown name,country bumpkin
 たんと,many,much,a great amount,excessive amount
@@ -127187,7 +127187,7 @@
 隙間市場,すき間市場,すきましじょう,niche market
 計測器,けいそくき,measuring instrument,instrumentation
 放射線発生装置,ほうしゃせんはっせいそうち,radiation generator
-癜風,でんぷう,chromophytosis,tinea versicolor
+癜風,でんぷう,tinea versicolor
 にょっきり,にょきり,sticking out prominently,rising up
 クラリティー,クラリティ,clarity
 エコカー,eco-car
@@ -161368,7 +161368,7 @@
 生合成,せいごうせい,biosynthesis
 公益財団,こうえきざいだん,public utility foundation
 額を寄せ合う,ひたいをよせあう,to put heads together,to gather,to go into a huddle
-十才,十歳,じゅっさい,じっさい,age 10
+十歳,十才,10歳,10才,じゅっさい,じっさい,ten-year-old,ten year old
 関連度,かんれんど,degree of association,relevance ratio
 製糸工場,せいしこうじょう,spinning mill,filature,thread-manufacturing plant,silk mill
 とばっちりを食う,とばっちりをくう,to be struck by a chance blow,to be embroiled in,to be caught up in,to be dragged into
@@ -211408,9 +211408,21 @@
 転得,てんとく,subsequent purchase
 核子,さなご,melon seeds,rice flour residue
 固有の領土,こゆうのりょうど,inherent territory,territory regarded as inherently belonging to a country
+黒血症,こくけつしょう,melanemia
 肘窩,ちゅうか,cubital fossa,bend of elbow
 閻浮檀金,えんぶだごん,えんぶたんごん,pure gold,gold from the river running through the groves of Jambu trees
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-05
+如実に,にょじつに,true to life,as things really are,realistically,vividly
+天馬座,てんばざ,Pegasus,the Winged Horse
+二才,二歳,2才,2歳,にさい,two-year-old,two year old
+三歳,三才,3歳,3才,さんさい,three-year-old,three year old
+四歳,四才,4歳,4才,よんさい,four-year-old,four year old
+五歳,五才,5歳,5才,ごさい,five-year-old,five year old
+六歳,六才,6歳,6才,ろくさい,six-year-old,six year old
+七歳,七才,7歳,7才,ななさい,seven-year-old,seven year old
+八歳,八才,8歳,8才,はっさい,eight-year-old,eight year old
+九歳,九才,9歳,9才,きゅうさい,nine-year-old,nine year old
+無賃送還,むちんそうかん,free-of-charge return trip
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-06
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
