@@ -23501,7 +23501,7 @@
 圏,けん,sphere,circle,range,area,zone,bloc,category
 圏外,けんがい,outside,out of range,outside the sphere,out of contention,out of reach
 圏内,けんない,inside,within the range,within the sphere
-硬い,固い,堅い,緊い,かたい,hard,solid,tough,stiff,tight,wooden,unpolished,strong,firm,safe,steady,honest,steadfast,obstinate,stubborn,bookish,formal,stuffy,solid
+硬い,固い,堅い,緊い,かたい,hard,solid,tough,stiff,tight,wooden,unpolished,strong,firm,safe,steady,honest,steadfast,certain,assured,highly likely,obstinate,stubborn,bookish,formal,stuffy,solid
 堅果,けんか,nut
 堅苦しい,固苦しい,かた苦しい,堅くるしい,かたくるしい,かたぐるしい,formal,stiff,strict,ceremonious
 堅固,けんご,solid,strong,firm
@@ -26413,7 +26413,7 @@
 黒眼鏡,くろめがね,sunglasses,shady glasses,dark glasses
 黒蟻,くろあり,クロアリ,black ant
 黒金剛石,くろこんごうせき,black diamond,carbon,carbonado
-黒血,くろち,purulent blood,blood from a wound or sore
+黒血,くろち,purulent blood,blood from an open wound or sore
 黒鍵,こっけん,black key
 黒光り,黒びかり,くろびかり,black lustre,black luster
 黒砂糖,くろざとう,brown sugar,muscovado
@@ -61053,7 +61053,7 @@
 工人,こうじん,workman,craftsman,laborer,labourer,artisan
 江上,こうじょう,bank of a large river
 江山,こうざん,rivers and mountains,landscape
-攻め立てる,攻立てる,せめたてる,to make an incessant onslaught,to attack incessantly
+攻め立てる,攻めたてる,攻立てる,せめたてる,to make an incessant onslaught,to attack incessantly
 攻め込む,攻めこむ,せめこむ,to invade,to attack,to breach,to penetrate
 攻め寄せる,攻寄せる,せめよせる,to make an onslaught,to close in
 空梅雨,カラ梅雨,からつゆ,dry rainy season
@@ -67501,7 +67501,7 @@
 七三,しちさん,seven-to-three ratio,70-30 split,70-30 hair part,hairstyle with hair parted in a 70-30 ratio
 七生報国,しちしょうほうこく,unfailing devotion to one's country,serving one's country for seven lives
 七色唐辛子,七色とうがらし,なないろとうがらし,blend of seven spices
-七光,七光り,ななひかり,benefiting from the influence of a master or parent
+七光り,七光,ななひかり,benefiting from the influence of a master or parent
 七草粥,七草がゆ,七種粥,七種がゆ,ななくさがゆ,rice gruel traditionally eaten on the 7th day of the new year containing the seven plants of spring
 七星瓢虫,七星天道,ナナホシテントウ,ななほしてんとう,seven-spotted ladybug,seven-spot ladybird
 七難,しちなん,the Seven Misfortunes,great number of faults or defects
@@ -75593,7 +75593,7 @@
 高吟,こうぎん,loud recitation,poems
 高利,こうり,high interest rate
 高足,こうそく,best student,leading disciple
-高足蟹,高脚蟹,たかあしがに,giant spider crab
+高足蟹,高脚蟹,タカアシガニ,たかあしがに,Japanese spider crab,giant spider crab
 高枕,たかまくら,high pillow
 高飛び,たかとび,fleeing,absconding,running away,flying high,jumping high
 高飛び込み,高飛込み,高飛びこみ,たかとびこみ,high dive,high diving
@@ -79290,7 +79290,7 @@
 打ち沈む,うちしずむ,to be depressed
 打って変わる,うって変わる,うってかわる,to change completely,to change suddenly
 打ち負かす,打負かす,うちまかす,to defeat
-打ち倒す,うちたおす,to knock down,to defeat
+打ち倒す,打倒す,うちたおす,to knock down,to defeat
 打ち連れる,うち連れる,うちつれる,to go along with
 打ち掛かる,うちかかる,to strike
 打ち捨てる,うち捨てる,打ち棄てる,打捨る,打捨てる,うち棄てる,打棄てる,うちすてる,to throw away,to abandon
@@ -127187,7 +127187,7 @@
 隙間市場,すき間市場,すきましじょう,niche market
 計測器,けいそくき,measuring instrument,instrumentation
 放射線発生装置,ほうしゃせんはっせいそうち,radiation generator
-癜風,でんぷう,tinea versicolor
+癜風,でんぷう,tinea versicolor,pityriasis versicolor,chromophytosis
 にょっきり,にょきり,sticking out prominently,rising up
 クラリティー,クラリティ,clarity
 エコカー,eco-car
@@ -211400,7 +211400,7 @@
 サイバーパトロール,サイバー・パトロール,cyber patrol
 ダークパターン,ダーク・パターン,dark pattern
 仏頭,ぶっとう,Buddha's head,head of a Buddha statue
-運転中,うんてんちゅう,while driving,in operation,under way,on stream
+運転中,うんてんちゅう,while driving,currently driving,in operation,under way,on stream
 赤口日,しゃっくにち,しやくこうにち,unlucky day
 グルカ兵,グルカへい,Ghurka
 非決定論的,ひけっていろんてき,non-deterministic
@@ -211413,16 +211413,22 @@
 閻浮檀金,えんぶだごん,えんぶたんごん,pure gold,gold from the river running through the groves of Jambu trees
 如実に,にょじつに,true to life,as things really are,realistically,vividly
 天馬座,てんばざ,Pegasus,the Winged Horse
+旄牛,犛牛,ぼうぎゅう,yak
 二才,二歳,2才,2歳,にさい,two-year-old,two year old
 三歳,三才,3歳,3才,さんさい,three-year-old,three year old
-四歳,四才,4歳,4才,よんさい,four-year-old,four year old
+四歳,四才,４歳,４才,よんさい,four-year-old,four year old
 五歳,五才,5歳,5才,ごさい,five-year-old,five year old
 六歳,六才,6歳,6才,ろくさい,six-year-old,six year old
 七歳,七才,7歳,7才,ななさい,seven-year-old,seven year old
 八歳,八才,8歳,8才,はっさい,eight-year-old,eight year old
 九歳,九才,9歳,9才,きゅうさい,nine-year-old,nine year old
+戸籍統一文字,こせきとういつもじ,koseki unified characters,set of characters approved for use in family names
 無賃送還,むちんそうかん,free-of-charge return trip
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-06
+忙しいふり,忙しい振り,いそがしいふり,appearing to be busy,pretending to be busy,busying oneself with menial tasks
+処女生殖,しょじょせいしょく,parthenogenesis
+帰真,きしん,returning to the true self,death
+イソップ寓話,イソップぐうわ,Aesop's Fables
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-07
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
