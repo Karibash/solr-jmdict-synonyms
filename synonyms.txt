@@ -728,7 +728,7 @@
 でも,but,however,though,nevertheless,still,yet,even so,also,as well,even,however,no matter how,even if,even though,or something,either  or,neither  nor,pseudo-,quack,in-name-only,for lack of anything better to do
 でれっと,slack,slovenly,lackadaisical,moonstruck,love-struck,spoony
 デレデレ,でれでれ,idling,lazing,slovenly,flirting,philandering,womanizing,being lovestruck,fawning,mooning
-と,if,when,and,with,used for quoting,promoted pawn,indicates a question
+と,if,when,and,as well as,with,together with,accompanied by,used for quoting,when,once,with,against,to,indicates manner of action,forms an adverb of manner,with,to,from,than,when,as,as soon as,upon,the moment that,after,as,to,marks the outcome of a change,marks the result of an action,what's this?,what do you mean ?,how can you,I think,I guess,it's that,you mean?,you're saying?,right,OK,there,let's see,check,be it  or,no matter,indicates the order something is done in,even,than,as much as,within,like,as,then,and,thereupon,whereupon,indicates a question
 と言うのは,というのは,because,for,the reason being,as for,when it comes to,regarding,how about
 と言うもの,という物,と言う物,というもの,something like,something called
 とか,and the like,such as,among other things,and so on,or something,something like,a,I hear that,people say that,rumour has it that,or something,something like,or whatever
@@ -13486,7 +13486,7 @@
 悪弊,あくへい,corrupt practice,evil practice,bad custom,abuse,evil ways
 悪法,あくほう,bad law,evil ways,evil way of doing things
 悪魔,あくま,devil,demon,fiend,Satan,the Devil,Māra,evil spirits or forces that hinder one's path to enlightenment
-悪魔払い,あくまばらい,exorcism
+悪魔祓い,悪魔払い,あくまばらい,あくまはらい,exorcism
 悪夢,あくむ,nightmare,bad dream
 悪役,あくやく,villain,baddie,the villain's part
 悪友,あくゆう,undesirable friend,bad company,bad companion,bad influence,partner-in-crime,close friend,buddy
@@ -23390,7 +23390,7 @@
 月例,げつれい,monthly
 月例会,げつれいかい,monthly meeting
 月齢,げつれい,age of the Moon,number of days since the new moon,age in months
-件,くだん,the aforementioned,the said,in question,the above-mentioned,the aforesaid,the usual
+件,くだん,the aforementioned,the said,in question,the above-mentioned,the aforesaid,the usual,kudan,yōkai resembling a human-headed bovine, said to prophesize misfortune or bountiful harvest
 件,けん,matter,affair,case,item,subject,counter for  emails, text messages, voicemail messages, etc.,counter for accounts
 件数,けんすう,number of cases, incidents, items, messages, accounts, etc.
 件名,けんめい,subject,title,subject,subject line
@@ -113230,7 +113230,7 @@
 礼奉公,れいぼうこう,free service after one has finished one's apprenticeship
 名披露目,名広め,なびろめ,announcing the succession to another's stage name
 此の中,このじゅう,recently,not long ago,for a while recently,all the while recently
-この内,この中,このうち,このなか,among these,between these,of these,in here,in this
+この内,このうち,among these,between these,of these
 蘭語,らんご,Dutch
 里帰り展,さとがえりてん,exhibition of returned works
 展,てん,exhibition,exhibit
@@ -211277,6 +211277,8 @@
 だがしかし,but,however,yet
 コビトジャコウネズミ,Etruscan shrew,Etruscan pygmy shrew,white-toothed pygmy shrew,Savi's pygmy shrew
 アフリカオオノガン,kori bustard
+ニシハイイロペリカン,Dalmatian pelican,curly-headed pelican
+ホッキョクジリス,arctic ground squirrel
 イワリス,Père David's rock squirrel,Chinese rock squirrel
 野犬,ノイヌ,のいぬ,feral dog
 日本海驢,ニホンアシカ,にほんあしか,Japanese sea lion
@@ -211402,6 +211404,7 @@
 仏頭,ぶっとう,Buddha's head,head of a Buddha statue
 運転中,うんてんちゅう,while driving,currently driving,in operation,under way,on stream
 赤口日,しゃっくにち,しやくこうにち,unlucky day
+この中,このなか,inside this,in this,in here,among these,of this group,out of these
 グルカ兵,グルカへい,Ghurka
 非決定論的,ひけっていろんてき,non-deterministic
 鉄艦,てっかん,armored ship,armoured ship
@@ -211427,8 +211430,13 @@
 忙しいふり,忙しい振り,いそがしいふり,appearing to be busy,pretending to be busy,busying oneself with menial tasks
 処女生殖,しょじょせいしょく,parthenogenesis
 帰真,きしん,returning to the true self,death
+と,promoted pawn
 イソップ寓話,イソップぐうわ,Aesop's Fables
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-07
+大っきな,おっきな,big,large,great
+サイレース,Silece
+柳条湖事件,柳条溝事件,りゅうじょうこじけん,りゅうじょうこうじけん,Liutiaohu Incident
+バイレイシャル,biracial
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-08
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
