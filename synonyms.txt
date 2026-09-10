@@ -16584,7 +16584,7 @@
 下士,かし,non-commissioned officer,low-ranking samurai
 下士官,かしかん,non-commissioned officer,petty officer
 下士官兵,かしかんへい,enlisted man
-下糸入れ,したいといれ,shuttle
+下糸入れ,したいといれ,shuttle,bobbin threading
 下肢,かし,lower limbs,legs
 下賜,かし,grant,bestowal,giving something to someone of low social standing
 下歯,したば,lower teeth
@@ -54555,7 +54555,7 @@
 地境,じざかい,ちきょう,land border,boundary
 弛緩,しかん,ちかん,relaxation,becoming flaccid
 築城,ちくじょう,castle construction,building a castle,fortification
-茶店,さてん,ちゃみせ,tea house
+茶店,ちゃみせ,さてん,tea house,wayside tea stall,coffee shop,kissaten
 中くらい,中ぐらい,中位,ちゅうくらい,ちゅうぐらい,medium,middle,average
 中指,なかゆび,ちゅうし,middle finger,long finger,second finger,tall finger,middle toe,third toe
 中風,ちゅうふう,ちゅうぶ,ちゅうぶう,ちゅうふ,palsy,paralysis
@@ -211449,7 +211449,7 @@
 匐枝,ふくし,stolon,runner
 玉無し,玉なし,たまなし,spineless,cowardly,lacking balls,spoiled,spoilt,ruined,wasted,messed up,destroyed,nothing
 複背斜,ふくはいしゃ,anticlinorium
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-09
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-10
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -213353,6 +213353,7 @@
 原子力燃料公社,げんしりょくねんりょうこうしゃ,Atomic Fuel Corporation
 原子力発電運転協会,げんしりょくはつでんうんてんきょうかい,Institute of Nuclear Power Operations
 原子力発電環境整備機構,げんしりょくはつでんかんきょうせいびきこう,Nuclear Waste Management Organization of Japan,NUMO
+原宿,はらじゅく,Harajuku,Harajuku urban area,Harajuku
 原美術館,はらびじゅつかん,Hara Museum of Contemporary Art
 幻冬舎,げんとうしゃ,Gentosha Inc.
 玄洋社,げんようしゃ,Dark Ocean Society,Black Ocean Society
