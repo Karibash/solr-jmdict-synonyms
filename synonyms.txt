@@ -6717,7 +6717,7 @@
 タール,tar
 ターン,turn,turn,turn
 タイ,tie,necktie,tie,draw,tied score,tie
-タイアップ,tie-in,collaboration,partnership,cooperation
+タイアップ,tie-up,tie-in,collaboration,partnership,cooperation
 タイゲーム,タイ・ゲーム,tie game,tied game,drawn game
 タイツ,tights,pantyhose
 タイト,tight,close-fitting,snug,packed,tight,scarce,in short supply,tight skirt,straight skirt
@@ -8252,7 +8252,7 @@
 ノークラッチ,ノー・クラッチ,automatic transmission
 ノーコメント,ノー・コメント,no comment
 ノーサイド,ノー・サイド,no side,full time,end of game,post-fight mutual praise,reconciling
-ノーサンキュー,ノー・サンキュー,No, thank you
+ノーサンキュー,ノー・サンキュー,ノーセンキュー,ノーサンキュ,ノーセンキュ,no, thank you
 ノース,north
 ノースウェスタン,northwestern
 ノースウェスト準州,ノースウエスト準州,ノースウェストじゅんしゅう,Northwest Territories
@@ -42114,7 +42114,7 @@
 頭目,とうもく,chief,head,leader
 頭虱,頭じらみ,あたまじらみ,アタマジラミ,head louse,head lice
 騰貴,とうき,rise,appreciation,advance
-闘気,とうき,fighting spirit
+闘気,とうき,fighting spirit,battle aura,combative spirit
 闘技,とうぎ,competition,contest
 闘技場,とうぎじょう,arena
 闘牛,とうぎゅう,bullfighting,bullfight,fighting bull
@@ -48803,7 +48803,7 @@
 防長官,ぼうちょうかん,Secretary of Defence
 防毒,ぼうどく,gasproofing
 防毒面,ぼうどくめん,gas mask
-防波堤,ぼうはてい,breakwater,mole
+防波堤,ぼうはてい,breakwater,mole,seawall,bulwark,shield,protective barrier,measure
 防犯,ぼうはん,prevention of crime,security
 防備,ぼうび,defense,defence,defensive preparations
 防腐,ぼうふ,preservation from decay,prevention of putrefaction,embalmment,antisepsis
@@ -54972,7 +54972,7 @@
 釉薬,釉,上薬,うわ薬,上釉,うわぐすり,ゆうやく,ゆう,glaze,enamel
 鮠,鰷,はや,はえ,はい,minnow,shinner
 合い印,合印,あいいん,verification seal,tally
-合鍵,合い鍵,合カギ,あいかぎ,duplicate key,master key,passkey,skeleton key
+合鍵,合い鍵,合カギ,合かぎ,合いカギ,合いかぎ,あいかぎ,duplicate key,master key,passkey,skeleton key
 合鴨,間鴨,あいがも,アイガモ,cross between a mallard and domestic duck
 合気道,合氣道,あいきどう,aikido
 合言葉,合い言葉,合い詞,合いことば,あいことば,password,watchword,motto,slogan
@@ -86140,7 +86140,7 @@
 捜査陣,そうさじん,criminal investigation squad
 掃除当番,そうじとうばん,one's turn for doing the sweeping
 操作盤,そうさばん,control board,control panel,console
-早期発見,そうきはっけん,early detection
+早期発見,そうきはっけん,early detection,early diagnosis
 相互関係,そうごかんけい,mutual relationship,interrelationship,interaction
 相互参照,そうごさんしょう,cross-reference
 相似点,そうじてん,point of likeness,resemblance,similarity
@@ -141920,7 +141920,7 @@
 干物女,ひものおんな,young woman who has given up on love
 ドラグーン,dragoon
 尾黒目白鮫,オグロメジロザメ,おぐろめじろざめ,grey reef shark,gray reef shark,blacktail reef shark
-波止,波戸,はと,breakwater,seawall,bulwark,mole,narrow stone structure for breaking incoming waves and loading goods on and off ships
+波止,波戸,はと,breakwater,mole,seawall
 鬼カサゴ,おにカサゴ,オニカサゴ,scorpionfish,hairy stingfish
 弔花,ちょうか,funeral flowers
 厚底靴,あつぞこぐつ,あつぞこくつ,platform shoes,thick-soled shoes
@@ -182361,7 +182361,7 @@
 アレンレンチ,アレン・レンチ,Allen wrench,Allen key,hex key
 馬力荷重,ばりきかじゅう,power loading,weight per horsepower
 体がもたない,体が持たない,からだがもたない,unable to stay healthy,ruining one's health,exceeding the limits of one's body
-おむつ交換台,オムツ交換台,おむつこうかんだい,オムツこうかんだい,diaper changing station,nappy changing stand
+おむつ交換台,オムツ交換台,おむつこうかんだい,diaper changing station,nappy changing stand
 これ以上,これいじょう,any more,anymore,any further,any better,any longer
 時間をとる,時間を取る,じかんをとる,to take the time,to set aside time
 旨趣,ししゅ,しいしゅ,objective,purport,intent
@@ -211449,7 +211449,13 @@
 匐枝,ふくし,stolon,runner
 玉無し,玉なし,たまなし,spineless,cowardly,lacking balls,spoiled,spoilt,ruined,wasted,messed up,destroyed,nothing
 複背斜,ふくはいしゃ,anticlinorium
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-10
+雛桔梗,ヒナギキョウ,ひなぎきょう,southern rockbell,Asiatic bellflower
+アルコキシド,alkoxide
+と良いけど,といいけど,hope that,hopefully
+事前指示書,じぜんしじしょ,advance directive
+マイクロカセット,microcassette
+ミニカセット,minicassette
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-11
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
