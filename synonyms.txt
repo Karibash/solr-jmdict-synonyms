@@ -222,7 +222,7 @@
 お返し,御返し,おかえし,return gift,return favour,revenge,change
 お母さん,御母さん,おかあさん,おかーさん,mother,mom,mum,ma,wife,you,she,her
 お母様,お母さま,御母様,おかあさま,mother
-お坊ちゃん,お坊っちゃん,御坊ちゃん,御坊っちゃん,おぼっちゃん,son,boy,young master,green young man from a well-to-do family,young man innocent of the ways of the world
+お坊ちゃん,お坊っちゃん,御坊ちゃん,御坊っちゃん,おぼっちゃん,son,boy,young master,young man innocent of the ways of the world,man of pampered upbringing,greenhorn,silver-spoon kid
 お墨付き,お墨つき,御墨付き,お墨付,おすみつき,certificate,certified document,authorization,authorisation,thumbs up,seal of approval,paper with signature of the shogun or lord
 お盆,御盆,おぼん,Obon,Bon Festival,Buddhist festival for honouring the spirits of one's ancestors, held in mid-August or in some regions, mid-July,tray
 お餅,御餅,おもち,mochi,small rice cake made from glutinous rice
@@ -10501,7 +10501,7 @@
 ヘッジング,hedging
 ヘッダー,ヘッダ,header
 ヘッディング開始,ヘッディングかいし,start of heading,start of header,SOH
-ヘッド,head
+ヘッド,head,tip,head,end,point,boss,head,leader,header,heading,tape head,magnetic head,heading,header,head,headline
 ヘッドアップ,ヘッド・アップ,looking up while hitting the ball,keeping one's chin up and not looking at the ball while hitting it
 ヘッドギア,headgear
 ヘッドコーチ,ヘッド・コーチ,head coach
@@ -40597,7 +40597,7 @@
 偵察隊,ていさつたい,scouting party,patrol
 偵知,ていち,spying out,discovering
 剃上げ額,すりあげびたい,high and broad forehead
-剃刀,かみそり,カミソリ,かみすり,そり,razor
+剃刀,かみそり,カミソリ,かみすり,razor,razor-sharp,keen,astute,sharp,quick,astute person,person of keen intellect
 剃刀研ぎ,かみそりとぎ,one who sharpens razors
 剃刀気触れ,かみそりかぶれ,razor burn,razor rash
 剃刀砥,かみそりど,razor strop,hone
@@ -88238,7 +88238,6 @@
 ソルビン酸,ソルビンさん,sorbic acid
 タール色素,タールしきそ,tar dye
 ターンキー方式輸出,ターンキーほうしきゆしゅつ,turnkey export
-タイアップ番組,タイアップばんぐみ,tie-up program,tie-up programme
 タスマニア狼,タスマニアおおかみ,Tasmanian wolf
 タバコモザイク病,タバコ・モザイク病,タバコモザイクびょう,tobacco mosaic
 タレット旋盤,タレットせんばん,turret lathe
@@ -211195,7 +211194,7 @@
 翼指竜亜目,よくしりゅうるい,Pterodactyloidea
 鳥中足骨類,とりちゅうそくこつるい,avemetatarsalians
 上火,うわび,heat applied from above,overhead heat,upper oven temperature in baking
-カストロカウダ,castorocauda
+カストロカウダ,Castorocauda
 触毛,しょくもう,vibrissa,tactile hair
 ハーダー腺,ハーダーせん,Harderian gland
 クラウングループ,クラウン・グループ,crown group
@@ -211455,7 +211454,13 @@
 事前指示書,じぜんしじしょ,advance directive
 マイクロカセット,microcassette
 ミニカセット,minicassette
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-11
+出欠席,しゅっけっせき,presence and absence,attendance and non-attendance
+顔ない,顔無い,かおない,embarrassed,shocked,unable to face,distressed,worried
+きまZ,きまゼット,きまズィー,awkward
+硝子体黄斑牽引症候群,しょうしたいおうはんけんいんしょうこうぐん,vitreomacular traction syndrome
+黄斑牽引,おうはんけんいん,macular traction
+研練,研錬,けんれん,training,practice,drilling,honing,cultivation,improvement
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-12
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
