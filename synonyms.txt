@@ -12617,7 +12617,7 @@
 リバプールサウンド,リバプール・サウンド,British beat,Merseybeat
 リパブリック,republic
 リビジョン,リヴィジョン,revision
-リビドー,libido
+リビドー,リビド,libido
 リビング,living,lifestyle,living room
 リビングキッチン,リビング・キッチン,living-room plus kitchen
 リビングストック,リビング・ストック,living stock
@@ -25181,7 +25181,7 @@
 公憤,こうふん,public indignation,anger
 公文,こうぶん,official document,archives
 公文書,こうぶんしょ,official document,archives
-公平,こうへい,fairness,impartiality,justice,objectivity
+公平,こうへい,fair,impartial,just,objective,disinterested,unprejudiced,fairness,impartiality,justice
 公平政策,こうへいせいさく,fair deal
 公平無私,こうへいむし,impartiality,fair play
 公辺,こうへん,public ceremonies,public affairs
@@ -40603,7 +40603,6 @@
 剃刀砥,かみそりど,razor strop,hone
 カミソリ負け,かみそり負け,剃刀負け,かみそりまけ,razor burn,razor rash,razor cut
 剃髪,ていはつ,shaving one's head,tonsure
-貞はる,さだはる,to harp too long on a subject
 貞潔,ていけつ,chastity,purity
 貞淑,ていしゅく,chastity,virtue,fidelity,feminine modesty
 貞女,ていじょ,virtuous woman,faithful wife
@@ -44820,7 +44819,7 @@
 半月刊,はんげっかん,semimonthly
 半減,はんげん,reduction by half,halving
 半減期,はんげんき,half life
-半股引き,はんももひき,knee underwear
+半股引き,はんももひき,knee-length underwear,half-length trousers
 半口,はんくち,half share
 半国,はんごく,half a kuni
 半作,はんさく,half crop
@@ -76594,7 +76593,7 @@
 濡れ事,濡事,ぬれごと,love affair,romance,love scene
 濡れ事師,ぬれごとし,romantic lead,philanderer
 濡れ場,濡場,ぬれ場,ぬれば,love scene,bedroom scene,sex scene
-濡れ鼠,ぬれねずみ,soaked to the skin,like a drowned rat
+濡れ鼠,濡れねずみ,ぬれねずみ,soaked to the skin,like a drowned rat
 濡れ髪,濡髪,ぬれがみ,newly washed hair,wet hair
 濡れ縁,ぬれ縁,濡縁,ぬれえん,open veranda,open verandah
 繻子織り,繻子織,しゅすおり,satin weave
@@ -80759,7 +80758,7 @@
 強硬策,きょうこうさく,hard-line policy,tough measure
 強硬論,きょうこうろん,hard line
 経史,けいし,Chinese classics
-喬志,きょうし,pride,self-conceit
+喬志,驕志,きょうし,pride,self-conceit,arrogance
 向いている,むいている,to be cut out for,to be suited
 挟書,きょうしょ,possession of books
 競翔,きょうしょう,flying race
@@ -146922,7 +146921,6 @@
 副睾丸,ふくこうがん,epididymis
 大陰唇,だいいんしん,labia majora
 小陰唇,しょういんしん,labia minora
-性器的性格,せいきてきせいかく,genital character
 口唇性格,こうしんせいかく,oral character
 肛門性格,こうもんせいかく,anal character
 ジャパニーズボブテイル,ジャパニーズ・ボブテイル,ジャパニーズボブテール,Japanese bobtail
@@ -211445,6 +211443,7 @@
 サイレース,Silece
 柳条湖事件,柳条溝事件,りゅうじょうこじけん,りゅうじょうこうじけん,Liutiaohu Incident
 バイレイシャル,biracial
+レイシャル,レーシャル,racial
 匐枝,ふくし,stolon,runner
 玉無し,玉なし,たまなし,spineless,cowardly,lacking balls,spoiled,spoilt,ruined,wasted,messed up,destroyed,nothing
 複背斜,ふくはいしゃ,anticlinorium
@@ -211454,13 +211453,20 @@
 事前指示書,じぜんしじしょ,advance directive
 マイクロカセット,microcassette
 ミニカセット,minicassette
+空更新,からこうしん,dummy update,null update
 出欠席,しゅっけっせき,presence and absence,attendance and non-attendance
 顔ない,顔無い,かおない,embarrassed,shocked,unable to face,distressed,worried
-きまZ,きまゼット,きまズィー,awkward
+きまＺ,気まＺ,きまゼット,きまズィー,awkward,uncomfortable,unpleasant,embarrassing
 硝子体黄斑牽引症候群,しょうしたいおうはんけんいんしょうこうぐん,vitreomacular traction syndrome
 黄斑牽引,おうはんけんいん,macular traction
 研練,研錬,けんれん,training,practice,drilling,honing,cultivation,improvement
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-12
+険道,けんどう,road in poor condition
+ＡＩスロップ,エーアイスロップ,AI slop
+スロップ,slop,low-quality, worthless information,slop,mud,slush,liquid food waste
+生成人工知能,せいせいじんこうちのう,generative AI,generative artificial intelligence
+スーパーエゴ,スーパー・エゴ,superego
+逆転移,ぎゃくてんい,countertransference
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-13
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -214792,7 +214798,7 @@
 朝日,あさひ,Asahi
 朝日信用金庫,あさひしんようきんこ,Asahi Shinkin Bank
 朝日新聞,あさひしんぶん,Asahi Shimbun
-朝日新聞社,あさひしんぶんしゃ,The Asahai Shimbun Company
+朝日新聞社,あさひしんぶんしゃ,The Asahi Shimbun Company
 朝日生命保険,あさひせいめいほけん,Asahi Life Insurance
 朝日大学,あさひだいがく,Asahi University
 朝日放送,あさひほうそう,Asahi Broadcasting Corporation
