@@ -2280,7 +2280,7 @@
 ウォーキングディクショナリー,ウオーキングディクショナリー,ウォーキング・ディクショナリー,ウオーキング・ディクショナリー,walking dictionary
 ウォークスルー,ウォーク・スルー,walk through
 ウォークライ,ウォー・クライ,ウオークライ,war cry
-ウォークラリー,ウォーク・ラリー,walk rally
+ウォークラリー,ウォーク・ラリー,race event in which participants walk around a designated course visiting checkpoints and answering questions
 ウォーゲーム,ウォー・ゲーム,war game
 ウォーターカラー,watercolor,watercolour
 ウォータークーラー,ウオータークーラー,ウォーター・クーラー,ウオーター・クーラー,watercooler,water cooler
@@ -2535,7 +2535,7 @@
 エディティング,editing
 エディトリアル,editorial
 エディトリアルデザイン,エディトリアル・デザイン,editorial design
-エディプスコンプレックス,エディプス・コンプレックス,Oedipus complex,sexual attraction to one's mother
+エディプスコンプレックス,エディプス・コンプレックス,Oedipus complex
 エジンバラ,エディンバラ,Edinburgh
 エデュケーション,エジュケーション,エデュケイション,エディケーション,education
 エデン,Eden
@@ -4199,7 +4199,7 @@
 グロッサリー,グロサリー,glossary
 グロテスク,グロテクス,grotesque,bizarre,weird,strange,grotesque
 グロリア,グローリア,Gloria
-ケーオー,KO,knock-out
+ＫＯ,ケー・オー,ケーオー,KO,knock-out
 ケーキ,cake
 ケージ,cage
 ケース,case,case,case
@@ -20552,7 +20552,7 @@
 喫煙,喫烟,きつえん,smoking
 喫煙者,きつえんしゃ,smoker
 喫水線,吃水線,きっすいせん,waterline
-喫茶,きっさ,tea drinking,teahouse,tearoom,coffee lounge,coffee shop,cafe
+喫茶,きっさ,きっちゃ,tea drinking,teahouse,tearoom,coffee lounge,coffee shop,cafe
 喫茶店,きっさてん,きっちゃてん,coffee shop,tearoom,coffee lounge,coffeehouse,cafe,kissaten,traditional type of coffee shop with a retro atmosphere
 桔梗,ききょう,キキョウ,Chinese bellflower
 橘,たちばな,タチバナ,tachibana orange
@@ -51363,7 +51363,7 @@
 養母,ようぼ,foster mother,adoptive mother
 養老院,ようろういん,home for the aged,old people's home
 養老年金,ようろうねんきん,old age pension
-抑圧,よくあつ,check,restraint,oppression,suppression
+抑圧,よくあつ,check,restraint,oppression,suppression,repression
 抑止,よくし,keeping in check,holding back,deterrence,restraint,suppression
 抑制,よくせい,control,restraint,suppression,constraint,curtailment,inhibition,check,curb
 抑揚,よくよう,intonation,accent,modulation,inflection
@@ -69465,7 +69465,7 @@
 焼き串,焼串,やきぐし,skewer,spit
 焼却炉,しょうきゃくろ,incinerator
 焼き戻し,焼戻し,やきもどし,tempering,annealing
-焼き海苔,焼海苔,焼きのり,焼のり,やきのり,baked seaweed,toasted seaweed
+焼き海苔,焼のり,焼海苔,焼きのり,やきのり,baked seaweed,toasted seaweed
 焼き栗,焼栗,焼きぐり,やきぐり,roasted chestnuts
 焼け野,やけの,burnt field
 焼け野原,焼野原,やけのはら,burnt field,burnt area,land devastated by fire
@@ -79281,7 +79281,7 @@
 湯がく,湯掻く,茹がく,湯搔く,ゆがく,to parboil,to scald
 詫び入る,わび入る,詫びいる,わびいる,to apologize sincerely,to apologise sincerely
 落ちゆく,落ち行く,落行く,おちゆく,to flee,to take flight,to be ruined,to go down in the world,to settle down
-露知らず,つゆ知らず,つゆしらず,not knowing at all,without the slightest idea,completely unaware
+露知らず,つゆ知らず,つゆ知らぬ,露知らぬ,つゆしらず,not knowing at all,without the slightest idea,completely unaware
 打ち立てる,打ちたてる,うち立てる,打立てる,うちたてる,to establish,to formulate
 打って出る,うってでる,to launch oneself upon,to make one's debut
 打ち払う,打払う,うちはらう,to brush away,to sweep aside,to repel,to drive away,to rout
@@ -129412,7 +129412,7 @@
 ものは考えよう,物は考えよう,物は考え様,ものはかんがえよう,things depend on how you look at them
 物は使いよう,ものは使いよう,物は使い様,ものはつかいよう,things depend on how you use them,all things have their uses when they are used in the right way
 ものは試し,物は試し,ものはためし,the proof of the pudding is in the eating,the proof is in the pudding,don't knock it till you've tried it,you can't tell unless you try
-ものは相談,物は相談,ものはそうだん,a wise man is he who listens to counsel,a worry shared is a worry halved,I've got something to ask you
+ものは相談,物は相談,ものはそうだん,a wise man is he who listens to counsel,a worry shared is a worry halved,I've got something to ask of you
 物も言い様,物も言いよう,ものも言いよう,ものもいいよう,be careful what you say,consider your words
 物も言い様で角が立つ,物も言いようで角が立つ,ものもいいようでかどがたつ,harsh words make the going rough,consider your words,people may be offended  by the way you speak
 物言えば唇寒し秋の風,ものいえばくちびるさむしあきのかぜ,silence is golden
@@ -146921,6 +146921,7 @@
 副睾丸,ふくこうがん,epididymis
 大陰唇,だいいんしん,labia majora
 小陰唇,しょういんしん,labia minora
+性器的性格,せいきてきせいかく,genital character
 口唇性格,こうしんせいかく,oral character
 肛門性格,こうもんせいかく,anal character
 ジャパニーズボブテイル,ジャパニーズ・ボブテイル,ジャパニーズボブテール,Japanese bobtail
@@ -161365,7 +161366,7 @@
 生合成,せいごうせい,biosynthesis
 公益財団,こうえきざいだん,public utility foundation
 額を寄せ合う,ひたいをよせあう,to put heads together,to gather,to go into a huddle
-十歳,十才,10歳,10才,じゅっさい,じっさい,ten-year-old,ten year old
+十歳,十才,１０歳,１０才,じゅっさい,じっさい,ten-year-old,ten year old
 関連度,かんれんど,degree of association,relevance ratio
 製糸工場,せいしこうじょう,spinning mill,filature,thread-manufacturing plant,silk mill
 とばっちりを食う,とばっちりをくう,to be struck by a chance blow,to be embroiled in,to be caught up in,to be dragged into
@@ -192054,7 +192055,7 @@
 ギグワーカー,ギグ・ワーカー,gig worker
 鼻マスク,はなマスク,wearing a  mask below one's nose
 ギルトフリー,guilt-free
-ライバー,streamer
+ライバー,streamer,livestreamer
 バイラル,viral,viral
 乱数発生器,らんすうはっせいき,random number generator
 合トレ,ごうトレ,working out together
@@ -211424,14 +211425,14 @@
 如実に,にょじつに,true to life,as things really are,realistically,vividly
 天馬座,てんばざ,Pegasus,the Winged Horse
 旄牛,犛牛,ぼうぎゅう,yak
-二才,二歳,2才,2歳,にさい,two-year-old,two year old
-三歳,三才,3歳,3才,さんさい,three-year-old,three year old
+二才,二歳,２才,２歳,にさい,two-year-old,two year old
+三歳,三才,３歳,３才,さんさい,three-year-old,three year old
 四歳,四才,４歳,４才,よんさい,four-year-old,four year old
-五歳,五才,5歳,5才,ごさい,five-year-old,five year old
-六歳,六才,6歳,6才,ろくさい,six-year-old,six year old
-七歳,七才,7歳,7才,ななさい,seven-year-old,seven year old
-八歳,八才,8歳,8才,はっさい,eight-year-old,eight year old
-九歳,九才,9歳,9才,きゅうさい,nine-year-old,nine year old
+五歳,五才,５歳,５才,ごさい,five-year-old,five year old
+六歳,六才,６歳,６才,ろくさい,six-year-old,six year old
+七歳,七才,７歳,７才,ななさい,seven-year-old,seven year old
+八歳,八才,８歳,８才,はっさい,eight-year-old,eight year old
+九歳,九才,９歳,９才,きゅうさい,nine-year-old,nine year old
 戸籍統一文字,こせきとういつもじ,koseki unified characters,set of characters approved for use in family names
 無賃送還,むちんそうかん,free-of-charge return trip
 忙しいふり,忙しい振り,いそがしいふり,appearing to be busy,pretending to be busy,busying oneself with menial tasks
@@ -211449,7 +211450,8 @@
 複背斜,ふくはいしゃ,anticlinorium
 雛桔梗,ヒナギキョウ,ひなぎきょう,southern rockbell,Asiatic bellflower
 アルコキシド,alkoxide
-と良いけど,といいけど,hope that,hopefully
+身の程を知れ,身の程知れ,みのほどをしれ,know your place!,know your station!,don't overestimate yourself!
+と良い,といい,hope that,wish,it'd be good if
 事前指示書,じぜんしじしょ,advance directive
 マイクロカセット,microcassette
 ミニカセット,minicassette
@@ -211466,7 +211468,10 @@
 生成人工知能,せいせいじんこうちのう,generative AI,generative artificial intelligence
 スーパーエゴ,スーパー・エゴ,superego
 逆転移,ぎゃくてんい,countertransference
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-13
+ゴールマウス,goalmouth,area directly in front of the goal
+セーヴィングスロー,セーヴィング・スロー,saving throw
+アーマークラス,アーマー・クラス,armor class
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-14
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
