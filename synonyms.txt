@@ -10926,7 +10926,7 @@
 ホワイトスペース,ホワイト・スペース,white space
 ホワイトソース,ホワイト・ソース,white sauce,béchamel sauce
 ホワイトタイ,ホワイト・タイ,white tie
-ホワイトデー,ホワイトデイ,ホワイト・デー,ホワイト・デイ,White Day,day for giving white chocolate and other presents to female coworkers and friends in return for gifts received on Valentine's day
+ホワイトデー,ホワイト・デー,ホワイトデイ,ホワイト・デイ,White Day,day for giving white chocolate and other presents to female coworkers and friends in return for gifts received on Valentine's day
 ホワイトノイズ,ホワイト・ノイズ,white noise
 ホワイトハウス,ホワイト・ハウス,White House
 ホワイトペッパー,ホワイト・ペッパー,white pepper
@@ -31346,7 +31346,7 @@
 出迎え,出むかえ,でむかえ,,meeting,picking up,welcoming
 出迎える,でむかえる,to meet,to greet
 出撃,しゅつげき,sortie,sally,attack
-出欠,しゅっけつ,attendance or absence
+出欠,しゅっけつ,attendance,presence and absence,attendance and non-attendance
 出血,しゅっけつ,bleeding,haemorrhage,hemorrhage,bleeding money,red ink,selling below cost,casualties,losses,sacrifices
 出血過多,しゅっけつかた,excessive bleeding
 出血死,しゅっけつし,bleeding to death
@@ -58041,7 +58041,7 @@
 落魄,らくはく,being reduced to poverty,living in poverty,coming down in the world,straitened  circumstances
 落涙,らくるい,shedding tears,lacrimation
 轢断,れきだん,cutting in two under train wheels
-練磨,錬磨,れんま,training,practice,drilling,cultivation,improvement
+練磨,錬磨,れんま,training,practice,drilling,honing,cultivation,improvement
 連破,れんぱ,winning successively,defeating one's enemy in succession
 離縁,りえん,divorce,dissolution of adoption
 輪唱,りんしょう,trolling,singing in a circular canon,round
@@ -211448,6 +211448,7 @@
 匐枝,ふくし,stolon,runner
 玉無し,玉なし,たまなし,spineless,cowardly,lacking balls,spoiled,spoilt,ruined,wasted,messed up,destroyed,nothing
 複背斜,ふくはいしゃ,anticlinorium
+農泊,のうはく,farm stay,rural tourism involving an overnight stay in a farming community
 雛桔梗,ヒナギキョウ,ひなぎきょう,southern rockbell,Asiatic bellflower
 アルコキシド,alkoxide
 身の程を知れ,身の程知れ,みのほどをしれ,know your place!,know your station!,don't overestimate yourself!
@@ -211456,7 +211457,7 @@
 マイクロカセット,microcassette
 ミニカセット,minicassette
 空更新,からこうしん,dummy update,null update
-出欠席,しゅっけっせき,presence and absence,attendance and non-attendance
+出欠席,しゅっけっせき,attendance,presence and absence,attendance and non-attendance
 顔ない,顔無い,かおない,embarrassed,shocked,unable to face,distressed,worried
 きまＺ,気まＺ,きまゼット,きまズィー,awkward,uncomfortable,unpleasant,embarrassing
 硝子体黄斑牽引症候群,しょうしたいおうはんけんいんしょうこうぐん,vitreomacular traction syndrome
@@ -211471,7 +211472,9 @@
 ゴールマウス,goalmouth,area directly in front of the goal
 セーヴィングスロー,セーヴィング・スロー,saving throw
 アーマークラス,アーマー・クラス,armor class
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-14
+日別,ひべつ,にちべつ,by day,daily,day-by-day
+週別,しゅうべつ,by week,weekly,week-by-week
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-15
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
