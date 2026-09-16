@@ -23379,7 +23379,7 @@
 月日,つきひ,time,years,days,life,the Moon and the Sun
 月賦,げっぷ,monthly installment,monthly payment
 月並み,月並,月次,つきなみ,げつじ,every month,trite,commonplace,conventional,hackneyed
-月別,つきべつ,by months
+月別,つきべつ,monthly,month-by-month,by the month
 月報,げっぽう,monthly report
 月末,げつまつ,つきずえ,end of the month
 月明,げつめい,moonlight
@@ -31000,7 +31000,7 @@
 十倍,じゅうばい,ten times,tenfold
 十八,１８,一八,じゅうはち,eighteen,18
 十部門分類法,じゅうぶもんぶんるいほう,Dewey Decimal System
-１０分,十分,じっぷん,じゅっぷん,ten minutes
+１０分,十分,じゅっぷん,じっぷん,ten minutes
 十分,充分,じゅうぶん,enough,sufficient,plenty,adequate,satisfactory,sufficiently,fully,thoroughly,well,perfectly,division into ten
 十分の一,１０分の１,じゅうぶんのいち,tenth,tithe
 十文字,じゅうもんじ,cross,cruciform
@@ -49062,7 +49062,7 @@
 本望,ほんもう,long-cherished desire,satisfaction
 本務,ほんむ,duty,regular business
 本名,ほんみょう,ほんめい,real name
-本命,ほんめい,favorite,favourite,likely winner,one's heart's desire,first choice
+本命,ほんめい,favorite,favourite,likely winner,one's heart's desire,first choice,chocolate given to a man on Valentine's day out of genuine sentiment
 本木,もとき,original stock
 本来,ほんらい,originally,primarily,essentially,intrinsically,naturally,by nature,in  itself,proper,rightful,legal,normal
 本流,ほんりゅう,main course,mainstream,main current
@@ -87452,7 +87452,7 @@
 隊,たい,party,group,crew,team,body,company,corps,unit,squad
 大年増,おおどしま,woman well past her prime,matron well-advanced in age
 丹頂,たんちょう,タンチョウ,red-crowned crane,Japanese crane,red-cap oranda,Tanchō,having a red crest or patch on the head
-団,だん,group,body,party,company,troupe,gang,corps,ring
+団,だん,group,body,party,company,troupe,gang,corps,ring,guild
 宙,ちゅう,space,air,midair,memory,heart
 注ぎ口,注口,つぎ口,つぎくち,つぎぐち,そそぎぐち,spout
 著,ちょ,work,book,by,clearness,obviousness,conspicuousness
@@ -115672,7 +115672,7 @@
 炎,えん,-itis
 コロケーション,collocation
 部分冠詞,ぶぶんかんし,partitive article
-岩飛びペンギン,岩跳びペンギン,岩飛ペンギン,岩跳ペンギン,いわとびペンギン,イワトビペンギン,rockhopper penguin
+岩飛びペンギン,岩跳びペンギン,いわとびペンギン,イワトビペンギン,rockhopper penguin
 ドラセナ,dracaena
 麒麟血,麒麟竭,きりんけつ,キリンケツ,dragon's blood palm,bright red resin used in medicine, dyes, etc.
 竜血樹,りゅうけつじゅ,リュウケツジュ,dragon tree
@@ -128132,7 +128132,7 @@
 継受,けいじゅ,inheritance,taking over
 慣用語法,かんようごほう,idiomatic usage
 正準形式,せいじゅんけいしき,canonical format
-息の長い,いきのながい,lasting,sustained,prolonged,long-winded
+息の長い,息が長い,いきのながい,lasting,sustained,prolonged,long-winded
 息が合う,息があう,いきがあう,to perform in tune with each other,to get along well,to be in perfect harmony,to make a perfect pair
 烏焉魯魚,うえんろぎょ,miswriting a word,using the wrong kanji to write a word
 魯魚の誤り,ろぎょのあやまり,miswriting a word,using the wrong kanji to write a word
@@ -141400,7 +141400,7 @@
 ベニキツネベラ,スポットフィンホッグフィッシュ,spotfin hogfish
 赤坊,アカボウ,あかぼう,Bodianus cylindriatus
 治療者,ちりょうしゃ,healer,clinician,physician,person who gives treatment,therapist
-のしのしと歩く,のしのしとあるく,to walk heavily and clumsily,to lumber
+のっしのっしと歩く,のしのしと歩く,のっしのっしとあるく,のしのしとあるく,to walk heavily and clumsily,to lumber
 丸々太った,丸丸太った,まるまるふとった,rotund,plump,chubby
 のっしのっし,のしのし,ノッシノッシ,ノシノシ,walking heavily,lumbering
 イトヒキアカボウ,Bodianus thoracotaeniatus
@@ -162402,7 +162402,7 @@
 偏微分式,へんびぶんしき,partial differential equation
 土手道,どてみち,causeway,land bridge,path on an embankment
 動粘性係数,どうねんせいけいすう,coefficient of kinematic viscosity,dynamic coefficient of viscosity,kinematic viscosity
-重み付け,おもみづけ,weighting
+重み付け,重みづけ,おもみづけ,weighting
 政治論,せいじろん,political discourse
 支配方程式,しはいほうていしき,governing equation
 気泡核,きほうかく,bubble nucleus
@@ -164098,7 +164098,7 @@
 ウルトラＣ,ウルトラシー,amazing feat,trump card,earth-shattering,very hard C-skill
 時衆,じしゅ,じしゅう,assembly of monks and laity,the Jishū sect
 列を成す,列をなす,れつをなす,to form a line,to queue up,to line up
-喧嘩を買う,けんかを買う,けんかをかう,to get into a fight,to take up the gauntlet,to accept a challenge
+喧嘩を買う,ケンカを買う,けんかを買う,けんかをかう,to get into a fight,to take up the gauntlet,to accept a challenge
 見上げるよう,見上げる様,みあげるよう,towering,astonishingly high
 この世のものとも思えない,この世の物とも思えない,このよのものともおもえない,unearthly,otherworldly,out of this world,ethereal
 未収録,みしゅうろく,not included
@@ -189242,7 +189242,7 @@
 錦を飾る,にしきをかざる,to return home loaded with honors,to return as a hero,to put on fine clothes
 黒つぶれ,くろつぶれ,black crushing,black clipping,loss of dark detail
 カクつき,カクツキ,lag,choppiness
-雲をつかむよう,雲を掴むよう,雲をつかむ様,雲を掴む様,くもをつかむよう,vague,unclear,elusive,hazy
+雲をつかむよう,雲を掴むよう,雲をつかむ様,雲を掴む様,雲を摑むよう,雲を摑む様,くもをつかむよう,vague,unclear,elusive,hazy
 大工仕事,だいくしごと,carpentry,woodworking,woodwork
 満足のいく,満足の行く,満足いく,満足行く,まんぞくのいく,satisfying,pleasing,gratifying
 そりゃそうだ,that's true,of course,obviously
@@ -211474,7 +211474,13 @@
 アーマークラス,アーマー・クラス,armor class
 日別,ひべつ,にちべつ,by day,daily,day-by-day
 週別,しゅうべつ,by week,weekly,week-by-week
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-15
+商人団,しょうにんだん,merchant guild
+商人ギルド,しょうにんギルド,merchant guild
+甘熟,かんじゅく,ripening to sweetness,maturing into sweetness
+へし折れる,圧し折れる,ヘシ折れる,へしおれる,to snap,to break
+息を抜く,いきをぬく,to take a breather,to take a break
+行間を読み取る,行間を読みとる,ぎょうかんをよみとる,to read between the lines
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-16
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
