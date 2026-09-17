@@ -23162,7 +23162,7 @@
 撃つ,射つ,うつ,to shoot,to fire
 撃砕,げきさい,pulverising
 撃退,げきたい,repulse,repelling,driving back
-撃沈,げきちん,,sending  to the bottom
+撃沈,げきちん,,sending  to the bottom,crushing defeat,utter failure,getting shot down,complete exhaustion,collapsing,passing out
 撃墜,げきつい,shooting down
 撃破,げきは,defeating,crushing,smashing,destroying
 撃滅,げきめつ,destruction,annihilation,extermination
@@ -42452,7 +42452,7 @@
 峠を越す,とうげをこす,to pass the peak,to get through the most difficult part,to be over the worst,to cross a pass
 峠道,とうげみち,road over a mountain pass
 匿,とく,shelter,shield,hide
-匿う,匿まう,囲まう,かくまう,to shelter,to harbour,to harbor,to hide,to give refuge to
+匿う,囲まう,匿まう,かくまう,to shelter,to harbour,to harbor,to hide,to give refuge to
 匿名,とくめい,anonymity,using an assumed name
 匿名性,とくめいせい,anonymity
 得,とく,profit,advantage,benefit,gain,rebirth in paradise, entering nirvana
@@ -48401,7 +48401,7 @@
 抱き合う,抱きあう,だき合う,抱合う,だきあう,to embrace each other
 抱き込む,抱込む,だきこむ,to hold in one's arms,to bring over a person to one's side,to involve
 抱き上げる,だきあげる,to hold up in one's arms
-抱き抱える,抱きかかえる,だきかかえる,to hold,to carry,to embrace
+抱きかかえる,抱き抱える,だきかかえる,to hold,to carry,to embrace
 抱きとめる,抱き留める,抱き止める,抱留める,だきとめる,to stop  by throwing one's arms around them,to catch  in one's arms,to hold  back
 抱っこ,だっこ,carrying in one's arms,holding,up!,carry me
 抱負,ほうふ,aspiration,ambition,plan,hopes,wishes
@@ -101977,7 +101977,7 @@
 逆コース,ぎゃくコース,ぎゃっコース,reverse course,reversion
 求肥飴,ぎゅうひあめ,gyūhi-ame,soft Japanese confectionery made with rice flour, somewhat similar to Turkish delight
 求肥,ぎゅうひ,gyūhi,soft Japanese confectionery made with rice flour, somewhat similar to Turkish delight
-御する,馭する,ぎょする,to drive,to control,to manage
+御する,馭する,ぎょする,to drive,to control,to manage,to handle,to govern,to rule
 吟じる,ぎんじる,to chant,to sing,to recite,to write,to compose
 練香,練り香,煉香,煉り香,ねりこう,pastille,round cake of incense, esp. used in incense ceremony
 それはどうかな,I wonder about that,don't bet on it,famous last words
@@ -211480,7 +211480,8 @@
 へし折れる,圧し折れる,ヘシ折れる,へしおれる,to snap,to break
 息を抜く,いきをぬく,to take a breather,to take a break
 行間を読み取る,行間を読みとる,ぎょうかんをよみとる,to read between the lines
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-16
+股割れズボン,またわれズボン,open-crotch pants,split-crotch pants
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-17
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
