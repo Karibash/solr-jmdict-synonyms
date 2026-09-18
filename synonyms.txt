@@ -27013,7 +27013,7 @@
 最近,さいきん,recently,lately,these days,nowadays,right now,nearest,closest
 最恵国待遇,さいけいこくたいぐう,most favored nation treatment,most favoured nation status
 最古,さいこ,the oldest,the earliest
-最後,最后,さいご,end,conclusion,last,final,latest,most recent,once,no sooner  than,the moment,as soon as,right after,one's final moments,one's death,one's end
+最後,最后,さいご,end,conclusion,last,final,latest,most recent,once,the moment,if  occurs,do , and it's all over,should  happen, that's that,one's final moments,one's death,one's end
 最後の晩餐,さいごのばんさん,the Last Supper
 最後まで,さいごまで,to the end,to the last
 最後列車,さいごれっしゃ,last train
@@ -43852,7 +43852,7 @@
 年譜,ねんぷ,chronological record
 年賦,ねんぷ,annual installment,annual instalment
 年分,ねんぶん,yearly amount
-年別,ねんべつ,by years
+年別,ねんべつ,annual,by the year,year-by-year
 年甫,ねんぽ,beginning of the year
 年暮れる,としくれる,the year ends
 年俸,年棒,ねんぽう,annual salary
@@ -52822,7 +52822,7 @@
 歪曲,わい曲,わいきょく,distortion,falsification,perversion
 歪度,わいど,skewness
 歪力,わいりょく,stress,tension
-賄い,まかない,boarding,board,meals,catering,cook
+賄い,まかない,boarding,catering,providing meals,board,provided meals,cook,caterer,person providing board,meals prepared for employees,staff meals
 まかない付き,賄い付き,まかないつき,with meals,meals inclusive
 賄う,まかなう,to supply,to cover,to pay,to finance,to maintain,to give board,to provide meals
 賄賂,わいろ,ワイロ,bribe,sweetener,douceur
@@ -110036,7 +110036,7 @@
 南蛮辛子,なんばんがらし,chili pepper
 南蛮黍,なんばんきび,なんばきび,corn,maize
 紅毛船,こうもうせん,foreign ship
-日頃の行い,日ごろの行い,ひごろのおこない,one's habitual behaviour
+日頃の行い,日ごろの行い,日頃のおこない,ひごろのおこない,one's habitual behaviour,day-to-day conduct
 継続性,けいぞくせい,continuity,continuance
 番い,番,つがい,pair,brace,couple,joint
 終わりまで,おわりまで,to the end
@@ -163737,7 +163737,7 @@
 仔,こ,young
 とぐろを解く,塒を解く,蜷局を解く,とぐろをほどく,to uncoil itself
 お気に,おきに,オキニ,favorite,favourite,pet
-人のふんどしで相撲を取る,人の褌で相撲を取る,ひとのふんどしで相撲を取る,ひとのふんどしですもうをとる,to profit at someone else's expense,to rob Peter to pay Paul,to take risks with other people's money
+人の褌で相撲を取る,人のふんどしで相撲を取る,ひとのふんどしで相撲を取る,ひとのふんどしですもうをとる,to profit at someone else's expense,to rob Peter to pay Paul,to take risks with other people's money,to wrestle sumo in someone else's loincloth
 そのまさかだ,yes it is!,it surely is,certainly
 米粒詰草,こめつぶつめくさ,コメツブツメクサ,lesser hop trefoil,suckling clover
 米粒馬肥やし,こめつぶうまごやし,コメツブウマゴヤシ,black medic,black hay,black nonsuch,blackweed
@@ -163984,7 +163984,7 @@
 とこらへん,vicinity,area
 メナジェリー,menagerie
 毛艶,毛づや,けづや,glossy hair,glossy fur,glossy coat
-他人のふんどしで相撲を取る,他人の褌で相撲を取る,たにんのふんどしですもうをとる,to profit at someone else's expense,to rob Peter to pay Paul,to take risks with other people's money
+他人の褌で相撲を取る,他人のふんどしで相撲を取る,たにんのふんどしですもうをとる,to profit at someone else's expense,to rob Peter to pay Paul,to take risks with other people's money,to wrestle sumo in someone else's loincloth
 ご新規,御新規,ごしんき,new customer
 クネル,quenelle
 党費,とうひ,party expenses,party membership fee
@@ -211481,7 +211481,7 @@
 息を抜く,いきをぬく,to take a breather,to take a break
 行間を読み取る,行間を読みとる,ぎょうかんをよみとる,to read between the lines
 股割れズボン,またわれズボン,open-crotch pants,split-crotch pants
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-17
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-18
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
