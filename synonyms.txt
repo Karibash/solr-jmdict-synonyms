@@ -49406,7 +49406,7 @@
 満席,まんせき,full house,all seats occupied,fully occupied
 満足,滿足,まんぞく,satisfaction,contentment,gratification,sufficient,satisfactory,enough,adequate,proper,decent,satisfying
 満潮,満ち潮,まんちょう,みちしお,high tide,high water,full tide
-満杯,まんぱい,full
+満杯,まんぱい,full,filled to the brim,packed,filled,full
 満腹,まんぷく,full stomach,filling one's stomach,eating one's fill,complete,total,full,heartfelt,sincere
 満了,まんりょう,expiration,termination
 満塁,まんるい,bases loaded
@@ -68848,7 +68848,7 @@
 船外機,せんがいき,outboard motor
 船台,せんだい,building berth,stocks,slipway
 船守り,ふなもり,boat watchman,watching over a boat
-船虫,ふなむし,フナムシ,wharf roach
+船虫,フナムシ,ふなむし,wharf roach
 船体,せんたい,hull
 船医,せんい,ship's doctor
 船床,ふなどこ,a boat's floorboards,ship's hold
@@ -211481,7 +211481,7 @@
 息を抜く,いきをぬく,to take a breather,to take a break
 行間を読み取る,行間を読みとる,ぎょうかんをよみとる,to read between the lines
 股割れズボン,またわれズボン,open-crotch pants,split-crotch pants
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-18
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-19
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
