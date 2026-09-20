@@ -49377,7 +49377,7 @@
 万葉集,萬葉集,まんようしゅう,Man'yōshū
 万来,ばんらい,many guests
 万雷,ばんらい,heavy thunder
-万里,ばんり,thousands of miles
+万里,ばんり,great distance,thousands of miles,ten thousand ri
 万里の長城,ばんりのちょうじょう,Great Wall of China
 万力,まんりき,vise,vice,capstan,windlass,cargo net
 万緑,ばんりょく,myriad green leaves
@@ -49835,7 +49835,7 @@
 冥利,みょうり,providence,luck,favor,favour,advantage
 名,な,name,given name,title,fame,renown,reputation,pretext,pretense,justification,appearance
 名もない,名も無い,なもない,unknown,obscure,insignificant
-名案,めいあん,good idea
+名案,めいあん,good idea,good plan
 名医,めいい,noted doctor,excellent physician
 名家,めいか,distinguished family,good family,reputable family,great master,expert,authority,eminent person,Meika,kuge family class ranking above Hanke and below Urinke,School of Names,Logicians,Disputers
 名画,めいが,famous picture,masterpiece,excellent film,film classic
@@ -51327,7 +51327,7 @@
 要領,ようりょう,point,gist,essentials,tenets,outline,knack,trick,the ropes
 謡,謡い,うたい,noh chanting,noh chant
 謡曲,ようきょく,noh song
-踊り,おどり,dance
+踊り,躍り,おどり,dancing,dance,iteration mark,Bon Festival dance,Lantern Festival dance,eating live seafood  while it is still moving,soft spot,fontanelle,fontanel,live shrimp,doubling of loan interest upon bill renewal if failed to repay,double interest
 踊り狂う,おどりくるう,to dance in ecstasy
 踊り子,踊子,おどりこ,dancer
 踊り場,踊場,おどりば,place for dancing,dance floor,landing,leveling off,cooling off,stagnation,lull,plateau
@@ -54498,7 +54498,7 @@
 扇形,おうぎがた,せんけい,fan shape,sector
 浅緑,あさみどり,せんりょく,light green
 船底,舟底,せんてい,ふなぞこ,ふなそこ,ship's bottom,bilge
-選り分ける,より分ける,えり分ける,よりわける,えりわける,to classify,to sort out,to sift through
+選り分ける,より分ける,えり分ける,選りわける,よりわける,えりわける,to classify,to sort out,to sift through
 前金,まえきん,ぜんきん,advance payment,money paid in advance
 前足,前脚,前肢,まえあし,ぜんし,ぜんきゃく,forefoot,forefeet,foreleg,forelimb
 前歯,まえば,ぜんし,front tooth,foretooth,incisor
@@ -55285,7 +55285,7 @@
 落とす,落す,堕とす,墜とす,陥とす,陥す,おとす,to drop,to lose,to let fall,to shed,to cast,to pour in,to leave behind,to clean off,to remove,to lose,to spend money at a certain place,to omit,to leave out,to secretly let escape,to lose,to reject,to fail,to defeat,to lower,to lessen,to worsen,to reduce,to speak badly of,to make light of,to fall into straitened circumstances,to fall into,to make one's own,to have one's bid accepted,to force surrender,to take,to forcefully convince,to press for a confession,to deal with,to download,to copy from a computer to another medium,to make someone swoon,to finish a story,to finish,to win over,to seduce,to conquer
 乙姫,弟姫,おとひめ,younger princess,Oto Hime,Princess of the Dragon Palace
 たわけ者,戯け者,白痴者,戲け者,白癡者,たわけもの,idiot,dummy,joker,fool,trickster
-踊り字,踊字,躍り字,躍字,おどりじ,iteration mark,ditto mark
+踊り字,躍り字,踊字,躍字,おどりじ,iteration mark,repetition sign,ditto mark
 覚書,覚え書き,覚え書,覚書き,おぼえがき,memo,memorandum,note,memorandum
 お神輿,お御輿,御神輿,おみこし,mikoshi,portable Shinto shrine carried through the streets during festivals,lower back,waist,hips
 思い,想い,念い,おもい,thought,imagination,mind,heart,desire,wish,hope,expectation,love,affection,feelings,emotion,sentiment,experience
@@ -57497,7 +57497,7 @@
 欲深,慾深,よくふか,よくぶか,greedy,avaricious,covetous
 善くも,よくも,how dare,how could,surprisingly,unexpectedly
 汚れ,よごれ,dirt,filth,stain,blot,spot
-選る,択る,撰る,よる,える,to choose,to select,to pick out
+選る,撰る,択る,よる,える,to choose,to select,to pick
 喜ばす,悦ばす,歓ばす,よろこばす,to delight,to please,to make  happy,to give pleasure
 利己主義,りこしゅぎ,egoism,egotism,selfishness
 陸橋,りっきょう,りくきょう,bridge,overpass,flyover,viaduct,land bridge
@@ -100775,7 +100775,7 @@
 腕を磨く,うでをみがく,to polish one's skills
 うまい汁を吸う,旨い汁を吸う,うまいしるをすう,to be onto a good thing,to make money without working,to line one's pockets
 有無を言わさず,有無をいわさず,うむを言わさず,うむをいわさず,peremptorily,willy-nilly,forcibly
-恨みを晴らす,うらみをはらす,to avenge oneself
+恨みを晴らす,恨みをはらす,うらみを晴らす,うらみをはらす,to avenge oneself,to settle a score,to take revenge
 裏を取る,裏をとる,うらをとる,to collect evidence
 蘊蓄を傾ける,薀蓄を傾ける,うんちくを傾ける,うんちくをかたむける,to draw upon one's profound knowledge
 蘊奥を極める,蘊奥を究める,うんのうをきわめる,to master the secrets of
@@ -128132,7 +128132,7 @@
 継受,けいじゅ,inheritance,taking over
 慣用語法,かんようごほう,idiomatic usage
 正準形式,せいじゅんけいしき,canonical format
-息の長い,息が長い,いきのながい,lasting,sustained,prolonged,long-winded
+息の長い,息が長い,息のながい,息がながい,いきのながい,いきがない,lasting,sustained,prolonged,long-lived,long-winded,verbose,wordy
 息が合う,息があう,いきがあう,to perform in tune with each other,to get along well,to be in perfect harmony,to make a perfect pair
 烏焉魯魚,うえんろぎょ,miswriting a word,using the wrong kanji to write a word
 魯魚の誤り,ろぎょのあやまり,miswriting a word,using the wrong kanji to write a word
@@ -132712,7 +132712,7 @@
 ひび割れる,罅割れる,ヒビ割れる,ひびわれる,to crack,to be cracked,to develop a crack
 ひょう疽,瘭疽,ひょうそ,ひょうそう,whitlow,felon
 ひょろ長い,ひょろながい,long and narrow,lanky,gangling,spindly
-顋門,顖門,ひよめき,fontanel,fontanelle
+顋門,顖門,ひよめき,soft spot,fontanelle,fontanel
 ぴよぴよ,ピヨピヨ,ひよひよ,cheep cheep,tweet tweet,gently
 びたびた,drenched,soaked,romantically
 ぴちっと,tightly,snugly
@@ -157771,7 +157771,7 @@
 揉み返し,もみ返し,もみかえし,muscle pain caused in reaction to excess massaging
 屋根瓦,やねがわら,roof tile
 ペイシェント,ペーシェント,patient
-口ほどにも無い,口ほどにもない,口程にも無い,口程にもない,くちほどにもない,all bark and no bite,unable to live up to one's claims
+口ほどにもない,口ほどにも無い,口程にも無い,口程にもない,くちほどにもない,all bark and no bite,unable to live up to one's claims
 ファンジン,ファン・ジン,fanzine,fan magazine
 ファン雑誌,ファンざっし,fanzine,fan magazine
 恩送り,おんおくり,paying it forward
@@ -211464,6 +211464,7 @@
 黄斑牽引,おうはんけんいん,macular traction
 研練,研錬,けんれん,training,practice,drilling,honing,cultivation,improvement
 険道,けんどう,road in poor condition
+眷恋,けんれん,strong attachment,irresistible attachment
 ＡＩスロップ,エーアイスロップ,AI slop
 スロップ,slop,low-quality, worthless information,slop,mud,slush,liquid food waste
 生成人工知能,せいせいじんこうちのう,generative AI,generative artificial intelligence
@@ -211481,7 +211482,8 @@
 息を抜く,いきをぬく,to take a breather,to take a break
 行間を読み取る,行間を読みとる,ぎょうかんをよみとる,to read between the lines
 股割れズボン,またわれズボン,open-crotch pants,split-crotch pants
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-19
+片割れ月,片われ月,片割月,かたわれづき,half moon,moon that is half-illuminated or less,crescent moon
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-20
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
