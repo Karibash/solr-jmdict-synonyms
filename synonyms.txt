@@ -19847,7 +19847,7 @@
 基板,基盤,きばん,board,substrate
 基盤,きばん,base,basis,foundation,footing,infrastructure,bedrock,platform
 基部,きぶ,base,foundation
-基本,きほん,basics,fundamentals,basis,foundation
+基本,きほん,basics,fundamentals,basis,foundation,basically,fundamentally
 基本コンセプト,きほんコンセプト,basic concept
 基本概念,きほんがいねん,basic concept,fundamental concept
 基本原理,きほんげんり,fundamental idea,basic concept
@@ -24764,7 +24764,7 @@
 お伽草子,御伽草子,おとぎぞうし,fairy-tale book
 おとぎ話,御伽噺,お伽話,お伽噺,御伽話,おとぎ噺,おとぎばなし,fairy tale,fairy story,nursery tale
 お河童,御河童,おかっぱ,オカッパ,bobbed hair
-お釜,御釜,御竈,おかま,オカマ,pot,crater,buttocks,effeminate gay man,male transvestite,transgender woman,male prostitute
+お釜,御釜,御竈,おかま,オカマ,pot,crater,buttocks,gay man,queer,male who acts, dresses, and speaks in an exaggeratedly feminine manner,okama,faggot,poofter
 ご機嫌,御機嫌,ごきげん,humour,humor,temper,mood,spirits,safety,health,well-being,one's situation,in a good mood,in high spirits,happy,cheery,merry,chipper
 ご協力,御協力,ごきょうりょく,cooperation,collaboration,help,support
 ご苦労,御苦労,ごくろう,trouble,hard work,thank you,I appreciate your efforts
@@ -33489,7 +33489,7 @@
 心不全,しんふぜん,heart failure
 心付け,心づけ,心付,こころづけ,gratuity,tip
 心服,しんぷく,admiration and devotion,hearty submission
-心変わり,心変り,こころがわり,change of heart,change of mind,change in love interest
+心変わり,心変り,心がわり,こころがわり,change of heart,change of mind,change in love interest
 心棒,しんぼう,shaft,axle,mandrel,arbor,centre of a group
 心理,しんり,state of mind,mentality,psychology
 心理学,しんりがく,psychology
@@ -83800,7 +83800,7 @@
 欲を張る,よくをはる,to lust for
 横から,よこから,from one's side,from the side,from someone unconnected,from someone uninvolved
 横車を押す,よこぐるまをおす,to have one's own way,to push through an unreasonable idea
-邪まな心,よこしまなこころ,evil heart
+邪な心,よこしまな心,邪まな心,よこしまなこころ,evil heart,wicked heart
 横投げ,よこなげ,throwing sideways
 予算を削る,よさんをけずる,to curtail a budget
 由なき,由無き,よしなき,meaningless,senseless,absurd
@@ -211465,6 +211465,7 @@
 研練,研錬,けんれん,training,practice,drilling,honing,cultivation,improvement
 険道,けんどう,road in poor condition
 眷恋,けんれん,strong attachment,irresistible attachment
+ヒップフラスク,ヒップ・フラスク,hip flask
 ＡＩスロップ,エーアイスロップ,AI slop
 スロップ,slop,low-quality, worthless information,slop,mud,slush,liquid food waste
 生成人工知能,せいせいじんこうちのう,generative AI,generative artificial intelligence
@@ -211482,8 +211483,13 @@
 息を抜く,いきをぬく,to take a breather,to take a break
 行間を読み取る,行間を読みとる,ぎょうかんをよみとる,to read between the lines
 股割れズボン,またわれズボン,open-crotch pants,split-crotch pants
+呼笛,呼び笛,よびぶえ,こてき,signal whistle
 片割れ月,片われ月,片割月,かたわれづき,half moon,moon that is half-illuminated or less,crescent moon
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-20
+旬菜,旬彩,しゅんさい,seasonal food,seasonal ingredients,dishes made with seasonal ingredients
+貸し自転車,貸自転車,かしじてんしゃ,rental bicycle
+想定線,そうていせん,imaginary line
+指紋センサー,しもんセンサー,fingerprint sensor
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-21
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
