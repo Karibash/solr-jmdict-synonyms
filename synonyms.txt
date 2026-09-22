@@ -5882,7 +5882,7 @@
 ジレンマ,ディレンマ,dilemma
 ジワジワ,じわじわ,slowly,gradually,bit-by-bit,slowly soaking in,slowly permeating,oozing out,seeping out
 ジン,gin
-成吉思汗,ジンギス汗,ジンギスかん,ジンギスカン,jingisukan,grilled mutton and vegetable dish,slotted dome cast iron grill
+成吉思汗,ジンギス汗,ジンギスカン,jingisukan,dish of mutton or lamb grilled with vegetables at the table on a domed grill,slotted dome cast iron grill
 ジンクス,thing that brings good or bad luck,popular belief,superstition,jinx
 ジンゴイズム,jingoism
 ジンジャー,ginger
@@ -56181,7 +56181,7 @@
 徹する,てっする,to penetrate,to sink in,to devote oneself,to do intently and exclusively,to do throughout
 手続き,手続,てつづき,procedure,process,proceedings,formalities
 手作り,手造り,手づくり,てづくり,handmade,handcrafted,homemade,homegrown
-手詰まり,手詰り,てづまり,deadlock,stalemate,standstill,impasse,being stuck
+手詰まり,手詰り,てづまり,deadlock,stalemate,standstill,impasse,being stuck,hopeless position,lost game,zugzwang
 手なずける,手懐ける,手なづける,手名付ける,てなずける,てなづける,to tame,to win over
 天爾遠波,弖爾乎波,天爾乎波,てにをは,テニヲハ,postpositions,particles
 手ぬぐい,手拭い,手拭,てぬぐい,tenugui,
@@ -69978,7 +69978,7 @@
 腹足類,ふくそくるい,gastropods
 腹具合,腹ぐあい,はらぐあい,condition of one's stomach
 腹変り,腹変わり,はらがわり,half-sibling
-腹持ち,腹持,はらもち,feeling of fullness,ability of a food to fill you up
+腹持ち,腹持,はらもち,feeling of fullness,ability of a food to fill you up,stomach condition
 腹ごしらえ,腹拵え,はらごしらえ,having a meal,fortifying oneself with a meal
 腹時計,はらどけい,one's internal clock
 腹掛け,はらがけ,workman's apron,bib
@@ -153509,7 +153509,7 @@
 カレーパン,カレー・パン,curry bread,curry doughnut,curry bun,curry roll
 コロッケパン,コロッケ・パン,bread roll sandwich with croquette filling
 カツサンド,カツ・サンド,pork-cutlet sandwich,tonkatsu sandwich
-ジンギスカン料理,成吉思汗料理,ジンギス汗料理,ジンギスカンりょうり,ジンギスかんりょうり,jingisukan,Japanese mutton and vegetable dish
+ジンギスカン料理,成吉思汗料理,ジンギス汗料理,ジンギスカンりょうり,jingisukan,Japanese mutton and vegetable dish
 ソーキ,そおき,Okinawan-style stewed pork spare ribs
 粋作り,いきづくり,stylishness,sophistication,refinement,class,style
 だんご汁,団子汁,だんごじる,Japanese dumpling soup
@@ -211482,6 +211482,7 @@
 へし折れる,圧し折れる,ヘシ折れる,へしおれる,to snap,to break
 息を抜く,いきをぬく,to take a breather,to take a break
 行間を読み取る,行間を読みとる,ぎょうかんをよみとる,to read between the lines
+慶弔見舞金,けいちょうみまいきん,congratulatory and condolence allowances,cash gifts for congratulatory or condolence purposes
 股割れズボン,またわれズボン,open-crotch pants,split-crotch pants
 呼笛,呼び笛,よびぶえ,こてき,signal whistle
 片割れ月,片われ月,片割月,かたわれづき,half moon,moon that is half-illuminated or less,crescent moon
@@ -211489,7 +211490,10 @@
 貸し自転車,貸自転車,かしじてんしゃ,rental bicycle
 想定線,そうていせん,imaginary line
 指紋センサー,しもんセンサー,fingerprint sensor
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-21
+ディアドコイ,Diadochi
+空き家バンク,あきやバンク,database of vacant houses
+アイスバイル,ice axe,piolet,ice tool
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-22
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
