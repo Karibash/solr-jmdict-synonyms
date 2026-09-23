@@ -43340,7 +43340,7 @@
 肉料理,にくりょうり,meat dish,meat-based cuisine
 肉類,にくるい,meat
 肉まん,肉饅,にくまん,manjū  with meat filling
-肉饅頭,にくまんじゅう,manjū  with meat filling
+肉饅頭,肉まんじゅう,にくまんじゅう,manjū  with meat filling
 虹,霓,にじ,rainbow
 虹彩,こうさい,iris
 虹色,にじいろ,rainbow-colored,rainbow-coloured
@@ -43805,7 +43805,7 @@
 年貢,ねんぐ,annual tribute,land tax
 年貢米,ねんぐまい,annual rice tax
 年号,ねんごう,name of an imperial era,Japanese era name
-年頃,年ごろ,としごろ,approximate age,apparent age,marriageable age,age of maturity,age of adulthood,age,for years,for a long time
+年頃,年ごろ,歳頃,歳ごろ,としごろ,approximate age,apparent age,marriageable age,age of maturity,age of adulthood,age,for years,for a long time
 年頃日頃,としごろひごろ,these days
 年差,ねんさ,annual variation
 年祭,ねんさい,anniversary
@@ -52579,7 +52579,7 @@
 錬成,練成,れんせい,training,drilling,strengthening,use of alchemy,producing  with alchemy
 櫓,矢倉,やぐら,turret,watchtower,high wooden stage,scaffolding,wooden frame,yagura,fortress,weapons storehouse
 櫓,艪,ろ,Japanese scull
-炉端,ろばた,fireside,hearth,by the fire
+炉端,ろばた,fireside,hearth,by the fire,robata,dining style centered on a charcoal grill
 炉端焼き,ろばたやき,food cooked on a grill in front of customers
 路肩,ろかた,ろけん,shoulder,berm
 路線,ろせん,route,line,line,policy,course
@@ -174870,7 +174870,7 @@
 ドッジライン,ドッジ・ライン,Dodge line,Dodge plan,financial policy drafted by Joseph Dodge for post-war Japan
 対潜,たいせん,antisubmarine
 牛にひかれて善光寺参り,牛に引かれて善光寺参り,うしにひかれてぜんこうじまいり,doing or receiving something good by accident or through the invitation of someone else,being pulled to the Zenkoji temple by a cow
-雪隠で饅頭,せんちで饅頭,せんちでまんじゅう,せっちんでまんじゅう,if you are hungry, where you eat doesn't matter,manjū in the toilet,hiding something good for oneself alone
+雪隠で饅頭,せんちで饅頭,せんちでまんじゅう,せっちんでまんじゅう,it doesn't matter where you eat if you're hungry,manjū while on the toilet,hiding something good for oneself alone
 足るを知る者は富む,たるをしるものはとむ,content is the philosopher's stone, that turns all it touches into gold
 千言,せんげん,lots of words
 雀の千声鶴の一声,すずめのせんこえつるのひとこえ,the word of a wise man is worth the words of one thousand fools,one thousand chirps of sparrows, one cry of a crane
@@ -189658,7 +189658,7 @@
 芽殖孤虫,芽殖弧虫,がしょくこちゅう,ガショクコチュウ,Sparganum proliferum
 寄生虫病,きせいちゅうびょう,parasitosis,parasitic disease,vermination,helminthiasis
 フォア,ファー,forehand,fore
-ドン,dong
+銅,ドン,dong
 個人番号,こじんばんごう,identity number,national identification number,national identity number,personal identity number
 さいつぶ,dice,die
 使役形,しえきけい,causative form
@@ -211493,7 +211493,10 @@
 ディアドコイ,Diadochi
 空き家バンク,あきやバンク,database of vacant houses
 アイスバイル,ice axe,piolet,ice tool
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-22
+逆プロポーズ,ぎゃくプロポーズ,marriage proposal from a woman to her male partner
+ゲームメイク,ゲームメーク,ゲーム・メイク,ゲーム・メーク,game management,playmaking,controlling the game
+政府当局,せいふとうきょく,government authorities
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-23
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
