@@ -30516,7 +30516,7 @@
 受難,じゅなん,sufferings,ordeals,agony,Passion,crucifixion
 受付係,受け付け係,うけつけがかり,receptionist,clerk
 受粉,授粉,じゅふん,pollination
-受容,じゅよう,reception
+受容,じゅよう,acceptance,reception
 受容者,じゅようしゃ,recipient
 受理,じゅり,acceptance
 受領,じゅりょう,receipt,acceptance,receiving
@@ -33489,7 +33489,7 @@
 心不全,しんふぜん,heart failure
 心付け,心づけ,心付,こころづけ,gratuity,tip
 心服,しんぷく,admiration and devotion,hearty submission
-心変わり,心変り,心がわり,こころがわり,change of heart,change of mind,change in love interest
+心変わり,心変り,心がわり,こころがわり,change of heart,change of mind,change in love interest,mental derangement,madness,insanity
 心棒,しんぼう,shaft,axle,mandrel,arbor,centre of a group
 心理,しんり,state of mind,mentality,psychology
 心理学,しんりがく,psychology
@@ -43339,8 +43339,8 @@
 肉付きの良い,肉付きのいい,肉付きのよい,肉づきのよい,肉づきの良い,肉づきのいい,にくづきのよい,にくづきのいい,stout,well-fleshed,well-built,well-padded,plump
 肉料理,にくりょうり,meat dish,meat-based cuisine
 肉類,にくるい,meat
-肉まん,肉饅,にくまん,manjū  with meat filling
-肉饅頭,肉まんじゅう,にくまんじゅう,manjū  with meat filling
+肉まん,肉饅,にくまん,manjū with a meat filling,steamed yeast bun with a meat filling
+肉饅頭,肉まんじゅう,にくまんじゅう,manjū with a meat filling,steamed yeast bun with a meat filling
 虹,霓,にじ,rainbow
 虹彩,こうさい,iris
 虹色,にじいろ,rainbow-colored,rainbow-coloured
@@ -50086,7 +50086,7 @@
 猛虎,もうこ,fierce tiger,ferocious tiger,Hanshin Tigers
 猛攻,もうこう,fierce attack
 猛攻撃,もうこうげき,fierce attack
-猛者,もさ,もうざ,tough guy,wild one,fearless fighter
+猛者,もさ,モサ,tough guy,wild one,fearless fighter,stalwart,veteran,expert,old hand,person of surprising audacity,someone with a lot of nerve,brazen individual,pickpocketing,investigator specialized on pickpocketing,unit specialized on pickpockets
 猛獣,もうじゅう,fierce animal,beast of prey,big game
 猛暑,もうしょ,heat wave,fierce heat
 猛打,もうだ,heavy blow,heavy hit
@@ -128132,7 +128132,7 @@
 継受,けいじゅ,inheritance,taking over
 慣用語法,かんようごほう,idiomatic usage
 正準形式,せいじゅんけいしき,canonical format
-息の長い,息が長い,息のながい,息がながい,いきのながい,いきがない,lasting,sustained,prolonged,long-lived,long-winded,verbose,wordy
+息の長い,息が長い,息のながい,息がながい,いきのながい,いきがながい,lasting,sustained,prolonged,long-lived,long-winded,verbose,wordy
 息が合う,息があう,いきがあう,to perform in tune with each other,to get along well,to be in perfect harmony,to make a perfect pair
 烏焉魯魚,うえんろぎょ,miswriting a word,using the wrong kanji to write a word
 魯魚の誤り,ろぎょのあやまり,miswriting a word,using the wrong kanji to write a word
@@ -211482,7 +211482,9 @@
 へし折れる,圧し折れる,ヘシ折れる,へしおれる,to snap,to break
 息を抜く,いきをぬく,to take a breather,to take a break
 行間を読み取る,行間を読みとる,ぎょうかんをよみとる,to read between the lines
+山羊汁,ヤギ汁,やぎ汁,やぎじる,goat meat soup
 慶弔見舞金,けいちょうみまいきん,congratulatory and condolence allowances,cash gifts for congratulatory or condolence purposes
+災害見舞金,さいがいみまいきん,condolence allowance due to natural disasters,disaster relief money
 股割れズボン,またわれズボン,open-crotch pants,split-crotch pants
 呼笛,呼び笛,よびぶえ,こてき,signal whistle
 片割れ月,片われ月,片割月,かたわれづき,half moon,moon that is half-illuminated or less,crescent moon
@@ -211490,13 +211492,16 @@
 貸し自転車,貸自転車,かしじてんしゃ,rental bicycle
 想定線,そうていせん,imaginary line
 指紋センサー,しもんセンサー,fingerprint sensor
+平野部,へいやぶ,plains area,flatland,plain
 ディアドコイ,Diadochi
 空き家バンク,あきやバンク,database of vacant houses
 アイスバイル,ice axe,piolet,ice tool
 逆プロポーズ,ぎゃくプロポーズ,marriage proposal from a woman to her male partner
 ゲームメイク,ゲームメーク,ゲーム・メイク,ゲーム・メーク,game management,playmaking,controlling the game
 政府当局,せいふとうきょく,government authorities
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-23
+セケス,sex,seggs
+日本標準時子午線,にほんひょうじゅんじしごせん,Japan Standard Time meridian
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-24
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -218799,3 +218804,4 @@
 納涼祭,納涼まつり,納涼祭り,のうりょうまつり,Nōryō Matsuri
 国家サイバー統括室,こっかサイバーとうかつしつ,National Cybersecurity Office,NCO
 国家情報局,こっかじょうほうきょく,National Intelligence Bureau
+アトン,アテン,Aton,Aten
