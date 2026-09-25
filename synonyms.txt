@@ -5301,7 +5301,7 @@
 シェリフ,sheriff
 シェル,shell
 シェルスクリプト,shell-script
-シェルター,shelter
+シェルター,シェルタ,shelter,refuge,protected place,building which temporarily houses homeless people or animals
 シェルパ,Sherpa
 シエスタ,siesta
 シエラレオネ,シエラ・レオネ,Sierra Leone
@@ -15706,7 +15706,7 @@
 円丘,えんきゅう,knoll,hummock
 円居,団居,まどい,sitting in a circle,pleasant gathering
 円建て,えんだて,yen basis,yen-denominated,yen-based
-円弧,えんこ,arc
+円弧,えんこ,circular arc
 円光,えんこう,halo,paid dating,compensated dating
 円高,えんだか,appreciation of the yen,strong yen
 円座,円坐,えんざ,round straw mat,sitting in a circle
@@ -16052,7 +16052,7 @@
 奥印,おくいん,official seal
 奥義,奥儀,奥技,おうぎ,おくぎ,secret techniques,inner mysteries,essence,quintessence,heart
 奥許し,おくゆるし,secret,initiation,diploma
-奥勤め,おくづとめ,working as a lady's maid
+奥勤め,おくづとめ,serving as maid in the domestic quarters of a shogun or daimyo
 奥御殿,おくごてん,noble's private quarters
 奥向き,おくむき,inner part of a house,family matters,household affairs,personal business
 奥行き,奥行,おくゆき,depth,length
@@ -16178,7 +16178,7 @@
 横行,おうこう,おうぎょう,being rampant,being widespread,being prevalent,walking sideways,staggering,striding
 横降り,よこぶり,driving rain
 横合い,横合,よこあい,side,flank,position where one is not directly involved,outsider's position,the sidelines
-横座標,おうざひょう,abscissa
+横座標,よこざひょう,abscissa
 横死,おうし,violent  death,dog's death
 横軸,よこじく,abscissa,horizontal axis,horizontal scroll
 横縞,横じま,よこじま,horizontal stripes,lateral stripes
@@ -25120,7 +25120,7 @@
 公衆便所,こうしゅうべんじょ,public lavatory,public toilet,public restroom,slut,whore,floozy,tramp,trollop
 公衆網,こうしゅうもう,public network
 公衆浴場,こうしゅうよくじょう,public bathhouse
-公準,こうじゅん,postulate
+公準,こうじゅん,postulate,axiom
 公署,こうしょ,government office
 公娼,こうしょう,licensed prostitute
 公称,こうしょう,public announcement,official statement,official claim,nominal,official,declared,claimed,official name
@@ -25215,7 +25215,7 @@
 公用車,こうようしゃ,official vehicle
 公用文,こうようぶん,official terminology
 公吏,こうり,local government official
-公理,こうり,axiom,maxim,self-evident truth
+公理,こうり,maxim,self-evident truth,axiom,axiom,postulate
 公立,こうりつ,public
 公立学校,こうりつがっこう,public school
 公領,こうりょう,duchy,dukedom,principality
@@ -27257,7 +27257,7 @@
 際どい,際疾い,きわどい,risky,dangerous,hazardous,perilous,close,narrow,suggestive,bordering on the obscene,risqué,delicate,questionable,shady,extreme,harsh,cruel
 際に,さいに,in case of,at that time,at this time
 際限,さいげん,limits,end,bounds
-際物,際もの,きわもの,seasonal goods,seasonal items,faddish product,vogue merchandise,product latching onto a craze,novel, film, play, etc. dealing with recent events or trends,work of ephemeral interest,writings of passing interest
+際物,際もの,キワモノ,きわもの,seasonal goods,seasonal items,faddish product,vogue merchandise,product latching onto a craze,novel, film, play, etc. dealing with recent events or trends,work of ephemeral interest,writings of passing interest
 際立つ,際だつ,きわだつ,to be prominent,to be conspicuous,to stand out,to be outstanding,to be remarkable,to be striking,to be notable
 剤,ざい,medicine,agent,substance,drug,dose
 有り付く,在り付く,あり付く,有りつく,在りつく,有付く,ありつく,to get,to obtain,to come by,to find
@@ -29205,7 +29205,7 @@
 次官,じかん,vice-minister,undersecretary
 次期,じき,next term,next period,next version,next release
 次兄,じけい,second elder brother
-次元,じげん,dimension,perspective,point of reference,level
+次元,じげん,dimension,perspective,point of reference,level,standpoint
 次元正則化,じげんせいそくか,dimensional regularisation,dimensional regularization
 次号,じごう,next issue
 次子,じし,the next child,second child
@@ -34636,7 +34636,7 @@
 数学的帰納法,すうがくてききのうほう,mathematical induction
 数奇,すうき,さっき,misfortune,adverse fortune,hapless fate,checkered,varied,eventful,dramatic,full of ups and downs
 数寄,数奇,すき,refined taste,elegant pursuits
-数係数,すうけいすう,coefficient
+数係数,すうけいすう,numerical coefficient
 数個,すうこ,several
 数冊,すうさつ,several volumes
 数詞,すうし,numeral
@@ -68831,7 +68831,7 @@
 擲弾筒,てきだんとう,grenade launcher
 くも膜,クモ膜,蜘蛛膜,くもまく,arachnoid mater,arachnoid membrane
 くも膜下出血,クモ膜下出血,蜘蛛膜下出血,くもまくかしゅっけつ,くもまっかしゅっけつ,subarachnoid hemorrhage,subarachnoid haemorrhage,SAH
-循環小数,じゅんかんしょうすう,recurring decimal
+循環小数,じゅんかんしょうすう,recurring decimal,repeating decimal
 循環系,じゅんかんけい,circulatory system
 循環器,じゅんかんき,circulatory organ
 循環論法,じゅんかんろんぽう,circular reasoning
@@ -71126,7 +71126,7 @@
 極楽往生,ごくらくおうじょう,rebirth in paradise,peaceful death
 極楽浄土,ごくらくじょうど,Amitabha's Pure Land,Sukhavati
 極熱,ごくねつ,ごくねち,extreme heat
-交角,こうかく,angle of intersection
+交角,こうかく,angle of intersection,intersection angle
 交声曲,こうせいきょく,cantata
 交尾期,こうびき,mating season
 交流発電機,こうりゅうはつでんき,AC generator
@@ -74573,7 +74573,7 @@
 長期手形,ちょうきてがた,long-term bill
 長期国債,ちょうきこくさい,long-term national bond
 長期戦,ちょうきせん,drawn-out  war or contest
-長軸,ちょうじく,major axis
+長軸,ちょうじく,major axis,line of apsides,apse line
 長嘆,長歎,ちょうたん,deep sigh
 長靴,長ぐつ,ながぐつ,ちょうか,leather boots,rubber boots,wellingtons,wellies,long boots,high boots
 長髪,ちょうはつ,long hair
@@ -144271,7 +144271,7 @@
 幾重にも,いく重にも,いくえにも,repeatedly,over and over again,several layers deep,layer upon layer,row upon row,several times
 千重,ちえ,many layers,many piles
 垂乳女,足乳女,たらちめ,mother
-垂乳根,足乳根,たらちね,mother,father,parent
+垂乳根,足乳根,たらちね,mother,father,parents
 田の面,たのも,たのむ,surface of a rice paddy
 敷島の道,しきしまのみち,the art of classical Japanese poetry
 大和国家,やまとこっか,Yamato state,Yamato polity,earliest known Japanese polity founded between the 4th and 7th centuries
@@ -211501,7 +211501,11 @@
 政府当局,せいふとうきょく,government authorities
 セケス,sex,seggs
 日本標準時子午線,にほんひょうじゅんじしごせん,Japan Standard Time meridian
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-24
+素髪,すがみ,natural hair,hair without anything on it
+範式,はんしき,model,standard,pattern,example,formula,expression
+雪山獅子旗,せつざんししき,Tibetan flag,Snow Lion flag
+硝酸銅,しょうさんどう,copper nitrate
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-25
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
