@@ -5301,7 +5301,7 @@
 シェリフ,sheriff
 シェル,shell
 シェルスクリプト,shell-script
-シェルター,シェルタ,shelter,refuge,protected place,building which temporarily houses homeless people or animals
+シェルター,シェルタ,shelter,refuge,protected place
 シェルパ,Sherpa
 シエスタ,siesta
 シエラレオネ,シエラ・レオネ,Sierra Leone
@@ -18307,7 +18307,7 @@
 開放,かいほう,opening,leaving open,opening up,allowing  access
 開幕,かいまく,raising the curtain,opening,start,beginning
 開明,かいめい,civilization,civilisation,enlightenment
-開門,かいもん,opening gate
+開門,かいもん,opening of a gate
 開立,かいりゅう,extraction of cubic root
 開闢,かいびゃく,かいひゃく,beginning of the world,creation
 階,かい,storey,story,floor,stairs,stage,counter for storeys and floors of a building
@@ -22923,7 +22923,7 @@
 系列化,けいれつか,putting in order,systemize,systemise
 経つ,たつ,to pass,to elapse
 経る,歴る,へる,to pass,to elapse,to go by,to pass through,to go through,to experience,to go through,to undergo
-経緯,けいい,いきさつ,details,particulars,sequence of events,circumstances,situation,how things got this way,longitude and latitude,warp and weft,warp and woof
+経緯,けいい,details,particulars,sequence of events,circumstances,situation,how things got this way,longitude and latitude,warp and weft,warp and woof
 経営,けいえい,management,administration,operation,running,conducting
 経営グループ,けいえいグループ,management group
 経営学,けいえいがく,management studies,business administration
@@ -25120,7 +25120,7 @@
 公衆便所,こうしゅうべんじょ,public lavatory,public toilet,public restroom,slut,whore,floozy,tramp,trollop
 公衆網,こうしゅうもう,public network
 公衆浴場,こうしゅうよくじょう,public bathhouse
-公準,こうじゅん,postulate,axiom
+公準,こうじゅん,postulate,axiom,postulate
 公署,こうしょ,government office
 公娼,こうしょう,licensed prostitute
 公称,こうしょう,public announcement,official statement,official claim,nominal,official,declared,claimed,official name
@@ -26589,7 +26589,7 @@
 今日は,今日わ,こんにちは,こんにちわ,こにちわ,こにちは,hello,good day,good afternoon
 今日中に,きょうじゅうに,by today,before the day is over
 今日的,こんにちてき,modern,up-to-date
-今日日,今日び,きょうび,nowadays
+今日日,今日び,きょうび,nowadays,these days
 今日明日,きょうあす,today and tomorrow,today or tomorrow,in a day or two,very soon
 今日様,こんにちさま,sun god
 今般,こんぱん,now,recently,this time
@@ -28604,7 +28604,7 @@
 支配,しはい,rule,domination,control,direction,management,guidance,control,governing,influence,sway,government
 支配者,しはいしゃ,governor,leader,ruler
 支部,しぶ,branch,branch office,subdivision
-支払う,しはらう,to pay
+支払う,仕払う,しはらう,to pay
 支脈,しみゃく,spur,feed,branch
 支離滅裂,しりめつれつ,incoherent,inconsistent,illogical,disorderly,confused,nonsensical
 支流,しりゅう,tributary,branch
@@ -77867,7 +77867,7 @@
 嫌疑者,けんぎしゃ,suspect
 謙抑,けんよく,humbling oneself
 怯懦,きょうだ,cowardly,spineless,weak-willed,fainthearted
-陥没湖,かんぼつこ,lake formed in volcanic caldera
+陥没湖,かんぼつこ,lake formed by ground depression
 餡蜜,あんみつ,mixture of bean jam, boiled beans, agar cubes, fruit pieces and syrup
 欠本,闕本,けっぽん,missing volume
 欠号,けつごう,missing issue
@@ -129960,7 +129960,7 @@
 狭視野,きょうしや,narrow-field,small-field
 大負け,おおまけ,major loss,crushing defeat,big discount
 凍結胚,とうけつはい,frozen embryo
-縁がある,えんがある,to be fated to,be linked by fate
+縁がある,えんがある,to be fated,to be linked by fate
 縁を結ぶ,えんをむすぶ,to become related,to form a connection
 スタートラッカー,スター・トラッカー,スタートラッカ,スター・トラッカ,star tracker
 そうなんですか,is that so?
@@ -166284,7 +166284,7 @@
 最大級,さいだいきゅう,largest class,top category
 ポートマントー,portmanteau,portmanteau
 クラウドサービス,クラウド・サービス,cloud service
-士,し,man,samurai,person,member
+士,し,practitioner,specialist,professional,person,-er,-or,-ian,-ist,man,samurai
 寡,か,minority,small numbers,unmarried person,widow,widower
 好かん,すかん,I don't like it,I hate it
 ぜんご,ぜいご,ゼンゴ,ゼイゴ,scales of a horse mackerel,scute
@@ -211482,6 +211482,7 @@
 へし折れる,圧し折れる,ヘシ折れる,へしおれる,to snap,to break
 息を抜く,いきをぬく,to take a breather,to take a break
 行間を読み取る,行間を読みとる,ぎょうかんをよみとる,to read between the lines
+紙芝居アニメ,かみしばいアニメ,kamishibai-style animation,animation consisting largely of still images with little movement,anime with very limited animation or movement,anime with poor animation resembling a slideshow.
 山羊汁,ヤギ汁,やぎ汁,やぎじる,goat meat soup
 慶弔見舞金,けいちょうみまいきん,congratulatory and condolence allowances,cash gifts for congratulatory or condolence purposes
 災害見舞金,さいがいみまいきん,condolence allowance due to natural disasters,disaster relief money
@@ -211492,6 +211493,7 @@
 貸し自転車,貸自転車,かしじてんしゃ,rental bicycle
 想定線,そうていせん,imaginary line
 指紋センサー,しもんセンサー,fingerprint sensor
+越境者,えっきょうしゃ,border crosser,illegal immigrant,border trespasser,boundary crosser,crossover figure
 平野部,へいやぶ,plains area,flatland,plain
 ディアドコイ,Diadochi
 空き家バンク,あきやバンク,database of vacant houses
@@ -211501,11 +211503,20 @@
 政府当局,せいふとうきょく,government authorities
 セケス,sex,seggs
 日本標準時子午線,にほんひょうじゅんじしごせん,Japan Standard Time meridian
+循環級数,じゅんかんきゅうすう,recurring series
+自変数,じへんすう,independent variable
 素髪,すがみ,natural hair,hair without anything on it
-範式,はんしき,model,standard,pattern,example,formula,expression
+範式,はんしき,model,example,exemplar,paragon,formula,expression
+横距,おうきょ,longitude
+構造湖,こうぞうこ,tectonic lake
+急速充電器,きゅうそくじゅうでんき,fast charger
 雪山獅子旗,せつざんししき,Tibetan flag,Snow Lion flag
+砂じょう,砂瓤,さじょう,juice vesicle,juice sac,citrus kernel
+正遷宮,上遷宮,しょうせんぐう,returning an object of worship to the main shrine
 硝酸銅,しょうさんどう,copper nitrate
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-25
+遺体衛生保全,いたいえいせいほぜん,embalming,embalmment,thanatopraxy
+経緯,いきさつ,circumstances,sequence of events,how things got this way,details,particulars
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-26
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
