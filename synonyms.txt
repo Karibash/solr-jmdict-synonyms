@@ -21746,7 +21746,7 @@
 仰せつかる,仰せ付かる,仰付かる,おおせつかる,to be ordered,to be charged with,to be assigned
 仰せ付ける,仰せつける,おおせつける,to command,to order,to tell,to appoint
 仰る,仰有る,仰しゃる,仰っしゃる,おっしゃる,to say,to speak,to tell,to be called
-仰のく,あおのく,to look up
+仰く,仰のく,あおのく,to look up,to face upwards,to turn one's face upwards
 仰のける,あおのける,to turn up
 おっしゃる通り,仰るとおり,仰る通り,おっしゃるとおり,おっしゃるとうり,as you  say,as you suggest,I absolutely agree
 仰臥,ぎょうが,lying on one's back,lying face upward,lying supine
@@ -29447,7 +29447,7 @@
 辞任,じにん,resignation
 辞表,じひょう,letter of resignation
 辞令,じれい,notice of personnel change,wording,choice of language,phraseology
-鹿,しか,かせぎ,か,ろく,シカ,deer,cervid
+鹿,しか,シカ,deer,cervid
 鹿児島県,鹿兒島縣,かごしまけん,Kagoshima Prefecture
 鹿追,しかおい,hinged bamboo water cup or trough, which makes a percussive sound periodically as it tips over
 式,しき,way,style,fashion,method,system,form,type,ceremony,rite,ritual,celebration,wedding,equation,formula,expression,enforcement regulations
@@ -34520,7 +34520,7 @@
 水素化物,すいそかぶつ,hydride
 水槽,すいそう,water tank,cistern,fish tank,aquarium
 水増し,みずまし,dilution,watering down,inflation,padding
-水族館,すいぞくかん,すいぞっかん,aquarium
+水族館,すいぞくかん,すいぞっかん,aquarium,oceanarium
 水着,みずぎ,bathing suit,swimsuit,swimmers
 水中,すいちゅう,underwater
 水中メガネ,水中眼鏡,水中めがね,すいちゅうめがね,diving goggles,swimming goggles,face mask,hydroscope
@@ -64951,7 +64951,7 @@
 遡行,溯行,遡航,溯航,そこう,going upstream,sailing against the current
 遡求,そ求,そきゅう,redemption,recourse
 睨め付ける,睨めつける,ねめつける,にらめつける,to glare at,to scowl at
-仰向く,仰むく,あおむく,to look upward
+仰向く,仰むく,あおむく,to look up,to face upwards,to turn one's face upwards
 迎え火,むかえび,welcoming fire for returning spirits
 ご一新,御一新,御維新,ごいっしん,Meiji Restoration
 御子,皇子,皇女,み子,みこ,Son of God,child of an emperor
@@ -140162,7 +140162,7 @@
 講義室,こうぎしつ,lecture hall,lecture room
 風邪っぴき,かぜっぴき,catching a cold
 口髭猿,くちひげざる,クチヒゲザル,mustached monkey,moustached guenon
-精留,せいりゅう,refinement,rectification
+精留,精溜,せいりゅう,refinement,rectification
 単離,たんり,isolation
 再結晶,さいけっしょう,recrystallization
 限外濾過,げんがいろか,ultrafiltration
@@ -146244,7 +146244,7 @@
 猫娘,ねこむすめ,catgirl,character who looks, acts, etc. like a cat
 廃版,はいばん,discontinued edition
 自動化量産,じどうかりょうさん,automated mass-production
-箔を付ける,はくをつける,to give something weight,to give something dignity
+箔をつける,箔を付ける,はくを付ける,はくをつける,to give something weight,to give something dignity
 美粧,びしょう,dressing beautifully,beautiful makeup
 蒼空,そうくう,blue sky
 その先,其の先,そのさき,beyond that point,after that
@@ -151603,7 +151603,7 @@
 史上最悪,しじょうさいあく,worst-ever,history's worst
 共同不法行為,きょうどうふほうこうい,joint unlawful act,joint tort
 締焼,締め焼き,しめやき,bisque firing,bisque
-八百万の神,八百万神,やおよろずのかみ,all the gods and goddesses,all the deities
+八百万の神,八百万神,やおよろずの神,やおよろずのかみ,all the gods and goddesses,all the deities
 幸御魂,幸魂,さきみたま,god who bestows happiness upon people
 奇御魂,奇し御魂,くしみたま,spirit that possesses a mysterious power
 異文化交流,いぶんかこうりゅう,cultural exchange,cross-cultural communication,contacts between different cultures
@@ -211495,6 +211495,7 @@
 指紋センサー,しもんセンサー,fingerprint sensor
 越境者,えっきょうしゃ,border crosser,illegal immigrant,border trespasser,boundary crosser,crossover figure
 平野部,へいやぶ,plains area,flatland,plain
+ティルカヨ,tilcayo
 ディアドコイ,Diadochi
 空き家バンク,あきやバンク,database of vacant houses
 アイスバイル,ice axe,piolet,ice tool
@@ -211503,11 +211504,15 @@
 政府当局,せいふとうきょく,government authorities
 セケス,sex,seggs
 日本標準時子午線,にほんひょうじゅんじしごせん,Japan Standard Time meridian
+カーボローディング,カーボ・ローディング,carbohydrate loading,carb loading,glycogen loading
+アイドル前髪,アイドルまえがみ,idol bangs,hairstyle in which the bangs are trimmed just above the eyes and styled with a slight curl, gently swept to the side, commonly worn by Japanese  idols
 循環級数,じゅんかんきゅうすう,recurring series
 自変数,じへんすう,independent variable
+連比例,れんぴれい,continued proportion
+整除数,せいじょすう,exact divisor,aliquot part
 素髪,すがみ,natural hair,hair without anything on it
 範式,はんしき,model,example,exemplar,paragon,formula,expression
-横距,おうきょ,longitude
+横距,おうきょ,geodetic longitude
 構造湖,こうぞうこ,tectonic lake
 急速充電器,きゅうそくじゅうでんき,fast charger
 雪山獅子旗,せつざんししき,Tibetan flag,Snow Lion flag
@@ -211516,7 +211521,10 @@
 硝酸銅,しょうさんどう,copper nitrate
 遺体衛生保全,いたいえいせいほぜん,embalming,embalmment,thanatopraxy
 経緯,いきさつ,circumstances,sequence of events,how things got this way,details,particulars
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-26
+鹿,かせぎ,deer
+鹿,か,deer
+抗酸化作用,こうさんかさよう,antioxidation effect
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-27
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
