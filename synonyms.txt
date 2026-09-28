@@ -36093,7 +36093,7 @@
 先天病,せんてんびょう,hereditary disease
 先渡し,先渡,さきわたし,payment in advance,forward delivery,delivery
 先途,せんど,critical moment,critical juncture,decisive point,path ahead,future
-先度,せんど,recently
+先度,せんど,the other day,some time ago,recently
 先投,せんとう,starting pitcher
 先頭打者,せんとうだしゃ,lead-off man
 先導,せんどう,guidance,leadership,leading the way
@@ -54379,7 +54379,7 @@
 重囲,じゅうい,ちょうい,close siege
 重荷,おもに,じゅうか,heavy load,heavy luggage,heavy freight,heavy burden,heavy responsibility,encumbrance
 重厚,じゅうこう,ちょうこう,profound,deep,grave,solid,dignified,stately,solemn,composed,substantial,massive
-重傷,重手,じゅうしょう,おもで,serious wound,serious injury
+重傷,じゅうしょう,serious wound,serious injury
 重犯,じゅうはん,じゅうぼん,ちょうはん,felony,major offence,felon,old offender
 重複,重復,ちょうふく,じゅうふく,duplication,repetition,overlapping,redundancy,restoration
 重宝,ちょうほう,じゅうほう,convenient,useful,handy,helpful,finding useful,coming in handy,using often,treasure
@@ -54489,7 +54489,7 @@
 仙女,せんじょ,せんにょ,せんにゅ,fairy,nymph,elf
 先王,せんおう,せんのう,previous king,late king,ancient virtuous king
 先行き,さきゆき,さきいき,the future,future prospects
-先ごろ,先頃,さきごろ,recently,the other day
+先ごろ,先頃,さきごろ,the other day,some time ago,recently
 千客万来,千客萬来,せんきゃくばんらい,せんかくばんらい,flood of customers,roaring business
 千々,千千,ちぢ,thousands,great number of,variety
 千代,千世,ちよ,thousand years,thousand generations,thousand ages,eternity
@@ -64644,7 +64644,7 @@
 補講,ほこう,supplementary lecture,supplementary lesson,extra classes
 補職,ほしょく,appointment to an official post,assignment
 博引,はくいん,extensive references
-博愛主義者,はくあいしゅぎしゃ,philanthropist
+博愛主義者,はくあいしゅぎしゃ,universally kind person,humane person,philanthropist
 敷き皮,敷き革,敷皮,敷革,しきがわ,fur rug,fur cushion,insole,inner sole
 敷き写し,しきうつし,tracing,copying
 敷板,しきいた,floorboard,plank
@@ -79942,7 +79942,7 @@
 安定した,あんていした,steady,stable,calm,firm
 案内書呈,あんないしょてい,presentation of a guidebook
 案に相違して,あんにそういして,contrary to one's expectations
-安保理,あんぽり,UN Security Council
+安保理,あんぽり,UN Security Council,United Nations Security Council
 按摩膏,あんまこう,massaging plaster
 案を立てる,あんをたてる,to draft a proposal
 威あって猛からず,威有って猛からず,いあってたけからず,dignified without being overbearing,being dignified, and moreover warm, as such one is gentle
@@ -103792,7 +103792,7 @@
 ＸＯ醤,ＸＯジャン,エックスオージャン,XO sauce
 はにかみ,ハニカミ,bashfulness,shyness,embarrassment
 網タイツ,あみタイツ,fishnet stockings
-怯え,脅え,おびえ,being startled, surprised or afraid,panic,trepidation
+怯え,脅え,おびえ,fear,dread,fright,terror,trepidation,panic
 需要拡大,じゅようかくだい,increase in  demand
 バイオ燃料,バイオねんりょう,biofuel
 資金力,しきんりょく,financial muscle,economic clout
@@ -111459,7 +111459,7 @@
 フォークランド紛争,フォークランドふんそう,Falklands War
 イラク戦争,イラクせんそう,Iraq War
 イランコントラ事件,イラン・コントラ事件,イランコントラじけん,Iran-Contra affair,Irangate
-安全保障理事会,あんぜんほしょうりじかい,Security Council
+安全保障理事会,あんぜんほしょうりじかい,UN Security Council,United Nations Security Council
 国連安全保障理事会,こくれんあんぜんほしょうりじかい,UN Security Council
 国連海洋法条約,こくれんかいようほうじょうやく,UN Convention on the Law of the Sea
 国際連合海洋法条約,こくさいれんごうかいようほうじょうやく,United Nations Convention on the Law of the Sea
@@ -172727,7 +172727,7 @@
 古形,こけい,old form,old format,traditional format
 ダム穴,ダムあな,bell-mouth spillway,morning glory spillway,glory hole spillway
 クロッチ,くろっち,crotch
-安保理事会,あんぽりじかい,UN Security Council
+安保理事会,あんぽりじかい,UN Security Council,United Nations Security Council
 撒き水,まきみず,sprinkling water,sprinkled water
 酣戦,かんせん,height of battle
 悄愴,しょうそう,sad and lamenting,lonely
@@ -210719,7 +210719,7 @@
 底翳,内障,内障眼,そこひ,any visual disorder caused by a problem within the eye
 解像感,かいぞうかん,perceived resolution
 一脚,いっきゃく,monopod,unipod
-二脚,にきゃく,bipod,two legs
+二脚,にきゃく,bipod,two legs,two seats,two chairs
 発送駅,はっそうえき,forwarding station
 簿記係,ぼきがかり,bookkeeper
 立ち飛び,たちとび,two-foot vertical jump,jumping with both feet out of a stand,standing dive
@@ -211502,8 +211502,12 @@
 逆プロポーズ,ぎゃくプロポーズ,marriage proposal from a woman to her male partner
 ゲームメイク,ゲームメーク,ゲーム・メイク,ゲーム・メーク,game management,playmaking,controlling the game
 政府当局,せいふとうきょく,government authorities
+既セク,きセク,キセク,already having had sex,previous sexual partner
+未セク,みセク,ミセク,not yet having had sex,person one hasn't yet slept with
 セケス,sex,seggs
 日本標準時子午線,にほんひょうじゅんじしごせん,Japan Standard Time meridian
+敵国条項,てきこくじょうこう,enemy state clauses
+旧敵国条項,きゅうてきこくじょうこう,UN Charter clauses concerning former enemy states,former enemy state clauses
 カーボローディング,カーボ・ローディング,carbohydrate loading,carb loading,glycogen loading
 アイドル前髪,アイドルまえがみ,idol bangs,hairstyle in which the bangs are trimmed just above the eyes and styled with a slight curl, gently swept to the side, commonly worn by Japanese  idols
 循環級数,じゅんかんきゅうすう,recurring series
@@ -211523,8 +211527,14 @@
 経緯,いきさつ,circumstances,sequence of events,how things got this way,details,particulars
 鹿,かせぎ,deer
 鹿,か,deer
+重手,重傷,おもで,serious wound,serious injury
 抗酸化作用,こうさんかさよう,antioxidation effect
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-27
+ヤード,yard,working area,vehicle dismantling yard,vehicle dismantling facility,classification yard,marshalling yard,switchyard
+ＬＮＧタンカー,エルエヌジータンカー,LNG tanker,LNG carrier,liquefied natural gas carrier
+混成軌道,こんせいきどう,hybrid orbital,hybridized orbital
+引っ括めて,引っくるめて,ひっくるめて,all in all,all together,altogether
+足で稼ぐ,脚で稼ぐ,あしでかせぐ,to obtain results through legwork,to walk around to gather information,to rely on active effort
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-28
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
