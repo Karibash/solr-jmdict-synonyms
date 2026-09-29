@@ -21747,7 +21747,7 @@
 仰せ付ける,仰せつける,おおせつける,to command,to order,to tell,to appoint
 仰る,仰有る,仰しゃる,仰っしゃる,おっしゃる,to say,to speak,to tell,to be called
 仰く,仰のく,あおのく,to look up,to face upwards,to turn one's face upwards
-仰のける,あおのける,to turn up
+仰ける,仰のける,あおのける,to turn up,to lay  on its back,to tilt  back
 おっしゃる通り,仰るとおり,仰る通り,おっしゃるとおり,おっしゃるとうり,as you  say,as you suggest,I absolutely agree
 仰臥,ぎょうが,lying on one's back,lying face upward,lying supine
 仰角,ぎょうかく,angle of elevation
@@ -58308,7 +58308,7 @@
 網目,あみめ,mesh,half-tone
 按腹,あんぷく,ventral massage
 安息香,あんそくこう,benzoin
-仰向ける,あおむける,to turn up
+仰向ける,仰むける,あおむける,to turn up,to lay  on its back,to tilt  back
 阿羅漢,あらかん,arhat
 嵐の前の静けさ,あらしのまえのしずけさ,calm before the storm,lull before the storm
 亜硫酸ナトリウム,ありゅうさんナトリウム,sodium sulfite
@@ -63985,7 +63985,7 @@
 感状,かんじょう,letter of commendation
 感吟,かんぎん,emotional chanting or recitation
 感受,かんじゅ,being receptive,being susceptible,responding to,sensing,perceiving,picking up,receiving
-感官,かんかん,sense organ
+感官,かんかん,sense organ,sensory organ
 感染原,かんせんげん,source of infection
 感得,かんとく,realization,awareness,appreciation,becoming,one's faith being transmitted to a deity and one's wish then being granted,obtaining  unexpectedly
 感情家,かんじょうか,emotional person
@@ -97789,7 +97789,7 @@
 ちんたら,チンタラ,dilatorily,sluggishly,to take a lot of time,to become late,to take it easy
 有道,ゆうどう,ゆうとう,being good,being virtuous,virtuous person
 責付く,責っ付く,せっつく,to pester someone
-大事を取る,大事をとる,だいじをとる,to take care doing something,to be prudent,to take no chances,to play it safe
+大事をとる,大事を取る,だいじをとる,to take care doing something,to be prudent,to take no chances,to play it safe
 ガシガシ,がしがし,boisterously,roughly,briskly
 食い繋ぐ,食いつなぐ,くいつなぐ,to ration out and survive on,to eke out a living
 ツンケン,つんけん,crabbily,unsociably
@@ -137512,7 +137512,7 @@
 無機質肥料,むきしつひりょう,inorganic fertilizer,mineral fertilizer
 有機質肥料,ゆうきしつひりょう,organic fertilizer
 法廷に臨む,ほうていにのぞむ,to appear in court
-べっとり,sticky,thick,ikky,gummy,to stick closely
+べっとり,sticky,thick,icky,gummy,to stick closely
 掲出,けいしゅつ,posting,displaying,putting up
 プシロフィトン,psilophyte
 プッシュボタン,プッシュ・ボタン,push button
@@ -211500,6 +211500,7 @@
 空き家バンク,あきやバンク,database of vacant houses
 アイスバイル,ice axe,piolet,ice tool
 逆プロポーズ,ぎゃくプロポーズ,marriage proposal from a woman to her male partner
+饅,まん,manjū
 ゲームメイク,ゲームメーク,ゲーム・メイク,ゲーム・メーク,game management,playmaking,controlling the game
 政府当局,せいふとうきょく,government authorities
 既セク,きセク,キセク,already having had sex,previous sexual partner
@@ -211508,6 +211509,7 @@
 日本標準時子午線,にほんひょうじゅんじしごせん,Japan Standard Time meridian
 敵国条項,てきこくじょうこう,enemy state clauses
 旧敵国条項,きゅうてきこくじょうこう,UN Charter clauses concerning former enemy states,former enemy state clauses
+ビーズアート,beadwork,bead art,art or craft made with beads
 カーボローディング,カーボ・ローディング,carbohydrate loading,carb loading,glycogen loading
 アイドル前髪,アイドルまえがみ,idol bangs,hairstyle in which the bangs are trimmed just above the eyes and styled with a slight curl, gently swept to the side, commonly worn by Japanese  idols
 循環級数,じゅんかんきゅうすう,recurring series
@@ -211534,7 +211536,9 @@
 混成軌道,こんせいきどう,hybrid orbital,hybridized orbital
 引っ括めて,引っくるめて,ひっくるめて,all in all,all together,altogether
 足で稼ぐ,脚で稼ぐ,あしでかせぐ,to obtain results through legwork,to walk around to gather information,to rely on active effort
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-28
+にこにこペース,niko niko pace,very slow, comfortable jogging speed that allows a runner to easily smile, chat, or sing without feeling out of breath
+市場町,いちばまち,town that developed around a market,market town
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-29
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
