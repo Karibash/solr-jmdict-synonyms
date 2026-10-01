@@ -37152,7 +37152,7 @@
 喪失,そうしつ,loss,forfeit
 喪主,もしゅ,chief mourner
 喪章,もしょう,mourning band,mourning ribbon
-喪神,喪心,そうしん,absent-mindedness,stupor,stupefaction,abstraction,being stunned,fainting
+喪神,喪心,そうしん,absent-mindedness,stupor,stupefaction,abstraction,being stunned,devastation,fainting
 喪中,もちゅう,in mourning
 喪服,もふく,mourning clothes,mourning attire,mourning dress
 壮快,そうかい,emotionally uplifting,stirring
@@ -43494,7 +43494,7 @@
 入り掛ける,入りかける,いりかける,to be about to enter
 入り込み,いりごみ,coming in together,unreserved seats for the public
 入り込む,入りこむ,這入り込む,はいりこむ,いりこむ,to go into,to come into,to penetrate,to get in,to step in,to become complicated
-入り浸り,いりびたり,frequenting,staying around
+入り浸り,入りびたり,いりびたり,frequenting,staying around,haunting
 入り浸る,入りびたる,入浸る,いりびたる,to stay long,to hang around,to hang out,to frequent,to be immersed  for a long time,to soak
 入り組む,いりくむ,to become complicated,to become intricate,to become tangled
 入り替わる,いりかわる,to change places,to relieve
@@ -211541,7 +211541,10 @@
 市場町,いちばまち,town that developed around a market,market town
 遺存,いそん,surviving,remaining,persisting
 ダブルダブル,ダブル・ダブル,double-double
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-09-30
+ＬＮＧ船,エルエヌジーせん,LNG carrier,LNG tanker,liquefied natural gas carrier
+ムエット,ムイエット,perfume blotter
+トリプルダブル,トリプル・ダブル,triple-double
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-01
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
