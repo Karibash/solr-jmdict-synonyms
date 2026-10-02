@@ -30328,7 +30328,7 @@
 手足,てあし,しゅそく,hands and feet,limbs,person at one's beck and call,person at hand,reliable worker
 手袋,手ぶくろ,てぶくろ,glove,mitten,mitt
 手探り,手さぐり,てさぐり,fumbling,groping
-手段,しゅだん,means,way,measure
+手段,しゅだん,means,way,method,measure
 手遅れ,手後れ,手おくれ,ておくれ,being too late,losing one's final chance
 手中にする,しゅちゅうにする,to get hold of,to take possession of,to seize
 手直し,てなおし,adjustment,tweaking,improvement,modification,tinkering,minor alteration,correction
@@ -31347,7 +31347,7 @@
 出迎える,でむかえる,to meet,to greet
 出撃,しゅつげき,sortie,sally,attack
 出欠,しゅっけつ,attendance,presence and absence,attendance and non-attendance
-出血,しゅっけつ,bleeding,haemorrhage,hemorrhage,bleeding money,red ink,selling below cost,casualties,losses,sacrifices
+出血,しゅっけつ,bleeding,haemorrhage,hemorrhage,bleed,bleeding money,red ink,selling below cost,casualties,losses,sacrifices
 出血過多,しゅっけつかた,excessive bleeding
 出血死,しゅっけつし,bleeding to death
 出血症,しゅっけつしょう,bleeder's affliction
@@ -46729,7 +46729,7 @@
 武力政治,ぶりょくせいじ,power politics
 武力戦,ぶりょくせん,armed conflict
 武烈,ぶれつ,military merit
-舞い込む,まいこむ,to come fluttering in,to come dancing in,to drop in unexpectedly,to happen unexpectedly
+舞い込む,舞いこむ,まいこむ,to come fluttering in,to come dancing in,to drop in unexpectedly,to happen unexpectedly
 舞い上がる,舞いあがる,舞上がる,舞い上る,舞上る,まいあがる,to soar,to fly high,to be whirled up,to make merry,to be ecstatic,to be in high spirits
 舞い戻る,舞戻る,まいもどる,to come back,to return
 舞う,まう,to dance,to whirl,to flutter,to swirl,to fly,to circle,to wheel
@@ -50866,7 +50866,7 @@
 誘惑,ゆうわく,temptation,allurement,lure,enticement,seduction
 誘惑物,ゆうわくもの,lure
 遊ばせ言葉,あそばせ言葉,あそばせことば,polite language used by women
-遊び,あそび,play,playing,game,pleasure,amusement,pastime,recreation,diversion,play,flexibility,freedom,flyleaf
+遊び,あそび,play,playing,game,pleasure,amusement,pastime,recreation,diversion,play,slack,flexibility,freedom,flyleaf
 遊び場,あそびば,playground,play space
 遊び心,遊びゴコロ,遊びごころ,あそび心,遊心,あそびごころ,あそびゴコロ,playfulness,playful mood,imaginativeness
 遊び人,あそび人,あそびにん,playboy,libertine,profligate,debauchee,gambler,person without a steady job,idler,freeloader
@@ -51320,7 +51320,7 @@
 要旨,ようし,point,gist,key points,essentials,substance,summary,outline,abstract
 要請,ようせい,appeal,call for something,request,claim,demand,axiom
 要石,かなめいし,keystone
-要素,ようそ,component,factor,item,element,member
+要素,ようそ,element,component,factor,item,element,member
 要点,ようてん,gist,main point
 要望,ようぼう,demand for,request
 要目,ようもく,syllabus,main items
@@ -55076,7 +55076,7 @@
 生き方,いきかた,way of life,how to live
 生き字引,生き字引き,生字引,いきじびき,walking encyclopedia,walking dictionary
 意気揚々,意気揚揚,いきようよう,triumphant,exultant,in high and proud spirits
-行き渡る,行きわたる,行渡る,いきわたる,ゆきわたる,to diffuse,to spread throughout,to prevail,to become widespread,to reach everyone
+行き渡る,行きわたる,行渡る,いき渡る,ゆき渡る,いきわたる,ゆきわたる,to diffuse,to spread throughout,to prevail,to become widespread,to reach everyone
 戦,軍,兵,いくさ,war,battle,campaign,fight,troops,forces
 育成,育生,いくせい,rearing,training,nurture,cultivation,promotion
 幾ばくもなく,幾許もなく,幾何もなく,幾ばくも無く,幾許も無く,幾何も無く,いくばくもなく,not long after,before long
@@ -83189,7 +83189,6 @@
 封を切る,ふうをきる,to break the seal
 深い愛情,ふかいあいじょう,deep affection,devotion,profound attachment
 深い関係,ふかいかんけい,close connection,deep involvement,close relationship
-深い霧,ふかいきり,thick fog,dense fog
 不覚を取る,不覚をとる,ふかくをとる,to suffer an embarrassing defeat
 不活性化,ふかっせいか,inactivation
 深緑色,ふかみどりいろ,dark  green
@@ -211537,14 +211536,14 @@
 混成軌道,こんせいきどう,hybrid orbital,hybridized orbital
 引っ括めて,引っくるめて,ひっくるめて,all in all,all together,altogether
 足で稼ぐ,脚で稼ぐ,あしでかせぐ,to obtain results through legwork,to walk around to gather information,to rely on active effort
-にこにこペース,niko niko pace,very slow, comfortable jogging speed that allows a runner to easily smile, chat, or sing without feeling out of breath
+ニコニコペース,にこにこペース,slow, comfortable jogging speed
 市場町,いちばまち,town that developed around a market,market town
 遺存,いそん,surviving,remaining,persisting
 ダブルダブル,ダブル・ダブル,double-double
 ＬＮＧ船,エルエヌジーせん,LNG carrier,LNG tanker,liquefied natural gas carrier
 ムエット,ムイエット,perfume blotter
 トリプルダブル,トリプル・ダブル,triple-double
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-01
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-02
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
