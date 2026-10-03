@@ -84,7 +84,7 @@
 うん,ウン,うむ,ううむ,う～ん,うんっ,ウ〜ン,yes,yeah,uh huh,hum,hmmm,well,erm,huh?,oof
 うんこ,ウンコ,poop,poo,faeces,feces,crap,trash,garbage
 うんざり,ウンザリ,tedious,boring,being fed up with
-ウンチ,うんち,poo,poop,doo-doo,caca,whoopsie
+ウンチ,うんち,poo,poop,doo-doo,caca,number two,whoopsie
 鱝,鱏,海鷂魚,えい,エイ,ray
 ええ,えー,え〜,えーー,えーっ,yes,that is correct,right,um,errr,well,huh?,grrr,gah,must I?,good
 えっと,えと,えーと,えーっと,え〜と,ええと,ええっと,えーーっと,えーーーっと,えーーーーっと,let me see,well,errr,uhh
@@ -18930,7 +18930,7 @@
 刈り込む,刈込む,刈りこむ,かりこむ,to prune,to trim,to cut back,to clip,to reap  and put into storage,to harvest,to prune,to cut down
 刈り根,かりね,stubble
 刈り取り機,かりとりき,reaping machine
-刈り取る,刈取る,かりとる,to mow,to reap,to harvest
+刈り取る,刈取る,刈りとる,かりとる,to mow,to reap,to harvest,to eradicate,to root out,to remove
 刈り手,かりて,mower,reaper
 刈り上げる,刈上げる,刈りあげる,かりあげる,to harvest all of,to reap completely,to finish cutting,to taper  at the back,to cut hair so that it gradually gets shorter at the back of the head
 刈り跡,かりあと,cut-over land
@@ -26781,7 +26781,7 @@
 査閲,さえつ,inspection,examination
 査察,ささつ,inspection,investigation
 査証,さしょう,visa,endorsing,stamping
-査定,さてい,assessment,revision
+査定,さてい,assessment,scrutiny,revision
 査読,さどく,peer review,refereeing
 査問,さもん,inquiry,enquiry,hearing
 沙汰,さた,affair,state,incident,issue,matter,verdict,sentence,directions,orders,command,instructions,notice,information,communication,news,message,tidings,update
@@ -51036,7 +51036,7 @@
 予令,よれい,preparatory command
 予鈴,よれい,bell signalling that work, class, etc. will formally begin shortly,first bell,warning bell
 予饌会,よせんかい,farewell meeting,send-off
-余,餘,よ,other,another,remaining,leftover,over,more than,I,me
+余,餘,よ,other,another,remaining,leftover,over,more than,I,me,we
 余し物,あましもの,something not needed,person who is in the way
 余す,剰す,あます,to save,to leave over,to spare
 余すところなく,余す所なく,余す所無く,あますところなく,fully,thoroughly
@@ -58529,7 +58529,7 @@
 土偶,どぐう,earthen figure,clay figure,dogū,clay figurines from the late Jōmon period
 道破,どうは,declaration
 胴衣,どうい,padded, sleeveless undergarment,vest
-土方,どかた,つちかた,construction worker,laborer,navvy
+土方,どかた,つちかた,construction worker,laborer,labourer,navvy
 銅鉱,どうこう,copper ore
 毒牙,どくが,poison fang,sinister ways,crooked means,clutches,wily ways,dirty trick
 毒ガス,どくガス,poison gas
@@ -184962,7 +184962,7 @@
 基本賃金,きほんちんぎん,basic wage,regular wage,wages before subtractions or additions
 参加型,さんかがた,participatory,participating,hands-on
 キョフテ,コフテ,kofte
-予,よ,I,me
+予,よ,I,me,we
 六十の三つ子,ろくじゅうのみつご,an old man is twice a child
 針の穴から天覗く,針の穴から天のぞく,はりのあなからてんのぞく,to have a narrow view of things,to peek at the sky through the eye of a needle
 諦めの境地,あきらめの境地,あきらめのきょうち,point where one has to accept one's fate,point where one has to give up,state of resignation,resigned state
@@ -211543,7 +211543,14 @@
 ＬＮＧ船,エルエヌジーせん,LNG carrier,LNG tanker,liquefied natural gas carrier
 ムエット,ムイエット,perfume blotter
 トリプルダブル,トリプル・ダブル,triple-double
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-02
+速度警告音,そくどけいこくおん,speed warning sound,speed warning chime
+キンコン,ding-dong,chime,speed warning chime,speed chime
+ヘホ,person attracted to  cross-dressers,person attracted to femboys,person attracted to trans women
+女装子,じょそこ,male-to-female crossdresser,male crossdresser,femboy
+波乱含み,波瀾含み,波乱ぶくみ,波瀾ぶくみ,はらんぶくみ,fraught with uncertainty,likely to be turbulent,unpredictable,volatile,unstable,stormy
+閉経周辺期,へいけいしゅうへんき,perimenopause
+秋田美人,あきたびじん,Akita beauty
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-03
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
