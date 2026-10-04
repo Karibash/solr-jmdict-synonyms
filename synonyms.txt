@@ -15963,7 +15963,7 @@
 鉛,なまり,lead
 鉛管,えんかん,lead pipe
 鉛色,なまりいろ,lead colour,lead color
-鉛製,えんせい,leaden,made of lead
+鉛製,なまりせい,えんせい,leaden,made of lead
 鉛中毒,なまりちゅうどく,えんちゅうどく,lead poisoning
 鉛直,えんちょく,upright,vertical,perpendicular
 鉛毒,えんどく,toxic substance in lead,lead poisoning
@@ -39456,7 +39456,7 @@
 着番号,きばんごう,incoming  number
 着服,ちゃくふく,ちゃくぶく,ちゃくぼく,embezzlement,misappropriation,pocketing,dressing oneself,putting on clothes
 着払い,着払,ちゃくばらい,payment on delivery,cash on delivery,COD
-着物,きもの,kimono,Japanese traditional clothing,clothing,clothes
+着物,著物,きもの,kimono,Japanese traditional clothing,clothing,clothes
 着物姿,きものすがた,dressed in a kimono
 着目,ちゃくもく,attention,giving one's attention,focusing
 着用,ちゃくよう,wearing,having on
@@ -43400,7 +43400,7 @@
 日米安全保障条約,にちべいあんぜんほしょうじょうやく,US-Japan Security Treaty
 日米貿易,にちべいぼうえき,trade between Japan and USA
 日歩,ひぶ,daily interest,daily rate
-日暮れ,日ぐれ,日暮,ひぐれ,twilight,sunset,dusk,evening
+日暮れ,日暮,日ぐれ,ひぐれ,twilight,sunset,dusk,evening
 日報,にっぽう,daily report
 日没,にちぼつ,sunset
 日本画,にほんが,Japanese-style painting,picture in Japanese style,nihon-ga
@@ -59801,7 +59801,7 @@
 勤労者財産形成促進,きんろうしゃざいさんけいせいそくしん,asset formation
 半濁点,はんだくてん,handakuten,diacritic used with kana that turns an "h" sound into a "p" sound
 半濁音符,はんだくおんぷ,handakuten,diacritic used with kana that turns an "h" sound into a "p" sound
-ニューハーフ,ニュー・ハーフ,crossdresser,transvestite,drag queen,trans woman
+ニューハーフ,ニュー・ハーフ,crossdresser,drag queen,trans woman
 ならず者,成らず者,破落戸,ならずもの,ruffian,scoundrel,rogue,rascal,villain,hoodlum,thug
 リニューアル,リニュアル,renewal,renovation,overhaul,update,repair,improvement
 腹減った,はらへった,I'm hungry
@@ -100129,7 +100129,7 @@
 朝鮮事変,ちょうせんじへん,Korean War
 足がある,脚がある,あしがある,to have legs,to be able to get around,to be a good runner
 生活振り,せいかつぶり,way of life
-交通戦争,こうつうせんそう,chaos on the roads,traffic war
+交通戦争,こうつうせんそう,chaos on the roads,high incidence of road traffic casualties,traffic war
 ごね得,ゴネ得,ごねどく,ゴネどく,getting what one wants by complaining or grumbling,profiting by holding out or taking a hard line,getting more by raising a ruckus
 上前をはねる,上前を撥ねる,うわまえをはねる,to take a commission,to take a cut,to take a piece of the action,to take a kickback
 業務上横領,ぎょうむじょうおうりょう,corporate embezzlement
@@ -110179,7 +110179,7 @@
 防衛戦,ぼうえいせん,defensive battle
 防衛線,ぼうえいせん,line of defence,lines
 細かいこと,細かい事,こまかいこと,trifles,minor details
-わい,わえ,indicates emotion
+わい,わえ,indicates emotion or exclamation,hey,you
 トンキン湾事件,トンキンわんじけん,Gulf of Tonkin incident
 自今以後,じこんいご,henceforth,henceforward,hereafter
 馬鹿たれ,馬鹿タレ,馬鹿垂れ,ばかたれ,バカタレ,バカたれ,blithering idiot,bloody fool,total moron,dimwit
@@ -150278,7 +150278,7 @@
 でもしか,for lack of anything better to do
 薬物投与,やくぶつとうよ,drug administration,giving of a drug,medication
 だって,after all,because,but,even,too,as well,also,they say,I hear,you mean
-たって,even if,even though,although one might say,although called
+たって,ったって,even if,even though,although one might say,although called
 重軽傷者,じゅうけいしょうしゃ,injured persons,people with serious and minor injures
 大手柄,おおてがら,glorious achievement,distinguished service
 でもしか先生,でもしかせんせい,someone who became a teacher for lack of anything better to do
@@ -163180,7 +163180,7 @@
 ニュースピーク,newspeak
 バニング,バンニング,loading goods on a truck,remodelling a station wagon, light van, etc.
 デバンニング,デバニング,unloading goods from a container truck
-ローリング族,ローリングぞく,illegal street racers
+ローリング族,ローリングぞく,illegal mountain-road racers,illegal road racers
 ドリフト走行,ドリフトそうこう,drift driving,drifting
 パッケージライセンス,パッケージ・ライセンス,package license
 言葉に鞘がある,ことばにさやがある,to be evasive,to be not entirely truthful,to not be frank
@@ -181481,7 +181481,7 @@
 さびた,サビタ,panicled hydrangea,peegee hydrangea
 試遊,しゆう,test-playing,playing a demo
 試遊台,しゆうだい,in-store video game installation
-矢も盾もたまらず,矢も盾も堪らず,やもたてもたまらず,unable to stay still,unable to contain one's feelings,unable to restrain oneself
+矢も盾もたまらず,矢も楯もたまらず,矢も盾も堪らず,やもたてもたまらず,unable to stay still,unable to contain one's feelings,unable to restrain oneself
 縦巻き,たてまき,longitudinal winding,curling
 アクションパズル,アクション・パズル,action puzzle game
 アクションパズルゲーム,アクション・パズル・ゲーム,action puzzle game
@@ -200741,7 +200741,7 @@
 オーストラリアンフットボール,オーストラリアン・フットボール,Australian rules football,Australian football,Aussie rules
 ガジェオタ,gadget nerd,gadget geek
 おなら恐怖症,おならきょうふしょう,pathological fear of passing wind
-日暮れ時,日暮れどき,ひぐれどき,twilight
+日暮れ時,日暮れどき,日暮時,ひぐれどき,twilight
 品質チェック,ひんしつチェック,quality check,quality inspection,quality assurance
 ハンガーボード,ハンガー・ボード,pegboard
 フルサポート,フル・サポート,full support
@@ -211550,7 +211550,8 @@
 波乱含み,波瀾含み,波乱ぶくみ,波瀾ぶくみ,はらんぶくみ,fraught with uncertainty,likely to be turbulent,unpredictable,volatile,unstable,stormy
 閉経周辺期,へいけいしゅうへんき,perimenopause
 秋田美人,あきたびじん,Akita beauty
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-03
+フーデリ,food delivery
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-04
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
