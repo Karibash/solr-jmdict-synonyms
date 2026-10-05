@@ -9774,7 +9774,7 @@
 フォード,ford,Ford
 フォーナイン,フォー・ナイン,four nines
 フォーヴィスム,フォービスム,Fauvism
-フォーマッタ,formatter
+フォーマッタ,フォーマッター,formatter
 フォーマッティング,フォーマティング,formatting
 フォーマット,format,form,format,formatting,format
 フォーマル,formal
@@ -45160,7 +45160,7 @@
 卑劣漢,ひれつかん,mean bastard,sneak,heel,despicable person
 卑猥,卑わい,鄙猥,ひわい,indecent,obscene
 卑陋,鄙陋,ひろう,low rank,wickedness,vulgarity
-否,ひ,no,the noes
+否,ひ,disapproval,disagreement,no,the noes,not,dis-,un-
 否か応か,ひかおうか,yes or no
 否でも応でも,嫌でも応でも,いやでも応でも,いやでもおうでも,whether one likes it or not,whether willing or not,willy-nilly
 嫌というほど,嫌と言う程,嫌と言うほど,イヤと言うほど,いやと言うほど,嫌という程,イヤという程,いやという程,イヤと言う程,いやと言う程,厭というほど,厭と言うほど,否というほど,否と言うほど,いやというほど,イヤというほど,enough,too much,bitterly,extremely,keenly
@@ -70657,7 +70657,7 @@
 山ほど,山程,やまほど,lots of,a ton of,a mountain of,piles of,heaps of,so many,so much
 山越え,やまごえ,crossing a mountain
 山おろし,山颪,やまおろし,wind blowing down from a mountain
-山間,山あい,山合い,やまあい,やまま,valley,ravine,glen,gorge
+山間,山あい,山合い,やまあい,the mountains,the mountains,the mountains,mountain valley
 山開き,やまびらき,start of the mountain-climbing season
 山塊,さんかい,mountain mass,massif
 山稜,さんりょう,mountain ridge
@@ -158867,7 +158867,7 @@
 懺法,せんぼう,penitence by chanting sutras,confession,Tendai ritual of chanting Lotus Sutra or to Kanzeon, Amida, or Kichijoten for forgiveness of sins performed unknowingly,penitence sutra,guidebook to penitence
 光琳派,こうりんは,Korin school,Rimpa school
 琳派,りんぱ,Rimpa school
-九州男児,きゅうしゅうだんじ,strapping Kyushu lad,virile son of Kyushu
+九州男児,きゅうしゅうだんじ,man born and raised in Kyushu,Kyushu man
 オーバースペック,overspec,over-engineered,overqualified
 翠黛,すいたい,green eyebrow makeup,green-shaded eyebrows,hazy green
 大原女,おはらめ,おおはらめ,woman peddler in Kyoto from Ohara
@@ -164045,7 +164045,7 @@
 雪を欺く,ゆきをあざむく,to be as white as snow
 島外,とうがい,off an island,away from an island,off-island
 内紫,うちむらさき,purple Washington clam,type of pomelo with red-purple flesh
-藪虱,やぶじらみ,ヤブジラミ,erect hedge parsley,Japanese hedge parsley,upright hedge parsley
+藪虱,藪蝨,ヤブジラミ,やぶじらみ,erect hedge parsley,Japanese hedge parsley,upright hedge parsley
 九輪草,くりんそう,クリンソウ,Japanese primrose
 形質人類学,けいしつじんるいがく,physical anthropology
 胡同,フートン,こどう,hutong
@@ -211502,6 +211502,7 @@
 逆プロポーズ,ぎゃくプロポーズ,marriage proposal from a woman to her male partner
 饅,まん,manjū
 ゲームメイク,ゲームメーク,ゲーム・メイク,ゲーム・メーク,game management,playmaking,controlling the game
+ラッキーホール,ラッキー・ホール,hole in a wall or partition for sexual activity,glory hole
 政府当局,せいふとうきょく,government authorities
 既セク,きセク,キセク,already having had sex,previous sexual partner
 未セク,みセク,ミセク,not yet having had sex,person one hasn't yet slept with
@@ -211534,9 +211535,12 @@
 ヤード,yard,working area,vehicle dismantling yard,vehicle dismantling facility,classification yard,marshalling yard,switchyard
 ＬＮＧタンカー,エルエヌジータンカー,LNG tanker,LNG carrier,liquefied natural gas carrier
 混成軌道,こんせいきどう,hybrid orbital,hybridized orbital
+死文化,しぶんか,becoming a dead letter,becoming meaningless
+天文科学館,てんもんかがくかん,astronomical science museum,planetarium
 引っ括めて,引っくるめて,ひっくるめて,all in all,all together,altogether
 足で稼ぐ,脚で稼ぐ,あしでかせぐ,to obtain results through legwork,to walk around to gather information,to rely on active effort
 ニコニコペース,にこにこペース,slow, comfortable jogging speed
+タピオカパール,タピオカ・パール,pearl tapioca,tapioca pearls
 市場町,いちばまち,town that developed around a market,market town
 遺存,いそん,surviving,remaining,persisting
 ダブルダブル,ダブル・ダブル,double-double
@@ -211551,7 +211555,9 @@
 閉経周辺期,へいけいしゅうへんき,perimenopause
 秋田美人,あきたびじん,Akita beauty
 フーデリ,food delivery
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-04
+頭師,かしらし,doll head maker,doll head artisan
+カワイイメタル,kawaii metal,idol metal,genre that blends heavy metal instrumentation with bubbly J-pop melodies and Japanese idol aesthetics
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-05
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
