@@ -900,7 +900,7 @@
 ぱくぱく,パクパク,repeatedly opening and closing,gasping,flapping,gaping open and shut,heartily,devouring,munching,gobbling
 ぱちくり,パチクリ,blinking
 パチッ,ぱちっ,with a snap,with a flick,with a clack,with a whap,wide-eyed,with a flick,with a blink,opened wide,with a crackle,with a rustle,with a burst
-パクリ,ぱくり,ぱっくり,パックリ,ばっくり,パクり,gaping,wide,snapping up,biting into,gobbling up,plagiarism,rip-off,lifting,cribbing
+パクリ,ぱっくり,ぱくり,パクり,パックリ,ばっくり,ばくり,gaping,wide,wide open,snapping up,biting into,gobbling up
 パッチリ,ぱっちり,wide open,large and bright
 パッと,ぱっと,パっと,suddenly,in a flash,quickly,rapidly,swiftly,nimbly,conspicuously,prominently,showily,attractively,impressively
 パリパリ,ぱりぱり,crispy,crunchy,tearing,ripping,cracking,spirited,energetic,vigorous,brand-new and high quality,well-starched,crisp
@@ -21933,7 +21933,7 @@
 務まる,勤まる,つとまる,to be fit,to be qualified,to be equal,to be able to fulfill one's duties
 勤め,務め,つとめ,service,duty,business,responsibility,task,Buddhist religious services
 努める,勉める,力める,つとめる,to endeavor,to endeavour,to try hard,to work hard,to strive,to make an effort,to exert oneself,to devote oneself,to be committed
-勤める,つとめる,to work,to be employed,to serve,to finish,to serve,to serve out,to conduct,to perform,to pratice,to study
+勤める,つとめる,to work,to be employed,to serve,to finish,to serve,to serve out,to conduct,to perform,to practice,to study
 勤め気,つとめぎ,mercenary spirit
 勤め口,つとめぐち,position,place of employment
 勤め向き,つとめむき,one's business,one's duties
@@ -87040,7 +87040,7 @@
 捌け,はけ,drainage,draining,sales
 三和音,さんわおん,triad
 山雀,やまがら,ヤマガラ,varied tit
-山百合,やまゆり,ヤマユリ,golden-rayed lily
+山百合,山ゆり,山ユリ,やまゆり,ヤマユリ,golden-rayed lily
 山歩き,やまあるき,mountain-walking,hiking
 山砲,さんぽう,mountain gun
 石女,産まず女,不生女,うまずめ,せきじょ,しゃくにょ,barren woman,sterile woman
@@ -148648,8 +148648,8 @@
 核燃料プール,かくねんりょうプール,nuclear fuel storage pool
 うっ血除去薬,鬱血除去薬,うっけつじょきょやく,decongestant
 高速車線,こうそくしゃせん,high-speed lane,fast lane
-高カロリー輸液,こうカロリーゆえき,high-calorie infusion,total parenteral nutrition
-高血糖,こうけっとう,hyperglycemia,hyperglycaemia
+高カロリー輸液,こうカロリーゆえき,high-calorie infusion,total parenteral nutrition,TPN
+高血糖,こうけっとう,hyperglycemia,hyperglycaemia,high blood sugar
 高カリウム血症,こうカリウムけっしょう,hyperkalemia,hyperpotassemia
 高ナトリウム血症,こうナトリウムけつしょう,hypernatremia
 高ビリルビン血症,こうビリルビンけつしょう,hyperbilirubinemia
@@ -211556,8 +211556,12 @@
 秋田美人,あきたびじん,Akita beauty
 フーデリ,food delivery
 頭師,かしらし,doll head maker,doll head artisan
+パクリ,パクり,ぱくり,snatching,stealing,pilfering,shoplifting,plagiarism,rip-off,lifting,cribbing
 カワイイメタル,kawaii metal,idol metal,genre that blends heavy metal instrumentation with bubbly J-pop melodies and Japanese idol aesthetics
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-05
+正宮,しょうぐう,main shrine
+超知能,ちょうちのう,superintelligence
+塵雲,じんうん,dust cloud
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-06
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
