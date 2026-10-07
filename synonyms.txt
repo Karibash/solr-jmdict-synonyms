@@ -133695,7 +133695,7 @@
 疣鯛,いぼだい,イボダイ,エボダイ,Japanese butterfish,melon seed
 雀の稗,すずめのひえ,スズメノヒエ,Japanese paspalum
 西洋箱柳,せいようはこやなぎ,セイヨウハコヤナギ,Lombardy poplar
-猩猩草,しょうじょうそう,ショウジョウソウ,Mexican fireplant
+猩々草,猩猩草,ショウジョウソウ,しょうじょうそう,Mexican fireplant,painted euphorbia,Japanese poinsettia
 一等鯛,いっとうだい,イットウダイ,North Pacific squirrelfish
 パラゴムの木,パラゴムのき,パラゴムノキ,Para rubber tree
 三井寺歩行虫,三井寺芥虫,みいでらごみむし,ミイデラゴミムシ,Pheropsophus jessoensis
@@ -175695,7 +175695,7 @@
 夢を追う,ゆめをおう,to go after one's dreams,to follow one's dreams,to pursue one's dreams
 縦中横,たてちゅうよこ,using horizontal characters in vertical writing
 メンヘラ,メンヘラー,nutjob,mental job,lunatic,mentally troubled person
-ぜ,I can tell you,heh
+ぜ,adds light emphasis or insistence to a statement,gives a statement a threatening or condescending tone
 南蛮宗,なんばんしゅう,Christianity
 南蛮寺,なんばんじ,Christian churches built in Japan in the second half of the 16th century
 キリシタン寺,キリシタンでら,Christian churches built in Japan in the second half of the 16th century
@@ -211559,9 +211559,11 @@
 パクリ,パクり,ぱくり,snatching,stealing,pilfering,shoplifting,plagiarism,rip-off,lifting,cribbing
 カワイイメタル,kawaii metal,idol metal,genre that blends heavy metal instrumentation with bubbly J-pop melodies and Japanese idol aesthetics
 正宮,しょうぐう,main shrine
+省印,しょういん,ministry seal
 超知能,ちょうちのう,superintelligence
 塵雲,じんうん,dust cloud
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-06
+アンフェ,anti-feminist
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-07
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
