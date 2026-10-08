@@ -3634,7 +3634,7 @@
 キャッシュレス,cashless
 キャッシング,caching
 キャッスル,castle
-キャッチ,catch,catching,obtaining,receiving,catch,shop tout,puller-in,catching,catching the water,catcher,call waiting
+キャッチ,catch,catching,obtaining,receiving,catch,shop tout,puller-in,catching,catching the water,catcher,call waiting,tout
 キャッチセールス,キャッチ・セールス,unscrupulous sales practice involving expensive hard-to-break contracts
 キャッチバー,キャッチ・バー,clip joint
 キャッチフレーズ,catchphrase
@@ -22808,7 +22808,7 @@
 兄,あに,older brother,elder brother,brother-in-law
 兄さん,にいさん,あにさん,older brother,elder brother,brother,young man,buddy,fella,laddie
 兄嫁,嫂,あによめ,elder brother's wife,sister-in-law
-兄貴,あにき,アニキ,elder brother,one's senior,older man,man older than oneself
+兄貴,あにき,アニキ,elder brother,big brother,one's senior,one's elder,big bro,old ingredients,stale ingredients,older masculine man,top,older man,man older than oneself
 兄御,あにご,elder brother,older brother
 兄姉,けいし,きょうだい,older brother and older sister
 兄弟,きょうだい,brothers and sisters,siblings,half-siblings,step-siblings,siblings by marriage or adoption,mate,friend
@@ -68732,7 +68732,7 @@
 題簽,だいせん,slip of paper bearing a book's title
 適不適,てきふてき,suitability
 適正利潤,てきせいりじゅん,reasonable profit
-適正価格,てきせいかかく,fair or reasonable price
+適正価格,てきせいかかく,fair price,reasonable price
 適地,てきち,suitable place
 適作,てきさく,suitable crop
 適役,てきやく,being suited to a role,being the right person for the job,suitable role,suitable position,fitting part,well-cast role
@@ -81101,7 +81101,7 @@
 甲骨文,こうこつぶん,oracle bone script
 後昆,こうこん,grandchildren,posterity
 光彩陸離,こうさいりくり,dazzling,brilliant,resplendent
-尻座,こうざ,crouching
+尻座,尻坐,こうざ,sitting and hugging one's knees,sitting down,crouching
 絞罪,こうざい,execution by hanging,hanging
 皇嗣,こうし,Imperial heir,Crown Prince
 購書,こうしょ,purchased books,purchasing books
@@ -101752,7 +101752,7 @@
 十死一生,じっしいっしょう,narrow escape from the jaws of death,cheating death,there being barely a chance of escaping death,life-threatening danger
 字引学問,じびきがくもん,superficial learning,book learning,merely knowing the meanings of a large number of individual words
 杓子果報,しゃくしかほう,coming by ample servings of delicious food,being blessed with good fortune
-精霊飛蝗,精霊バッタ,ショウリョウバッタ,しょうりょうばった,Oriental longheaded locust
+精霊飛蝗,精霊バッタ,精霊蝗虫,ショウリョウバッタ,しょうりょうばった,Oriental longheaded locust
 リハ,rehearsal,rehabilitation
 マルカート,marcato
 蛇心仏口,じゃしんぶっこう,being cunning and spiteful, yet honey-tongued with feigned kindness
@@ -211556,6 +211556,7 @@
 秋田美人,あきたびじん,Akita beauty
 フーデリ,food delivery
 頭師,かしらし,doll head maker,doll head artisan
+掌部,しょうぶ,palm,palmar area,metacarpal,metacarpus
 パクリ,パクり,ぱくり,snatching,stealing,pilfering,shoplifting,plagiarism,rip-off,lifting,cribbing
 カワイイメタル,kawaii metal,idol metal,genre that blends heavy metal instrumentation with bubbly J-pop melodies and Japanese idol aesthetics
 正宮,しょうぐう,main shrine
@@ -211563,7 +211564,12 @@
 超知能,ちょうちのう,superintelligence
 塵雲,じんうん,dust cloud
 アンフェ,anti-feminist
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-07
+三七草,山漆草,さんしちそう,サンシチソウ,Japanese Gynura
+小行李,しょうこうり,light supply unit
+パワーチャージ,パワー・チャージ,recharging one's batteries
+プロピオル酸,プロピオルさん,propiolic acid
+シャントリ,shampoo and treatment set
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-08
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
