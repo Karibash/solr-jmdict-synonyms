@@ -32273,7 +32273,7 @@
 小振り,小ぶり,こぶり,smallish,on the small side,somewhat small,undersized,small size,short swing of a bat, racquet, etc.
 小人,しょうにん,child
 小水,少水,しょうすい,urine,small amount of water
-小数,しょうすう,fraction,decimal fraction
+小数,しょうすう,small number,small amount,fraction,decimal fraction
 小数点,少数点,しょうすうてん,decimal point,radix point
 小生,しょうせい,I,me,my humble self
 小石,礫,こいし,pebble,small stone
@@ -83693,7 +83693,7 @@
 野猪,やちょ,wild boar
 家賃を溜める,やちんをためる,to let the rent fall into arrears
 奴ら,奴等,やつ等,ヤツ等,やつら,ヤツら,they,those guys
-雇い口,やといぐち,job,employment
+雇い口,やといぐち,job opening,employment opportunity
 野にある,野に在る,やにある,to be in opposition,to be in private life
 屋根に上がる,やねにあがる,to go up on the roof
 ヤブ蚊,やぶ蚊,薮蚊,藪蚊,豹脚蚊,やぶか,やぶっか,ヤブカ,Aedes,striped mosquito
@@ -211565,11 +211565,16 @@
 塵雲,じんうん,dust cloud
 アンフェ,anti-feminist
 三七草,山漆草,さんしちそう,サンシチソウ,Japanese Gynura
+燦点,さんてん,speculum
 小行李,しょうこうり,light supply unit
 パワーチャージ,パワー・チャージ,recharging one's batteries
 プロピオル酸,プロピオルさん,propiolic acid
 シャントリ,shampoo and treatment set
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-08
+星座早見盤,せいざはやみばん,planisphere
+ループエンジニアリング,ループ・エンジニアリング,loop engineering
+肺ペスト,はいペスト,pneumonic plague
+ヌードストッキング,ヌード・ストッキング,skin-colored stockings
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-09
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
