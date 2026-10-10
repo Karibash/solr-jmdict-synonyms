@@ -16026,7 +16026,7 @@
 甥,おい,nephew
 凹,おう,concave,hollow,sunken
 凹ます,へこます,to dent,to indent,to depress,to humiliate
-凹ませる,へこませる,to dent,to indent,to depress,to humiliate
+凹ませる,へこませる,to dent,to indent,to make hollow,to depress,to humiliate,to put someone in their place,to silence
 窪まる,凹まる,くぼまる,to cave in,to become depressed,to sink
 凹む,へこむ,to be dented,to be indented,to yield,to give,to sink,to collapse,to cave in,to be beaten,to be overwhelmed,to yield,to give in,to give up,to be disheartened,to feel down,to feel depressed,to suffer a loss,to lose
 凹める,くぼめる,to hollow out
@@ -44048,7 +44048,7 @@
 派,は,group,faction,clique,coterie,faction,wing,camp,school,sect,denomination
 派遣,はけん,dispatch,despatch,deployment,temporary employee,temporary worker,agency temp
 派手,はで,showy,loud,flashy,gaudy
-派生,はせい,derivation
+派生,はせい,derivation,development,offshoot
 派生語,はせいご,derivative
 派生的,はせいてき,derivative,secondary
 派閥,はばつ,clique,faction
@@ -69254,7 +69254,7 @@
 部将,ぶしょう,commanding officer
 部隊長,ぶたいちょう,commanding officer
 北太平洋,北大平洋,きたたいへいよう,North Pacific
-北方領土,ほっぽうりょうど,Southern Kuril Islands,Northern Territories
+北方領土,ほっぽうりょうど,Northern Territories,Southern Kuril Islands
 北欧神話,ほくおうしんわ,Norse mythology
 北洋漁業,ほくようぎょぎょう,northern-sea fisheries
 北限,ほくげん,northern limit
@@ -92011,7 +92011,7 @@
 何人様,なんびとさま,how many people
 何年生,なんねんせい,what grade
 家具調度,かぐちょうど,household furnishings
-家探し,家捜し,家さがし,いえさがし,やさがし,house hunting,searching an entire house,searching a house thoroughly
+家探し,家捜し,家さがし,いえさがし,house hunting
 歌いまくる,歌い捲る,うたいまくる,to sing energetically,to sing with abandon
 介する,かいする,to use as an intermediary,to worry,to mind,to care
 解きほぐす,解き解す,ときほぐす,to disentangle,to untangle,to unravel,to relax,to soften,to relieve,to remove
@@ -211556,6 +211556,7 @@
 秋田美人,あきたびじん,Akita beauty
 フーデリ,food delivery
 頭師,かしらし,doll head maker,doll head artisan
+家捜し,家探し,家さがし,やさがし,searching an entire house,searching a house thoroughly,house hunting
 掌部,しょうぶ,palm,palmar area,metacarpal,metacarpus
 パクリ,パクり,ぱくり,snatching,stealing,pilfering,shoplifting,plagiarism,rip-off,lifting,cribbing
 カワイイメタル,kawaii metal,idol metal,genre that blends heavy metal instrumentation with bubbly J-pop melodies and Japanese idol aesthetics
@@ -211563,6 +211564,7 @@
 省印,しょういん,ministry seal
 超知能,ちょうちのう,superintelligence
 塵雲,じんうん,dust cloud
+天弓,てんきゅう,rainbow
 アンフェ,anti-feminist
 三七草,山漆草,さんしちそう,サンシチソウ,Japanese Gynura
 燦点,さんてん,speculum
@@ -211571,10 +211573,13 @@
 プロピオル酸,プロピオルさん,propiolic acid
 シャントリ,shampoo and treatment set
 星座早見盤,せいざはやみばん,planisphere
+挟み紙,挟紙,はさみがみ,paper bookmark,protective paper between items
 ループエンジニアリング,ループ・エンジニアリング,loop engineering
 肺ペスト,はいペスト,pneumonic plague
 ヌードストッキング,ヌード・ストッキング,skin-colored stockings
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-09
+蝦夷梟,えぞ梟,蝦夷ふくろう,エゾフクロウ,えぞふくろう,Yezo Ural owl
+華北山椒,カホクザンショウ,かほくざんしょう,Sichuan pepper
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-10
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
