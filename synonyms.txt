@@ -16284,7 +16284,7 @@
 黄金国,おうごんこく,El Dorado,legendary land of wealth
 黄金時代,おうごんじだい,golden age
 黄金術,おうごんじゅつ,alchemy
-黄金色,こがねいろ,golden,gold-colored,gold-coloured,honey-colour
+黄金色,こがねいろ,golden,gold-colored,gold-coloured,honey-colored,honey-coloured
 黄金崇拝,おうごんすうはい,mammon worship
 黄金世界,おうごんせかい,utopia
 黄金万能,おうごんばんのう,the almighty dollar
@@ -40681,7 +40681,7 @@
 帝廟,ていびょう,imperial mausoleum
 帝命,ていめい,imperial order
 帝陵,ていりょう,imperial mausoleum
-底,そこ,bottom,sole
+底,そこ,bottom,sole,bed,depths,bottom,the heart,limit,end,extremities,bounds,bottom,bottom price
 底値,そこね,bottom price
 底知れぬ,そこしれぬ,bottomless,unlimited,immeasurable,inexhaustible
 底豆,そこまめ,blister,corn
@@ -40905,7 +40905,7 @@
 天為,てんい,providential,natural
 天衣,てんい,heavenly garment
 天衣無縫,てんいむほう,perfect beauty with no trace of artifice,flawless
-天井,てんじょう,ceiling,ceiling price,ceiling
+天井,てんじょう,ceiling,ceiling,ceiling price
 天井桟敷,天井棧敷,てんじょうさじき,gallery,upper gallery,cheap seats,nosebleed section,the gods
 天井知らず,てんじょうしらず,skyrocketing
 天井灯,てんじょうとう,ceiling light
@@ -43368,7 +43368,7 @@
 日光浴,にっこうよく,sunbathing,basking in the sun
 日向,日南,日なた,ひなた,sunny place,in the sun
 日豪,日濠,にちごう,Japan-Australia,Japanese-Australian
-日頃,日ごろ,ひごろ,usually,habitually,always,for a long time
+日頃,日ごろ,日比,日来,ひごろ,usual,normal,everyday,habitual,ordinary,daily,long,old,long-standing,for a long time,for a while
 日傘,ひがさ,parasol,sunshade
 日産,にっさん,daily output,Nissan
 日誌,にっし,journal,log
@@ -58120,7 +58120,7 @@
 対質,たいしつ,questioning accused and witness together
 対座,対坐,たいざ,sitting opposite each other
 卓立,たくりつ,prominent,standing out
-矯めつ眇めつ,ためつ眇めつ,ためつすがめつ,carefully,thoroughly,closely
+矯めつ眇めつ,ためつ眇めつ,矯めつすがめつ,ためつすがめつ,carefully,thoroughly,closely
 嘆美,歎美,たんび,admiration,adoration,extolling
 挺進,ていしん,going ahead of the others,advancing ahead of the main force
 摘取,てきしゅ,picking,plucking up
@@ -211577,9 +211577,12 @@
 ループエンジニアリング,ループ・エンジニアリング,loop engineering
 肺ペスト,はいペスト,pneumonic plague
 ヌードストッキング,ヌード・ストッキング,skin-colored stockings
+火浣布,かかんぷ,fireproof cloth
 蝦夷梟,えぞ梟,蝦夷ふくろう,エゾフクロウ,えぞふくろう,Yezo Ural owl
 華北山椒,カホクザンショウ,かほくざんしょう,Sichuan pepper
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-10
+見守りカメラ,みまもりカメラ,monitoring camera
+貝虫,かいむし,カイムシ,mussel shrimp,ostracod
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-11
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
