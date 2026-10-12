@@ -36984,7 +36984,7 @@
 組み込み,組込み,組込,くみこみ,cut-in,insertion,inclusion,built-in,predefined,embedded
 組み込む,組込む,組みこむ,くみ込む,くみこむ,to insert,to include,to incorporate,to install,to embed
 組み替え,組替え,組み換え,組換え,くみかえ,rearrangement,recomposition,recombination,reclassification
-組み替える,組み換える,組替える,組換える,くみかえる,to rearrange,to recompose,to reset,to recombine
+組み替える,組み換える,組みかえる,組替える,組換える,くみかえる,to rearrange,to recompose,to reset,to recombine
 組み入れる,組入れる,くみいれる,to incorporate,to work into,to insert
 組み付く,組みつく,組付く,くみつく,to grapple,to wrestle
 組み伏せる,組伏せる,くみふせる,to hold  down,to pin down,to wrestle to the ground
@@ -37345,7 +37345,7 @@
 相当数,そうとうすう,a considerable number,a fair number
 相等しい,あいひとしい,equal to each other
 相伴う,あいともなう,to accompany
-相反性,そうはんせい,reciprocal
+相反性,そうはんせい,opposition,incompatibility,reciprocity
 相反定理,そうはんていり,reciprocity theorem
 相反的,そうはんてき,reciprocal
 相変わらず,相変らず,あい変わらず,あい変らず,相かわらず,相不変,あいかわらず,as usual,as always,as before,as ever,still
@@ -61103,7 +61103,7 @@
 禁漁区,禁猟区,きんりょうく,game preserve,wildlife sanctuary
 襟度,きんど,magnanimity,generosity,welcoming personality
 襟懐,きんかい,inner thoughts,feelings
-耐え難い,耐えがたい,堪え難い,堪えがたい,耐難い,たえがたい,unbearable,intolerable,unendurable
+耐え難い,堪え難い,耐えがたい,堪えがたい,耐難い,たえがたい,unbearable,intolerable,unendurable
 泣き止む,泣きやむ,なきやむ,to stop crying,to cry oneself out
 故実,こじつ,こしつ,ancient practices,old customs
 客人,きゃくじん,caller,visitor,company,guest
@@ -75497,7 +75497,7 @@
 目打ち,めうち,perforation,perforator,prick punch,needle punch
 目の玉,目の球,眼の玉,眼の球,めのたま,eyeball
 目色,めいろ,facial expression
-目の色,めのいろ,eye color,eye colour
+目の色,眼の色,めのいろ,eye color,eye colour,expression,look,countenance,appearance
 目地,めじ,joint
 目早い,めばやい,sharp-eyed
 目角,めかど,corner of one's eye
@@ -193985,7 +193985,7 @@
 産近甲龍,産近甲竜,さんきんこうりゅう,Kyoto Sangyo University, Kindai University, Konan University and Ryukoku University
 ＭＡＲＣＨ,マーチ,Meiji University, Aoyama Gakuin University, Rikkyo University, Chuo University, and Hosei University
 大東亜帝国,だいとうあていこく,Daito Bunka University, Tokai University, Asia University, Teikyo University and Kokushikan University
-膣錠,ちつじょう,vaginal tablet
+膣錠,腟錠,ちつじょう,vaginal tablet,vaginal suppository
 撃ちまくる,撃ち捲る,うちまくる,to fire  ceaselessly,to fire away,to blaze away,to fire volley after volley
 おじいちゃん子,お爺ちゃん子,お祖父ちゃん子,おじいちゃんこ,child who is very close to their grandfather,child who is doted on by their grandfather
 転居届,てんきょとどけ,notification of one's change of address
@@ -211566,12 +211566,14 @@
 塵雲,じんうん,dust cloud
 天弓,てんきゅう,rainbow
 アンフェ,anti-feminist
+底を割る,そこを割る,そこをわる,to be frank,to open one's heart,to do truthfully,to break the bottom,to go below the bottom line
 三七草,山漆草,さんしちそう,サンシチソウ,Japanese Gynura
 燦点,さんてん,speculum
 小行李,しょうこうり,light supply unit
 パワーチャージ,パワー・チャージ,recharging one's batteries
 プロピオル酸,プロピオルさん,propiolic acid
 シャントリ,shampoo and treatment set
+サンタ,saint
 星座早見盤,せいざはやみばん,planisphere
 挟み紙,挟紙,はさみがみ,paper bookmark,protective paper between items
 ループエンジニアリング,ループ・エンジニアリング,loop engineering
@@ -211582,7 +211584,15 @@
 華北山椒,カホクザンショウ,かほくざんしょう,Sichuan pepper
 見守りカメラ,みまもりカメラ,monitoring camera
 貝虫,かいむし,カイムシ,mussel shrimp,ostracod
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-11
+ホモビデオ,ホモ・ビデオ,gay porn video,gay pornographic video
+ホモビ,gay porn video,gay pornographic video
+相反性神経支配,そうはんせいしんけいしはい,reciprocal innervation
+重力学,じゅうりょくがく,barodynamics
+メガイラ,Megaera
+チン騎士,チンきし,white knight,man who defends women online in hopes of sexual rewards
+アスカリ,askari
+レンドリース,レンド・リース,Lend-Lease
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-12
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
