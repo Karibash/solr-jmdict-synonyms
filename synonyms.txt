@@ -495,7 +495,7 @@
 じくじく,oozing,damp,sodden
 ジタバタ,じたばた,struggling,wriggling,floundering,flailing,to get into a panic,to make a fuss,to make a scene
 じっくり,carefully,without haste,thoroughly,deliberately,closely,meticulously
-凝乎と,じっと,じーっと,じーと,じいっと,motionlessly,still,fixedly,intently,patiently,stoically,firmly,restrained
+凝と,凝乎と,じっと,じーっと,じーと,じいっと,motionlessly,still,fixedly,intently,patiently,stoically,firmly,restrained
 じっと見る,じっとみる,to watch steadily,to stare
 じめじめ,ジメジメ,damp,humid,wet,clammy,muggy,soggy,gloomy,melancholy,depressing
 じゃあ,じゃ,then,well,so,well then
@@ -17213,7 +17213,7 @@
 夏野,なつの,summer fields
 夏炉冬扇,かろとうせん,summer fires and winter fans,useless things
 嫁,娵,婦,媳,よめ,bride,daughter-in-law,wife
-嫁ぐ,とつぐ,to marry,to become a bride,to marry into,to have sexual intercourse
+嫁ぐ,とつぐ,to marry,to get married,to marry into,to have sexual intercourse
 嫁菜,よめな,ヨメナ,Aster yomena
 嫁取り,よめとり,taking a wife
 嫁入り,嫁入,娵入り,よめいり,marriage,marrying into a husband's family,becoming a bride,wedding,wedding ceremony
@@ -18389,7 +18389,7 @@
 外場,がいば,external field
 外食,がいしょく,eating out,dining out
 外信,がいしん,external communication
-外人,がいじん,ガイジン,foreigner,gaijin,whitey,outsider
+外人,がいじん,ガイジン,foreigner,gaijin,outsider
 外征,がいせい,foreign campaign
 外戚,がいせき,げしゃく,げさく,maternal relative,relative on one's mother's side
 外接,外切,がいせつ,circumscription,being circumscribed
@@ -53694,7 +53694,7 @@
 褶曲,皺曲,しゅうきょく,bend,geologic fold
 褶襞,皺襞,しゅうへき,folds
 襞,ひだ,ヒダ,fold,pleat,gathers,tuck,folds,crease,detail,nuance,shade,wrinkle,lamella,gill
-襦袢,じゅばん,ジバン,ジュバン,undershirt,singlet
+襦袢,襦絆,じゅばん,ジバン,ジュバン,undershirt,singlet
 襤褸,ぼろ,ボロ,rag,old cloth,tattered clothes,ragged clothes,rags,fault,defect,weakness,worn-out,run-down,shabby,ragged,tattered
 ボロ家,ボロ屋,襤褸家,襤褸屋,ぼろ家,ぼろ屋,ぼろや,run-down house,dilapidated house,shabby old house,rag and scrap merchant
 襯衣,しんい,underwear,shirt
@@ -57195,7 +57195,7 @@
 阻喪,沮喪,そそう,loss of spirit,dejection
 数寄屋造り,数奇屋造り,すきやづくり,sukiya style of building,style of a tea-ceremony arbor
 玉に瑕,玉に傷,玉にキズ,たまに傷,玉にきず,珠に瑕,玉に疵,珠に疵,珠にきず,たまにきず,たまにキズ,fly in the ointment,small flaw in otherwise perfect object,only trouble,only fault
-魂送り,霊送り,たまおくり,sending off the spirits of the dead
+霊送り,魂送り,たまおくり,sending off the spirits of one's ancestors on the last day of the Bon Festival
 嘆じる,歎じる,たんじる,to grieve,to lament,to deplore,to admire,to sigh in admiration
 嘆ずる,歎ずる,たんずる,to grieve,to lament,to deplore,to admire,to sigh in admiration
 鉄砲玉,鉄砲弾,てっぽうだま,bullet,round,gunshot,lost messenger,truant messenger,non-returner,bull's-eye,hitman,hired killer
@@ -77812,7 +77812,7 @@
 雲集,うんしゅう,swarm,throng
 雲煙,雲烟,うんえん,clouds and smoke,haze,landscape
 雲壌,うんじょう,clouds and earth,great difference
-霊迎え,魂迎え,たまむかえ,welcoming the spirits of the dead
+霊迎え,魂迎え,たまむかえ,welcoming the spirits of one's ancestors on the first day of the Bon Festival
 田夫,でんぷ,peasant
 田打ち,たうち,tilling a paddy field
 田舎芝居,いなかしばい,provincial theatrical performance
@@ -94068,7 +94068,7 @@
 わ,indicates emotion or admiration,indicates emphasis,I,me,wah!,boo!
 な,なあ,なー,なぁ,な〜,なあー,don't,do,hey,listen,look,say,now,,well,,I tell you!,you know,wow,ooh,right?,isn't it?,doesn't it?,don't you?,don't you think?
 さ,-ness,indicates assertion,come,come now,come along,here,er,um,well,now,you see,indicates scrutiny, critique or mistrust,indicates retort,indicates hearsay or rumor,hey,yo,used as a stand-in for various particles to mimic dialectal speech,partial equivalent of the "ni" and "he" particles in standard Japanese
-ぞ,adds force or indicates command
+ぞ,adds force to a statement, decision or conclusion,indicates command,emphasizes the previous word,adds focus,some-
 バーコード頭,バーコードあたま,someone with hair combed in stripes across their bald spot
 自宅謹慎,じたくきんしん,confinement to one's home,being made to stay at home
 鱶鰭,ふかひれ,フカヒレ,shark fin
@@ -167291,7 +167291,7 @@
 能う,適う,あたう,to be able,to be capable
 能う限り,あたう限り,能ふ限り,あたうかぎり,as much as possible,as far as possible,to the best of one's abilities
 二代目,にだいめ,second generation,second,junior
-精霊送り,しょうりょうおくり,sending off the spirits of the dead
+精霊送り,精霊おくり,しょうりょうおくり,sending off the spirits of one's ancestors on the last day of the Bon Festival
 山下,さんか,やました,さんげ,foot of a mountain,base of a mountain
 中にも,なかにも,among,especially,particularly,inter alia,above all,at the same time,simultaneously,at once,both
 劣位,れつい,inferior position,inferior situation,disadvantage,subordination
@@ -211492,6 +211492,7 @@
 旬菜,旬彩,しゅんさい,seasonal food,seasonal ingredients,dishes made with seasonal ingredients
 貸し自転車,貸自転車,かしじてんしゃ,rental bicycle
 想定線,そうていせん,imaginary line
+発表日,はっぴょうび,announcement date,date of publication
 指紋センサー,しもんセンサー,fingerprint sensor
 越境者,えっきょうしゃ,border crosser,illegal immigrant,border trespasser,boundary crosser,crossover figure
 平野部,へいやぶ,plains area,flatland,plain
@@ -211562,17 +211563,22 @@
 カワイイメタル,kawaii metal,idol metal,genre that blends heavy metal instrumentation with bubbly J-pop melodies and Japanese idol aesthetics
 正宮,しょうぐう,main shrine
 省印,しょういん,ministry seal
+森づくり,森作り,森造り,森造,森作,もりづくり,forest planting,forestation,reforestation
 超知能,ちょうちのう,superintelligence
 塵雲,じんうん,dust cloud
+後付け設定,後づけ設定,あとづけ設定,あとづけせってい,retroactive continuity,retcon
+先を見る,先が見る,さきをみる,to look ahead,to foresee,to anticipate
 天弓,てんきゅう,rainbow
 アンフェ,anti-feminist
 底を割る,そこを割る,そこをわる,to be frank,to open one's heart,to do truthfully,to break the bottom,to go below the bottom line
+精霊迎え,精霊むかえ,しょうりょうむかえ,welcoming the spirits of one's ancestors on the first day of the Bon Festival
 三七草,山漆草,さんしちそう,サンシチソウ,Japanese Gynura
 燦点,さんてん,speculum
 小行李,しょうこうり,light supply unit
 パワーチャージ,パワー・チャージ,recharging one's batteries
 プロピオル酸,プロピオルさん,propiolic acid
 シャントリ,shampoo and treatment set
+笛声,てきせい,sound of a flute
 サンタ,saint
 星座早見盤,せいざはやみばん,planisphere
 挟み紙,挟紙,はさみがみ,paper bookmark,protective paper between items
@@ -211589,10 +211595,14 @@
 相反性神経支配,そうはんせいしんけいしはい,reciprocal innervation
 重力学,じゅうりょくがく,barodynamics
 メガイラ,Megaera
-チン騎士,チンきし,white knight,man who defends women online in hopes of sexual rewards
+チン騎士,チンきし,man who defends women online in hopes of sexual rewards,white knight
 アスカリ,askari
 レンドリース,レンド・リース,Lend-Lease
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-12
+泛藍連盟,はんらんれんめい,Pan-Blue Coalition
+泛緑連盟,はんりょくれんめい,Pan-Green Coalition
+笛声音,てきせいおん,whistling rale,piping rale,whistling chest sound
+満族,まんぞく,Manchu
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-13
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
