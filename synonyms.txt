@@ -21642,7 +21642,7 @@
 狭苦しい,せまくるしい,cramped
 狭心症,きょうしんしょう,angina pectoris
 狭量,きょうりょう,narrow-minded,intolerant,petty
-矯める,ためる,to straighten,to correct,to cure,to falsify
+矯める,ためる,to straighten,to bend into shape,to correct,to reform,to take aim at,to sight,to gaze steadily at,to look intently at
 矯め直す,矯めなおす,ためなおす,to set up again,to correct,to cure
 矯激,きょうげき,radical,extreme,eccentric
 矯正,きょう正,きょうせい,correction,remedy,rectification,redress,reform,straightening
@@ -53694,7 +53694,7 @@
 褶曲,皺曲,しゅうきょく,bend,geologic fold
 褶襞,皺襞,しゅうへき,folds
 襞,ひだ,ヒダ,fold,pleat,gathers,tuck,folds,crease,detail,nuance,shade,wrinkle,lamella,gill
-襦袢,襦絆,じゅばん,ジバン,ジュバン,undershirt,singlet
+襦袢,襦絆,ジュバン,ジバン,じゅばん,undershirt,singlet
 襤褸,ぼろ,ボロ,rag,old cloth,tattered clothes,ragged clothes,rags,fault,defect,weakness,worn-out,run-down,shabby,ragged,tattered
 ボロ家,ボロ屋,襤褸家,襤褸屋,ぼろ家,ぼろ屋,ぼろや,run-down house,dilapidated house,shabby old house,rag and scrap merchant
 襯衣,しんい,underwear,shirt
@@ -64326,7 +64326,7 @@
 用水池,ようすいいけ,ようすいち,reservoir
 用水路,ようすいろ,irrigation channel,irrigation ditch,irrigation canal,flume
 用字,ようじ,using characters
-用立てる,ようだてる,to make use of,to lend money
+用立てる,用だてる,ようだてる,to make use of,to use  for,to lend,to advance,to accommodate  with
 用向き,ようむき,business,errand,nature of one's business
 用兵,ようへい,tactics
 用役,ようえき,service
@@ -97791,7 +97791,7 @@
 大事をとる,大事を取る,だいじをとる,to take care doing something,to be prudent,to take no chances,to play it safe
 ガシガシ,がしがし,boisterously,roughly,briskly
 食い繋ぐ,食いつなぐ,くいつなぐ,to ration out and survive on,to eke out a living
-ツンケン,つんけん,crabbily,unsociably
+ツンケン,つんけん,to be crabby,to be unsociable,to be snippy,to be irritable
 ばっちい,ばっちー,ばっちぃ,バッチい,dirty,unclean
 ソムリエ,sommelier,wine steward,wine expert at a restaurant who advises guests on a choice of wines
 にたつく,to have  grin
@@ -148506,7 +148506,7 @@
 じゃりっぱげ,bald spot,bald patch
 リア充,リアじゅう,person who is satisfied with their real  life,normie
 穴兄弟,あなきょうだい,men who have had sex with the same woman,hole brothers
-シロウト童貞,素人童貞,シロウトどうてい,しろうとどうてい,man who has never had sex except with sex workers
+素人童貞,シロウト童貞,しろうとどうてい,man who has never had sex except with sex workers
 ヤラハタ,やらはた,person who is still a virgin after turning 20
 近世文学,きんせいぶんがく,early-modern literature,Edo-period literature
 粳粟,うるあわ,non-glutinous millet
@@ -211592,6 +211592,7 @@
 貝虫,かいむし,カイムシ,mussel shrimp,ostracod
 ホモビデオ,ホモ・ビデオ,gay porn video,gay pornographic video
 ホモビ,gay porn video,gay pornographic video
+後付け設定変更,あとづけせっていへんこう,retroactive continuity,retcon
 相反性神経支配,そうはんせいしんけいしはい,reciprocal innervation
 重力学,じゅうりょくがく,barodynamics
 メガイラ,Megaera
@@ -211602,7 +211603,7 @@
 泛緑連盟,はんりょくれんめい,Pan-Green Coalition
 笛声音,てきせいおん,whistling rale,piping rale,whistling chest sound
 満族,まんぞく,Manchu
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-13
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-14
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
