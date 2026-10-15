@@ -20128,7 +20128,7 @@
 気休め,気安め,きやすめ,mere consolation,temporary peace of mind
 気休めに,きやすめに,for peace of mind,for conscience' sake,by way of consolation
 気球,ききゅう,balloon,blimp
-気胸,ききょう,pneumothorax,artificial pneumothorax,collapse therapy
+気胸,ききょう,pneumothorax,collapsed lung,artificial pneumothorax,collapse therapy
 気苦労,きぐろう,worry,care,anxiety,mental exhaustion
 気軽,きがる,carefree,buoyant,lighthearted,sprightly,ease
 気兼ね,気がね,きがね,constraint,reserve,feeling hesitant,being afraid of troubling someone
@@ -30074,7 +30074,7 @@
 主権侵犯,しゅけんしんぱん,infringement of sovereignty
 主語,しゅご,subject
 主攻,しゅこう,main attack
-主査,しゅさ,chief examiner or investigator
+主査,しゅさ,chief examiner,chief investigator,first reader
 主催,しゅさい,sponsorship,promotion,organizing,organising,hosting,staging
 主催国,しゅさいこく,sponsoring nation
 主催者,しゅさいしゃ,sponsor,promoter,impresario,organizer,organiser
@@ -55428,7 +55428,7 @@
 借り物,借物,かりもの,borrowed thing
 軽々,軽軽,かるがる,かろがろ,lightly,easily,carelessly
 軽々しい,軽軽しい,かるがるしい,かろがろしい,rash,thoughtless,imprudent,careless,frivolous
-歌留多,骨牌,加留多,嘉留太,軽板,軽多,賀留多,哥留多,かる多,カルタ,かるた,karuta,traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta
+歌留多,骨牌,加留多,嘉留太,軽板,軽多,賀留多,哥留多,かる多,かるた,カルタ,karuta,traditional Japanese playing cards, esp. hyakunin isshu karuta or iroha karuta
 枯れ木,枯木,かれき,こぼく,dead tree,withered tree,leafless tree,bare tree
 枯葉,枯れ葉,かれは,dead leaf,dry leaves
 可哀想,可哀相,可哀そう,可愛そう,かわいそう,poor,pitiable,pathetic,pitiful
@@ -55817,7 +55817,7 @@
 写生帖,写生帳,しゃせいちょう,sketchbook
 遮断機,しゃだんき,crossing gate,barrier
 遮断器,しゃだんき,circuit breaker
-首位,主位,しゅい,first place,head position,leading position
+首位,しゅい,first place,head position,leading position
 主意,しゅい,central meaning,principal meaning,main idea,prioritizing of will,one's lord's will,one's master's intention
 修好,修交,しゅうこう,amity,friendship
 収集,蒐集,拾集,聚集,蒐輯,しゅうしゅう,collecting,accumulating,gathering,collection,garbage collection,waste collection
@@ -71282,7 +71282,7 @@
 怒りん坊,怒りんぼう,おこりん坊,おこりんぼう,short-tempered person,irritable person
 怒り肩,いかり肩,いかりがた,square shoulders
 怒髪天,どはつてん,furious,infuriated
-如才ない,如才無い,如在ない,如在無い,じょさいない,tactful,adroit,shrewd,clever,smart,affable
+如才ない,如才無い,如在無い,如在ない,じょさいない,tactful,adroit,shrewd,clever,smart,affable
 如何ばかり,如何許り,如何許,いかばかり,how much
 如何ほど,如何程,いか程,いかほど,how much,how many,however
 如何様,いかよう,what sort of,what kind of,what way
@@ -92561,7 +92561,7 @@
 呈する,ていする,to present,to offer,to show,to display,to exhibit,to assume
 庭付き,庭付,庭つき,にわつき,having a garden,with a garden
 溺れ死ぬ,おぼれ死ぬ,おぼれしぬ,おぼれじぬ,to die by drowning,to drown
-塗りたくる,ぬりたくる,to bedaub,to besmear,to paint heavily,to spread thickly
+塗りたくる,ぬりたくる,to smear all over,to slather on,to besmear,to paint heavily,to spread thickly,to bedaub
 倒れこむ,倒れ込む,たおれこむ,to collapse,to flop
 冬作物,ふゆさくもつ,winter crop
 冬作,ふゆさく,winter crop
@@ -211585,6 +211585,7 @@
 ループエンジニアリング,ループ・エンジニアリング,loop engineering
 肺ペスト,はいペスト,pneumonic plague
 ヌードストッキング,ヌード・ストッキング,skin-colored stockings
+派生物,はせいぶつ,derivative,outgrowth,offshoot
 火浣布,かかんぷ,fireproof cloth
 蝦夷梟,えぞ梟,蝦夷ふくろう,エゾフクロウ,えぞふくろう,Yezo Ural owl
 華北山椒,カホクザンショウ,かほくざんしょう,Sichuan pepper
@@ -211603,7 +211604,11 @@
 泛緑連盟,はんりょくれんめい,Pan-Green Coalition
 笛声音,てきせいおん,whistling rale,piping rale,whistling chest sound
 満族,まんぞく,Manchu
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-14
+副査,ふくさ,assistant examiner,second reader
+デキサメタゾン,dexamethasone
+マスタースケジュール,マスター・スケジュール,master schedule
+マスケ,master schedule
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-15
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
