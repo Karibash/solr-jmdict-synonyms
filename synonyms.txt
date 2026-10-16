@@ -3600,7 +3600,7 @@
 キックボクシング,kickboxing,kick-boxing
 キッズビジネス,キッズ・ビジネス,kids' business
 キッチュ,kitsch
-キッチン,キチン,kitchen,chitin
+キッチン,キチン,kitchen
 キッチンウェア,キッチンウエア,kitchenware
 キッチンキャビネット,キッチン・キャビネット,kitchen cabinet
 キッチンドリンカー,キッチン・ドリンカー,alcoholic housewife
@@ -24148,7 +24148,7 @@
 現職,げんしょく,present post,current office,incumbent
 現世,げんせ,げんせい,げんぜ,this world,this life,current epoch
 現像,げんぞう,development,photographic processing
-現代,げんだい,present age,present day,today,modern era,modern times
+現代,げんだい,present age,present day,contemporary,today,modern era,modern times,contemporary era
 現代科学,げんだいかがく,present-day science,modern science
 現代詩,げんだいし,modern poetry
 現代人,げんだいじん,modern person,people of today
@@ -78607,7 +78607,7 @@
 白熊,白くま,しろくま,シロクマ,polar bear
 白磁,白瓷,はくじ,white porcelain
 白銀,はくぎん,silver,silver colour,snow
-白銅,はくどう,nickel and copper alloy
+白銅,はくどう,nickel and copper alloy,cupronickel,nickel coin
 白銅貨,はくどうか,nickel coin
 白熱灯,はくねつとう,incandescent lamp
 白熱戦,はくねつせん,furious fighting
@@ -211569,6 +211569,7 @@
 後付け設定,後づけ設定,あとづけ設定,あとづけせってい,retroactive continuity,retcon
 先を見る,先が見る,さきをみる,to look ahead,to foresee,to anticipate
 天弓,てんきゅう,rainbow
+非童貞,ひどうてい,non-virgin man,non-virgin male,man with sexual experience
 アンフェ,anti-feminist
 底を割る,そこを割る,そこをわる,to be frank,to open one's heart,to do truthfully,to break the bottom,to go below the bottom line
 精霊迎え,精霊むかえ,しょうりょうむかえ,welcoming the spirits of one's ancestors on the first day of the Bon Festival
@@ -211608,7 +211609,12 @@
 デキサメタゾン,dexamethasone
 マスタースケジュール,マスター・スケジュール,master schedule
 マスケ,master schedule
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-15
+主位,しゅい,central position,position of leadership,important location,central spot
+ホビーショップ,ホビー・ショップ,hobby shop
+ウジョウジョ,うじょうじょ,in swarms,in clusters
+キチン,chitin
+線維軟骨,せんいなんこつ,fibrocartilage
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-16
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
