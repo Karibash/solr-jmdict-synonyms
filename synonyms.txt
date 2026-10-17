@@ -1166,7 +1166,7 @@
 ゐ,hiragana "wi"
 ゑ,hiragana "we"
 アーカイバ,アーカイバー,archiver
-アーカイブ,アーカイヴ,archive
+アーカイブ,アーカイヴ,archive,archives,archive
 アーガイル,アーガル,argyle
 アーガイルチェック,アーガイル・チェック,アーガルチェック,アーガル・チェック,argyle check
 アーキテクチャ,アーキテクチャー,アーキテクチュア,アキテクチャ,architecture
@@ -34474,7 +34474,7 @@
 水温,すいおん,water temperature
 水化,すいか,hydration
 水化物,すいかぶつ,hydrate
-水菓子,みずがし,jelly dessert,fruit
+水菓子,みずがし,jellied dessert,sweets with a high moisture content,fruit
 水害,すいがい,water damage,flood disaster
 水割り,みずわり,cutting an alcoholic beverage,diluting an alcoholic beverage,cut drink,diluted drink,watered-down drink
 水気,水け,みずけ,すいき,water content,moisture,juiciness,dampness,water vapor,steam,dropsy,edema,oedema
@@ -57671,7 +57671,7 @@
 割引債,わりびきさい,discount bond
 滑り,辷り,すべり,スベリ,sliding,slipping,slide,"slide" under the opponents stones by playing a move  on the second line
 巻き起こす,捲き起こす,巻き起す,巻起こす,巻起す,捲き起す,まき起こす,まきおこす,to create,to cause,to give rise to,to raise,to kick up
-巻き添え,巻添え,まきぞえ,getting mixed up in,getting embroiled in,involvement,entanglement,by-blow
+巻き添え,巻添え,巻きぞえ,まきぞえ,getting mixed up in,getting embroiled in,involvement,entanglement,by-blow
 巻き返し,巻返し,まきかえし,rally,recovery,comeback,rollback,winding
 完工,かんこう,completion of construction work,completion of a building
 完治,かんち,かんじ,complete recovery
@@ -70161,7 +70161,7 @@
 青票,せいひょう,blue ballot
 青黒い,黝い,蒼黒い,あおぐろい,black with hints of blue,bluish black
 青蛙,あおがえる,green  frog
-青雲,せいうん,blue sky,erudition,detachment from the world,high rank
+青雲,せいうん,blue sky,azure sky,erudition,great learning,high rank,detachment from the world
 青楼,せいろう,officially sanctioned brothel
 青電話,あおでんわ,blue telephone,public telephone
 青酸中毒,せいさんちゅうどく,cyanide poisoning
@@ -105226,7 +105226,7 @@
 塗り固める,塗固める,ぬりかためる,to coat a surface with something that adheres strongly when hardened,to cover up,to varnish
 揉烏帽子,もみえぼし,soft, crumpled, unlacquered headwear
 崩れかかる,崩れ掛かる,崩れ掛る,くずれかかる,to begin to crumble,to crumble and fall  onto another object
-来るべき,来たるべき,きたるべき,expected to arrive  in the near future
+来るべき,来たるべき,きたるべき,upcoming,forthcoming,approaching,yet to come
 結果的に,けっかてきに,consequently,as a result,in the end
 金椀,鋺,かなまり,かなわん,small metal bowl
 聖柄,ひじりづか,sword hilt shaped similar to the handle of a vajra,plain, wooden sword hilt
@@ -180374,7 +180374,7 @@
 クイックルワイパー,クイックル・ワイパー,MagiClean wiper mop,Easy Sweeper mop,Swiffer Sweeper floor mop
 電子データ,でんしデータ,electronic data
 二重発行,にじゅうはっこう,issuing  twice,issuing duplicate
-首が回らない,首がまわらない,くびがまわらない,being over one's head,being up to one's neck,being unable to turn one's head
+首が回らない,首がまわらない,くびが回らない,くびがまわらない,being over one's head,being up to one's neck,being unable to turn one's head
 鯨骨生物群集,げいこつせいぶつぐんしゅう,whale-fall community,whale-fall fauna
 笑いのネタ,わらいのネタ,butt of a joke,punchline
 女装家,じょそうか,cross-dresser,transvestite
@@ -181002,7 +181002,7 @@
 喃々,喃喃,なんなん,chatteringly,wittering on,prattling on,blathering on
 梅雨寒,つゆざむ,unseasonably cool weather during the rainy season
 終雪,しゅうせつ,last snow
-喋々,喋喋,諜々,諜諜,ちょうちょう,glibly,volubly,at great length
+喋々,喋喋,諜々,諜諜,ちょうちょう,glibly,volubly,at great length,to chatter away,to talk at great length,to babble,to be long-winded
 ノーフリーランチ,ノー・フリー・ランチ,no-free-lunch
 遊び毛,あそびげ,straggling hair,loose hairs
 玉杓子,たまじゃくし,ladle,scoop
@@ -181890,7 +181890,7 @@
 大豆肉,だいずにく,soy meat
 ニーハイソックス,ニーハイ・ソックス,over-the-knee socks,overknee socks
 ソイ,soy,soybean,soya bean,soy sauce
-手に汗握る,てにあせにぎる,to sit on the edge of one's seat,to be in breathless suspense
+手に汗握る,手に汗にぎる,てにあせにぎる,to sit on the edge of one's seat,to be in breathless suspense
 オーバーニーソックス,オーバーニー・ソックス,over-the-knee socks,overknee socks
 エスコートキッズ,エスコート・キッズ,child mascots,player escorts,children who accompany soccer players entering the pitch
 オーバーニー,over-knee,over-knee socks,over-knee boots
@@ -211612,9 +211612,12 @@
 主位,しゅい,central position,position of leadership,important location,central spot
 ホビーショップ,ホビー・ショップ,hobby shop
 ウジョウジョ,うじょうじょ,in swarms,in clusters
+カリユガ,カリ・ユガ,Kali Yuga
 キチン,chitin
-線維軟骨,せんいなんこつ,fibrocartilage
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-16
+規定語,きていご,modifier of a non-inflectable word,adnominal modifier
+線維軟骨,繊維軟骨,せんいなんこつ,fibrocartilage
+卓布,たくふ,tablecloth
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-17
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
