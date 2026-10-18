@@ -32688,7 +32688,7 @@
 上下,じょうげ,top and bottom,high and low,above and below,upper and lower ends,up and down,going up and down,rising and falling,fluctuating,going and coming back,upper and lower classes,ruler and ruled,the government and the people,first and second volumes,top and bottom,two-piece
 上下水道,じょうげすいどう,water and sewer services
 上下線,じょうげせん,both  tracks,
-上下動,じょうげどう,vertical motion
+上下動,じょうげどう,up-and-down motion,vertical movement
 上荷,うわに,top cargo,top of the load
 上菓子,じょうがし,quality cakes
 上回る,上廻る,上まわる,うわまわる,うわまる,to exceed,to surpass,to be more than,to be better than
@@ -133130,7 +133130,7 @@
 エンケファリン,enkephalin
 エンジンオイル,エンジン・オイル,engine oil,motor oil
 エンタルピー,enthalpy
-エンチラーダ,enchilada
+エンチラーダ,インチラーダ,エンチェラーダ,enchilada
 エンテロキナーゼ,enterokinase
 延齢草,えんれいそう,エンレイソウ,Trillium smallii
 ＥＤＴＡ,イー・ディー・ティー・エー,イーディーティーエー,ethylenediaminetetraacetic acid,EDTA
@@ -211576,9 +211576,10 @@
 三七草,山漆草,さんしちそう,サンシチソウ,Japanese Gynura
 燦点,さんてん,speculum
 小行李,しょうこうり,light supply unit
-パワーチャージ,パワー・チャージ,recharging one's batteries
+パワーチャージ,パワー・チャージ,recharging one's batteries,replenishing
 プロピオル酸,プロピオルさん,propiolic acid
 シャントリ,shampoo and treatment set
+駐輪機,ちゅうりんき,lockable bicycle rack
 笛声,てきせい,sound of a flute
 サンタ,saint
 星座早見盤,せいざはやみばん,planisphere
@@ -211617,7 +211618,10 @@
 規定語,きていご,modifier of a non-inflectable word,adnominal modifier
 線維軟骨,繊維軟骨,せんいなんこつ,fibrocartilage
 卓布,たくふ,tablecloth
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-17
+しぇからしか,noisy,annoying,troublesome,persistent,nagging
+忘備録,ぼうびろく,notebook,memorandum,commonplace book
+ＭＩＡ,エム・アイ・エー,エムアイエー,missing in action,MIA
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-18
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
