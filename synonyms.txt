@@ -7847,7 +7847,7 @@
 ドラッグバント,ドラッグ・バント,drag bunt
 ドラッグレース,ドラッグ・レース,drag race
 ドラフト,draft,draft,rough copy,rough sketch,draught,draft,draft,draught
-ドラフトビール,ドラフト・ビール,draft beer,draught beer
+ドラフトビール,ドラフト・ビール,unpasteurized beer
 ドラマ,television series,TV drama,teledrama,play,drama,dramatic incident,spectacle,tragedy
 ドラマー,drummer
 ドラマチスト,dramatist
@@ -16087,7 +16087,7 @@
 往路,おうろ,outward journey
 応える,報える,徹える,こたえる,to respond,to answer,to meet,to affect,to take a toll,to strike home,to have an effect on,to be hard on someone,to be a strain
 応じて,おうじて,in proportion to,according to,depending on
-応じる,おうじる,to respond,to satisfy,to accept,to comply with,to apply for
+応じる,おうじる,to respond,to answer,to reply,to accept,to comply with,to meet,to apply,to suit,to match,to be appropriate to
 応援,おうえん,aid,assistance,help,support,reinforcement,cheering,rooting,support
 応援歌,おうえんか,cheering song,supporters' song
 応援団,おうえんだん,cheering group,cheering squad
@@ -18775,7 +18775,7 @@
 割り切る,割切る,わりきる,to find a clear solution,to come to a clean decision,to give a clear explanation,to reason out,to conclude,to be pragmatic,to be practical,to divide exactly,to divide evenly
 割り切れない,割りきれない,わりきれない,indivisible,unconvincing,incomprehensible,unaccounted for
 割り切れる,割切れる,わりきれる,to be divisible,to be divided without residue,to be satisfied,to be convinced
-割前勘定,割り前勘定,わりまえかんじょう,each paying for his own account,sharing the expenses,Dutch treat
+割前勘定,割り前勘定,わりまえかんじょう,splitting the bill,splitting the check
 割り増し金,わりましきん,premium,bonus
 割竹,割り竹,わりだけ,わりたけ,split bamboo,bamboo slat,bamboo split,noisy bamboo baton used by night watchmen
 割り当てる,割当てる,わりあてる,to assign,to allot,to allocate,to divide among,to distribute,to prorate,to apportion
@@ -35192,7 +35192,7 @@
 生み付ける,産み付ける,生みつける,産みつける,うみつける,to lay,to spawn
 生やす,はやす,to grow,to cultivate,to let grow
 生まれつき,生まれ付き,生れつき,生れ付き,うまれつき,by nature,by birth,naturally,natural,innate
-生ビール,なまビール,unpasteurized beer,draft beer,draught beer
+生ビール,なまビール,unpasteurized beer
 生意気,なまいき,impertinent,saucy,cheeky,impudent,audacious,cocky,pert,brash
 生育,せいいく,birth and growth,giving birth and raising,development,breeding
 生ぬるい,生温い,なまぬるい,lukewarm,tepid,half-hearted,vague,weak,lenient,mild,soft
@@ -57013,7 +57013,7 @@
 割合,割り合い,わりあい,rate,ratio,percentage,proportion,comparatively,contrary to expectations
 割り当て,割当て,割当,わりあて,かっとう,allotment,assignment,allocation,quota,rationing,allocation
 割印,割り印,わりいん,seal over the edges of adjacent sheets,tally impression
-割り勘,割勘,わりかん,ワリカン,splitting the cost,splitting the bill,Dutch treat
+割り勘,割勘,わりかん,ワリカン,splitting the bill,splitting the check,paying one's own expenses,going Dutch
 割り書き,割書き,わりがき,interlinear notes,notes between lines of text
 割り込み,割込み,割込,わりこみ,ワリコミ,queue jumping,breaking into a line,muscling in on,wedging oneself in,interruption,sharing a theater box,interrupt,wedge
 割り込む,割込む,割りこむ,わり込む,わりこむ,to cut into,to force oneself into,to wedge oneself into,to squeeze oneself into,to intrude on,to interrupt,to fall below,to drop below,to wedge,to play a wedge
@@ -77868,7 +77868,7 @@
 謙抑,けんよく,humbling oneself
 怯懦,きょうだ,cowardly,spineless,weak-willed,fainthearted
 陥没湖,かんぼつこ,lake formed by ground depression
-餡蜜,あんみつ,mixture of bean jam, boiled beans, agar cubes, fruit pieces and syrup
+餡蜜,あん蜜,あんみつ,mixture of bean jam, boiled beans, agar cubes, fruit pieces and syrup
 欠本,闕本,けっぽん,missing volume
 欠号,けつごう,missing issue
 欠け目,欠目,欠け眼,かけめ,missing part,broken part,chip,short weight,false eye
@@ -94385,7 +94385,7 @@
 物議騒然,ぶつぎそうぜん,tumultuous public discussion,noisy public criticism
 焚書坑儒,ふんしょこうじゅ,burning books on the Chinese classics and burying Confucian scholars alive
 奮励努力,ふんれいどりょく,making strenuous efforts,exerting oneself
-兵隊勘定,へいたいかんじょう,Dutch treat,going Dutch
+兵隊勘定,へいたいかんじょう,evenly splitting the bill
 閉口頓首,へいこうとんしゅ,being at a complete loss as to what to do,being at one's wit's end,being at a loss for an answer
 片言隻句,へんげんせきく,へんげんせっく,few words,single phrase
 保革伯仲,ほかくはくちゅう,conservatives and reformists being neck and neck,balanced conservative and progressive strengths
@@ -101942,8 +101942,8 @@
 ＤＶＤビデオ,ディーブイディービデオ,Digital Versatile Disc video,DVD video
 小便器,しょうべんき,urinal
 夜型,よるがた,nocturnal
-割り勘勝ち,割勘勝ち,わりかんがち,"winner" of a meal paid for by dutch treat
-割り勘負け,割勘負け,わりかんまけ,"loser" of a meal paid for by dutch treat
+割り勘勝ち,割勘勝ち,わりかんがち,"winner" of a meal paid for by splitting the bill
+割り勘負け,割勘負け,わりかんまけ,"loser" of a meal paid by splitting the bill
 股上,また上,またがみ,waist,pant rise
 ローライズパンツ,ローライズ・パンツ,low-rise pants,hipster jeans,low-cut jeans
 甘ロリ,あまロリ,sweet Lolita
@@ -140035,7 +140035,7 @@
 照り渡る,てりわたる,to shine over
 白足袋,しろたび,white tabi
 慣れっこになる,馴れっこになる,なれっこになる,to become used to,to become familiar with,to grow accustomed to
-埒もない,埒も無い,埓もない,埓も無い,らちもない,らっちもない,incoherent,vague,silly,foolish
+埒もない,埓もない,埒も無い,埓も無い,らちもない,らっちもない,incoherent,vague,silly,foolish
 新体詩,しんたいし,new style poetry,new style poem
 車外,しゃがい,outside a car
 ケロモンガラ,pinktail durgon
@@ -140386,7 +140386,7 @@
 鹿せんべい,鹿煎餅,しかせんべい,rice crackers for feeding the deer
 需要者,じゅようしゃ,consumer
 荒者,あらもの,rough man,rude man
-ダッチアカウント,ダッチ・アカウント,splitting the bill
+ダッチアカウント,ダッチ・アカウント,splitting the bill,splitting the check
 身体障害,しんたいしょうがい,physical disability,handicap
 眇,すがめ,squint eye,cross-eye,strabismus
 火山涙,かざんるい,Pele's tears
@@ -211621,7 +211621,8 @@
 しぇからしか,noisy,annoying,troublesome,persistent,nagging
 忘備録,ぼうびろく,notebook,memorandum,commonplace book
 ＭＩＡ,エム・アイ・エー,エムアイエー,missing in action,MIA
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-18
+世界の警察官,せかいのけいさつかん,global policeman,world police
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-19
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
@@ -212186,6 +212187,7 @@
 ジュンク堂,ジュンクどう,Junkudo
 ジョーブラックをよろしく,Meet Joe Black
 ジョナサン,Jonathan,Jonathan's
+ジンギス汗,ジンギスかん,Genghis Khan
 スーパーファミコン,スーパー・ファミコン,,Super Nintendo Entertainment System
 スーパーフォース２,スーパーフォースツー,Super Force 2
 スーパーマリオ,Super Mario
@@ -212306,6 +212308,7 @@
 チョコラ,Chocola
 チリーン,Chimecho
 チルット,Swablu
+成吉思汗,ジンギスカン,ジンギス・カン,チンギスハーン,チンギス・ハーン,チンギスハン,チンギス・ハン,チンギスカン,チンギス・カン,ジンギスハン,ジンギス・ハン,Genghis Khan
 ツーカー,Tu-ka
 ツィゴイネルワイゼン,Zigeunerweisen
 ヅカ,Takarazuka Revue
