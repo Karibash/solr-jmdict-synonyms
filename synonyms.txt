@@ -37152,7 +37152,7 @@
 喪失,そうしつ,loss,forfeit
 喪主,もしゅ,chief mourner
 喪章,もしょう,mourning band,mourning ribbon
-喪神,喪心,そうしん,absent-mindedness,stupor,stupefaction,abstraction,being stunned,devastation,fainting
+喪心,喪神,そうしん,absent-mindedness,stupor,stupefaction,abstraction,being stunned,devastation,fainting
 喪中,もちゅう,in mourning
 喪服,もふく,mourning clothes,mourning attire,mourning dress
 壮快,そうかい,emotionally uplifting,stirring
@@ -211622,7 +211622,10 @@
 忘備録,ぼうびろく,notebook,memorandum,commonplace book
 ＭＩＡ,エム・アイ・エー,エムアイエー,missing in action,MIA
 世界の警察官,せかいのけいさつかん,global policeman,world police
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-19
+メガネウラ,Meganeura
+肺癆,はいろう,pulmonary phthisis
+カーサービス,カー・サービス,car service
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-20
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
