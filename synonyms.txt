@@ -35162,7 +35162,7 @@
 清廉潔白,せいれんけっぱく,spotless integrity,absolute honesty,uprightness
 生,き,pure,undiluted,raw,crude
 生,なま,raw,uncooked,fresh,natural,as it is,unedited,unprocessed,unprotected,raw,bareback,live,inexperienced,unpolished,green,crude,impudence,sauciness,unpasteurized beer,draft beer,draught beer,blank,unused,just a little,somehow,vaguely,partially,somewhat,half-,semi-,insufficient,incomplete,half-baked,half-hearted,perfunctory,cash,tipsiness
-生い茂る,生茂る,おい茂る,生いしげる,おいしげる,to grow thickly,to be overgrown,to thrive,to grow in abundance
+生い茂る,生茂る,おい茂る,生いしげる,生い繁る,生繁る,おいしげる,to grow thickly,to be overgrown,to thrive,to grow in abundance
 生い立ち,生立ち,生いたち,おいたち,growth,development,one's early life,upbringing,personal history
 生う,おう,to grow,to spring up
 生える,はえる,to grow,to spring up,to sprout,to cut
@@ -109069,7 +109069,7 @@
 鬼郭公,おにかっこう,オニカッコウ,Asian koel
 てっぺんかけたか,calling sound of the lesser cuckoo,lesser cuckoo
 ほぞんかけたか,calling sound of the lesser cuckoo
-托卵,託卵,たくらん,brood parasitism
+托卵,託卵,たく卵,たくらん,brood parasitism,paternity fraud
 大瑠璃,おおるり,オオルリ,blue-and-white flycatcher
 小瑠璃,こるり,コルリ,Siberian blue robin
 吠瑠璃,べいるり,beryl
@@ -211606,6 +211606,7 @@
 泛緑連盟,はんりょくれんめい,Pan-Green Coalition
 笛声音,てきせいおん,whistling rale,piping rale,whistling chest sound
 満族,まんぞく,Manchu
+号線,ごうせん,route,line
 副査,ふくさ,assistant examiner,second reader
 デキサメタゾン,dexamethasone
 マスタースケジュール,マスター・スケジュール,master schedule
@@ -211625,7 +211626,15 @@
 メガネウラ,Meganeura
 肺癆,はいろう,pulmonary phthisis
 カーサービス,カー・サービス,car service
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-20
+刀削麺,とうしょうめん,とうさくめん,knife-cut noodles,knife-sliced noodles,knife-shaved noodles
+造園家,ぞうえんか,landscape architect,landscape gardener,garden designer,horticulturist
+植木師,うえきし,gardener,nurseryman
+網膜光凝固術,もうまくひかりぎょうこじゅつ,retinal  photocoagulation
+光凝固術,ひかりぎょうこじゅつ,photocoagulation
+網膜光凝固,もうまくひかりぎょうこ,retinal  photocoagulation
+刀削麺,ダオシャオミェン,ダオシャオミエン,ダオシャオメン,knife-cut noodles,knife-sliced noodles,knife-shaved noodles
+陣構え,じんがまえ,battle formation
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-21
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
