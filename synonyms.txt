@@ -84975,7 +84975,7 @@
 左のような訳,ひだりのようなわけ,the reason as follows
 使いっ走り,使いっぱしり,使いっパシリ,つかいっぱしり,gofer,dogsbody,person who is made to do things or get things for someone else
 パシリ,ぱしり,gofer,dogsbody,person who is made to do things or get things for someone else
-だろう,だろ,seems,I think,I guess,I wonder,I hope,right?,don't you agree?,I thought you'd say that!
+だろう,だろ,seems,I think,I guess,probably,I wonder,I hope,right?,don't you agree?,I thought you'd say that!
 食感,しょっかん,food texture,mouthfeel
 からっきし,からきし,カラッキシ,カラキシ,quite,utterly,at all,completely,wholly,entirely,totally,altogether
 関説,かんせつ,かんぜい,allusion,alluding,related explanation
@@ -115737,7 +115737,7 @@
 チョソングル,チョソンクル,hangul script
 真名,真字,まな,まんな,しんじ,kanji,printed style,square style,block style,standard style,real name
 真名本,真字本,まなぼん,book written entirely in kanji
-パラパラ漫画,パラパラまんが,flip book,flick book
+パラパラ漫画,パラパラまんが,パラパラマンガ,flip book,flick book
 馬賊,ばぞく,mounted bandit
 見れる,みれる,to be able to see
 Ｈビデオ,エッチビデオ,pornographic video,salacious video
@@ -158277,7 +158277,7 @@
 水月,すいげつ,water and the Moon,the Moon reflected on the water,solar plexus
 女男,おんなおとこ,feminine man,effeminate man,masculine woman,mannish woman
 バリュート,ballute,parachute braking device
-淫夢,いんむ,lewd dream,salacious fantasy
+淫夢,いんむ,lewd dream,salacious fantasy,Inmu
 異空間,いくうかん,unusual space,other dimension
 鼻の頭,はなのあたま,tip of one's nose
 狭し,せばし,せまし,せし,さし,narrow,confined,small,narrow,confined,small
@@ -211606,6 +211606,7 @@
 泛緑連盟,はんりょくれんめい,Pan-Green Coalition
 笛声音,てきせいおん,whistling rale,piping rale,whistling chest sound
 満族,まんぞく,Manchu
+棚出し,棚だし,たなだし,shelf-stocking,putting merchandise out on shelves,restocking shelves
 号線,ごうせん,route,line
 副査,ふくさ,assistant examiner,second reader
 デキサメタゾン,dexamethasone
@@ -211618,6 +211619,7 @@
 キチン,chitin
 規定語,きていご,modifier of a non-inflectable word,adnominal modifier
 線維軟骨,繊維軟骨,せんいなんこつ,fibrocartilage
+ネット中毒,ネットちゅうどく,Internet addiction
 卓布,たくふ,tablecloth
 しぇからしか,noisy,annoying,troublesome,persistent,nagging
 忘備録,ぼうびろく,notebook,memorandum,commonplace book
@@ -211634,7 +211636,8 @@
 網膜光凝固,もうまくひかりぎょうこ,retinal  photocoagulation
 刀削麺,ダオシャオミェン,ダオシャオミエン,ダオシャオメン,knife-cut noodles,knife-sliced noodles,knife-shaved noodles
 陣構え,じんがまえ,battle formation
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-21
+可観測性,かかんそくせい,observability
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-22
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
