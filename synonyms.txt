@@ -73907,7 +73907,7 @@
 塩コショウ,塩こしょう,塩胡椒,しおこしょう,salt and pepper,seasoning with salt and pepper
 塩基性,えんきせい,basicity,alkalinity,basic,alkaline
 塩基度,えんきど,basicity
-塩魚,しおざかな,salted fish
+塩魚,塩肴,しおざかな,salted fish
 塩税,えんぜい,salt tax
 塩せんべい,塩煎餅,しおせんべい,rice cracker seasoned with soy sauce,salty rice cracker
 塩蔵,えんぞう,preserving in salt,salting down
@@ -211637,7 +211637,10 @@
 刀削麺,ダオシャオミェン,ダオシャオミエン,ダオシャオメン,knife-cut noodles,knife-sliced noodles,knife-shaved noodles
 陣構え,じんがまえ,battle formation
 可観測性,かかんそくせい,observability
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-22
+嫌気性消化,けんきせいしょうか,anaerobic digestion
+糖尿病性昏睡,とうにょうびょうせいこんすい,diabetic coma
+維摩,ゆいま,Vimalakirti
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-23
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
