@@ -22503,7 +22503,7 @@
 靴ひも,靴紐,くつひも,shoelace,bootlace
 靴べら,靴ベラ,靴箆,靴篦,くつべら,shoehorn
 靴墨,くつずみ,shoe polish
-靴磨き,靴みがき,靴磨,くつみがき,shoeshine,shoe polishing
+靴磨き,靴みがき,くつ磨き,靴磨,クツ磨き,くつみがき,shoeshine,shoe polishing,shoeshiner,boot polisher
 凹み,窪み,くぼみ,へこみ,hollow,cavity,dent,depression
 窪む,凹む,くぼむ,to cave in,to become depressed,to sink
 熊,くま,クマ,bear
@@ -26113,7 +26113,7 @@
 合いの手,間の手,相の手,合の手,あいの手,あいのて,interlude,chanting or clapping along,interjection
 合わす,合す,あわす,to match,to join together,to unite,to combine,to add up,to face,to be opposite,to compare,to check with,to cause to meet,to place together,to connect,to overlap,to mix,to combine,to put blade to blade,to fight
 合わせ,あわせ,joint together,opposite,facing
-合わせる,併せる,合せる,あわせる,to match,to join together,to unite,to combine,to add up,to face,to be opposite,to compare,to check with,to cause to meet,to place together,to connect,to overlap,to mix,to combine,to put blade to blade,to fight
+合わせる,併せる,合せる,あわせる,to match,to align,to join together,to unite,to combine,to add up,to face,to be opposite,to compare,to check with,to cause to meet,to place together,to connect,to overlap,to adjust,to set,to mix,to combine,to put blade to blade,to fight
 合わせ鏡,あわせ鏡,合せ鏡,あわせかがみ,opposite mirrors
 合わせ行なう,あわせおこなう,to carry on together,to do at the same time
 合わせ砥,あわせど,double whetstone
@@ -35019,7 +35019,7 @@
 正業,せいぎょう,legitimate occupation,honest business
 正金,しょうきん,cash,ready money,money on hand,hard money,specie,metallic currency,specie bank
 正金銀行,しょうきんぎんこう,specie bank
-正訓,せいくん,correct kun reading
+正訓,せいくん,kun reading of a kanji based on the original meaning,correct kun reading
 正系,せいけい,legitimate line,direct descent
 正月,しょうがつ,New Year,first month of the year,January
 正絹,しょうけん,pure silk
@@ -44224,7 +44224,7 @@
 肺葉,はいよう,pulmonary lobe,lobe of the lung
 輩,儕,ともがら,comrade,fellow
 輩,原,儕,ばら,suffixed to words indicating a class of people to create a plural
-輩,族,やから,party,set,clan,family,fellow
+輩,やから,ヤカラ,group,bunch,lot,pack,set,gang
 輩出,はいしゅつ,producing  in great numbers,appearing one after the other
 配る,賦る,くばる,to distribute,to hand out,to deliver,to deal out,to serve out,to allot,to allocate,to place,to station
 配下,はいか,followers,subordinates,being under someone's command
@@ -94203,7 +94203,7 @@
 恐悦至極,恭悦至極,きょうえつしごく,extremely delighted
 恐懼感激,きょうくかんげき,being struck with awe,deeply moved with awe
 教唆扇動,教唆煽動,きょうさせんどう,instigation and abetment
-狂喜乱舞,きょうきらんぶ,boisterous dance,dancing wildly
+狂喜乱舞,きょうきらんぶ,jumping for joy,being ecstatic,being overjoyed,dancing wildly
 狂言綺語,きょうげんきご,きょうげんきぎょ,make-believe fiction
 狂瀾怒涛,狂瀾怒濤,きょうらんどとう,maelstrom,the state of affairs being in great turmoil
 興味索然,きょうみさくぜん,uninteresting,tending to spoil the fun,throwing a wet blanket
@@ -108636,7 +108636,6 @@
 吠舎,バイシャ,ヴァイシャ,Vaishya,Vaisya
 帝釈天,たいしゃくてん,Śakra,Shakra,Indra,Shakra Devanam Indra,the king of heaven in Hindu mythology
 ラクシュミ,Lakshmi
-靴を磨く,くつをみがく,to polish one's shoes,to clean your shoes
 山獏,山貘,やまばく,ヤマバク,mountain tapir
 マレー獏,マレー貘,マレーばく,マレーバク,Malayan tapir
 ハラール,ハラル,halal
@@ -143789,7 +143788,7 @@
 床板珊瑚類,しょうばんさんごるい,tabulate corals
 居処,いど,one's seat,buttocks
 居り所,おりどころ,whereabouts
-強情っ張り,強情っぱり,強情張,剛情張,ごうじょうっぱり,stubborn person,obstinate person,stubbornness,obstinacy
+強情っぱり,強情っ張り,剛情張,強情張,剛情っ張り,ごうじょうっぱり,stubbornness,obstinacy,stubborn person,obstinate person
 ハーベスト,ハーヴェスト,harvest
 南斉,なんせい,Southern Qi dynasty,Southern Ch'i dynasty
 北斉,ほくせい,Northern Qi dynasty,Northern Ch'i dynasty
@@ -172939,7 +172938,7 @@
 ジェマイユ,gemmail,type of stained glass art
 カフェインレス,decaffeinated,caffeine-free,uncaffeinated,non-caffeinated
 耐力壁,たいりょくへき,たいりょくかべ,load-bearing wall,bearing wall
-チャイニーズタイペイ,チャイニーズ・タイペイ,Chinese Taipei,name used by the Republic of China  when participating in international competitions
+チャイニーズタイペイ,チャイニーズ・タイペイ,Chinese Taipei
 ダブステップ,dubstep
 デカフェ,ディカフェ,ディカフ,ディキャフ,decaf,decaffeinated coffee,decaffeinated
 建軍,けんぐん,founding of an army
@@ -199688,7 +199687,7 @@
 機械化歩兵,きかいかほへい,mechanized infantry
 万策尽きる,万策つきる,ばんさくつきる,to exhaust all possible means,to come to the end of one's resources,to reach the end of one's tether,to be at one's wits' end,to play one's last card
 主,しゅう,master,employer,lord
-後がつかえる,後が支える,あとがつかえる,to make  wait,to take more time
+後がつかえる,後が支える,あとがつかえる,to make  wait,to hold a place
 専門卒,せんもんそつ,vocational school graduate
 専卒,せんそつ,vocational school graduate
 柔道畳,じゅうどうたたみ,judo mat
@@ -211624,6 +211623,7 @@
 しぇからしか,noisy,annoying,troublesome,persistent,nagging
 忘備録,ぼうびろく,notebook,memorandum,commonplace book
 ＭＩＡ,エム・アイ・エー,エムアイエー,missing in action,MIA
+樽生ビール,たるなまビール,draft beer,draught beer
 世界の警察官,せかいのけいさつかん,global policeman,world police
 メガネウラ,Meganeura
 肺癆,はいろう,pulmonary phthisis
@@ -211637,10 +211637,13 @@
 刀削麺,ダオシャオミェン,ダオシャオミエン,ダオシャオメン,knife-cut noodles,knife-sliced noodles,knife-shaved noodles
 陣構え,じんがまえ,battle formation
 可観測性,かかんそくせい,observability
+族,やから,clan,family,one's kin
 嫌気性消化,けんきせいしょうか,anaerobic digestion
 糖尿病性昏睡,とうにょうびょうせいこんすい,diabetic coma
 維摩,ゆいま,Vimalakirti
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-23
+中華台北,ちゅうかタイペイ,Chinese Taipei
+視野検査,しやけんさ,visual field test,perimetry
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-24
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
