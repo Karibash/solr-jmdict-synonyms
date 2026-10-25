@@ -54837,7 +54837,7 @@
 万全,ばんぜん,perfection,flawlessness
 万善,まんぜん,all good works,all good deeds
 万代,万世,ばんだい,まんだい,よろずよ,thousands of years,eternity,all generations
-万能,ばんのう,まんのう,all-purpose,utility,universal,all-powerful,almighty,omnipotent,all-round
+万能,ばんのう,まんのう,all-purpose,utility,universal,all-powerful,almighty,omnipotent,all-round,fork hoe,harrow,rake
 万能薬,ばんのうやく,universal medicine,cure-all,panacea
 万福,ばんぷく,まんぷく,all health and happiness
 万物,ばんぶつ,ばんもつ,all things,all creation
@@ -71123,7 +71123,7 @@
 極暑,ごくしょ,intense heat,hottest season,peak of summer's heat
 極量,きょくりょう,maximum dose
 極々,極極,ごくごく,extremely,highly
-極楽往生,ごくらくおうじょう,rebirth in paradise,peaceful death
+極楽往生,ごくらくおうじょう,rebirth in paradise,rebirth in the Pure Land,peaceful death,dying without suffering
 極楽浄土,ごくらくじょうど,Amitabha's Pure Land,Sukhavati
 極熱,ごくねつ,ごくねち,extreme heat
 交角,こうかく,angle of intersection,intersection angle
@@ -199687,7 +199687,7 @@
 機械化歩兵,きかいかほへい,mechanized infantry
 万策尽きる,万策つきる,ばんさくつきる,to exhaust all possible means,to come to the end of one's resources,to reach the end of one's tether,to be at one's wits' end,to play one's last card
 主,しゅう,master,employer,lord
-後がつかえる,後が支える,あとがつかえる,to make  wait,to hold a place
+後がつかえる,後が支える,あとがつかえる,to make  wait,to hold up a place
 専門卒,せんもんそつ,vocational school graduate
 専卒,せんそつ,vocational school graduate
 柔道畳,じゅうどうたたみ,judo mat
@@ -211622,12 +211622,14 @@
 卓布,たくふ,tablecloth
 しぇからしか,noisy,annoying,troublesome,persistent,nagging
 忘備録,ぼうびろく,notebook,memorandum,commonplace book
+急からしい,せからしい,noisy,annoying,troublesome,persistent,nagging,restless,fidgety,hurried,busy,fussy
 ＭＩＡ,エム・アイ・エー,エムアイエー,missing in action,MIA
 樽生ビール,たるなまビール,draft beer,draught beer
 世界の警察官,せかいのけいさつかん,global policeman,world police
 メガネウラ,Meganeura
 肺癆,はいろう,pulmonary phthisis
 カーサービス,カー・サービス,car service
+足治療,あしちりょう,podiatry,chiropody
 刀削麺,とうしょうめん,とうさくめん,knife-cut noodles,knife-sliced noodles,knife-shaved noodles
 造園家,ぞうえんか,landscape architect,landscape gardener,garden designer,horticulturist
 植木師,うえきし,gardener,nurseryman
@@ -211643,7 +211645,11 @@
 維摩,ゆいま,Vimalakirti
 中華台北,ちゅうかタイペイ,Chinese Taipei
 視野検査,しやけんさ,visual field test,perimetry
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-24
+賑わしい,にぎわしい,lively,prosperous,thriving
+小児恐怖症,しょうにきょうふしょう,pediophobia
+人形恐怖症,にんぎょうきょうふしょう,pediophobia
+備中鍬,びっちゅうぐわ,fork hoe
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-25
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
