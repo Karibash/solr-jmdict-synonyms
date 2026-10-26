@@ -17838,9 +17838,9 @@
 介鱗,かいりん,fish and shellfish
 会,え,gathering
 会,かい,meeting,assembly,party,gathering,conference,athletic meet,society,association,club
-会う,逢う,遭う,遇う,あう,to meet,to encounter,to see,to have an accident,to have a bad experience
+会う,逢う,遭う,遇う,あう,to meet,to encounter,to see,to come across,to run into,to have,to encounter,to face,to go through,to get caught up
 会う約束,あうやくそく,appointment,rendezvous,date
-会わせる,遭わせる,逢わせる,あわせる,to make  to meet,to let  meet,to expose to,to subject to
+会わせる,遭わせる,逢わせる,あわせる,to make  meet,to let  meet,to subject,to expose,to make  go through
 会意,かいい,compound ideograph,character made up of meaningful parts
 会員,かいいん,member,the membership
 会員規約,かいいんきやく,membership agreement
@@ -26113,7 +26113,7 @@
 合いの手,間の手,相の手,合の手,あいの手,あいのて,interlude,chanting or clapping along,interjection
 合わす,合す,あわす,to match,to join together,to unite,to combine,to add up,to face,to be opposite,to compare,to check with,to cause to meet,to place together,to connect,to overlap,to mix,to combine,to put blade to blade,to fight
 合わせ,あわせ,joint together,opposite,facing
-合わせる,併せる,合せる,あわせる,to match,to align,to join together,to unite,to combine,to add up,to face,to be opposite,to compare,to check with,to cause to meet,to place together,to connect,to overlap,to adjust,to set,to mix,to combine,to put blade to blade,to fight
+合わせる,併せる,合せる,あわせる,to match,to do in line with,to adapt to,to fit,to do,to join together,to bring together,to unite,to combine,to add up,to face,to be opposite,to compare,to check against,to check,to place together,to connect,to overlap,to mix,to combine,to mix together,to adjust,to set,to tune,to cross,to fight,to match  against each other,to have  fight
 合わせ鏡,あわせ鏡,合せ鏡,あわせかがみ,opposite mirrors
 合わせ行なう,あわせおこなう,to carry on together,to do at the same time
 合わせ砥,あわせど,double whetstone
@@ -30858,7 +30858,7 @@
 集い,つどい,meeting,get-together
 集う,つどう,to meet,to assemble,to congregate
 集まる,集る,あつまる,to gather,to collect,to assemble
-集める,あつめる,to collect,to assemble,to gather
+集める,蒐める,聚める,輯める,あつめる,to gather,to collect,to assemble,to get  together,to raise,to gather,to garner,to draw,to attract
 集る,たかる,to gather,to crowd round,to swarm,to flock,to sponge,to scrounge,to pester,to bum,to cadge,to extort,to take  through intimidation
 集荷,蒐荷,しゅうか,collection of cargo,cargo booking
 集会,しゅうかい,meeting,assembly,gathering,congregation,convention,rally
@@ -69260,7 +69260,7 @@
 北限,ほくげん,northern limit
 北陸地方,ほくりくちほう,Hokuriku region
 背文字,せもじ,lettering on the spine of a book
-背戸,せど,back door,back entrance
+背戸,せど,back door,back entrance,backyard,back
 背日性,はいじつせい,negative heliotropism
 背任罪,はいにんざい,breach of trust
 背抜き,せぬき,unlined in the back
@@ -211639,6 +211639,7 @@
 刀削麺,ダオシャオミェン,ダオシャオミエン,ダオシャオメン,knife-cut noodles,knife-sliced noodles,knife-shaved noodles
 陣構え,じんがまえ,battle formation
 可観測性,かかんそくせい,observability
+ポドロジー,podology
 族,やから,clan,family,one's kin
 嫌気性消化,けんきせいしょうか,anaerobic digestion
 糖尿病性昏睡,とうにょうびょうせいこんすい,diabetic coma
@@ -211649,7 +211650,12 @@
 小児恐怖症,しょうにきょうふしょう,pediophobia
 人形恐怖症,にんぎょうきょうふしょう,pediophobia
 備中鍬,びっちゅうぐわ,fork hoe
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-25
+接触皮膚炎,せっしょくひふえん,contact dermatitis
+脳萎縮,のういしゅく,cerebral atrophy,brain atrophy,encephalatrophy
+ファルシオン,falchion
+イグナイター,イグナイタ,igniter
+それだのに,and yet,despite this,but even so,but even then,however,nevertheless,for all that,notwithstanding that
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-26
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
