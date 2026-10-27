@@ -2674,7 +2674,7 @@
 エンカプセレーション,encapsulation
 エンクロージャー,エンクロージャ,エンクロージュア,enclosure,cabinet,housing,enclosure
 エンゲージ,エンゲイジ,engagement,engage
-エンゲージメント,engagement
+エンゲージメント,engagement,commitment,engagement,interaction,affinity
 エンゲージリング,エンゲージ・リング,engagement ring
 エンコーダ,エンコーダー,encoder
 エンコーディング,encoding
@@ -17838,7 +17838,7 @@
 介鱗,かいりん,fish and shellfish
 会,え,gathering
 会,かい,meeting,assembly,party,gathering,conference,athletic meet,society,association,club
-会う,逢う,遭う,遇う,あう,to meet,to encounter,to see,to come across,to run into,to have,to encounter,to face,to go through,to get caught up
+会う,逢う,遭う,遇う,あう,to meet,to encounter,to see,to come across,to run into,to have,to suffer,to encounter,to face,to go through,to get caught up
 会う約束,あうやくそく,appointment,rendezvous,date
 会わせる,遭わせる,逢わせる,あわせる,to make  meet,to let  meet,to subject,to expose,to make  go through
 会意,かいい,compound ideograph,character made up of meaningful parts
@@ -24526,7 +24526,7 @@
 誇らしい,ほこらしい,proud,haughty,arrogant
 誇り,ほこり,pride,boast,credit
 誇り高い,ほこりたかい,proud,lordly
-誇る,ほこる,to boast of,to be proud of,to take pride in
+誇る,矜る,ほこる,to boast of,to be proud of,to take pride in
 誇示,こじ,flaunting,showing off,display,ostentation
 誇称,こしょう,boasting,exaggeration
 誇大,こだい,exaggeration,hyperbole
@@ -34905,7 +34905,7 @@
 成長,せいちょう,growth,development,growing up,becoming an adult,growth
 成長曲線,せいちょうきょくせん,logistic curve,growth curve
 成長率,せいちょうりつ,growth rate
-成る程,なる程,成程,成るほど,なるほど,I see,that's right,indeed
+成る程,なる程,成程,成るほど,なるほど,I see,that's right!,indeed,fair enough,really,truly,quite,indeed,certainly,sure,admittedly,it is true that
 成年,せいねん,adult age,majority
 成敗,せいばい,punishment,judgement,judgment,chastisement,discipline,decapitation
 成仏,じょうぶつ,attaining enlightenment,becoming a Buddha,entering Nirvana,going to heaven,resting in peace,dying
@@ -115361,7 +115361,7 @@
 やむ得ず,止む得ず,已む得ず,やむえず,unavoidably,inevitably,necessarily,reluctantly,against one's will
 有,う,bhava
 略する,掠する,りゃくする,to abbreviate,to abridge,to shorten,to omit,to leave out,to take,to capture,to steal
-人っ子一人,人っ子ひとり,人っ子１人,人っこ一人,人っこひとり,ひとっこひとり,a soul,a single person
+人っ子一人,人っ子ひとり,人っ子１人,人っこ一人,人っこひとり,ひとっこ一人,ひとっこひとり,a soul,a single person
 労する,ろうする,to work,to labor,to labour,to put to work,to make  work
 肉付きが良い,肉付きがいい,肉付きがよい,肉づきがいい,肉づきがよい,肉づきが良い,にくづきがよい,にくづきがいい,stout,well-fleshed,well-padded,plump
 塗り直し,ぬりなおし,re-coating
@@ -211614,6 +211614,8 @@
 主位,しゅい,central position,position of leadership,important location,central spot
 ホビーショップ,ホビー・ショップ,hobby shop
 ウジョウジョ,うじょうじょ,in swarms,in clusters
+エンゲージメントベイト,エンゲージメント・ベイト,engagement bait,content designed to get users to interact with it
+エンゲージメント稼ぎ,エンゲージメントかせぎ,engagement bait,content designed to get users to interact with it
 カリユガ,カリ・ユガ,Kali Yuga
 キチン,chitin
 規定語,きていご,modifier of a non-inflectable word,adnominal modifier
@@ -211640,6 +211642,7 @@
 陣構え,じんがまえ,battle formation
 可観測性,かかんそくせい,observability
 ポドロジー,podology
+フットケア,フット・ケア,foot care
 族,やから,clan,family,one's kin
 嫌気性消化,けんきせいしょうか,anaerobic digestion
 糖尿病性昏睡,とうにょうびょうせいこんすい,diabetic coma
@@ -211655,7 +211658,10 @@
 ファルシオン,falchion
 イグナイター,イグナイタ,igniter
 それだのに,and yet,despite this,but even so,but even then,however,nevertheless,for all that,notwithstanding that
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-26
+ネポベイビー,ネポ・ベイビー,nepo baby
+ぶっ扱く,ぶっこく,ブッこく,to act,to do,to suffer
+片荷,かたに,unbalanced load,lopsided load,load shifted to one side,one-way cargo,one-way load,one-way freight,one of a pair of loads,half a load,half of a burden,part of a responsibility,part of one's worries
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-27
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
