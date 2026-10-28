@@ -161568,7 +161568,7 @@
 誤りを犯す,誤りをおかす,あやまりをおかす,to make a mistake,to commit an error,to commit a fault
 食べられる,たべられる,to be able to eat,to be edible,to be good to eat
 理由付け,理由づけ,りゆうづけ,rationalization,justification
-ニダ,be,is
+ニダ,imitative Korean-style sentence ending
 アベノミクス,アベノミックス,Abenomics,economic and monetary policies of Shinzo Abe during his second term as prime minister
 斑曹以,むらそい,ムラソイ,spotbelly rockfish
 縞曹以,しまそい,しまぞい,シマソイ,シマゾイ,threestripe rockfish
@@ -211661,7 +211661,9 @@
 ネポベイビー,ネポ・ベイビー,nepo baby
 ぶっ扱く,ぶっこく,ブッこく,to act,to do,to suffer
 片荷,かたに,unbalanced load,lopsided load,load shifted to one side,one-way cargo,one-way load,one-way freight,one of a pair of loads,half a load,half of a burden,part of a responsibility,part of one's worries
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-27
+稟申,りんしん,ひんしん,reporting to a superior,sharing information with a superior,expressing an opinion to a superior
+政治将校,せいじしょうこう,political officer,political commissar
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-28
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
