@@ -101221,7 +101221,7 @@
 ブックマーク,bookmark,bookmark
 スケーラブル,scalable
 梯梧,梯姑,でいご,でいこ,デイゴ,デイコ,Indian coral tree
-引っさげる,引っ提げる,提げる,引っ下げる,ひっさげる,to carry in one's hand,to have in one's hand,to take with one,to lead,to present,to take up,to bring to the fore
+引っさげる,引っ提げる,提げる,引っ下げる,ひっさげる,to carry in one's hand,to have in one's hand,to take with one,to lead,to present,to take up,to bring to the fore,to bring as an asset
 反っ歯,反歯,そっ歯,そっぱ,prominent front teeth,buckteeth,projecting teeth
 合字,ごうじ,ligature
 そつ,ソツ,slip-up,mistake,fault,error,oversight,waste,needless expense
@@ -189737,7 +189737,7 @@
 条坊制,じょうぼうせい,grid city plan used for the Imperial capital
 三不政策,さんふせいさく,Three Noes
 セルフプレジャー,セルフ・プレジャー,masturbation
-チー牛,チーぎゅう,nerd,incel,chud
+チー牛,チーぎゅう,nerd,chud,socially awkward, unattractive man
 薬事承認,やくじしょうにん,regulatory approval of a drug or medical device
 春作,はるさく,spring crop
 夏作物,なつさくもつ,crops planted in summer
@@ -211661,9 +211661,13 @@
 ネポベイビー,ネポ・ベイビー,nepo baby
 ぶっ扱く,ぶっこく,ブッこく,to act,to do,to suffer
 片荷,かたに,unbalanced load,lopsided load,load shifted to one side,one-way cargo,one-way load,one-way freight,one of a pair of loads,half a load,half of a burden,part of a responsibility,part of one's worries
+セクシーアイドル,セクシー・アイドル,adult actress
 稟申,りんしん,ひんしん,reporting to a superior,sharing information with a superior,expressing an opinion to a superior
 政治将校,せいじしょうこう,political officer,political commissar
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-28
+中露印,中ロ印,ちゅうろいん,China, Russia and India
+メガテリウム,megatherium
+視線恐怖症,しせんきょうふしょう,scopophobia,scoptophobia
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-29
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
