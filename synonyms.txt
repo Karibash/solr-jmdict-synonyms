@@ -46575,7 +46575,7 @@
 浮かぶ,泛ぶ,浮ぶ,泛かぶ,うかぶ,to float,to be suspended,to rise to the surface,to appear,to emerge,to show up,to loom,to come to mind,to have inspiration
 浮かれ歩く,浮れ歩く,うかれ歩く,うかれあるく,to gad about,to gallivant,to wander aimlessly,to walk around restlessly
 浮気,上気,うわ気,浮氣,うわき,extramarital sex,affair,fooling around,infidelity,wantonness,unfaithfulness,inconstancy,fickleness,caprice
-浮気者,うわきもの,cheater,unfaithful person,adulterer
+浮気者,浮気もの,うわきもの,cheater,unfaithful person,adulterer
 浮気女,うわきおんな,female adulterer,adulteress
 浮腫,浮腫み,むくみ,swelling,edema,oedema,dropsy
 浮腫む,むくむ,to swell,to become swollen,to become puffy,to become bloated
@@ -210955,7 +210955,7 @@
 先行車,せんこうしゃ,preceding vehicle,car ahead,vehicle in front
 至上命題,しじょうめいだい,absolute priority,supreme imperative,highest priority task,most pressing issue
 至上課題,しじょうかだい,absolute priority,supreme imperative,highest priority task,most pressing issue
-引くに引けない,引くに引けぬ,引くに引かれぬ,ひくにひけない,unable to back down,unable to withdraw,stuck in a position where one cannot pull back,committed
+引くに引けない,引くに引けぬ,引くに引かれぬ,引くに引けん,ひくにひけない,unable to back down,unable to withdraw,stuck in a position where one cannot pull back,committed
 無断借用,むだんしゃくよう,unauthorized borrowing,borrowing without permission,unauthorized use,misappropriation,plagiarism
 套路,とうろ,taolu,martial arts routine
 銃手,じゅうしゅ,gunner,shooter,rifleman
@@ -211667,7 +211667,14 @@
 中露印,中ロ印,ちゅうろいん,China, Russia and India
 メガテリウム,megatherium
 視線恐怖症,しせんきょうふしょう,scopophobia,scoptophobia
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-29
+観戦武官,かんせんぶかん,military observer
+仲介人,ちゅうかいにん,intermediary,mediator,go-between
+国家理性,こっかりせい,reason of state,raison d'état
+円教,圓教,えんぎょう,えんきょう,perfect teaching,complete teaching,round teaching
+静水,せいすい,still water,stagnant water,water at rest
+取りこぼし,取り零し,取り溢し,取り翻し,とりこぼし,unexpected defeat through carelessness,upset loss,oversight,omission,something overlooked
+縦深,じゅうしん,depth
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-30
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
