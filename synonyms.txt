@@ -16318,7 +16318,7 @@
 黄道色,こうどうしょく,brassy yellow
 黄道帯,こうどうたい,zodiac
 黄道面,こうどうめん,plane of the ecliptic
-黄白,こうはく,yellow and white,gold and silver,bribery,corruption
+黄白,こうはく,おうびゃく,yellow and white,gold and silver,money,cash
 黄白色,おうはくしょく,こうはくしょく,yellowish-white,pale yellow
 黄肌,きはだ,きわだ,キハダ,キワダ,yellowfin tuna
 黄斑,おうはん,macula,macula lutea,yellow spot
@@ -48393,7 +48393,7 @@
 崩す,くずす,to destroy,to demolish,to pull down,to tear down,to level,to disturb,to put into disorder,to throw off balance,to make shaky,to relax,to make oneself at ease,to break,to change,to make change,to write in cursive style,to write in running style,to break into a smile,to let off a smile,to lower
 崩れる,くずれる,to collapse,to crumble,to get out of shape,to lose one's shape,to become disorganized,to become untidy,to break down,to be thrown into disarray,to crash,to slump,to decline,to break money into small change,to turn bad,to change for the worse,to deteriorate
 崩壊,崩潰,ほうかい,collapse,crumbling,breaking down,caving in,decay,disintegration
-崩御,ほうぎょ,death,demise
+崩御,ほうぎょ,death of a sovereign,demise
 抱え,かかえ,armful,employee
 抱える,かかえる,to hold in one's arms,to carry in one's arms,to carry under one's arm,to hold  in one's hands,to have,to take on,to be burdened with,to have  to provide for,to employ,to have,to hire
 抱きしめる,抱き締める,抱締める,だきしめる,to hug  tight,to embrace,to give  a tight hug,to cuddle
@@ -86195,7 +86195,7 @@
 大道芸人,だいどうげいにん,street performer
 大道商人,だいどうしょうにん,street vendor,peddler,hawker
 大病人,だいびょうにん,patient in a serious condition,serious case
-大和民族,やまとみんぞく,Yamato race
+大和民族,やまとみんぞく,Yamato people,Yamato ethnic group
 奪三振王,だつさんしんおう,strikeout leader,strikeout king
 狸親父,たぬきおやじ,sly  old man
 単純平均,たんじゅんへいきん,simple average,arithmetic average
@@ -100700,7 +100700,7 @@
 霖雨,りんう,long spell of rain
 私雨,わたくしあめ,local rainfall,isolated showers
 集客交流,しゅうきゃくこうりゅう,hospitality
-無い袖は振れぬ,ない袖は振れぬ,ないそではふれぬ,you can't give  what you don't have,nothing comes from nothing,you can't shake sleeves you don't have
+無い袖は振れない,ない袖は振れない,無い袖は振れぬ,ない袖は振れぬ,ないそではふれない,you can't give what you don't have,you can't squeeze blood from a turnip,nothing comes from nothing,you can't shake sleeves you don't have
 青緑,あおみどり,blue-green,turquoise,aqua,spirogyra,algae forming pond scum
 タブロー,tableau
 補助定理,ほじょていり,lemma
@@ -189285,7 +189285,7 @@
 カシコ,かしこ,intelligent person,intellectual
 百年国恥,ひゃくねんこくち,century of humiliation
 肥大化,ひだいか,swelling,enlargement
-満額回答,まんがくかいとう,full acceptance of workers' pay demands
+満額回答,まんがくかいとう,full acceptance of workers' pay demands,full acceptance of all demands,agreeing to all demands
 トレンディドラマ,トレンディードラマ,トレンディ・ドラマ,トレンディー・ドラマ,trendy drama,genre of Japanese television drama made in 80s and 90s that focuses on contemporary, real-life issues
 個人用高速輸送システム,こじんようこうそくゆそうシステム,personal rapid transit,PRT
 蠧毒,とどく,insect damage,harm,damage,blight
@@ -211628,6 +211628,7 @@
 ＭＩＡ,エム・アイ・エー,エムアイエー,missing in action,MIA
 樽生ビール,たるなまビール,draft beer,draught beer
 世界の警察官,せかいのけいさつかん,global policeman,world police
+節がある,節が有る,フシが有る,ふしが有る,ふしがある,フシがある,to appear to,to seem to,to show signs of,to have a tendency to,to be inclined to
 メガネウラ,Meganeura
 肺癆,はいろう,pulmonary phthisis
 カーサービス,カー・サービス,car service
@@ -211648,6 +211649,7 @@
 糖尿病性昏睡,とうにょうびょうせいこんすい,diabetic coma
 維摩,ゆいま,Vimalakirti
 中華台北,ちゅうかタイペイ,Chinese Taipei
+驚き屋,おどろきや,person excessively and uncritically posting about new technology,hype merchant,sensationalist
 視野検査,しやけんさ,visual field test,perimetry
 賑わしい,にぎわしい,lively,prosperous,thriving
 小児恐怖症,しょうにきょうふしょう,pediophobia
@@ -211670,11 +211672,22 @@
 観戦武官,かんせんぶかん,military observer
 仲介人,ちゅうかいにん,intermediary,mediator,go-between
 国家理性,こっかりせい,reason of state,raison d'état
+判教,はんぎょう,はんきょう,classification of the sutras and their teachings
 円教,圓教,えんぎょう,えんきょう,perfect teaching,complete teaching,round teaching
 静水,せいすい,still water,stagnant water,water at rest
 取りこぼし,取り零し,取り溢し,取り翻し,とりこぼし,unexpected defeat through carelessness,upset loss,oversight,omission,something overlooked
 縦深,じゅうしん,depth
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-30
+人目をはばかる,人目を憚る,ひとめをはばかる,to avoid being seen by others,to take care not to attract public attention,to act discreetly to avoid being noticed
+従兵,じゅうへい,officer's orderly,batman
+ヘッドショット,headshot,punch aimed at the head,blow to the top of the head
+モノコック,monocoque
+毛細気管,もうさいきかん,tracheole
+世に出す,よにだす,to make known to the world,to put out,to produce,to publish
+ドカ貧,どか貧,どかひん,sudden descent into poverty,sudden impoverishment,losing one's fortune overnight
+種銭,たねせん,seed money,starting capital,initial funds
+石もて追われる,いしもておわれる,to be hounded out,to be driven out in disgrace
+何をおいても,何を措いても,なにをおいても,above all things,before anything else,first of all
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-31
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
