@@ -8690,7 +8690,7 @@
 バケーション,ヴァケイション,ヴァケーション,バケイション,vacation
 馬穴,馬尻,バケツ,bucket,pail
 バゲット,バケット,baguette
-バザー,バザール,bazaar,bazar,special sale
+バザー,charitable fund-raising fair,charity bazaar,bazaar,bazar
 バジェット,budget
 バス,bus,bus
 バスーン,bassoon
@@ -24492,7 +24492,7 @@
 狐狸,こり,foxes and tanuki,sly fellow,deceiver
 狐うどん,狐饂飩,きつねうどん,けつねうどん,キツネうどん,udon with deep-fried tofu
 糊,のり,paste,glue,clothing starch
-糊口,餬口,ここう,bare livelihood,subsistence
+糊口,餬口,ここう,bare livelihood,bare subsistence
 糊代,のりしろ,overlap width,margin for pasting together,elbowroom,leeway,room,margin,allowance,latitude
 糊付け,のりづけ,のりつけ,starching,pasting,gluing
 袴,はかま,hakama,pleated skirt or loose-legged trousers worn over a kimono mainly on ceremonial occasions,sheath,stand
@@ -40004,7 +40004,7 @@
 聴聞会,ちょうもんかい,hearing
 聴力,ちょうりょく,hearing ability
 腸,ちょう,intestine,bowel
-腸チフス,ちょうチフス,typhoid fever,typhoid
+腸チフス,腸窒扶斯,ちょうチフス,typhoid fever,typhoid
 腸捻転,ちょうねんてん,volvulus,twisted loop in intestine
 腸閉塞,ちょうへいそく,intestinal obstruction,ileus
 蝶,ちょう,チョウ,butterfly
@@ -58284,7 +58284,7 @@
 卵大,たまごだい,egg-sized
 適時,てきじ,timely,opportune
 手縫い,手ぬい,てぬい,hand-sewn,sewn by hand
-手透き,手隙,手すき,手空き,手明き,てすき,てあき,not busy,unengaged,being free,leisure
+手すき,手隙,手空き,手透き,手明き,てすき,てあき,not busy,unengaged,being free,leisure
 等張,とうちょう,isotonic
 時計回り,とけいまわり,clockwise rotation,CW
 都,と,Metropolis,Metropolitan District,metropolitan prefecture,counter for cities and towns,capital
@@ -66063,7 +66063,7 @@
 身元保証,みもとほしょう,personal reference
 身中,しんちゅう,within one's body
 身支度,身仕度,身じたく,みじたく,dress,outfit,getup,to dress oneself,to outfit oneself
-身欠きにしん,身欠きニシン,身欠き鰊,みがきにしん,みかきにしん,ミガキニシン,dried, sliced herring
+身欠きにしん,身欠きニシン,身欠き鰊,身欠鰊,磨きニシン,磨きにしん,磨き鰊,みがきにしん,みかきにしん,ミガキニシン,dried, sliced herring
 身じまい,身仕舞い,身仕舞,みじまい,dressing oneself,outfitting oneself
 身代限り,しんだいかぎり,going bankrupt
 身共,身ども,みども,I,me
@@ -79832,7 +79832,7 @@
 等々,等等,とうとう,etc.,et cetera,and so on
 懐が寂しい,懐が淋しい,ふところがさびしい,strapped for cash,hard up
 蒲団皮,布団皮,ふとんがわ,quilting,ticking
-升形,枡形,斗形,桝形,ますがた,とがた,square,square bearing block,rectangular space between the inner and outer gates of a castle
+升形,枡形,斗形,桝形,ます型,ますがた,とがた,square,square bearing block,rectangular space between the inner and outer gates of a castle
 道を聞く,道を訊く,道をきく,みちをきく,to ask for directions,to ask the way
 身を守る,身を護る,みをまもる,to defend oneself,to protect oneself
 目を喜ばす,目を悦ばす,めをよろこばす,to feast one's eyes
@@ -187611,7 +187611,7 @@
 ＧｏＴｏ,ゴートゥー,ゴーツー,Go To Travel
 良馬場,りょうばば,good track,firm track,fast track
 甘活,あまかつ,eating sweet food
-あかんたれ,アカンタレ,good-for-nothing
+あかんたれ,アカンタレ,good-for-nothing,coward,wimp,spineless person
 ボンボニエール,bonbonnière,sweet box,candy box,party favour
 半球形,はんきゅうけい,hemisphere,dome shape
 御膳そば,御膳蕎麦,ごぜんそば,high-quality soba
@@ -211683,11 +211683,18 @@
 モノコック,monocoque
 毛細気管,もうさいきかん,tracheole
 世に出す,よにだす,to make known to the world,to put out,to produce,to publish
+廠,しょう,factory,manufacturing plant,supply depot,storage depot
 ドカ貧,どか貧,どかひん,sudden descent into poverty,sudden impoverishment,losing one's fortune overnight
 種銭,たねせん,seed money,starting capital,initial funds
 石もて追われる,いしもておわれる,to be hounded out,to be driven out in disgrace
 何をおいても,何を措いても,なにをおいても,above all things,before anything else,first of all
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-31
+檣灯,しょうとう,masthead light
+バザール,bazaar,bazar,special sale,sale
+軽希土類元素,けいきどるいげんそ,light rare-earth element,LREE
+重希土類元素,じゅうきどるいげんそ,heavy rare-earth element,HREE
+旧居留地,きゅうきょりゅうち,former foreign settlement
+きときと,fresh,lively,full of energy
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-01
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
