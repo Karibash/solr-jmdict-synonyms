@@ -21059,7 +21059,7 @@
 牛馬,ぎゅうば,horses and cattle
 牛革,牛皮,ぎゅうかわ,ぎゅうがわ,ぎゅうひ,うしがわ,cowhide,oxhide
 牛歩戦術,ぎゅうほせんじゅつ,snail's pace tactics,walking extremely slowly when voting in the Diet to delay proceedings,ox walk tactic
-牛蒡,ごぼう,ごんぼ,うまふぶき,ゴボウ,great burdock,gobo
+牛蒡,ごぼう,ごんぼ,ゴボウ,great burdock,gobō
 去る,避る,さる,to leave,to go away,to pass,to elapse,to be distant,to send away,to drive off,to divorce,to  completely,last
 去月,きょげつ,last month
 去就,きょしゅう,leaving or staying,course of action,position,attitude
@@ -38076,7 +38076,7 @@
 打つ,拍つ,搏つ,撲つ,擣つ,うつ,to hit,to strike,to knock,to beat,to punch,to slap,to tap,to bang,to clap,to pound,to strike,to sound,to beat,to beat,to move,to impress,to touch,to drive in,to hammer in,to put in,to inject,to vaccinate,to type,to send,to transmit,to insert,to write in,to mark,to make,to prepare,to till,to sprinkle,to throw,to cast,to do,to carry out,to play,to perform,to engage in,to pay,to visit,to line,to bind,to drop,to play a move,to play a game
 打つ,撃つ,撲つ,ぶつ,to hit,to strike,to beat,to make,to give,to gamble
 打つ手,うつて,way to do
-打つ手がない,うつてがない,no way to do,nothing can be done
+打つ手がない,打つ手が無い,うつてがない,no way to do,nothing can be done
 ぶん殴る,打ん殴る,ブン殴る,ぶんなぐる,ブンなぐる,to hit hard,to punch hard,to give a hard blow,to wallop,to sock
 打開,だかい,break in the deadlock
 打楽器,だがっき,percussion instrument
@@ -49225,7 +49225,7 @@
 又,亦,復,また,again,once more,once again,another time,some other time,also,too,as well,likewise,on the other hand,while,and,in addition,besides,moreover,furthermore,or,otherwise,really,how,on earth,some time,indirect
 又しても,またしても,again,once again,yet again
 又と,またと,again
-又とない,またと無い,又と無い,またとない,unique,matchless,unparalleled,unparallelled,never again
+又と無い,又とない,またと無い,またとない,unique,matchless,unparalleled,unparallelled,once-in-a-lifetime
 またの日,又の日,またのひ,another day,the next day
 またの名,又の名,またのな,alias,another name
 又は,または,or,either  or
@@ -52765,7 +52765,7 @@
 論理回路,ろんりかいろ,logic device,logic circuit
 論理素子,ろんりそし,gate,logic element
 論理的,ろんりてき,logical
-倭人,和人,わじん,Japanese person
+倭人,和人,わじん,Japanese person,ethnic Japanese person
 倭寇,和寇,倭冦,和冦,わこう,wokou,wakō,Japanese pirates who raided the Chinese and Korean coastlines between the 13th and 16th centuries
 和,倭,わ,sum,harmony,peace,Japan,Japanese-style
 和む,なごむ,to be softened,to calm down
@@ -79832,7 +79832,7 @@
 等々,等等,とうとう,etc.,et cetera,and so on
 懐が寂しい,懐が淋しい,ふところがさびしい,strapped for cash,hard up
 蒲団皮,布団皮,ふとんがわ,quilting,ticking
-升形,枡形,斗形,桝形,ます型,ますがた,とがた,square,square bearing block,rectangular space between the inner and outer gates of a castle
+枡形,升形,斗形,桝形,ます型,ますがた,square,square bearing block,rectangular space between the inner and outer gates of a castle
 道を聞く,道を訊く,道をきく,みちをきく,to ask for directions,to ask the way
 身を守る,身を護る,みをまもる,to defend oneself,to protect oneself
 目を喜ばす,目を悦ばす,めをよろこばす,to feast one's eyes
@@ -99022,7 +99022,7 @@
 地域暖房,ちいきだんぼう,district heating
 お手元,お手許,御手元,御手許,おてもと,chopsticks,at hand,one's possession,one's hands
 ヘタレ,へたれ,incompetence,laziness,worthlessness,weakness,good-for-nothing,loser,weakling,wuss
-満ち満ちる,充満る,みちみちる,to be full to the brim
+満ち満ちる,充ち満ちる,充満る,みちみちる,to be full to the brim
 入満,伊留満,由婁漫,イルマン,brother,lay brother,non-ordained member of a Christian religious order
 お番菜,お晩菜,お飯菜,お万菜,御番菜,御晩菜,お晩彩,御飯菜,おばん菜,おばんざい,おばんさい,Kyoto-style side dish,meal of side dishes
 別添,べってん,attachment,annexation,addendum,appendix
@@ -211684,6 +211684,7 @@
 毛細気管,もうさいきかん,tracheole
 世に出す,よにだす,to make known to the world,to put out,to produce,to publish
 廠,しょう,factory,manufacturing plant,supply depot,storage depot
+年を経る,年をへる,としをへる,to spend many years,to have many years pass,to grow older,to age
 ドカ貧,どか貧,どかひん,sudden descent into poverty,sudden impoverishment,losing one's fortune overnight
 種銭,たねせん,seed money,starting capital,initial funds
 石もて追われる,いしもておわれる,to be hounded out,to be driven out in disgrace
@@ -211694,7 +211695,13 @@
 重希土類元素,じゅうきどるいげんそ,heavy rare-earth element,HREE
 旧居留地,きゅうきょりゅうち,former foreign settlement
 きときと,fresh,lively,full of energy
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-01
+阿字観,あじかん,meditation on the Sanskrit letter a
+一念三千,いちねんさんぜん,doctrine that all realms of existence are contained in a single moment of thought
+十住心,じゅうじゅうしん,ten stages of mind
+因陀羅網,いんだらもう,Indra's net
+主人公補正,しゅじんこうほせい,protagonist privilege,main character privilege,plot armor
+斗形,枓,とがた,square bearing block
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-02
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
