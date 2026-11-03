@@ -44309,7 +44309,7 @@
 売りオペレーション,うりオペレーション,selling operation
 売り家,売家,うりや,うりいえ,house for sale
 売り広げる,うりひろげる,to find a market for,to extend the sale of
-売り込み,売込み,うりこみ,sales promotion,hard selling
+売り込み,売込み,売りこみ,うりこみ,sales promotion,hard selling
 売り込む,うりこむ,to build a market for,to promote,to sell,to become well known,to promote oneself,to sell oneself,to sell heavily
 売り出す,売出す,うりだす,to put on the market,to put out for sale,to put on sale,to begin selling,to market,to become popular
 売り切れ,売切れ,売切,うりきれ,sold-out
@@ -211684,6 +211684,7 @@
 毛細気管,もうさいきかん,tracheole
 世に出す,よにだす,to make known to the world,to put out,to produce,to publish
 廠,しょう,factory,manufacturing plant,supply depot,storage depot
+有視界,ゆうしかい,clear visibility,unobstructed view,visual
 年を経る,年をへる,としをへる,to spend many years,to have many years pass,to grow older,to age
 ドカ貧,どか貧,どかひん,sudden descent into poverty,sudden impoverishment,losing one's fortune overnight
 種銭,たねせん,seed money,starting capital,initial funds
@@ -211695,13 +211696,15 @@
 重希土類元素,じゅうきどるいげんそ,heavy rare-earth element,HREE
 旧居留地,きゅうきょりゅうち,former foreign settlement
 きときと,fresh,lively,full of energy
+味ない,味無い,あじない,unpalatable,bad-tasting,bland,tasteless
 阿字観,あじかん,meditation on the Sanskrit letter a
 一念三千,いちねんさんぜん,doctrine that all realms of existence are contained in a single moment of thought
 十住心,じゅうじゅうしん,ten stages of mind
 因陀羅網,いんだらもう,Indra's net
 主人公補正,しゅじんこうほせい,protagonist privilege,main character privilege,plot armor
 斗形,枓,とがた,square bearing block
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-02
+人生訓,じんせいくん,words to live by,precepts for living,principles of life
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-03
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
