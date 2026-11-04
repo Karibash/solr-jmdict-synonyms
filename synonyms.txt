@@ -211704,7 +211704,10 @@
 主人公補正,しゅじんこうほせい,protagonist privilege,main character privilege,plot armor
 斗形,枓,とがた,square bearing block
 人生訓,じんせいくん,words to live by,precepts for living,principles of life
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-03
+総受け,そう受け,総うけ,そううけ,character who is the bottom in every pairing
+キャラ立ち,キャラだち,having a distinctive personality,making one's personality stand out
+アイレベル,アイ・レベル,eye-level
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-04
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
