@@ -54886,7 +54886,7 @@
 浴衣,ゆかた,よくい,yukata,light cotton kimono worn in the summer or used as a bathrobe
 翌朝,よくあさ,よくちょう,next morning
 螺子,捻子,捩子,螺旋,ネジ,ねじ,screw,key,spring
-螺旋,らせん,spiral,helix,screw
+螺旋,らせん,ラセン,spiral,helix,screw
 来し方,きしかた,こしかた,the past
 来客,らいきゃく,らいかく,visitor,caller
 来春,らいしゅん,らいはる,next spring
@@ -181039,7 +181039,7 @@
 ディフューザー,ディヒューザー,diffuser
 スクランパー,scrumper,smiley piercing,piercing on the upper lip frenulum
 悔いなし,悔い無し,くいなし,no regrets,without regrets
-ぴょいと,lightly and nimbly,with agility
+ぴょいと,ピョイと,lightly and nimbly,with agility
 説教臭い,説教くさい,せっきょうくさい,preachy,sanctimonious
 自然景観,しぜんけいかん,natural landscape,natural scenery
 足を踏み出す,あしをふみだす,to step forward,to take a step forward
@@ -211661,9 +211661,11 @@
 イグナイター,イグナイタ,igniter
 それだのに,and yet,despite this,but even so,but even then,however,nevertheless,for all that,notwithstanding that
 ネポベイビー,ネポ・ベイビー,nepo baby
+轟風,ごうふう,roaring wind,thunderous wind,tempestuous gale
 ぶっ扱く,ぶっこく,ブッこく,to act,to do,to suffer
 片荷,かたに,unbalanced load,lopsided load,load shifted to one side,one-way cargo,one-way load,one-way freight,one of a pair of loads,half a load,half of a burden,part of a responsibility,part of one's worries
 セクシーアイドル,セクシー・アイドル,adult actress
+お宮入り,御宮入り,おみやいり,going unsolved,remaining unanswered
 稟申,りんしん,ひんしん,reporting to a superior,sharing information with a superior,expressing an opinion to a superior
 政治将校,せいじしょうこう,political officer,political commissar
 中露印,中ロ印,ちゅうろいん,China, Russia and India
@@ -211674,13 +211676,17 @@
 国家理性,こっかりせい,reason of state,raison d'état
 判教,はんぎょう,はんきょう,classification of the sutras and their teachings
 円教,圓教,えんぎょう,えんきょう,perfect teaching,complete teaching,round teaching
+静水骨格,せいすいこっかく,hydrostatic skeleton,hydroskeleton
 静水,せいすい,still water,stagnant water,water at rest
+降下猟兵,こうかりょうへい,German paratrooper,Fallschirmjäger
+打通,だつう,forcing a passage through,breaking through
 取りこぼし,取り零し,取り溢し,取り翻し,とりこぼし,unexpected defeat through carelessness,upset loss,oversight,omission,something overlooked
 縦深,じゅうしん,depth
 人目をはばかる,人目を憚る,ひとめをはばかる,to avoid being seen by others,to take care not to attract public attention,to act discreetly to avoid being noticed
 従兵,じゅうへい,officer's orderly,batman
+猟兵,りょうへい,specialized light infantry
 ヘッドショット,headshot,punch aimed at the head,blow to the top of the head
-モノコック,monocoque
+モノコック,monocoque,structural skin
 毛細気管,もうさいきかん,tracheole
 世に出す,よにだす,to make known to the world,to put out,to produce,to publish
 廠,しょう,factory,manufacturing plant,supply depot,storage depot
@@ -211696,6 +211702,7 @@
 重希土類元素,じゅうきどるいげんそ,heavy rare-earth element,HREE
 旧居留地,きゅうきょりゅうち,former foreign settlement
 きときと,fresh,lively,full of energy
+おはようおかえり,おはよーおかえり,come back soon,take care,see you
 味ない,味無い,あじない,unpalatable,bad-tasting,bland,tasteless
 阿字観,あじかん,meditation on the Sanskrit letter a
 一念三千,いちねんさんぜん,doctrine that all realms of existence are contained in a single moment of thought
@@ -211707,7 +211714,9 @@
 総受け,そう受け,総うけ,そううけ,character who is the bottom in every pairing
 キャラ立ち,キャラだち,having a distinctive personality,making one's personality stand out
 アイレベル,アイ・レベル,eye-level
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-04
+逆ハーレム,ぎゃくハーレム,reverse harem
+水力学的骨格,すいりきがくてきこっかく,hydrostatic skeleton,hydroskeleton
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-05
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
