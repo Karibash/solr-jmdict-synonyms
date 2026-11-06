@@ -25473,7 +25473,7 @@
 好都合,こうつごう,convenient,favorable,favourable,expedient,expedience
 好投,こうとう,good  pitching
 好評,こうひょう,favorable reception,good reputation,popularity
-好物,こうぶつ,favourite dish,favourite food
+好物,こうぶつ,favourite dish,favorite dish,favourite food,favorite food
 好例,こうれい,good example
 孔子,こうし,くじ,Confucius
 孔雀,くじゃく,クジャク,peafowl
@@ -67734,7 +67734,7 @@
 迷走,めいそう,straying,wandering
 迷走神経,めいそうしんけい,vagus nerve
 迷信家,めいしんか,superstitious person
-迷宮入り,めいきゅういり,going unsolved,remaining unanswered
+迷宮入り,めいきゅういり,going unsolved,going cold,remaining unanswered
 微分学,びぶんがく,differential calculus
 微分法,びぶんほう,differentiation
 微生物学者,びせいぶつがくしゃ,microbiologist
@@ -79253,7 +79253,7 @@
 引き倒す,ひきたおす,to pull down
 引き剥ぐ,引き剝ぐ,ひきはぐ,to tear off
 引っ剥ぐ,引剥ぐ,ひっぱぐ,to tear off
-引きずり出す,引き摺り出す,引摺り出す,引き擦り出す,ひきずりだす,to drag out
+引きずり出す,引き摺り出す,引摺り出す,引き擦り出す,ひきずりだす,to drag out,to pull out forcibly
 引き摺り回す,引きずり回す,引摺り回す,ひきずりまわす,to drag around,to pull about,to lead around
 洗い上げる,あらいあげる,to finish washing,to wash well,to investigate thoroughly
 洗い直す,洗いなおす,あらいなおす,to wash again,to reconsider
@@ -128096,7 +128096,7 @@
 帝国憲法,ていこくけんぽう,Meiji Constitution,Constitution of the Empire of Japan
 旧憲法,きゅうけんぽう,former constitution
 オスマン帝国憲法,オスマンていこくけんぽう,Ottoman constitution of 1876
-装蹄師,装締師,そうていし,farrier,hoof  specialist
+装蹄師,そうていし,farrier,hoof  specialist
 被占領国,ひせんりょうこく,occupied country
 統治機構,とうちきこう,system of government,government structure
 最高法規,さいこうほうき,supreme law
@@ -211665,7 +211665,7 @@
 ぶっ扱く,ぶっこく,ブッこく,to act,to do,to suffer
 片荷,かたに,unbalanced load,lopsided load,load shifted to one side,one-way cargo,one-way load,one-way freight,one of a pair of loads,half a load,half of a burden,part of a responsibility,part of one's worries
 セクシーアイドル,セクシー・アイドル,adult actress
-お宮入り,御宮入り,おみやいり,going unsolved,remaining unanswered
+お宮入り,御宮入り,おみやいり,going unsolved,going cold,remaining unanswered
 稟申,りんしん,ひんしん,reporting to a superior,sharing information with a superior,expressing an opinion to a superior
 政治将校,せいじしょうこう,political officer,political commissar
 中露印,中ロ印,ちゅうろいん,China, Russia and India
@@ -211702,7 +211702,7 @@
 重希土類元素,じゅうきどるいげんそ,heavy rare-earth element,HREE
 旧居留地,きゅうきょりゅうち,former foreign settlement
 きときと,fresh,lively,full of energy
-おはようおかえり,おはよーおかえり,come back soon,take care,see you
+お早うお帰り,おはようおかえり,おはよーおかえり,come back soon,take care,see you
 味ない,味無い,あじない,unpalatable,bad-tasting,bland,tasteless
 阿字観,あじかん,meditation on the Sanskrit letter a
 一念三千,いちねんさんぜん,doctrine that all realms of existence are contained in a single moment of thought
@@ -211716,7 +211716,11 @@
 アイレベル,アイ・レベル,eye-level
 逆ハーレム,ぎゃくハーレム,reverse harem
 水力学的骨格,すいりきがくてきこっかく,hydrostatic skeleton,hydroskeleton
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-05
+海楊,やぎ,ヤギ,gorgonian coral,horny coral
+謎本,なぞぼん,なぞほん,book analyzing the mysteries of a work of fiction or other popular subject
+便ふた,便蓋,べんふた,toilet lid
+効果線,こうかせん,effect lines
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-06
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
