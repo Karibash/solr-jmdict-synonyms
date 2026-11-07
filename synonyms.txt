@@ -53159,7 +53159,7 @@
 巫女寄せ,みこよせ,spiritism,necromancy,sorcery
 止む無く,已む無く,止むなく,已むなく,やむなく,out of necessity,with no other option,perforce,unavoidably,reluctantly,unwillingly
 箒,帚,ほうき,broom
-帷子,かたびら,light, thin, single-layer kimono,shroud,burial clothes
+帷子,かたびら,unlined garment,light, thin, single-layer kimono,shroud,burial clothes
 帷帳,いちょう,curtain
 帷幕,いばく,curtain,field staff headquarters,secret meeting place
 帷幄,いあく,headquarters,general staff
@@ -58119,7 +58119,7 @@
 滞京,たいきょう,staying in the capital,staying in Tokyo
 対質,たいしつ,questioning accused and witness together
 対座,対坐,たいざ,sitting opposite each other
-卓立,たくりつ,prominent,standing out
+卓立,たくりつ,prominence,being prominent,standing out,prominence
 矯めつ眇めつ,ためつ眇めつ,矯めつすがめつ,ためつすがめつ,carefully,thoroughly,closely
 嘆美,歎美,たんび,admiration,adoration,extolling
 挺進,ていしん,going ahead of the others,advancing ahead of the main force
@@ -211671,6 +211671,7 @@
 中露印,中ロ印,ちゅうろいん,China, Russia and India
 メガテリウム,megatherium
 視線恐怖症,しせんきょうふしょう,scopophobia,scoptophobia
+釣れる,つれる,to take the bait,to have a bite,to have a catch,to be able to catch
 観戦武官,かんせんぶかん,military observer
 仲介人,ちゅうかいにん,intermediary,mediator,go-between
 国家理性,こっかりせい,reason of state,raison d'état
@@ -211702,12 +211703,13 @@
 重希土類元素,じゅうきどるいげんそ,heavy rare-earth element,HREE
 旧居留地,きゅうきょりゅうち,former foreign settlement
 きときと,fresh,lively,full of energy
-お早うお帰り,おはようおかえり,おはよーおかえり,come back soon,take care,see you
+おはようお帰り,お早うお帰り,おはようおかえり,おはよーおかえり,come back soon,take care,see you
 味ない,味無い,あじない,unpalatable,bad-tasting,bland,tasteless
 阿字観,あじかん,meditation on the Sanskrit letter a
 一念三千,いちねんさんぜん,doctrine that all realms of existence are contained in a single moment of thought
 十住心,じゅうじゅうしん,ten stages of mind
 因陀羅網,いんだらもう,Indra's net
+六即,ろくそく,six stages leading to enlightenment
 主人公補正,しゅじんこうほせい,protagonist privilege,main character privilege,plot armor
 斗形,枓,とがた,square bearing block
 人生訓,じんせいくん,words to live by,precepts for living,principles of life
@@ -211720,7 +211722,13 @@
 謎本,なぞぼん,なぞほん,book analyzing the mysteries of a work of fiction or other popular subject
 便ふた,便蓋,べんふた,toilet lid
 効果線,こうかせん,effect lines
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-06
+プチオンリー,プチ・オンリー,fan-organized event within a larger dōjinshi fair,event-within-an-event
+自殺サイト,じさつサイト,suicide website,suicide site
+中核的,ちゅうかくてき,core,central,fundamental,pivotal,main,key
+生き生きプラザ,活き活きプラザ,いきいきプラザ,community center
+静止視力,せいししりょく,static visual acuity,SVA
+腸骨窩,ちょうこっか,iliac fossa
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-07
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
