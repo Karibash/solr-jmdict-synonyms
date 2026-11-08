@@ -16589,7 +16589,7 @@
 下賜,かし,grant,bestowal,giving something to someone of low social standing
 下歯,したば,lower teeth
 下車,げしゃ,alighting,getting off,getting out
-下取り,したどり,trade-in,part exchange
+下取り,下取,したどり,trade-in,part exchange
 下手,したて,したで,humble position,inferior,underarm grip on opponent's belt
 下手,しもて,lower part,foot,lower direction,left part of the stage,stage right
 下手,へた,ヘタ,unskillful,poor,awkward,imprudent,untactful
@@ -33517,7 +33517,7 @@
 振り捨てる,振捨てる,ふりすてる,to shake off,to forsake
 振り出す,振出す,ふりだす,to shake out,to draw a check,to issue,to infuse
 振り切る,振切る,振りきる,ふり切る,ふりきる,to shake off,to shake free from,to swing completely,to take a full swing,to break off from,to pull away,to reject,to ignore
-振り替える,振りかえる,振替える,ふりかえる,to change,to transfer,to switch over,to move over
+振り替える,振りかえる,振替える,ふりかえる,to switch,to change,to move over,to transfer
 振り払う,振払う,ふりはらう,to shake off
 振り分ける,振分ける,振りわける,ふり分ける,ふりわける,to divide in two,to divide in half,to divide,to apportion,to portion out,to distribute,to allot,to assign
 振り返る,振りかえる,ふり返る,振返る,ふりかえる,to turn one's head,to look over one's shoulder,to turn around,to look back,to think back,to reminisce,to look back,to reflect
@@ -158425,7 +158425,7 @@
 アフガンハウンド,アフガン・ハウンド,Afghan hound,Afghan
 私掠船,しりゃくせん,privateer,corsair
 わしわし,many people talking noisily,chowing down,scarfing down,roughly
-潰瘍性病変,かようせいびょうへん,ulcerative lesion
+潰瘍性病変,かいようせいびょうへん,ulcerative lesion
 横入り,よこはいり,よこいり,cutting in line,queue jumping
 シュタイン,stein
 ポンピング,pumping
@@ -211728,7 +211728,9 @@
 生き生きプラザ,活き活きプラザ,いきいきプラザ,community center
 静止視力,せいししりょく,static visual acuity,SVA
 腸骨窩,ちょうこっか,iliac fossa
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-07
+数撃ちゃ当たる,かずうちゃあたる,even the unskilled can succeed by a fluke given enough tries,if you fire enough shots, some will hit the target
+ネイルショップ,ネイル・ショップ,nail salon,beauty salon specializing in nail polish, etc.
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-08
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
