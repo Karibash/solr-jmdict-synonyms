@@ -8168,7 +8168,7 @@
 ネーブル,ネイブル,navel orange,navel
 ネーブルオレンジ,ネーブル・オレンジ,navel orange
 ネーミング,naming,branding
-ネーム,name,nameplate,caption,storyboard,rough draft
+ネーム,name,nameplate,caption,storyboard,rough draft,dialogue in a speech balloon
 ネームサーバ,ネームサーバー,ネーム・サーバ,ネーム・サーバー,name server
 ネームスペース,namespace
 ネームバリュー,ネームヴァリュー,ネーム・バリュー,ネーム・ヴァリュー,name recognition,established reputation
@@ -20854,7 +20854,7 @@
 求人,きゅうじん,recruiting,job offer,job vacancy
 求人口,きゅうじんぐち,job vacancy
 求人広告,きゅうじんこうこく,help-wanted advertisement,job advertisement,want ad
-求人誌,きゅうじんし,job advertisement
+求人誌,きゅうじんし,job advertisement magazine
 求人者,きゅうじんしゃ,employer,someone hunting for workers
 求積,きゅうせき,finding area or volume,mensuration
 求道,きゅうどう,ぐどう,seeking after truth
@@ -28635,7 +28635,7 @@
 止す,よす,to stop,to cease,to desist,to drop,to lay off,to give up,to quit
 止まる,留まる,停まる,駐まる,止る,留る,とまる,to stop,to come to a stop,to stop,to come to a halt,to cease,to be stopped,to be suspended,to alight,to perch on
 止む,已む,罷む,熄む,歇む,やむ,to cease,to stop,to be over
-やむを得ず,止むを得ず,已むを得ず,やむをえず,unavoidably,inevitably,necessarily,reluctantly,against one's will
+やむを得ず,止むを得ず,已むを得ず,やむ得ず,止む得ず,已む得ず,やむをえず,unavoidably,inevitably,necessarily,reluctantly,against one's will
 止め,とどめ,finishing blow,coup de grâce
 止める,留める,停める,とめる,to stop,to turn off,to park,to prevent,to suppress,to hold back,to hold,to relieve,to stop,to dissuade,to forbid,to prohibit,to notice,to be aware of,to concentrate on,to pay attention to,to remember,to bear in mind,to fix,to fasten,to tack,to pin,to nail,to button,to staple,to detain,to keep in custody
 止める,已める,廃める,やめる,to stop,to cease,to discontinue,to end,to quit,to cancel,to abandon,to give up,to abolish,to abstain,to refrain
@@ -54535,7 +54535,7 @@
 打ちのめす,うちのめす,to knock  down,to floor,to beat up,to deal a devastating blow,to devastate,to crush,to overwhelm,to defeat resoundingly,to give  a drubbing
 打ち込む,打ちこむ,打込む,うち込む,うちこむ,to drive in,to hammer in,to hit,to drive,to smash,to fire into,to shoot into,to input,to enter,to devote oneself to,to be absorbed in,to be  into,to be enthusiastic about,to put heart and soul into,to throw oneself into,to go head over heels for,to practice hitting,to hit,to get a blow in,to invade one's opponent's territory,to place a stone in an opponent's formation,to pour  into a form
 待ち惚ける,まちぼうける,まちぼける,to wait in vain
-代替,代替え,だいたい,だいがえ,substitution,alternative,substitute
+代替,代替え,だいたい,だいがえ,だいかえ,substitution,alternative,substitute
 台閣,たいかく,だいかく,tall building,the cabinet
 大河,たいが,large river,epic,long-form,large-scale
 大願成就,たいがんじょうじゅ,だいがんじょうじゅ,realization of a great ambition,realisation of a great ambition
@@ -59438,7 +59438,7 @@
 負ぶさる,おぶさる,to ride on a person's shoulders,to be carried on a person's back,to rely on,to depend on
 物持ち,物持,ものもち,rich person,wealthy person,taking good care of things,keeping things for a long time and taking care of them
 鞭,笞,策,韃,ムチ,むち,ぶち,whip,lash,scourge,stick,cane,rod,pointer,encouragement,rebuke,spur,goad
-抱え込む,かかえ込む,抱えこむ,かかえこむ,to hold a thing in one's arms,to carry in one's arms,to embrace,to take upon oneself,to be saddled with
+抱え込む,抱えこむ,かかえ込む,かかえこむ,to hold a thing in one's arms,to carry in one's arms,to embrace,to take upon oneself,to be saddled with
 魔,ま,demon,devil,evil spirit,evil influence,-crazed person,-obsessed person,fiend,dreaded,terrible,awful,dreadful
 又も,またも,again
 蓑,簑,簔,みの,straw raincoat
@@ -78888,7 +78888,7 @@
 早見表,はやみひょう,simplified chart,quick reference table
 早苗,秧,さなえ,rice seedling
 早発性痴呆症,そうはつせいちほうしょう,dementia praecox
-早変わり,早替わり,早がわり,早変り,早替り,はやがわり,quick change,quick transformation,turning suddenly into,metamorphosis
+早変わり,早替わり,早がわり,早変り,早替り,はやがわり,quick change,quick transformation,suddenly turning into,metamorphosis
 早教育,そうきょういく,early education
 早馬,はやうま,post horse,mounted courier,express messenger on horseback,fast horse,swift horse
 早婚,そうこん,early marriage,marrying young
@@ -103456,7 +103456,7 @@
 箸にも棒にもかからない,箸にも棒にも掛からない,はしにもぼうにもかからない,hopeless,incorrigible,beyond repair,good-for-nothing,terrible
 内輪うけ,内輪受け,うちわうけ,private agreement,private favour,inside joke,private joke
 目に見える,眼に見える,目にみえる,眼にみえる,めにみえる,to be visible,to be clear,to be evident,to be certain,to be definite
-赤い糸,あかいいと,red string of fate,in Chinese-Japanese folklore, fated lovers were said to be joined by an unseen red string, tied around one little finger of each
+赤い糸,あかいいと,red string of fate,in Japanese folklore, fated lovers were said to be joined by an unseen red string, tied around one little finger of each
 大したことではない,大した事ではない,大した事では無い,大したことでは無い,たいしたことではない,trivial,not amounting to much,not a big deal
 前車の轍を踏む,ぜんしゃのてつをふむ,to repeat someone's mistake,to make the same mistake as one's predecessor,to follow the ruts of a previous cart
 前轍を踏む,ぜんてつをふむ,to repeat someone's mistake,to make the same mistake as one's predecessor,to follow the ruts of a previous cart
@@ -115358,7 +115358,6 @@
 グキグキ,ぐきぐき,throbbing pain,jerkily,awkwardly
 グチョグチョ,ぐしょぐしょ,グショグショ,ぐちょぐちょ,sopping,soaking
 体する,たいする,to keep in mind and do as one has been told,to learn and obey,to act in accordance,to comply
-やむ得ず,止む得ず,已む得ず,やむえず,unavoidably,inevitably,necessarily,reluctantly,against one's will
 有,う,bhava
 略する,掠する,りゃくする,to abbreviate,to abridge,to shorten,to omit,to leave out,to take,to capture,to steal
 人っ子一人,人っ子ひとり,人っ子１人,人っこ一人,人っこひとり,ひとっこ一人,ひとっこひとり,a soul,a single person
@@ -161020,7 +161019,7 @@
 男女格差指数,だんじょかくさしすう,gender gap index
 ジェンダーギャップ指数,ジェンダーギャップしすう,gender gap index
 通名,つうめい,name one goes by,popular name,common name,nickname
-チート,cheating
+チート,cheating,overwhelming power or ability,character with such power or ability
 一本締め,いっぽんじめ,hand-clapping performed to celebrate the conclusion or completion of something,single clap after a cheer
 メッセンジャーバッグ,メッセンジャー・バッグ,messenger bag
 仕事人,しごとにん,professional,person good at a particular job,person who does their job without mistakes
@@ -181841,7 +181840,7 @@
 野球肘,やきゅうひじ,Little League elbow,pitcher's elbow,baseball elbow
 女医博士,にょいはかせ,female court physician
 同担,どうたん,someone who supports the same member  as oneself
-国破れて山河あり,国敗れて山河あり,国破山河在,国破れて山河在り,くにやぶれてさんがあり,the land outlasts the king,a country may fall but its mountains and rivers remain
+国破れて山河あり,国敗れて山河あり,国破山河在,国破れて山河在り,国敗れて山河在り,くにやぶれてさんがあり,the land outlasts the king,a country may fall but its mountains and rivers remain
 アイドル,idle
 リアコ,being in love with an idol, actor, etc.,fan who is in love with an idol, actor, etc.
 皆様方,みなさまがた,everyone,everybody,ladies and gentlemen
@@ -186338,7 +186337,7 @@
 銀皮症,ぎんぴしょう,argyria,argyrosis
 クロージング,clothing
 路上寝,ろじょうね,sleeping on the road
-運命の赤い糸,うんめいのあかいいと,red string of fate,in Chinese-Japanese folklore, fated lovers were said to be joined by an unseen red string, tied around one little finger of each
+運命の赤い糸,うんめいのあかいいと,red string of fate,in Japanese folklore, fated lovers were said to be joined by an unseen red string, tied around one little finger of each
 タクシー代,タクシーだい,taxi fare
 傾心,けいしん,metacenter,metacentre
 コメットハンター,コメット・ハンター,comet hunter
@@ -211722,6 +211721,7 @@
 謎本,なぞぼん,なぞほん,book analyzing the mysteries of a work of fiction or other popular subject
 便ふた,便蓋,べんふた,toilet lid
 効果線,こうかせん,effect lines
+読み専,読専,よみせん,reader only,someone who only reads
 プチオンリー,プチ・オンリー,fan-organized event within a larger dōjinshi fair,event-within-an-event
 自殺サイト,じさつサイト,suicide website,suicide site
 中核的,ちゅうかくてき,core,central,fundamental,pivotal,main,key
@@ -211730,7 +211730,9 @@
 腸骨窩,ちょうこっか,iliac fossa
 数撃ちゃ当たる,かずうちゃあたる,even the unskilled can succeed by a fluke given enough tries,if you fire enough shots, some will hit the target
 ネイルショップ,ネイル・ショップ,nail salon,beauty salon specializing in nail polish, etc.
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-08
+うちの子,ウチの子,内の子,うちのこ,うちのコ,ウチのコ,one’s own original character,my child,my pet
+消え物,きえもの,single-use theatrical prop,consumable gift
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-09
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
