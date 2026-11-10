@@ -23062,7 +23062,7 @@
 警報音,けいほうおん,warning sound
 警棒,けいぼう,baton,truncheon,billy club
 警務,けいむ,police affairs,military police
-軽い,かるい,かろい,light,feeling light,light,effortless,nimble,agile,non-serious,minor,unimportant,trivial,slight,small,gentle,soft,easy,lighthearted,easy,simple,indiscriminate,light,stones that are not solid but can be used to sacrifice to gain something elsewhere
+軽い,かるい,かろい,light,feeling light,light,effortless,nimble,agile,non-serious,minor,unimportant,trivial,slight,small,gentle,soft,easy,lighthearted,easy,simple,indiscriminate,light,stones that are not solid but can be used to sacrifice to gain something elsewhere,fast,responsive
 軽んじる,かろんじる,to look down on,to make light of
 軽音楽,けいおんがく,light music,popular music
 軽歌劇,けいかげき,light opera
@@ -38496,7 +38496,7 @@
 大火,たいか,large fire
 大会,たいかい,mass meeting,convention,rally,conference,assembly,gathering,tournament,competition,contest,meet,grand event
 大晦日,大みそか,おおみそか,New Year's Eve
-大海,たいかい,おおうみ,ocean,large sea,fabric pattern
+大海,たいかい,おおうみ,ocean,large sea,ocean-themed fabric pattern
 大ハズレ,大外れ,大はずれ,おおはずれ,utter failure,completely wrong guess,big miss
 大外刈り,大外刈,おおそとがり,osotogari,major outer reap,major sweeping leg throw
 大概,たいがい,generally,mainly,usually,normally,mostly,for the most part,nearly all,almost all,most,gist,summary,outline,main idea,staying within bounds,not overdoing,not getting carried away,not going too far,being moderate,probably,perhaps,in all likelihood,considerably,greatly,really
@@ -39761,7 +39761,7 @@
 昼夜を舎かず,ちゅうやをおかず,continuing day and night
 昼夜兼行,ちゅうやけんこう,around-the-clock,day and night
 昼礼,ちゅうれい,afternoon assembly
-柱,はしら,pillar,post,support,prop,mainstay,counter for buddhas, gods, nobles, etc.
+柱,はしら,pillar,post,support,prop,mainstay,counter for buddhas, gods, nobles, etc.,running head,running heading,adductor muscle of a bivalve
 柱時計,はしらどけい,wall clock,grandfather clock
 柱石,ちゅうせき,pillar,cornerstone
 柱頭,ちゅうとう,capital,stigma,top part of the pistil in a flower
@@ -40360,7 +40360,7 @@
 追認,ついにん,ratification,confirmation
 追慕,ついぼ,cherishing the memory of,yearning for
 追放,ついほう,exile,banishment,eviction,deportation,purge,expulsion,ousting,elimination,removal
-痛い,甚い,いたい,イタイ,イタい,painful,sore,cringy,embarrassing
+痛い,甚い,いたい,イタイ,イタい,painful,sore,cringy,embarrassing,damaging,costly
 痛み止め,痛みどめ,いたみどめ,painkiller
 痛み入る,傷み入る,痛みいる,いたみいる,to be greatly obliged,to be very sorry
 痛む,傷む,いたむ,to hurt,to ache,to feel a pain,to be injured,to be spoiled,to be damaged
@@ -48976,7 +48976,7 @@
 本管,ほんかん,main pipe
 本館,ほんかん,main building,this library,this museum,this theatre,this hall,this building
 本願,ほんがん,long-cherished desire,Amida Buddha's original vow
-本気,ほんき,seriousness,earnestness,truth,sanctity
+本気,ほんき,seriousness,earnestness,sincerity,sanity,normal state of mind
 本義,ほんぎ,true meaning,underlying principle
 本拠,ほんきょ,stronghold,inner citadel,base,headquarters
 本拠地,ほんきょち,stronghold,inner citadel,base,headquarters
@@ -51406,7 +51406,7 @@
 裸馬,はだかうま,unsaddled horse
 裸婦,らふ,nude woman,female nude
 来,らい,next,coming,since,for
-来る,來る,くる,クる,to come,to approach,to arrive,to come back,to do  and come back,to come to be,to become,to get,to grow,to continue,to come from,to be caused by,to derive from,to come to
+来る,來る,くる,クる,to come,to approach,to arrive,to come back,to do  and come back,to come to be,to become,to get,to grow,to continue,to come from,to be caused by,to derive from,to come to,to affect,to hit,to get to one
 来る日,くる日,くるひ,the coming days
 来る日も来る日も,くる日もくる日も,くるひもくるひも,day after day,day in and day out,every single day
 来る年,くるとし,the coming year
@@ -93860,7 +93860,7 @@
 還元脱脂乳,かんげんだっしにゅう,reconstituted skim milk
 耳の不自由,みみのふじゆう,deafness,the deaf
 目の不自由,めのふじゆう,blindness,the blind
-引き,ひき,ヒキ,pull,patronage,influence,tug,room to move the camera back,drawing back,pulling back,retreat
+引き,ひき,ヒキ,pull,patronage,influence,tug,room to move the camera back,drawing back,pulling back,retreat,hook,attention-grabbing element,luck
 帖合,ちょうあい,type of commission system in the book industry in Japan
 今すぐ,今直ぐ,いますぐ,at once,immediately,right now
 素っ飛ぶ,すっ飛ぶ,すっとぶ,to fly,to race away,to shoot off,to vanish,to disappear,to rush over,to hurry over
@@ -113368,7 +113368,7 @@
 尿素回路,にょうそかいろ,urea cycle
 気をそらす,気を逸らす,きをそらす,to distract
 話をそらす,話を逸らす,はなしをそらす,to change the subject
-ワカモレ,ワカモーレ,グワカモーレ,グワカモレ,guacamole
+ワカモレ,ワカモーレ,グアカモーレ,グワカモーレ,グワカモレ,グァカモレ,ガカモーレ,グァカモーレ,グアカモレ,ガカモレ,guacamole
 代表権,だいひょうけん,representation,right to represent
 直示天秤,直示天びん,ちょくじてんびん,analytical balance,direct reading balance
 在留届,ざいりゅうとどけ,residence report
@@ -171000,7 +171000,7 @@
 同クラ,おなクラ,どうクラ,same class
 試写会,ししゃかい,advance screening,preview,private showing,trade show
 フォトジェ,photogenic
-個人プレー,こじんプレー,individual play,one-man effort,non-cooperation,playing on one's own,selfish play
+個人プレー,個人プレイ,こじんプレー,individual play,one-man effort,non-cooperation,playing on one's own,selfish play
 ミクヴェ,ミクワ,ミクバ,ミクヴァ,ミクワー,ミクウェ,mikveh,mikvah
 ペチカ,ペーチカ,pechka,Russian oven,Russian stove
 風呂マット,ふろマット,bath mat
@@ -181840,7 +181840,7 @@
 野球肘,やきゅうひじ,Little League elbow,pitcher's elbow,baseball elbow
 女医博士,にょいはかせ,female court physician
 同担,どうたん,someone who supports the same member  as oneself
-国破れて山河あり,国敗れて山河あり,国破山河在,国破れて山河在り,国敗れて山河在り,くにやぶれてさんがあり,the land outlasts the king,a country may fall but its mountains and rivers remain
+国破れて山河あり,国敗れて山河あり,国破山河在,国破れて山河在り,国敗れて山河在り,国敗れて山河有り,国破れて山河有り,くにやぶれてさんがあり,the land outlasts the king,a country may fall but its mountains and rivers remain
 アイドル,idle
 リアコ,being in love with an idol, actor, etc.,fan who is in love with an idol, actor, etc.
 皆様方,みなさまがた,everyone,everybody,ladies and gentlemen
@@ -210141,7 +210141,7 @@
 猟区,りょうく,hunting area,hunting zone
 昆布締め,昆布〆,昆布じめ,こぶじめ,salted or vinegared fish pressed between sheets of kombu
 再購入,さいこうにゅう,repurchase,repeat purchasing
-えい,えいっ,hyah!,hah!,there!,here goes!,ugh!,argh!,damn it!
+えい,ええい,えーい,えいっ,hyah!,hah!,there!,here goes!,ugh!,argh!,damn it!
 グラトニー,gluttony
 エンヴィー,エンヴィ,envy
 被害者参加制度,ひがいしゃさんかせいど,legal system permitting victim participation in the criminal justice process
@@ -211730,9 +211730,13 @@
 腸骨窩,ちょうこっか,iliac fossa
 数撃ちゃ当たる,かずうちゃあたる,even the unskilled can succeed by a fluke given enough tries,if you fire enough shots, some will hit the target
 ネイルショップ,ネイル・ショップ,nail salon,beauty salon specializing in nail polish, etc.
-うちの子,ウチの子,内の子,うちのこ,うちのコ,ウチのコ,one’s own original character,my child,my pet
+うちの子,ウチの子,内の子,うちのこ,うちのコ,ウチのコ,one’s own original character,one's child,one's pet
 消え物,きえもの,single-use theatrical prop,consumable gift
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-09
+毒血,どくち,infected blood
+懸濁物食,けんだくぶつしょく,suspension feeding,feeding on particles suspended in water
+空き教室,あききょうしつ,empty classroom
+拉く,しだく,to crush,to trample,to break up,to disarrange
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-10
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
