@@ -30988,7 +30988,7 @@
 十二使徒,じゅうにしと,Twelve Apostles
 十二指腸,じゅうにしちょう,duodenum
 十二指腸虫,じゅうにしちょうちゅう,hookworm
-十二支,じゅうにし,12 signs of the Chinese zodiac
+十二支,じゅうにし,the 12 signs of the Chinese zodiac
 １２時,十二時,じゅうにじ,twelve o'clock,noon,midnight
 十二折り,じゅうにおり,duodecimo
 十二単,十二ひとえ,じゅうにひとえ,twelve-layered ceremonial kimono,ajuga,bugle
@@ -211663,6 +211663,8 @@
 轟風,ごうふう,roaring wind,thunderous wind,tempestuous gale
 ぶっ扱く,ぶっこく,ブッこく,to act,to do,to suffer
 片荷,かたに,unbalanced load,lopsided load,load shifted to one side,one-way cargo,one-way load,one-way freight,one of a pair of loads,half a load,half of a burden,part of a responsibility,part of one's worries
+キュートアグレッション,キュート・アグレッション,cute aggression,playful aggression
+キューアグ,cute aggression,playful aggression
 セクシーアイドル,セクシー・アイドル,adult actress
 お宮入り,御宮入り,おみやいり,going unsolved,going cold,remaining unanswered
 稟申,りんしん,ひんしん,reporting to a superior,sharing information with a superior,expressing an opinion to a superior
@@ -211733,10 +211735,15 @@
 うちの子,ウチの子,内の子,うちのこ,うちのコ,ウチのコ,one’s own original character,one's child,one's pet
 消え物,きえもの,single-use theatrical prop,consumable gift
 毒血,どくち,infected blood
+懸濁物,けんだくぶつ,suspended matter,suspended substance,suspended particles
 懸濁物食,けんだくぶつしょく,suspension feeding,feeding on particles suspended in water
 空き教室,あききょうしつ,empty classroom
+探し,捜し,さがし,search,searching,looking for
 拉く,しだく,to crush,to trample,to break up,to disarrange
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-10
+懸濁物質,けんだくぶっしつ,suspended matter,suspended substance,suspended particles
+物欲しい,ものほしい,wanting something,longing to have something
+不可抗,ふかこう,irresistible,inevitable,uncontrollable
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-11
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
