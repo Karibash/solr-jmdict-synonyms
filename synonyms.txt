@@ -4452,7 +4452,7 @@
 コバルト,cobalt,cobalt blue
 コバルトグリーン,コバルト・グリーン,cobalt green
 コバルトブルー,コバルト・ブルー,cobalt blue
-コピー,copy,photocopy,book jacket blurb,slogan
+コピー,copy,reproduction,photocopy,cover,imitation,counterfeit,book jacket blurb,slogan
 コピーライター,copywriter
 コピーライト,copyright
 コブラ,cobra
@@ -40585,7 +40585,7 @@
 停戦,ていせん,armistice,ceasefire
 停船,ていせん,stopping a ship,detention,quarantine
 停船場,ていせんじょう,ferry landing
-停滞,ていたい,stagnation,tie-up,standstill,congestion,delay,accumulation,falling into arrears
+停滞,ていたい,stagnation,standstill,remaining stationary,congestion,delay,accumulation,falling into arrears,tie-up,retention
 停電,ていでん,power outage,power failure,power cut,blackout
 停頓,ていとん,deadlock,standstill,stalemate,set-back,abeyance
 停泊,碇泊,ていはく,anchorage,anchoring,mooring
@@ -54425,7 +54425,7 @@
 上向く,うわむく,うえむく,to point upward,to look upward,to improve
 上座,かみざ,じょうざ,chief seat,seat of honor,seat of honour,head of the table
 上手,うわて,かみて,upper part,upper stream,upper course of a river,right side of the stage,stage left,skillful,dexterity,over-arm grip on opponent's belt
-上唇,上くちびる,うわくちびる,じょうしん,upper lip,labrum
+上唇,上口唇,上くちびる,うわくちびる,じょうしん,upper lip,labrum
 上世,かみつよ,じょうせい,antiquity,ancient times
 上側,上がわ,うわかわ,うわがわ,upper side,surface
 上皮,うわかわ,じょうひ,outer layer,cuticle,epidermis,bark,rind,crust,film,scum,epithelium
@@ -56532,7 +56532,7 @@
 引っ張る,引っぱる,引張る,ひっぱる,to pull,to draw,to pull tight,to string,to run,to stretch,to pull towards oneself,to drag,to haul,to tow,to lead,to take someone somewhere,to tempt into joining,to strongly invite to join,to delay,to prolong,to lengthen the pronunciation,to quote,to cite,to reference,to pull the ball,to wear,to put on
 火付け,火付,火つけ,ひつけ,arson,incendiarism
 一重,単,ひとえ,one layer,single layer,monopetalous,unlined kimono,single-edged eyelid,eyelid with an epicanthic fold,upper eyelid with no fold
-単物,単衣物,ひとえもの,unlined kimono
+単物,単衣物,ひとえ物,ひとえもの,unlined kimono
 人差し指,人指し指,人差指,人さし指,ひとさしゆび,index finger,forefinger,first  finger,second toe
 一つ穴,ひとつあな,same hole,gang,group
 人並み,人並,ひとなみ,ordinary,average,common,normal,like the average person,like most people
@@ -61855,7 +61855,7 @@
 将帥,しょうすい,commander
 硝薬,しょうやく,gunpowder
 小前提,しょうぜんてい,minor premise
-所蔵,しょぞう,possession
+所蔵,しょぞう,possession,to possess
 祝言,しゅうげん,festivities,celebration,wedding,marriage ceremony
 拾遺,しゅうい,gleaning,gleanings
 集貨,しゅうか,collection of freight
@@ -92317,7 +92317,7 @@
 ふらつく,フラつく,to feel giddy,to totter,to stagger,to be unfixed,to waver,to wander aimlessly,to loiter,to putter
 ぶつくさ,ブツクサ,grumbling,muttering,complaining,moaning
 ぶらり,dangling,aimlessly,casually,idly,unexpectedly
-ぶんぶん,ブンブン,buzz,hum,shake,shaking
+ぶんぶん,ブンブン,buzz,hum,vigorously,whoosh,swish
 プーンと,ぷんと,プンと,ぷーんと,ぷうんと,strongly,pungently,reeking,angrily,sulkily,in a huff
 へっぽこ,hack,untrained,incompetent,useless,quack
 ぺったんこ,ペッタンコ,ぺたんこ,ペタンコ,ぺちゃんこ,ペチャンコ,ぺしゃんこ,ペシャンコ,ぺっちゃんこ,ペッチャンコ,crushed flat,flattened,squashed,flat-topped,flat-chested girl,sound of a sticky rice cake sticking to something
@@ -92341,7 +92341,7 @@
 娶る,めとる,to marry,to take to wife,to take in marriage
 メラメラ,めらめら,flaring up,bursting into flames
 もくもく,モクモク,rising,rolling up,billowing up
-もぐもぐ,もごもご,モグモグ,モゴモゴ,mumbling,chewing one's words,chewing,squirming,wriggling
+もぐもぐ,もごもご,モグモグ,モゴモゴ,むぐむぐ,mumbling,chewing one's words,chewing,squirming,wriggling
 もんどり打つ,翻筋斗打つ,もんどりうつ,to turn a somersault
 翻筋斗,もんどり,somersault
 やっとこさ,やっとこせ,やっとこ,at last,finally,barely,narrowly,just,by the skin of one's teeth,yo-ho!,heave-ho!
@@ -161019,7 +161019,7 @@
 男女格差指数,だんじょかくさしすう,gender gap index
 ジェンダーギャップ指数,ジェンダーギャップしすう,gender gap index
 通名,つうめい,name one goes by,popular name,common name,nickname
-チート,cheating,overwhelming power or ability,character with such power or ability
+チート,cheating,overwhelming power or ability,being overpowered,unfairly strong character,overpowered character
 一本締め,いっぽんじめ,hand-clapping performed to celebrate the conclusion or completion of something,single clap after a cheer
 メッセンジャーバッグ,メッセンジャー・バッグ,messenger bag
 仕事人,しごとにん,professional,person good at a particular job,person who does their job without mistakes
@@ -211741,9 +211741,16 @@
 探し,捜し,さがし,search,searching,looking for
 拉く,しだく,to crush,to trample,to break up,to disarrange
 懸濁物質,けんだくぶっしつ,suspended matter,suspended substance,suspended particles
+お客,御客,おきゃく,guest,visitor,customer,client,entertaining guests,invitation,easy mark,sucker,party,banquet,reception,feast,dinner
 物欲しい,ものほしい,wanting something,longing to have something
 不可抗,ふかこう,irresistible,inevitable,uncontrollable
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-11
+肉抜き,にくぬき,hollowing out,shaving-off weight
+ホモ嫌悪,ホモけんお,homophobia
+通信機,通信器,つうしんき,communications device,communications equipment,transceiver,press aircraft,dispatch plane
+指導会,しどうかい,workshop,training session,instructional meeting
+熱伝導性,ねつでんどうせい,thermal conductivity,heat conduction
+コピー人間,コピーにんげん,cloned human being,copycat,person who imitates someone else
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-12
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
