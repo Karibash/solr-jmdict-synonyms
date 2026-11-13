@@ -2170,7 +2170,7 @@
 インポシブル,インポッシブル,impossible
 インポテンツ,インポテンス,impotence
 インライン,in-line,inline
-インヴァリアント,invariant
+インバリアント,インヴァリアント,invariant
 インヴェンション,インベンション,invention
 イ短調,イたんちょう,A minor
 イ長調,イちょうちょう,A major
@@ -6204,7 +6204,7 @@
 スチームハンマー,スチーム・ハンマー,steam hammer
 スチームバス,スチーム・バス,steam bath
 スチームヒーター,スチーム・ヒーター,steam heater
-スチール,スティール,steel
+スチール,スティール,steel,steel guitar
 スチールカラー,スチール・カラー,steel collar worker,robot
 スチールギター,スティールギター,スチール・ギター,スティール・ギター,steel guitar,Hawaiian guitar
 スチールサッシ,スチールサッシュ,スチール・サッシ,スチール・サッシュ,steel sash
@@ -35487,7 +35487,7 @@
 静観,せいかん,watchful waiting,careful supervision
 静止,せいし,stillness,rest,being stationary,standing still,coming to a standstill
 静止衛星,せいしえいせい,geostationary satellite
-静止画,せいしが,still image
+静止画,せいしが,static image,still picture,still frame
 静止軌道,せいしきどう,geostationary orbit,geosynchronous orbit
 静寂,せいじゃく,silence,stillness,quietness
 静粛,せいしゅく,silent
@@ -56206,7 +56206,7 @@
 問い合わせ,問合せ,問い合せ,問合わせ,問合,といあわせ,inquiry,query,enquiry
 東亜,東亞,とうあ,East Asia,the Orient
 島主,島守,とうしゅ,しまもり,island chief
-尊い,貴い,とうとい,たっとい,precious,valuable,priceless,noble,exalted,sacred
+尊い,貴い,とうとい,たっとい,precious,valuable,priceless,noble,exalted,sacred,precious,adorable,deeply endearing
 尊ぶ,貴ぶ,尚ぶ,とうとぶ,たっとぶ,to value,to prize,to esteem,to respect,to honour,to honor,to revere,to look up to
 登用,登庸,とうよう,appointment,assignment,promotion
 梳かす,解かす,とかす,to comb out,to brush,to untangle,to unravel
@@ -124771,7 +124771,7 @@
 製品化,せいひんか,making into a product
 製品版,せいひんばん,commercial version,production version,release version
 西暦２０００年問題,せいれきにせんねんもんだい,year 2000 problem
-静止画像,せいしがぞう,background image,static image
+静止画像,せいしがぞう,static image,still picture,still frame
 静的解析,せいてきかいせき,static response analysis
 静的記憶装置,せいてききおくそうち,static storage
 静的適合性,せいてきてきごうせい,static conformance
@@ -211699,6 +211699,7 @@
 石もて追われる,いしもておわれる,to be hounded out,to be driven out in disgrace
 何をおいても,何を措いても,なにをおいても,above all things,before anything else,first of all
 檣灯,しょうとう,masthead light
+閤下,こうか,your Excellency,his Excellency,her Excellency
 バザール,bazaar,bazar,special sale,sale
 軽希土類元素,けいきどるいげんそ,light rare-earth element,LREE
 重希土類元素,じゅうきどるいげんそ,heavy rare-earth element,HREE
@@ -211714,8 +211715,10 @@
 主人公補正,しゅじんこうほせい,protagonist privilege,main character privilege,plot armor
 斗形,枓,とがた,square bearing block
 人生訓,じんせいくん,words to live by,precepts for living,principles of life
+夢小説,ゆめしょうせつ,reader-insert fan fiction,self-insert fan fiction,dream novel
 総受け,そう受け,総うけ,そううけ,character who is the bottom in every pairing
 キャラ立ち,キャラだち,having a distinctive personality,making one's personality stand out
+死に戻り,しにもどり,returning to an earlier point in time or a checkpoint upon dying
 アイレベル,アイ・レベル,eye-level
 逆ハーレム,ぎゃくハーレム,reverse harem
 水力学的骨格,すいりきがくてきこっかく,hydrostatic skeleton,hydroskeleton
@@ -211732,7 +211735,7 @@
 腸骨窩,ちょうこっか,iliac fossa
 数撃ちゃ当たる,かずうちゃあたる,even the unskilled can succeed by a fluke given enough tries,if you fire enough shots, some will hit the target
 ネイルショップ,ネイル・ショップ,nail salon,beauty salon specializing in nail polish, etc.
-うちの子,ウチの子,内の子,うちのこ,うちのコ,ウチのコ,one’s own original character,one's child,one's pet
+うちの子,ウチの子,内の子,うちのこ,うちのコ,ウチのコ,one's own original character,one's child,one's pet
 消え物,きえもの,single-use theatrical prop,consumable gift
 毒血,どくち,infected blood
 懸濁物,けんだくぶつ,suspended matter,suspended substance,suspended particles
@@ -211741,6 +211744,7 @@
 探し,捜し,さがし,search,searching,looking for
 拉く,しだく,to crush,to trample,to break up,to disarrange
 懸濁物質,けんだくぶっしつ,suspended matter,suspended substance,suspended particles
+差し出し,差出し,差出,さしだし,sending,mailing,posting
 お客,御客,おきゃく,guest,visitor,customer,client,entertaining guests,invitation,easy mark,sucker,party,banquet,reception,feast,dinner
 物欲しい,ものほしい,wanting something,longing to have something
 不可抗,ふかこう,irresistible,inevitable,uncontrollable
@@ -211749,8 +211753,15 @@
 通信機,通信器,つうしんき,communications device,communications equipment,transceiver,press aircraft,dispatch plane
 指導会,しどうかい,workshop,training session,instructional meeting
 熱伝導性,ねつでんどうせい,thermal conductivity,heat conduction
-コピー人間,コピーにんげん,cloned human being,copycat,person who imitates someone else
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-12
+コピー人間,コピーにんげん,cloned human being,clone,copycat,person constantly imitating others,characterless person
+読み進める,よみすすめる,to read on,to continue reading,to read further
+したら,then,in that case,if so
+サインパーティー,サイン・パーティー,autograph session
+翼肢動物,よくしどうぶつ,aliped
+よもぎ菊,蓬菊,艾菊,ヨモギギク,よもぎぎく,tansy,common tansy
+共用栓,きょうようせん,shared tap,common tap
+後ろ頭,うしろあたま,back of the head
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-13
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
