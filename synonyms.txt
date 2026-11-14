@@ -33597,7 +33597,7 @@
 新設,しんせつ,establishing,founding,setting up,organizing,establishment
 新説,しんせつ,new theory
 新雪,しんせつ,fresh snow,new snow
-新鮮,しんせん,fresh
+新鮮,しんせん,fresh,new
 新卒者,しんそつしゃ,new graduate,new graduates
 新体,しんたい,new style
 新体制,しんたいせい,new order,new system
@@ -36412,7 +36412,7 @@
 煎薬,せんやく,decoction,infusion
 煽て,おだて,instigation,flattery
 煽てる,おだてる,to flatter,to soft-soap,to sweet talk,to cajole,to instigate
-煽り,あおり,gust,blast,influence,impact,instigation,agitation,incitement,tailgating,low angle
+煽り,あおり,gust,blast,influence,impact,instigation,agitation,incitement,tailgating,low angle,teaser copy,blurb
 煽りを食う,あおりをくう,to suffer a blast or indirect blow,to be subject to the surplus force of an impetus
 煽る,あおる,to fan,to flap,to instigate,to stir up,to incite,to agitate,to drive up prices,to take a photo from a low angle,to tailgate
 旋回,旋廻,せんかい,revolution,rotation,turning,circling,swiveling,turning
@@ -48057,7 +48057,7 @@
 弁慶格子,べんけいごうし,checked pattern,plaid
 弁慶縞,べんけいじま,checks,plaid,checked pattern
 弁慶草,べんけいそう,ベンケイソウ,orpine
-弁護,辯護,べんご,defense,defence,pleading,advocacy
+弁護,辯護,べんご,advocacy,defense,justification,legal defense,pleading,representation
 弁護依頼人,べんごいらいにん,client
 弁護士,べんごし,lawyer,attorney
 弁護士会,べんごしかい,bar association
@@ -74229,7 +74229,7 @@
 惨死体,ざんしたい,corpse of a person who has met a violent death
 惨殺者,ざんさつしゃ,brutal murderer
 惨烈,さんれつ,horrible,cruel,atrocious
-渋皮,しぶかわ,inner, astringent skin
+渋皮,しぶかわ,inner, astringent skin,epidermis
 渋色,しぶいろ,tan
 渋抜き,しぶぬき,removing the astringent taste
 渋茶,しぶちゃ,strong or bitter  tea
@@ -76313,7 +76313,7 @@
 詩境,しきょう,poem's locale
 詩碑,しひ,monument  engraved with a poem
 詩魂,しこん,poetic sentiment
-詩語,しご,poetic diction
+詩語,しご,poetic diction,poetic word,words used in poetry
 詩劇,しげき,drama in verse
 詩稿,しこう,draft of a poem
 詩趣,ししゅ,poetic
@@ -96245,7 +96245,7 @@
 一人二役,ひとりふたやく,dual role,double role
 非難合戦,批難合戦,ひなんかっせん,mutual criticism,repeated attacks on each other
 批判材料,ひはんざいりょう,elements deserving criticism,material used to criticize someone
-誹謗中傷,ひぼう中傷,ひぼうちゅうしょう,slander,calumny,defamation,libel,abuse
+誹謗中傷,ひぼう中傷,ひぼうちゅうしょう,slander,calumny,defamation,libel
 美味佳肴,びみかこう,delicacies,epicurean dishes
 百折不撓,ひゃくせつふとう,indefatigability,indomitableness
 １００点満点,百点満点,ひゃくてんまんてん,perfect score,full marks,perfection,leaving nothing to be desired,grading out of a hundred,grading on a scale of 0 to 100
@@ -108693,7 +108693,7 @@
 甜麺醤,甜面醤,テンメンジャン,sweet flour paste
 蔓茘枝,つるれいし,ツルレイシ,bitter melon,bitter gourd
 苦瓜,にがうり,ニガウリ,bitter melon,bitter gourd
-ゴーヤ,ゴーヤー,ごおや,ごおやあ,bitter melon,bitter gourd
+ゴーヤ,ゴーヤー,ごおや,ごおやあ,bitter melon,bitter gourd,goya
 皮蛋,ピータン,century egg,thousand-year old egg,hundred-year old egg,preserved egg
 ナン,ナーン,naan,nan
 整合説,せいごうせつ,coherence theory
@@ -158371,7 +158371,7 @@
 型付け,形付け,かたつけ,stencil printing,typing
 絵画展,かいがてん,exhibition of pictures,painting exhibition,art exhibition
 洗いかご,洗いカゴ,洗い籠,洗い篭,あらいかご,あらいカゴ,drying basket
-土日祝,どにちしゅく,Saturdays, Sundays, and holidays
+土日祝,どにちしゅく,Saturdays, Sundays, and holidays,weekends and holidays
 間違い探し,まちがいさがし,spot the difference,photo hunt
 老け顔,ふけがお,old-looking face
 菌床,きんしょう,mushroom bed
@@ -211717,6 +211717,7 @@
 人生訓,じんせいくん,words to live by,precepts for living,principles of life
 夢小説,ゆめしょうせつ,reader-insert fan fiction,self-insert fan fiction,dream novel
 総受け,そう受け,総うけ,そううけ,character who is the bottom in every pairing
+目がハート,めがハート,gazing adoringly,being visibly smitten,being enamored,having heart-shaped eyes
 キャラ立ち,キャラだち,having a distinctive personality,making one's personality stand out
 死に戻り,しにもどり,returning to an earlier point in time or a checkpoint upon dying
 アイレベル,アイ・レベル,eye-level
@@ -211760,8 +211761,18 @@
 翼肢動物,よくしどうぶつ,aliped
 よもぎ菊,蓬菊,艾菊,ヨモギギク,よもぎぎく,tansy,common tansy
 共用栓,きょうようせん,shared tap,common tap
+捏ねくる,こねくる,to knead,to mix with fingers,to quibble,to argue for argument's sake
 後ろ頭,うしろあたま,back of the head
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-13
+掻き攫う,掻きさらう,かき攫う,かきさらう,to snatch,to carry off,to swipe,to nab
+小奏鳴曲,しょうそうめいきょく,sonatina
+楽式,がくしき,musical form,musical style
+ヴィルレー,virelai
+小腸炎,しょうちょうえん,enteritis
+学校出,がっこうで,graduate
+コーヒーシュガー,コーヒー・シュガー,coffee sugar
+セプテット,septet
+イソリズム,アイソリズム,isorhythm
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-14
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
