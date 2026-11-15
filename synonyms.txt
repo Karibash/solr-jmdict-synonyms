@@ -11427,7 +11427,7 @@
 マドラー,swizzle stick,stir stick,cocktail stirrer
 マドラス,Madras
 マドラスチェック,マドラス・チェック,Madras check
-マドリガル,madrigal
+マドリガル,マドリガーレ,madrigal
 マドレーヌ,madeleine
 マドロス,sailor
 マドンナ,madonna
@@ -12223,7 +12223,7 @@
 ライトブルー,ライト・ブルー,light blue
 ライトヘビーウェイト,ライト・ヘビーウェイト,light heavyweight
 ライトペン,ライト・ペン,light pen
-ライトモチーフ,leitmotif,leitmotiv,leading motive
+ライトモチーフ,ライトモティーフ,leitmotif,leitmotiv,leading motive
 ライド,ride
 ライナー,liner,line drive,liner,ocean liner,liner,lining
 ライナーノーツ,ライナー・ノーツ,liner notes
@@ -18751,7 +18751,7 @@
 顎,頤,腭,腮,顋,齶,あご,アゴ,jaw,chin,barb
 掛かり,掛り,懸かり,懸り,かかり,カカリ,starting,engaging,expenses,costs,attack,barb,charge,duty,person in charge,official,clerk
 掛かり合う,係り合う,かかり合う,掛り合う,係りあう,かかりあう,to have something to do with,to be concerned with,to have a connection with,to have relations with,to become involved in,to become entangled in,to get mixed up in
-掛かる,掛る,懸かる,懸る,かかる,to take,to hang,to come into view,to arrive,to come under,to start,to attend,to deal with,to handle,to have started to,to be on the verge of,to overlap,to cover,to  at,to be fastened,to be covered,to be caught in,to get a call,to depend on,to begin,to set about,to get down to
+掛かる,掛る,懸かる,懸る,かかる,to take,to hang,to come into view,to arrive,to come under,to start,to attend,to deal with,to handle,to have started to,to be on the verge of,to overlap,to cover,to  at,to be fastened,to be covered,to be caught in,to get a call,to depend on,to begin,to set about,to get down to,to befall someone,to be burdened with,to be imposed on
 掛け,懸け,掛,懸,かけ,credit,money owed on an account,bill,hanger,holder,rest,rack,peg,hook,stand,in the process of,midway through,half-,on the verge of,just about to,hot noodles in broth,wholesale price as a proportion of the list price
 掛ける,懸ける,かける,to hang up,to let hang,to suspend,to hoist,to raise,to put on,to put on top of,to cover,to lay,to spread,to put on,to wear,to make,to spend,to expend,to use,to pour  onto,to sprinkle  onto,to splash,to throw  onto,to turn on,to set,to put on,to use,to cause,to burden,to impose,to multiply,to secure,to take a seat,to sit,to rest,to support,to bind,to wager,to bet,to risk,to stake,to gamble,to put an effect  on,to hold,to hold an emotion for,to argue,to deliberate,to present,to increase further,to catch,to set atop,to erect,to apply,to pun,to use  as a pivot word,to play on words,to be partway doing,to begin,to be about to,to address,to direct,to do
 掛け合う,懸け合う,かけ合う,掛けあう,掛合う,懸合う,かけあう,to negotiate,to talk over,to tackle someone,to haggle,to bargain,to throw on each other,to splash  on each other,to pour on each other
@@ -39181,7 +39181,7 @@
 値段表,ねだんひょう,price list
 値段付け,ねだんづけ,pricing at
 値動き,ねうごき,price movement,price fluctuation
-知ったかぶり,知ったか振り,しったかぶり,pretending to know
+知ったかぶり,知ったか振り,しったかぶり,pretending to know,acting like a know-it-all,person pretending to know things they do not,know-it-all,fraud
 知らせ,報せ,しらせ,news,word,tidings,notice,notification,information,omen,foreboding,premonition
 知らせる,報せる,しらせる,to notify,to advise,to inform
 知らない,しらない,unknown,strange,I don't care,that's irrelevant,whatever
@@ -39401,7 +39401,7 @@
 茶屋,ちゃや,teahouse,rest stop,teahouse,establishment where patrons are entertained by geisha,tea house,tea dealer
 茶化す,ちゃかす,to poke fun at,to make fun of,to send up
 茶菓,さか,ちゃか,tea and cakes,refreshments
-茶菓子,ちゃがし,cake served with tea,teacake
+茶菓子,ちゃがし,cake served with tea,sweets served with tea,teacake
 茶会,ちゃかい,さかい,tea party,get-together,tea ceremony
 茶褐色,ちゃかっしょく,dark reddish-brown,liver color
 茶器,ちゃき,tea utensils,container for powdered green tea
@@ -51995,7 +51995,7 @@
 両替機,りょうがえき,money-changing machine
 両替商,りょうがえしょう,money-exchange business
 両替人,りょうがえにん,money exchanger
-両断,りょうだん,bisection
+両断,りょうだん,bisection,cutting in two
 両天秤,両てんびん,りょうてんびん,two alternatives
 両度,りょうど,both times
 両党,りょうとう,both  parties
@@ -60819,7 +60819,7 @@
 カース,curse
 ガーディアン,guardian
 キュア,cure
-グール,ghoul
+喰種,グール,ghoul
 グラディウス,gladius
 グリフォン,griffon,gryphon
 グレムリン,gremlin
@@ -85307,7 +85307,7 @@
 監修者,かんしゅうしゃ,general  editor,editor-in-chief
 看護学校,かんごがっこう,nursing school,nursing college
 竿秤,棹秤,さおばかり,beam balance,steelyard
-管弦楽法,かんげんがくほう,orchestration
+管弦楽法,かんげんがくほう,orchestration,instrumentation
 管理社会,かんりしゃかい,controlled society,regulated society
 缶ビール,かんビール,canned beer,can of beer
 肝臓がん,肝臓癌,肝臓ガン,かんぞうがん,liver cancer
@@ -102330,7 +102330,7 @@
 キレる,to get angry,to snap,to blow one's top,to lose one's temper,to flip
 ガン切れ,ガンぎれ,ガンギレ,losing one's cool,blowing one's top
 プチ切れ,プチぎれ,プチきれ,プチギレ,プチキレ,getting irked,getting slightly ticked off
-マジ切れ,マジぎれ,マジギレ,being truly angry
+マジ切れ,まじ切れ,マジギレ,マジぎれ,まじぎれ,being truly angry,loosing one's cool entirely,crashing out
 半ギレ,半切れ,はんギレ,はんぎれ,looking furious,looking like one's about to blow their top
 本来なら,ほんらいなら,by all rights,properly speaking,legally speaking
 即ギレ,即切れ,そくギレ,そくぎれ,instantly exploding into a rage,sudden outburst
@@ -145563,7 +145563,7 @@
 Ｕ,ｕ,ユー,U,u
 ヴィー,life
 Ｖ,ｖ,ブイ,ヴィー,V,v,victory,pre-recorded video clip,volt,vanadium
-Ｗ,ｗ,ダブリュー,ダブルユー,W,w,woman,watt,waist,world,double
+Ｗ,ｗ,ダブリュー,ダブルユー,ダブル,W,w,woman,watt,waist,world,double,LOL,haha
 Ｘ,ｘ,エックス,X,x,unknown quantity,an unknown
 Ｙ,ｙ,ワイ,Y,y,yellow,short grain
 Ｚ,ｚ,ゼット,ゼッド,Z,z
@@ -147094,7 +147094,7 @@
 地域取引所,ちいきとりひきじょ,regional stock exchange
 多衆,たしゅう,crowd,large group of people
 魔法杖,まほうづえ,magic wand
-魔法の杖,魔法のつえ,まほうのつえ,magic wand
+魔法の杖,魔法のつえ,まほうのつえ,magic wand,magic staff
 周面,しゅうめん,surface of a cylinder,skin of a cylinder
 周面摩擦,しゅうめんまさつ,skin friction
 フランポネ,franponais,misuse of French in Japan
@@ -154713,7 +154713,7 @@
 脱法ハーブ,だっぽうハーブ,law-evading hallucinatory herb
 ネームロンダリング,ネーム・ロンダリング,repeatedly changing one's name through adult adoptions or sham marriages
 砂時計経済,すなどけいけいざい,hourglass economy,economy having large upper and lower classes and a small middle class
-トンコリ,Ainu plucked string instrument
+トンコリ,tonkori
 月一,月１,つきいち,once a month,10 percent monthly interest
 異所形成,いしょけいせい,heterotopia,heterotopy
 肋間動脈,ろっかんどうみゃく,intercostal artery
@@ -195513,7 +195513,7 @@
 琉球弧,りゅうきゅうこ,Ryukyu archipelago
 新型コロナ後遺症,しんがたコロナこういしょう,post-acute sequelae of COVID-19,long COVID
 自爆営業,じばくえいぎょう,forcing employees to buy products they are selling to reach their quota
-五絃琴,ごげんきん,five-stringed instrument,pentachord
+五弦琴,五絃琴,ごげんきん,ancient Chinese five-stringed qin,five-stringed guqin
 逃げた魚は大きい,にげたさかなはおおきい,the biggest fish is always the one that got away
 クリーム入れ,クリームいれ,cream jug,creamer
 十一,じゅういち,ジュウイチ,rufous hawk-cuckoo,northern hawk-cuckoo
@@ -197703,7 +197703,7 @@
 千番,せんばん,thousand times
 捩る,よじる,to twist,to contort
 精工,せいこう,precision manufacturing,exquisite workmanship
-ねじり上げる,捩じり上げる,捻じり上げる,ねじりあげる,to twist,to wrench
+ねじり上げる,捩じり上げる,捻じり上げる,捩り上げる,ねじりあげる,to twist,to wrench
 過剰在庫,かじょうざいこ,excess inventory,excess stock,overstock,glut inventory
 気持ちい,きもちい,feeling good,feeling nice,feeling pleasant
 串打ち,くしうち,skewering
@@ -211767,12 +211767,34 @@
 小奏鳴曲,しょうそうめいきょく,sonatina
 楽式,がくしき,musical form,musical style
 ヴィルレー,virelai
+ロンドー,rondeau,rondeau,rondo
+エスタンピー,estampie
 小腸炎,しょうちょうえん,enteritis
 学校出,がっこうで,graduate
 コーヒーシュガー,コーヒー・シュガー,coffee sugar
+ミソジニスト,misogynist
 セプテット,septet
+撥捌き,ばちさばき,drumming,plucking,picking
+最高音,さいこうおん,top note,soprano
 イソリズム,アイソリズム,isorhythm
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-14
+パワーコード,パワー・コード,power chord
+七重奏,しちじゅうそう,septet
+八調,はっちょう,octoechos
+ペンタコルド,ペンタコード,pentachord,pentatonic scale
+帰寮,きりょう,returning to one’s dormitory
+フォーブルドン,フォブルドン,fauxbourdon
+フロットラ,フロットーラ,frottola
+シュプレヒゲザング,sprechgesang
+溶け落ちる,とけおちる,to melt and trickle down,to melt away,to melt down
+無くし物,なくし物,失くし物,無くしもの,失くしもの,なくしもの,lost item,lost property,lost article,lost good
+知ったか,しったか,pretending to know,acting like a know-it-all
+声出し,声だし,こえだし,calling out loudly,shouting,cheering,raising voices
+聞き捨て,聞きずて,聞捨て,ききずて,ききすて,ignoring,letting  pass
+定価販売,ていかはんばい,sales at suggested prices,selling at recommended retail price
+楽器編成,がっきへんせい,instrumentation
+明日明後日,あすあさって,tomorrow or the day after,within the next day or two
+コッペ,コペ,bread roll,hot dog bun
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-15
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
