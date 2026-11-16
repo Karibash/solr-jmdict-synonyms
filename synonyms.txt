@@ -7485,7 +7485,7 @@
 トール,toll
 トールゲート,tollgate
 トーテム,totem
-トーン,tone
+トーン,tone,tone,sound,beep,screentone
 トーンダウン,トーン・ダウン,toning down,calming down,slowing down,mollification
 トイレ,toilet,restroom,bathroom,lavatory,going to the toilet,relieving oneself
 トイレタリー,toiletry
@@ -11150,7 +11150,7 @@
 ポピュラリティー,ポピュラリティ,popularity
 ポピュリズム,populism
 ポピュレーション,population
-ポプリ,potpourri
+ポプリ,potpourri,mixture of dried and perfumed plant materials,potpourri,potpourri,miscellany
 ポプリン,poplin
 ポマト,pomato,cross of a tomato and a potato
 ポメラニアン,Pomeranian
@@ -20319,7 +20319,7 @@
 輝かしい,耀かしい,赫かしい,輝やかしい,かがやかしい,brilliant,glorious,glittering,bright,splendid,promising
 輝かす,耀かす,赫かす,かがやかす,to light up,to brighten
 輝き,赫き,耀き,かがやき,brightness,brilliance,brilliancy,radiance,glitter
-輝く,耀く,赫く,かがやく,to shine,to sparkle,to twinkle,to glitter,to glisten,to light up,to beam,to gleam,to glow
+輝く,耀く,赫く,かがやく,to shine,to sparkle,to twinkle,to glitter,to glisten,to light up,to beam,to gleam,to glow,to win,to be awarded,to be honored
 輝石,きせき,pyroxene,augite
 輝線,きせん,emission line
 輝度,きど,brightness,luminance
@@ -26111,9 +26111,9 @@
 合う,あう,おう,to come together,to merge,to unite,to meet,to fit,to match,to suit,to agree with,to be correct,to be profitable,to be equitable,to do  to each other,to do  together
 合する,がっする,to join together,to sum up,to combine,to unite,to mix,to agree with
 合いの手,間の手,相の手,合の手,あいの手,あいのて,interlude,chanting or clapping along,interjection
-合わす,合す,あわす,to match,to join together,to unite,to combine,to add up,to face,to be opposite,to compare,to check with,to cause to meet,to place together,to connect,to overlap,to mix,to combine,to put blade to blade,to fight
+合わす,合す,あわす,to match,to do in line with,to adapt to,to fit,to do,to coordinate  with,to combine,to unite,to bring together,to join,to merge,to add up,to total,to put together,to place together,to bring into contact,to join,to press together,to overlap,to mix,to blend,to compound,to compare,to check against,to check,to adjust,to set,to tune,to focus,to cross,to fight,to do at the same time,to take  together,to do in addition to,to match  against each other,to have  fight
 合わせ,あわせ,joint together,opposite,facing
-合わせる,併せる,合せる,あわせる,to match,to do in line with,to adapt to,to fit,to do,to join together,to bring together,to unite,to combine,to add up,to face,to be opposite,to compare,to check against,to check,to place together,to connect,to overlap,to mix,to combine,to mix together,to adjust,to set,to tune,to cross,to fight,to match  against each other,to have  fight
+合わせる,併せる,合せる,あわせる,to match,to do in line with,to adapt to,to fit,to do,to coordinate  with,to combine,to unite,to bring together,to join,to merge,to add up,to total,to put together,to place together,to bring into contact,to join,to press together,to overlap,to mix,to blend,to compound,to compare,to check against,to check,to adjust,to set,to tune,to focus,to cross,to fight,to do at the same time,to take  together,to do in addition to,to match  against each other,to have  fight
 合わせ鏡,あわせ鏡,合せ鏡,あわせかがみ,opposite mirrors
 合わせ行なう,あわせおこなう,to carry on together,to do at the same time
 合わせ砥,あわせど,double whetstone
@@ -28754,7 +28754,7 @@
 至らない,いたらない,imperfect,incompetent,inadequate,careless
 至る,到る,いたる,to arrive at,to reach,to attain,to lead to,to get to,in the extreme case of,to come,to arrive,to result in
 至る所,到る所,至る処,到る処,至るところ,いたる所,到るところ,いたる処,いたるところ,everywhere,all over,throughout
-至れり尽くせり,至れり尽せり,至れりつくせり,いたれりつくせり,perfect,complete,thorough,leaving nothing to be desired,more than satisfactory
+至れり尽くせり,至れり尽せり,至れりつくせり,いたれり尽くせり,いたれりつくせり,perfect,complete,thorough,leaving nothing to be desired,more than satisfactory
 至急,しきゅう,urgent,pressing,immediate,prompt,express,urgently,promptly,at once,right away,without delay,as soon as possible
 至急便,しきゅうびん,express mail
 至極,しごく,very,extremely,exceedingly,quite,most,top,highest,best
@@ -35974,7 +35974,7 @@
 舌,した,tongue,tongue-like object,clapper,talon,reed
 舌禍,ぜっか,careless remark,incriminating remark,unfortunate statement,slip of the tongue
 舌鼓を打つ,舌鼓をうつ,したつづみをうつ,to smack one's lips,to eat with relish
-舌先,したさき,tip of tongue
+舌先,したさき,tip of tongue,glib talk,fair words,lip service
 舌戦,ぜっせん,war of words
 舌足らず,舌たらず,したたらず,unclear speech,garbled speech,poor enunciation,poorly expressed,unclear,imprecise,inadequate
 舌打ち,舌うち,したうち,clicking one's tongue,tut-tut,smacking one's lips
@@ -37786,7 +37786,7 @@
 賊名,ぞくめい,the name of "rebel"
 族,ぞく,tribe,race,people,family,group,gang,lot,bunch,tribe,group
 続く,つづく,to continue,to last,to go on,to continue,to be unbroken,to occur again and again,to lead to,to connect to,to adjoin,to come after,to follow,to succeed,to rank next to,to hold out,to keep,to last
-続ける,つづける,to continue,to keep up,to keep on,to continue,to keep on
+続ける,つづける,to continue,to keep up,to keep on,to join together,to connect,to do in succession,to do one after another,to continue,to keep on
 続行,ぞっこう,continuation,continuance,going on,resuming
 続出,ぞくしゅつ,appearing one after another,cropping up one after another,occurring in succession
 続騰,ぞくとう,continued advance,continued rise
@@ -41516,7 +41516,7 @@
 渡り鳥,わたりどり,migratory bird,bird of passage
 渡り歩く,わたりあるく,to wander from place to place,to change jobs
 渡り廊下,わたりろうか,roofed corridor connecting two buildings,connecting passageway,skyway,skybridge,skywalk
-渡る,亘る,渉る,亙る,弥る,わたる,to cross over,to go across,to extend,to cover,to range,to span
+渡る,亘る,渉る,亙る,弥る,わたる,to cross over,to go across,to extend,to cover,to range,to span,to pass,to change hands,to be transferred,to be distributed,to reach,to go around
 渡河,とか,crossing a river
 渡航,とこう,voyage,passage,travelling
 渡世,とせい,making one's way in the world,living,livelihood,business,trade,occupation
@@ -47947,7 +47947,7 @@
 片言,かたこと,カタコト,prattle,broken language,halting language,baby talk,imperfect speech,smattering
 片言隻語,へんげんせきご,a few words
 片持ち,かたもち,cantilever
-片手,かたて,one hand
+片手,かたて,one hand,five
 片手間,かたてま,spare time,free time,leisure time
 片手落ち,かたておち,one-sided,partial,unfair
 片側,かたがわ,one side
@@ -49979,7 +49979,7 @@
 鳴らす,ならす,to ring,to sound,to chime,to beat,to snort,to snap,to crack,to be popular,to be esteemed,to be reputed,to state,to insist,to complain,to fart
 鳴り響く,鳴響く,鳴りひびく,なりひびく,to reverberate,to resound,to echo,to have one's fame spread,to be renowned
 鳴り渡る,なりわたる,to resound  far and wide
-鳴る,なる,to sound,to ring,to resound,to echo,to roar,to rumble
+鳴る,なる,to sound,to ring,to resound,to echo,to roar,to rumble,to be widely known,to be renowned,to be noted
 鳴動,めいどう,rumbling,cadence
 鳴門巻,鳴門巻き,なるとまき,kamaboko with a spiral whirlpool-like pattern
 姪,めい,niece
@@ -55291,7 +55291,7 @@
 思い,想い,念い,おもい,thought,imagination,mind,heart,desire,wish,hope,expectation,love,affection,feelings,emotion,sentiment,experience
 思いつく,思い付く,おもいつく,to think of,to hit upon,to come into one's mind,to be struck with an idea,to remember,to recall
 思い出,想い出,思いで,想いで,思出,想出,思ひ出,おもいで,おもひで,memories,recollections,reminiscence
-思う,想う,憶う,念う,懐う,惟う,意う,おもう,to think,to consider,to believe,to reckon,to think,to plan,to judge,to assess,to regard,to imagine,to suppose,to dream,to expect,to look forward to,to feel,to be,to desire,to want,to care  for,to yearn for,to worry about,to love,to recall,to remember
+思う,想う,憶う,念う,懐う,惟う,意う,おもう,to think,to consider,to believe,to reckon,to think,to plan,to judge,to assess,to regard,to imagine,to suppose,to dream,to expect,to look forward to,to feel,to be,to desire,to want,to care  for,to yearn for,to worry about,to love,to recall,to remember,to appreciate
 重々しい,重重しい,重おもしい,おもおもしい,serious,grave,dignified,solemn
 面白み,面白味,おもしろみ,interest,appeal,attraction,fun
 表表紙,おもてびょうし,front cover
@@ -58307,7 +58307,7 @@
 甘んじる,あまんじる,to content oneself with,to be resigned to,to be contented
 網目,あみめ,mesh,half-tone
 按腹,あんぷく,ventral massage
-安息香,あんそくこう,benzoin
+安息香,あんそくこう,あんそっこう,benzoin,storax,gum benjamin tree,benzoin tree
 仰向ける,仰むける,あおむける,to turn up,to lay  on its back,to tilt  back
 阿羅漢,あらかん,arhat
 嵐の前の静けさ,あらしのまえのしずけさ,calm before the storm,lull before the storm
@@ -63476,7 +63476,7 @@
 松煤,しょうばい,soot of burnt pine
 松濤,松涛,しょうとう,sound of wind rustling in the pine needles
 松蝉,まつぜみ,cicada abundant in late spring
-松露,しょうろ,Rhizopogon rubescens
+松露,しょうろ,shōro mushroom
 松籟,しょうらい,wind through pine trees,soughing of wind through pine trees,sound of a boiling tea kettle
 候由,そうろうよし,I hear that
 候哉,そうろうや,I wonder if
@@ -84975,7 +84975,7 @@
 左のような訳,ひだりのようなわけ,the reason as follows
 使いっ走り,使いっぱしり,使いっパシリ,つかいっぱしり,gofer,dogsbody,person who is made to do things or get things for someone else
 パシリ,ぱしり,gofer,dogsbody,person who is made to do things or get things for someone else
-だろう,だろ,seems,I think,I guess,probably,I wonder,I hope,right?,don't you agree?,I thought you'd say that!
+だろう,だろ,probably,likely,I think,I suppose,I guess,I reckon,right?,isn't it?,didn't I?,I wonder,could it be  ?,I'm not sure,how could ?,as if,would  ever ?,how !,what  !,how  would !,even if,whether  or,no matter,would have,must,I bet,yeah,I'd think so,see?,told you
 食感,しょっかん,food texture,mouthfeel
 からっきし,からきし,カラッキシ,カラキシ,quite,utterly,at all,completely,wholly,entirely,totally,altogether
 関説,かんせつ,かんぜい,allusion,alluding,related explanation
@@ -88068,7 +88068,7 @@
 ゲラダ狒狒,ゲラダ狒々,ゲラダひひ,ゲラダヒヒ,gelada,gelada baboon
 コート紙,コートし,coated paper
 コード刺繍,コード刺しゅう,コードししゅう,cord embroidery
-コーヒーの木,コーヒーのき,coffee tree
+コーヒーの木,コーヒーの樹,コーヒーのき,coffee tree,Coffea
 コカの木,コカのき,coca tree
 ココ椰子,ココやし,ココヤシ,coconut palm
 コストプラス契約,コストプラスけいやく,cost-plus contract
@@ -94607,7 +94607,7 @@
 暴れ川,あばれがわ,river which often overflows its banks
 危なく,あぶなく,nearly,almost,on the point of
 油炒め,油いため,あぶらいため,stir-frying,stir-fry,stir-fried food
-甘っちょろい,あまっちょろい,overly optimistic,easygoing,irresponsible,naive,simple-minded
+甘っちょろい,甘ちょろい,あまっちょろい,あまちょろい,overly optimistic,easygoing,irresponsible,naive,simple-minded
 編み合わせる,あみあわせる,to knit together,to intertwine
 綾,文,あや,figure,design,twill weave,pattern of diagonal stripes,style,figure,design,plot,plan,minor market fluctuation,technical correction,cat's cradle,lease rod
 彩なす,綾なす,操す,あやなす,to decorate with many bright colours,to create a beautiful variegated pattern,to manipulate skillfully
@@ -101667,7 +101667,7 @@
 七分,しちぶん,type of baggy tobi trousers with the baggy part taking up seven-tenths of the full length of the trouser leg
 刃傷に及ぶ,にん傷に及ぶ,にんじょうにおよぶ,to come to bloodshed
 素潜り,素もぐり,すもぐり,skin diving,free diving
-耳触り,耳ざわり,みみざわり,feeling one gets from listening to something
+耳触り,耳ざわり,みみざわり,sound,how something sounds,feel,ring
 通電焼結法,つうでんしょうけつほう,electric current sintering
 さる事ながら,然る事ながら,然ることながら,然る事乍ら,さることながら,that goes without saying but also,not only that but
 魚醤,ぎょしょう,fish sauce
@@ -127535,7 +127535,7 @@
 口の減らない,口のへらない,口の減らん,口のへらん,くちのへらない,always having a comeback,fast-talking
 楽屋口,がくやぐち,stage door
 既卒者,きそつしゃ,graduate from an earlier year,alumnus,alumna,former graduate
-流線,りゅうせん,streamline
+流線,りゅうせん,streamline,speed lines,motion lines
 二次創作,２次創作,にじそうさく,derivative work
 手を煩わせる,てをわずらわせる,to cause a person trouble
 内輪差,ないりんさ,difference between track followed by front and back inner wheels when turning
@@ -149988,7 +149988,7 @@
 三審制度,さんしんせいど,three-tiered court system,principle of a three-instance trial process
 比例代表,ひれいだいひょう,proportional representation
 開宴,かいえん,opening of a banquet,opening of a wedding reception
-ベー,べー,bleh
+べー,ベー,bleh
 意向調査,いこうちょうさ,survey,poll
 専売特許品,せんばいとっきょひん,patented article
 人間改造学,にんげんかいぞうがく,euphenics
@@ -157378,7 +157378,7 @@
 鮑魚,ほうぎょ,salt-cured fish
 坊主くさい,坊主臭い,ぼうずくさい,overly pious,sanctimonious,priestly,monkish
 目止め,めどめ,wood filling,filler,filling,boiling
-型抜き,かたぬき,カタヌキ,die cutting,cutting with a cutter,shaping with a mold,cookie cutter
+型抜き,型抜,かたぬき,カタヌキ,die cutting,cutting with a cutter,shaping with a mold,cookie cutter
 物相,盛相,盛っ相,盛糟,もっそう,もっそ,cylindrical box used to measure rice,shape for forming rice,single serving of rice
 髷物,まげ物,まげもの,period story
 ちょんまげ物,丁髷物,ちょんまげもの,ちょんまげモノ,period play set in the Edo period,period drama
@@ -188169,7 +188169,7 @@
 丸きし,丸っきし,まるっきし,completely,absolutely,totally,at all
 非人間化,ひにんげんか,dehumanization
 本歌取り,ほんかどり,adaptation of a famous poem
-リバ,switch,person who can be either dominant or submissive in a homosexual relationship
+リバ,switch,person who can be either dominant or submissive in a homosexual relationship,switching top and bottom roles within a fictional pairing
 優生思想,ゆうせいしそう,eugenic thought,idea of eugenics
 ペラ紙,ペラがみ,thin paper
 聞きそびれる,訊きそびれる,ききそびれる,to miss a chance to ask,to miss an opportunity to ask,to forget to ask
@@ -211738,6 +211738,7 @@
 ネイルショップ,ネイル・ショップ,nail salon,beauty salon specializing in nail polish, etc.
 うちの子,ウチの子,内の子,うちのこ,うちのコ,ウチのコ,one's own original character,one's child,one's pet
 消え物,きえもの,single-use theatrical prop,consumable gift
+海賦,海部,かいぶ,ocean-themed decorative pattern
 毒血,どくち,infected blood
 懸濁物,けんだくぶつ,suspended matter,suspended substance,suspended particles
 懸濁物食,けんだくぶつしょく,suspension feeding,feeding on particles suspended in water
@@ -211776,25 +211777,49 @@
 セプテット,septet
 撥捌き,ばちさばき,drumming,plucking,picking
 最高音,さいこうおん,top note,soprano
+十二音技法,じゅうにおんぎほう,twelve-tone technique,dodecaphony,dodecaphonism
 イソリズム,アイソリズム,isorhythm
+カッサシオン,cassation
 パワーコード,パワー・コード,power chord
 七重奏,しちじゅうそう,septet
+コントラファクトゥーア,сontrafactum
+ミクロポリフォニー,micropolyphony
+ミクソリディア旋法,ミクソリディアせんぽう,mixolydian mode
 八調,はっちょう,octoechos
 ペンタコルド,ペンタコード,pentachord,pentatonic scale
+ピカルディの三度,ピカルディのさんど,Picardy third
+レスポンソリウム,responsorium,responsory
+ロンドソナタ形式,ロンドソナタけいしき,rondo-sonata,rondo-sonata form
+反復進行,はんぷくしんこう,sequence
 帰寮,きりょう,returning to one’s dormitory
+六の和音,ろくのわおん,sixth chord
+スキスマ,schisma
+テッシトゥーラ,tessitura
+トリスタン和音,トリスタンわおん,Tristan chord
 フォーブルドン,フォブルドン,fauxbourdon
 フロットラ,フロットーラ,frottola
 シュプレヒゲザング,sprechgesang
+エンハーモニック,enharmonic
+積み上がる,つみあがる,to pile up,to be stacked up,to accumulate,to increase
 溶け落ちる,とけおちる,to melt and trickle down,to melt away,to melt down
 無くし物,なくし物,失くし物,無くしもの,失くしもの,なくしもの,lost item,lost property,lost article,lost good
 知ったか,しったか,pretending to know,acting like a know-it-all
 声出し,声だし,こえだし,calling out loudly,shouting,cheering,raising voices
 聞き捨て,聞きずて,聞捨て,ききずて,ききすて,ignoring,letting  pass
 定価販売,ていかはんばい,sales at suggested prices,selling at recommended retail price
+ポコン,ぽこん,with a light thump,with a tap,bump,bop,with a pop,with a plop,poof,phut,popping out,springing back,with a pop,denting in,suddenly,popping up,plonking down
 楽器編成,がっきへんせい,instrumentation
 明日明後日,あすあさって,tomorrow or the day after,within the next day or two
 コッペ,コペ,bread roll,hot dog bun
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-15
+透かし見る,透かしみる,すかし見る,すかしみる,to look through,to see through,to peer through,to peep through,to peer at,to strain  to see,to peer into
+おちゃらけ,facetiousness,silliness,flippant words or behaviour,fooling around,frivolousness,frivolity
+耳心地,みみごこち,sound,how something sounds,feel,ring,feel,ear comfort,fit
+稿を起こす,こうをおこす,to start writing a draft,to begin writing a manuscript
+白鞘,しらさや,しらざや,plain wooden sword scabbard,unvarnished scabbard
+安息香の木,あんそくこうのき,あんそっこうのき,アンソクコウノキ,gum benjamin tree,benzoin tree
+クッキングペーパー,クッキング・ペーパー,cooking paper,baking paper,cooking sheet
+デカボ,decarbonization
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-16
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
