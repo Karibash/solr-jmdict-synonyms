@@ -10039,7 +10039,7 @@
 ブート,boot,bootstrap,booting
 ブービー,booby prize,prize for coming second-last
 ブーム,boom,craze,fad,boom,boom,boom
-ブーメラン,boomerang,swim briefs,Speedos
+ブーメラン,boomerang,swim briefs,Speedos,something that rebounds on the originator
 ブーリアン,Boolean
 ブーリアン関数,ブーリアンかんすう,Boolean function
 ブール,boule,boules
@@ -13964,7 +13964,7 @@
 異義,いぎ,different meaning,different opinion
 異議,いぎ,objection,dissent,protest
 異議なく,いぎなく,without demur
-異教,いきょう,paganism,heathenism
+異教,いきょう,religion other than one's own,paganism,heathenism
 異郷,異境,いきょう,foreign country,foreign land,strange land,far-off land
 異形,いぎょう,fantastic,grotesque,strange-looking,suspicious-looking
 異見,いけん,different opinion,different view,dissenting view,objection,scolding,reprimand,rebuke,admonition,cautioning,warning
@@ -18600,7 +18600,7 @@
 確率密度関数,かくりつみつどかんすう,probability density function
 確率論,かくりつろん,probability theory
 確立,かくりつ,establishment,settlement
-覚え,おぼえ,memory,sense,experience
+覚え,おぼえ,memory,sense,experience,confidence in one's skill or ability,favour,trust,confidence
 覚える,憶える,おぼえる,to memorize,to memorise,to commit to memory,to learn by heart,to bear in mind,to remember,to learn,to pick up,to acquire,to feel,to think,to regard
 覚ます,醒ます,さます,to awaken,to arouse from sleep,to bring to one's senses,to disabuse,to sober up,to dampen,to throw a damper on,to spoil
 覚める,醒める,さめる,to wake,to wake up,to wear off,to regain consciousness,to sober up,to come to one's senses,to be disillusioned
@@ -25621,7 +25621,7 @@
 更かす,ふかす,to sit up late
 更ける,深ける,ふける,to get late,to advance,to wear on
 更なり,さらなり,of course
-更に,さらに,furthermore,again,after all,more and more,moreover,even more
+更に,さらに,furthermore,again,after all,more and more,moreover,even more,at all,in the least
 更位,こうい,second accession of the same emperor
 更衣室,こういしつ,locker room,changing room,dressing room
 更改,こうかい,renewal,extension,revision
@@ -29116,7 +29116,7 @@
 持ち古す,もちふるす,to have long in use
 持ち合わせる,持ちあわせる,持ち合せる,もちあわせる,to happen to have,to have on hand,to carry
 持ち込む,持ちこむ,持込む,もちこむ,to bring in,to take in,to carry in,to approach,to bring,to lodge,to propose,to bring,to take
-持ち出す,持出す,もちだす,to take out,to carry out,to bring out from where it belongs,to mention something,to broach a topic,to bring up,to raise,to mention
+持ち出す,持出す,もちだす,to take out,to carry out,to bring out from where it belongs,to mention something,to broach a topic,to bring up,to raise,to mention,to cover  out of one's own funds,to pay out of one's own pocket,to embezzle,to peculate,to make off with
 持ち上げる,持ちあげる,持上げる,もちあげる,to elevate,to raise,to lift up,to flatter,to extol,to praise to the sky
 持ち場,持場,もちば,one's post,one's position,one's station,one's place of duty,one's round,one's beat,one's route
 持ちきり,持ち切り,もち切り,持切り,もちきり,hot topic,talk of the town
@@ -29702,7 +29702,7 @@
 偲ぶ,慕ぶ,しのぶ,to recollect,to remember,to reminisce,to be nostalgic for,to imagine,to guess,to infer,to admire,to praise,to commend
 芝,しば,lawn,sod,turf
 芝刈り機,芝刈機,芝刈り器,しばかりき,lawnmower
-芝居,しばい,play,drama
+芝居,しばい,play,drama,acting,performance,pretense,sham,play-acting
 芝居小屋,しばいごや,playhouse,theatre,theater
 芝生,しばふ,lawn,grass,turf
 芝草,しばくさ,lawn,sod,turf
@@ -39515,7 +39515,7 @@
 中間配当額,ちゅうかんはいとうがく,interim dividends
 中期,ちゅうき,middle period,medium-term
 中気,ちゅうき,palsy,paralysis,every second solar term
-中規模,ちゅうきぼ,mid-range,mid-scale,mid-size
+中規模,ちゅうきぼ,mid-range,mid-scale,mid-size,medium-range,medium-scale,medium-size
 中休み,なかやすみ,break,recess
 中宮,ちゅうぐう,the Empress, the Empress Dowager and the Grand Empress Dowager,emperor's second consort,empress,palace of the empress,building of a Shinto shrine built on middle ground,demesne of the imperial palace
 中級,ちゅうきゅう,intermediate level
@@ -43679,7 +43679,7 @@
 妊娠中絶,にんしんちゅうぜつ,abortion,pregnancy termination
 妊婦,にんぷ,pregnant woman
 妊婦服,にんぷふく,maternity clothes
-忍ばせる,しのばせる,to conceal,to hide
+忍ばせる,しのばせる,to conceal,to hide,to muffle,to make less audible
 忍び,忍,しのび,stealth,travelling incognito,ninjutsu,ninja,sneak theft,sneak thief,tolerance
 忍び寄る,忍びよる,しのび寄る,しのびよる,to creep up to,to approach stealthily,to steal up,to draw near unnoticed
 忍び泣く,しのびなく,to shed silent tears
@@ -44226,7 +44226,7 @@
 輩,原,儕,ばら,suffixed to words indicating a class of people to create a plural
 輩,やから,ヤカラ,group,bunch,lot,pack,set,gang
 輩出,はいしゅつ,producing  in great numbers,appearing one after the other
-配る,賦る,くばる,to distribute,to hand out,to deliver,to deal out,to serve out,to allot,to allocate,to place,to station
+配る,賦る,くばる,to distribute,to hand out,to deliver,to deal out,to serve out,to allot,to allocate,to place,to station,to direct,to pay,to disseminate
 配下,はいか,followers,subordinates,being under someone's command
 配管工,はいかんこう,plumber
 配管工業,はいかんこうぎょう,plumbing
@@ -48204,7 +48204,7 @@
 歩,ふ,pawn
 歩,ほ,step,stride,counter for steps
 歩き回る,歩きまわる,歩き廻る,あるきまわる,to walk about,to walk around,to walk to and fro,to pace around,to wander
-歩く,步く,あるく,to walk
+歩く,步く,あるく,to walk,to go around,to travel around,to visit various places
 歩み,歩,あゆみ,walking,pace,step,course,history,progress,advance,development,pitch
 歩み寄る,歩みよる,あゆみよる,to compromise,to meet halfway,to step up to,to walk up to,to approach
 歩み方,あゆみかた,move,way to play
@@ -48529,7 +48529,7 @@
 縫い合わせる,縫い合せる,縫合わせる,縫合せる,縫いあわせる,ぬい合わせる,ぬいあわせる,to sew together,to stitch together,to sew up,to switch up
 縫い込む,ぬいこむ,to sew in
 縫い付ける,縫いつける,ぬいつける,to sew on
-縫いぐるみ,縫い包み,ぬいぐるみ,ヌイグルミ,stuffed toy,stuffed animal,plush toy,soft toy,cuddly toy
+縫いぐるみ,縫い包み,ぬいぐるみ,ヌイグルミ,stuffed toy,stuffed animal,plush toy,soft toy,cuddly toy,full-body animal or character costume
 縫う,ぬう,to sew,to stitch,to weave one's way
 縫合,ほうごう,sewing together,stitching up,suture
 縫い物,縫物,縫いもの,ぬいもの,sewing,needlework,embroidery
@@ -50527,7 +50527,7 @@
 薮蛇になる,薮蛇に成る,やぶへびになる,to only make work for oneself,to stir up a hornet's nest,to put one's foot in one's mouth
 愉快,ゆかい,pleasant,delightful,enjoyable,joyful,cheerful,amusing,happy
 愉楽,ゆらく,pleasure
-油,あぶら,oil
+油,あぶら,oil,oil painting
 油を絞る,油を搾る,油をしぼる,あぶらをしぼる,to chew out,to reprimand severely,to rake over the coals,to give a sound scolding,to tell someone off,to scold,to rebuke,to press oil
 油を売る,油をうる,アブラを売る,あぶらを売る,あぶらをうる,to loaf around,to idle one's time away,to dawdle
 油井,ゆせい,oil well
@@ -51379,7 +51379,7 @@
 欲張る,欲ばる,よくばる,to be greedy,to be avaricious,to want badly,to desire intensely,to covet
 欲望,慾望,よくぼう,desire,appetite,lust
 ヨウ素,沃素,よう素,ヨー素,ようそ,iodine
-浴びせる,あびせる,to pour on
+浴びせる,あびせる,to pour on,to douse,to shower,to bombard
 浴びる,あびる,to dash over oneself,to take,to bask in,to bathe in,to be flooded with,to be covered in,to suffer,to draw,to have heaped upon,to be showered with
 浴室,よくしつ,bathroom
 浴場,よくじょう,bathhouse,bath,bathroom
@@ -61918,7 +61918,7 @@
 太陽系,たいようけい,solar system
 太陽年,たいようねん,solar year,tropical year
 多情多恨,たじょうたこん,sensibility,many worries and regrets
-高鳴る,たかなる,to throb,to beat fast
+高鳴る,高なる,たかなる,to throb,to beat fast,to ring out loudly,to ring high,to resound
 達観,たっかん,philosophical view,looking at philosophically,long view,farsighted view
 賜物,賜,賚,たまもの,gift,boon,godsend,result,fruit
 弾除け,弾よけ,たまよけ,bulletproof,protection  against bullets
@@ -108443,7 +108443,7 @@
 滅茶,めっちゃ,めっっちゃ,めっっっちゃ,めっっっっちゃ,extremely,very,really,super,so
 ブルータス、お前もか,ブルータスお前もか,ブルータス、おまえもか,et tu, Brute?
 椎,しい,シイ,any beech tree of genus Castanopsis,chinquapin,chinkapin
-椎の木,しいの木,しいのき,シイノキ,any beech tree of genus Castanopsis
+椎の木,しいの木,椎木,しいのき,シイノキ,any beech tree of genus Castanopsis
 洋形,ようけい,Japanese Western-style envelope
 角形,かくけい,かっけい,-gon
 免停,めんてい,driving license suspension
@@ -132719,7 +132719,7 @@
 ふんだくる,to snatch,to grab,to steal,to charge  for
 ふん縛る,フン縛る,ふんじばる,to tie up,to bind,to arrest
 腑抜ける,ふぬける,to lose one's energy,to be cowardly
-ぶった切る,ぶった斬る,打っ手切る,豚切る,ぶったぎる,to chop,to cut off,to chop off,to hack off
+ぶった切る,ぶった斬る,打っ手切る,豚切る,打った切る,ぶったぎる,to chop,to cut off,to chop off,to hack off
 ぶん投げる,打ん投げる,ぶんなげる,to throw
 折板,へぎ板,剥板,折ぎ板,剝板,へぎいた,splint,shingle
 ヘコヘコ,へこへこ,pliantly,pliably,subserviently,ingratiatingly,servilely
@@ -154845,7 +154845,7 @@
 海緑,うみみどり,ウミミドリ,pink sea milkwort
 ヤラメスゲ,Lyngbye's sedge
 蝦夷蔓金梅,えぞつるきんばい,エゾツルキンバイ,Pacific silverweed,Eged's silverweed
-塩場菜,しばな,シバナ,Triglochin maritima var. asiatica
+芝菜,塩場菜,しばな,シバナ,seaside arrowgrass
 小甘藻,こあまも,コアマモ,dwarf eelgrass,Japanese eelgrass
 数珠藻,じゅずも,ジュズモ,Chaetomorpha algae,Chaeto,nostoc
 全卵,ぜんらん,whole egg,egg white and egg yolk
@@ -211774,6 +211774,8 @@
 学校出,がっこうで,graduate
 コーヒーシュガー,コーヒー・シュガー,coffee sugar
 ミソジニスト,misogynist
+鳴り止む,なりやむ,to stop sounding,to fall silent
+馳せ参ずる,はせ参ずる,はせさんずる,to hasten to join,to hurry to visit
 セプテット,septet
 撥捌き,ばちさばき,drumming,plucking,picking
 最高音,さいこうおん,top note,soprano
@@ -211782,7 +211784,7 @@
 カッサシオン,cassation
 パワーコード,パワー・コード,power chord
 七重奏,しちじゅうそう,septet
-コントラファクトゥーア,сontrafactum
+コントラファクトゥーア,contrafactum
 ミクロポリフォニー,micropolyphony
 ミクソリディア旋法,ミクソリディアせんぽう,mixolydian mode
 八調,はっちょう,octoechos
@@ -211801,6 +211803,7 @@
 シュプレヒゲザング,sprechgesang
 エンハーモニック,enharmonic
 積み上がる,つみあがる,to pile up,to be stacked up,to accumulate,to increase
+目遣い,めづかい,movement of the eyes,way of looking,signalling with the eyes,meaningful glance
 溶け落ちる,とけおちる,to melt and trickle down,to melt away,to melt down
 無くし物,なくし物,失くし物,無くしもの,失くしもの,なくしもの,lost item,lost property,lost article,lost good
 知ったか,しったか,pretending to know,acting like a know-it-all
@@ -211812,14 +211815,19 @@
 明日明後日,あすあさって,tomorrow or the day after,within the next day or two
 コッペ,コペ,bread roll,hot dog bun
 透かし見る,透かしみる,すかし見る,すかしみる,to look through,to see through,to peer through,to peep through,to peer at,to strain  to see,to peer into
+結わく,ゆわく,to tie,to bind,to fasten
 おちゃらけ,facetiousness,silliness,flippant words or behaviour,fooling around,frivolousness,frivolity
+飛び下がる,とびさがる,to leap back,to jump backwards to avoid something,to jump off
 耳心地,みみごこち,sound,how something sounds,feel,ring,feel,ear comfort,fit
 稿を起こす,こうをおこす,to start writing a draft,to begin writing a manuscript
 白鞘,しらさや,しらざや,plain wooden sword scabbard,unvarnished scabbard
+奸雄,姦雄,かんゆう,villainous hero,crafty, unscrupulous hero,Mephistophelian hero
 安息香の木,あんそくこうのき,あんそっこうのき,アンソクコウノキ,gum benjamin tree,benzoin tree
 クッキングペーパー,クッキング・ペーパー,cooking paper,baking paper,cooking sheet
 デカボ,decarbonization
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-16
+縞源五郎,しまげんごろう,シマゲンゴロウ,Hydaticus
+取り越す,取越す,とりこす,to anticipate,to do ahead of time,to perform ahead of schedule,to bring forward
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-17
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
