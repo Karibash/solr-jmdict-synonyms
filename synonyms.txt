@@ -6820,7 +6820,7 @@
 ダカ,daka-,10^1,da
 ダクト,duct
 ダコタ,Dakota
-ダッシュ,dash
+ダッシュ,dash,space,prime symbol,dash,rapid movement
 ダッチワイフ,ダッチ・ワイフ,sex doll,bamboo wife,Dutch wife
 ダビング,dubbing,mixing,re-recording,copying,dubbing
 ダフ屋,だふ屋,だふや,scalper,ticket tout
@@ -20316,7 +20316,7 @@
 軌を一にする,揆を一にする,きをいつにする,to concur,to be the same,to have the same way of doing
 軌跡,きせき,tire track,traces of a person or thing,path one has taken,locus
 軌道,きどう,orbit,trajectory,track,track,proper course
-輝かしい,耀かしい,赫かしい,輝やかしい,かがやかしい,brilliant,glorious,glittering,bright,splendid,promising
+輝かしい,耀かしい,赫かしい,輝やかしい,輝しい,かがやかしい,brilliant,glorious,glittering,bright,splendid,promising
 輝かす,耀かす,赫かす,かがやかす,to light up,to brighten
 輝き,赫き,耀き,かがやき,brightness,brilliance,brilliancy,radiance,glitter
 輝く,耀く,赫く,かがやく,to shine,to sparkle,to twinkle,to glitter,to glisten,to light up,to beam,to gleam,to glow,to win,to be awarded,to be honored
@@ -27623,7 +27623,7 @@
 三寒四温,さんかんしおん,alternation of three cold and four warm days
 三竿,さんかん,broad daylight
 三韓,さんかん,the three Han nations
-三脚,さんきゃく,tripod,three legs
+三脚,さんきゃく,tripod,three legs,three-legged folding stool
 三脚架,さんきゃくか,tripodal frame
 三球三振,３球三振,３球３振,さんきゅうさんしん,three-pitch strikeout
 三級,さんきゅう,third grade,third class,tertiary
@@ -28655,7 +28655,7 @@
 死刑囚,しけいしゅう,criminal condemned to death,convict on death row
 死後,しご,after death
 死語,しご,dead language,extinct language,obsolete word,dated word,word that has become passé
-死罪,しざい,capital crime,crime resulting in a death penalty
+死罪,しざい,capital crime,crime resulting in a death penalty,death penalty,capital punishment,I humbly beg your pardon,forgive my impertinence,with deepest apologies
 死産,しざん,しさん,stillbirth
 死者,ししゃ,dead person,deceased,dead,casualties
 死傷者,ししょうしゃ,casualties,the killed and wounded
@@ -32059,7 +32059,7 @@
 勝ち抜く,勝抜く,かちぬく,to win through,to win game after game,to achieve a final victory,to fight to the end and win,to come out on top
 勝ち味,勝ちみ,かちみ,sign of victory
 勝ち目,かちめ,chance,odds
-勝つ,克つ,贏つ,かつ,to win,to gain victory
+勝つ,克つ,贏つ,かつ,to win,to gain victory,to dominate,to prevail,to be predominant,to be stronger
 勝楽,しょうらく,Cakrasamvara,Samvara,Supreme Bliss
 勝算,しょうさん,prospects of victory,chances of success
 勝者,しょうしゃ,winner,victor
@@ -33876,7 +33876,7 @@
 親,祖,おや,parent,parents,mother and father,dealer,banker,founder,inventor,owner,key,parent,main,ancestor,forefather
 親しい,したしい,close,familiar,friendly,intimate,familiar,well-known,close,closely related
 親しみやすい,親しみ易い,したしみやすい,friendly,easy to get on with,easy to talk to,easy to like
-親しむ,したしむ,to be intimate with,to befriend
+親しむ,したしむ,to be intimate with,to befriend,to become familiar with,to enjoy
 親の七光り,親の七光,おやのななひかり,benefiting from the fame or influence of a parent,riding a parent's coat-tails
 親愛,しんあい,deep affection,dear,beloved
 親衛,しんえい,monarch's guards
@@ -34467,7 +34467,7 @@
 がっこ,tsukemono,Japanese pickled vegetables
 水掛け論,水かけ論,水掛論,みずかけろん,endless argument,pointless argument,fruitless dispute,futile discussion,argument over whose field to water
 水たまり,水溜まり,水溜り,水溜,みずたまり,puddle,pool of water
-水を差す,水をさす,水を注す,水を刺す,水差す,水さす,水注す,水刺す,みずをさす,to pour water,to dilute with water,to hinder,to hamper,to throw cold water on,to put a damper on,to estrange
+水を差す,水をさす,水を注す,水を刺す,水差す,水さす,水注す,水刺す,みずをさす,みずさす,to pour water,to dilute with water,to hinder,to hamper,to throw cold water on,to put a damper on,to estrange
 水域,すいいき,waters,water area
 水稲,すいとう,wet-land rice
 水泳,すいえい,swimming
@@ -44497,7 +44497,7 @@
 爆死,ばくし,death from explosion,death from bombing,bombing,flopping
 爆笑,ばくしょう,roar of laughter,burst of laughter,uproarious laughter,laughing hard
 爆心地,ばくしんち,centre of explosion,center of explosion,hypocentre,hypocenter,ground zero
-爆弾,ばくだん,バクダン,bomb,alcohol with liquor added
+爆弾,ばくだん,バクダン,bomb,alcohol with liquor added,deep-fried fishcake containing a boiled egg
 爆竹,ばくちく,firecracker
 爆沈,ばくちん,blowing up and sinking
 爆破,ばくは,destructive blast,blowing up,explosion
@@ -50572,7 +50572,7 @@
 佑助,祐助,ゆうじょ,assistance
 優,やさ,gentle,affectionate
 優,ゆう,Excellent,A,superiority,excellence,gentle,graceful,elegant,skillful
-優しい,やさしい,tender,kind,gentle,graceful,affectionate,amiable
+優しい,やさしい,tender,kind,gentle,graceful,affectionate,amiable,not harmful,supportive
 優しげ,やさしげ,gentle,kind,sweet-looking
 優に,裕に,ゆうに,easily,comfortably,amply,fully,well over
 優れた,勝れた,すぐれた,great,excellent,outstanding
@@ -50835,7 +50835,7 @@
 猶子,ゆうし,nephew,another child considered as one's own
 猶予,猶与,猶余,ゆうよ,postponement,deferment,extension,hesitation,delaying,dawdling,suspended sentence
 猶予なく,ゆうよなく,without delay,promptly
-由,因,縁,よし,reason,significance,cause,piece of information that one has heard,I hear that,it is said that
+由,因,縁,よし,reason,significance,cause,piece of information that one has heard,I hear that,it is said that,means,way,method
 由縁,ゆえん,acquaintance,relation,affinity,reason
 由緒,ゆいしょ,history,pedigree,lineage
 よしなし事,由無し事,由なし事,よしなしごと,trivial thing,nonsense
@@ -51264,7 +51264,7 @@
 溶発,ようはつ,ablative shield
 溶融,熔融,ようゆう,melting,fusion
 用,よう,business,task,errand,engagement,use,purpose,for the use of,used for,made for,call of nature,excretion
-用いる,もちいる,to use,to make use of,to utilize,to utilise
+用いる,もちいる,to use,to make use of,to utilize,to utilise,to appoint,to employ,to adopt,to apply
 用意,ようい,preparation,arrangements,provision,getting ready,laying out
 用意周到,よういしゅうとう,very careful,thoroughly prepared
 用具,ようぐ,tool,implement,instrument,equipment
@@ -55093,7 +55093,7 @@
 痛々しい,傷々しい,痛痛しい,傷傷しい,いたいたしい,pitiful,pathetic,painful
 いたずら書き,悪戯書き,悪戯書,徒書き,いたずらがき,scribbling,doodling,graffiti
 頂く,戴く,いただく,to receive,to get,to accept,to take,to buy,to eat,to drink,to be crowned with,to wear,to have,to have,to live under,to install,to get someone to do something
-痛み,傷み,いたみ,pain,ache,soreness,grief,distress,damage,injury,wear,bruise,break
+痛み,傷み,いたみ,pain,ache,soreness,grief,distress,damage,injury,wear,bruise,break,spoilage,going bad,rotting
 位置,位地,いち,place,position,location,position,standing,status,situation
 一々,一一,いちいち,one-by-one,separately,every single,each and every,without omission,fully,in detail
 位置付ける,位置づける,いちづける,いちずける,to place,to rank,to position,to locate
@@ -56814,7 +56814,7 @@
 向い風,向かい風,むかいかぜ,headwind,head wind
 向かい側,向い側,向かいがわ,向いがわ,むかいがわ,opposite side,other side,other party
 向い波,向かい波,むかいなみ,head sea
-向かう,向う,対う,むかう,to face,to go towards,to head towards
+向かう,向う,対う,むかう,to face,to go towards,to head towards,to confront,to oppose,to resist,to stand against
 昔々,昔昔,むかしむかし,むかーしむかし,むかーしむかーし,long ago,once upon a time
 麦わら帽子,麦藁帽子,麦わらぼうし,麦稈帽子,むぎわらぼうし,straw hat
 向こう側,向う側,向側,向こうがわ,むこうがわ,other side,opposite side,other party
@@ -56856,8 +56856,8 @@
 萌黄色,もえぎ色,萠黄色,萌木色,萌え黄色,もえぎいろ,light green,yellowish-green
 黙々,黙黙,もくもく,silent,mute,dumb
 土竜,土龍,もぐら,むぐらもち,むぐら,もぐらもち,どりゅう,モグラ,モグラモチ,mole
-持ち込み,持込み,持込,もちこみ,bring-your-own,carry-on
-持ち主,持主,もちぬし,owner,proprietor,possessor
+持ち込み,持込み,持込,もちこみ,bring-your-own,carry-on,unsolicited
+持ち主,持主,もち主,もちぬし,owner,proprietor,possessor
 持ち物,持物,持ちもの,持ちもん,もちもの,things one is carrying,things one has on one's person,thing one owns,one's property,one's possessions,belongings,one's personal effects,mistress,lover
 勿体ない,勿体無い,物体ない,物体無い,もったいない,wasteful,a waste,too good,more than one deserves,unworthy of,impious,profane,sacrilegious
 回る,廻る,もとおる,to wander around
@@ -80201,7 +80201,7 @@
 閻魔の庁,えんまのちょう,judgment seat of Yama
 艶容,えんよう,charming look,fascinating figure
 円を描く,えんをえがく,えんをかく,to make a circle,to move  in a circle,to form  a circle,to draw a circle
-縁を切る,縁をきる,縁切る,縁きる,えんをきる,to sever relations,to break off
+縁を切る,縁をきる,縁切る,縁きる,えんをきる,えんきる,to sever relations,to break off
 円を成す,えんをなす,to form a circle
 宴を張る,えんをはる,to give a dinner party,to hold a banquet
 老いの波,おいのなみ,wrinkles
@@ -83383,7 +83383,7 @@
 骨を折る,ほねをおる,to make efforts,to take pains,to break a bone
 保無,ほむ,conservative without party affiliation
 歩を進める,歩をすすめる,ほをすすめる,to walk,to move forward,to make progress
-本腰を入れる,本腰をいれる,本腰入れる,本腰いれる,ほんごしをいれる,to set about in earnest,to make a strenuous effort,to put one's back into
+本腰を入れる,本腰をいれる,本腰入れる,本腰いれる,ほんごしをいれる,ほんごしいれる,to set about in earnest,to make a strenuous effort,to put one's back into
 本初,ほんしょ,beginning,origin,start
 本年度,ほんねんど,current year
 本の間,ほんのあいだ,between the pages of a book,between two books
@@ -84134,7 +84134,7 @@
 寸止め,すんどめ,stopping just before
 猛特訓,もうとっくん,intensive training,extra hard training
 猛勉強,もうべんきょう,studying very hard,studying like mad
-へそを曲げる,ヘソを曲げる,臍を曲げる,へそ曲げる,ヘソ曲げる,臍曲げる,へそをまげる,to  sulk,to get cranky,to get cross,to become perverse
+へそを曲げる,ヘソを曲げる,臍を曲げる,へそ曲げる,ヘソ曲げる,臍曲げる,へそをまげる,へそまげる,to  sulk,to get cranky,to get cross,to become perverse
 連帯保証人,れんたいほしょうにん,joint surety,surety jointly and severally liable,co-maker,co-endorser,co-signer
 如何せん,いかんせん,to one's regret,regrettably,unfortunately,what can be done about,cannot be helped
 満卓,まんたく,full house,all tables full
@@ -98145,7 +98145,7 @@
 コンプ,コンプリ,completion
 イオナイザー,ionizer
 クリソツ,the spitting image of,identical
-往生際が悪い,往生際がわるい,往生際悪い,おうじょうぎわがわるい,not knowing when to give up,being a bad loser
+往生際が悪い,往生際がわるい,往生際悪い,おうじょうぎわがわるい,おうじょうぎわわるい,not knowing when to give up,being a bad loser
 四の五の言う,しのごのいう,to grumble about something
 眼福,がんぷく,pleasure of looking,sight for sore eyes,feast for the eyes
 ウ冠,ウかんむり,"roof" kanji radical at top
@@ -98682,7 +98682,7 @@
 背に腹は変えられない,背に腹は代えられない,背に腹は替えられない,背に腹はかえられない,せにはらはかえられない,you can't make an omelet without breaking eggs,a small sacrifice may be necessary to solve a more pressing problem
 パワハラ,harassment  from a position of power,power harassment
 ごねる,ゴネる,to complain persistently,to gripe,to grumble,to make difficulties,to die
-虚勢を張る,虚勢張る,きょせいをはる,to bluff,to act brave,to put on a bold front
+虚勢を張る,虚勢張る,きょせいをはる,きょせいはる,to bluff,to act brave,to put on a bold front
 元も子もない,元も子も無い,本も子もない,本も子も無い,もともこもない,losing everything,suffering a total loss,coming to nothing,having lost the interest and the principal
 のうのう,ノウノウ,carefree,relaxed,comfortable,at one's ease
 気が多い,きがおおい,fickle,inconstant,capricious,having many romantic interests
@@ -98724,7 +98724,7 @@
 戦没者追悼,せんぼつしゃついとう,war memorial,memorial  to war dead
 支持層,しじそう,base support,substrate,load bearing layer,supporting layer
 大葉,おおば,beefsteak plant,perilla,megaphylls,large leaf
-腹をくくる,腹を括る,腹くくる,腹括る,はらをくくる,to prepare oneself for the worst,to strengthen one's resolve,to accept one's fate,to prepare oneself
+腹をくくる,腹を括る,腹くくる,腹括る,はらをくくる,はらくくる,to prepare oneself for the worst,to strengthen one's resolve,to accept one's fate,to prepare oneself
 くっちゃべる,to talk,to chatter,to tell
 目くじらを立てる,めくじらをたてる,to find fault,to scold over minor things,to get angry over trifles,to raise one's eyebrows
 信じようと信じまいと,しんじようとしんじまいと,believe it or not
@@ -102698,7 +102698,7 @@
 スラブ毛糸,スラブけいと,slub yarn
 １００均,百均,ひゃっきん,hundred-yen store,100 yen shop
 温風暖房機,おんぷうだんぼうき,warm air heater
-ドボドボ,with glugging
+ドボドボ,どぼどぼ,with glugging
 エロ爺,エロじじい,dirty old man,pervert,lecher
 外国為替レート,がいこくかわせレート,foreign exchange rate
 あがり症,上がり症,上がり性,あがり性,上り症,上り性,あがりしょう,social phobia,chronic shyness,social anxiety disorder,stage fright
@@ -108693,7 +108693,7 @@
 甜麺醤,甜面醤,テンメンジャン,sweet flour paste
 蔓茘枝,つるれいし,ツルレイシ,bitter melon,bitter gourd
 苦瓜,にがうり,ニガウリ,bitter melon,bitter gourd
-ゴーヤ,ゴーヤー,ごおや,ごおやあ,bitter melon,bitter gourd,goya
+ゴーヤ,ゴーヤー,ごおや,ごおやあ,ゴヤ,bitter melon,bitter gourd,goya
 皮蛋,ピータン,century egg,thousand-year old egg,hundred-year old egg,preserved egg
 ナン,ナーン,naan,nan
 整合説,せいごうせつ,coherence theory
@@ -112256,7 +112256,7 @@
 入寮式,にゅうりょうしき,entrance ceremony
 気配もない,けはいもない,きはいもない,showing no sign
 頑癬,がんせん,ringworm,jock itch,tinea cruris
-ウフッ,chuckle,chuckling
+うふっ,ウフッ,chuckle,chuckling
 胡楊樹,こようじゅ,Hu poplar,Populus euphratica
 鼾を掻く,鼾をかく,いびきを掻く,イビキを掻く,いびきをかく,イビキをかく,to snore
 泡立ち,泡だち,あわだち,foaming,frothing,lathering
@@ -129415,7 +129415,7 @@
 物言えば唇寒し秋の風,ものいえばくちびるさむしあきのかぜ,silence is golden
 思う事言わねば腹膨る,おもうこといわねばはらふくる,if you don't speak your mind, you'll feel uneasy afterwards
 分秒を争う,ふんびょうをあらそう,to have no time to lose,to fight with every minute and every second
-糞も味噌も一緒,クソもミソも一緒,くそもみそもも一緒,クソも味噌も一緒,くそもみそもいっしょ,not distinguishing between what's good and bad,not knowing chalk from cheese,mixing good and bad together,shit and miso are the same
+糞も味噌も一緒,クソもミソも一緒,くそもみそも一緒,クソも味噌も一緒,くそもみそもいっしょ,not distinguishing between what's good and bad,not knowing chalk from cheese,mixing good and bad together,shit and miso are the same
 文は人なり,ぶんはひとなり,the style is the man,the style is the man himself
 聞いて極楽見て地獄,きいてごくらくみてじごく,don't believe everything you hear,what is a paradise on hearsay may be a hell at sight
 聞くと見るとは大違い,きくとみるとはおおちがい,don't believe everything you hear,seeing is believing,to have heard of is not to have seen
@@ -138677,7 +138677,7 @@
 腐らせる,くさらせる,to let spoil,to leave to rot,to cause to rot,to corrode,to discourage,to dishearten
 父系制,ふけいせい,patrilineal system,patriliny
 河川水,かせんすい,river water
-父ちゃん,とうちゃん,とっちゃん,dad,daddy,papa,pa,pop
+父ちゃん,とうちゃん,とっちゃん,dad,daddy,papa,pa,pop,husband
 浮浪人,ふろうにん,vagrant
 放流水,ほうりゅうすい,discharged water,final effluent
 濁度計,だくどけい,turbidity meter,nephelometer,turbidimeter
@@ -140252,7 +140252,6 @@
 坑内掘り炭鉱,坑内掘炭鉱,こうないぼりたんこう,underground coal mine
 露天掘り炭鉱,露天掘炭鉱,ろてんぼりたんこう,open-pit coal mine,open-cut coal mine
 大商人,おおあきんど,wealthy merchant
-無かろう,なかろう,probably not so
 あろうとなかろう,whether or not,presence or absence
 風船爆弾,ふうせんばくだん,fire balloon,balloon bomb
 前を開く,まえをひらく,to show one's privates
@@ -152147,7 +152146,7 @@
 揺り木馬,ゆり木馬,ゆりもくば,rocking horse
 一向聴,イーシャンテン,one step away from fishing
 大観衆,だいかんしゅう,crowd,huge audience
-鳴りを静める,鳴りをしずめ,なりを静める,なりをしずめる,to quieten down,to fall silent,to cease activities,to become inactive,to lie low,to keep a low profile
+鳴りを静める,鳴りをしずめる,なりを静める,なりをしずめる,to quieten down,to fall silent,to cease activities,to become inactive,to lie low,to keep a low profile
 ガラス越し,ガラスごし,through glass
 シロキサン,siloxane
 アレル,allele
@@ -211774,7 +211773,7 @@
 学校出,がっこうで,graduate
 コーヒーシュガー,コーヒー・シュガー,coffee sugar
 ミソジニスト,misogynist
-鳴り止む,なりやむ,to stop sounding,to fall silent
+鳴り止む,鳴りやむ,なりやむ,to stop sounding,to fall silent
 馳せ参ずる,はせ参ずる,はせさんずる,to hasten to join,to hurry to visit
 セプテット,septet
 撥捌き,ばちさばき,drumming,plucking,picking
@@ -211804,6 +211803,7 @@
 エンハーモニック,enharmonic
 積み上がる,つみあがる,to pile up,to be stacked up,to accumulate,to increase
 目遣い,めづかい,movement of the eyes,way of looking,signalling with the eyes,meaningful glance
+はしゃぎ回る,燥ぎ回る,はしゃぎまわる,to romp about,to frolic about,to cavort,to run about boisterously
 溶け落ちる,とけおちる,to melt and trickle down,to melt away,to melt down
 無くし物,なくし物,失くし物,無くしもの,失くしもの,なくしもの,lost item,lost property,lost article,lost good
 知ったか,しったか,pretending to know,acting like a know-it-all
@@ -211816,6 +211816,7 @@
 コッペ,コペ,bread roll,hot dog bun
 透かし見る,透かしみる,すかし見る,すかしみる,to look through,to see through,to peer through,to peep through,to peer at,to strain  to see,to peer into
 結わく,ゆわく,to tie,to bind,to fasten
+欠け落ちる,かけおちる,to break off and fall away,to go missing
 おちゃらけ,facetiousness,silliness,flippant words or behaviour,fooling around,frivolousness,frivolity
 飛び下がる,とびさがる,to leap back,to jump backwards to avoid something,to jump off
 耳心地,みみごこち,sound,how something sounds,feel,ring,feel,ear comfort,fit
@@ -211826,8 +211827,20 @@
 クッキングペーパー,クッキング・ペーパー,cooking paper,baking paper,cooking sheet
 デカボ,decarbonization
 縞源五郎,しまげんごろう,シマゲンゴロウ,Hydaticus
+潰し,つぶし,crushing,smashing,melting down,metal from a melted-down object,wasting time,killing time
 取り越す,取越す,とりこす,to anticipate,to do ahead of time,to perform ahead of schedule,to bring forward
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-17
+掴ます,摑ます,つかます,to let someone hold,to make someone grasp,to bribe,to slip money to,to pass off,to foist on,to palm off
+鬱する,うっする,to feel depressed,to be gloomy,to be in low spirits
+素っ気,そっけ,friendliness,warmth,affability,interest,charm
+デカボラン,decaborane
+沈み,しずみ,sinking,going under,depth,sinker,weight
+吹きこぼす,噴きこぼす,吹き零す,噴き零す,ふきこぼす,to let  boil over
+通わす,かよわす,to send,to have  attend,to communicate,to get across,to exchange,to let  circulate,to let pass through
+めかしい,-like,-looking,having the appearance of
+習い覚える,習いおぼえる,ならいおぼえる,to learn through practice,to acquire  through repeated practice
+延ばし延ばし,延ばしのばし,延し延し,のばしのばし,repeated postponement,putting off again and again,procrastination
+寝乱れる,ねみだれる,to become dishevelled from sleep,to become sleep-tousled
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-18
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
