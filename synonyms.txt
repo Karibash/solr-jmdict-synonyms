@@ -5957,7 +5957,7 @@
 スウェーデン語,スウェーデンご,Swedish
 スエード,スウェード,suede
 スウェット,スエット,スェット,sweatshirt,sweatpants,sweats,stretchy, absorbent fabric,sweat
-スカート,skirt
+スカート,skirt,skirt
 スカーフ,scarf
 スカーレット,scarlet
 スカイ,sky
@@ -28833,7 +28833,7 @@
 諮問,しもん,consultation,question,enquiry,inquiry
 諮問機関,しもんきかん,consultative body,advisory committee,advisory organ
 諮詢,咨詢,しじゅん,question,enquiry,inquiry,consultation,advice-seeking
-資格,しかく,qualifications,requirements,capabilities
+資格,しかく,qualifications,requirements,capabilities,capacity,status,standing
 資金,しきん,funds,capital
 資金繰り,資金繰,資金ぐり,しきんぐり,fundraising,financing,cash flow
 資源,しげん,resources
@@ -30154,7 +30154,7 @@
 主務,しゅむ,person in charge,competent
 主務大臣,しゅむだいじん,the cabinet minister in charge
 主命,しゅめい,しゅうめい,ruler's orders,master's orders
-主役,しゅやく,leading part,leading actor,leading actress
+主役,しゅやく,leading part,leading actor,leading actress,central figure,key player,principal role
 主薬,しゅやく,principal agent
 主用,しゅよう,one's master's business,necessary business,major errands
 主要,しゅよう,chief,main,principal,major
@@ -30612,7 +30612,7 @@
 収録,收錄,しゅうろく,recording,printing,including,recording
 収賄,しゅうわい,accepting a bribe
 収斂,収れん,しゅうれん,astringency,constriction,contraction,collecting,putting together,summarizing,collection,convergence,convergence,convergence
-ぐるり,surroundings,circumference
+ぐるり,surroundings,circumference,around,in a full circle,all around
 周,しゅう,counter for laps or circuits,perimeter,Zhou dynasty,Chou dynasty
 周囲,しゅうい,surroundings,environs,circumference
 周囲長,しゅういちょう,perimeter
@@ -34624,7 +34624,7 @@
 崇拝,すうはい,worship,adoration,admiration,cult
 嵩む,かさむ,to mount up,to pile up,to accumulate,to increase
 嵩張る,かさ張る,かさばる,to be bulky,to be unwieldy,to grow voluminous
-数える,算える,かぞえる,to count,to enumerate
+数える,算える,かぞえる,to count,to enumerate,to number,to total,to amount to,to count as,to include among,to regard as
 数え込む,かぞえこむ,to number among
 数え上げる,かぞえあげる,to count up,to enumerate
 数え切れない,数えきれない,かぞえきれない,countless,incalculable
@@ -38964,7 +38964,7 @@
 担ぎ上げる,かつぎ上げる,かつぎあげる,to carry up,to bring up,to lift up,to elevate  to a high position,to convince someone to accept a post
 担ぐ,かつぐ,to shoulder,to carry on one's shoulder,to nominate for a position,to choose as a representative,to take  for a ride,to deceive,to take in,to be caught up in superstition
 担架,たんか,タンカ,stretcher,litter,gurney
-担当,たんとう,being in charge,being responsible
+担当,たんとう,being in charge,being responsible,person in charge,person responsible
 担当課長,たんとうかちょう,section manager
 担当者,たんとうしゃ,person in charge,person responsible,contact
 担当部長,たんとうぶちょう,senior manager,director,person below the department head with responsibility for a particular area
@@ -40026,7 +40026,7 @@
 調子,ちょうし,tune,tone,key,pitch,time,rhythm,vein,mood,way,manner,style,knack,condition,state of health,shape,impetus,spur of the moment,strain,trend
 調子に乗る,調子にのる,ちょうしにのる,to get carried away,to get overly elated,to become over-excited,to be caught up in the moment,to get cocky,to get up to speed,to move into gear
 調書,ちょうしょ,protocol,written evidence,record,preliminary memo,charge sheet
-調整,ちょうせい,adjustment,regulation,coordination,reconciliation,tuning,fixing,tailoring
+調整,ちょうせい,adjustment,regulation,coordination,reconciliation,tuning,fixing,tailoring,correction,levelling-off or decline in stock prices after a rise
 調声,ちょうせい,tonal mark
 調製,ちょうせい,making,preparation,manufacture
 調節,ちょうせつ,regulation,adjustment,control
@@ -43518,7 +43518,7 @@
 入れ木,いれき,wood inlay
 入れ目,入目,いれめ,artificial eye
 入れ揚げる,入れあげる,いれあげる,to lavish money on
-入院,にゅういん,hospitalization,hospitalisation
+入院,にゅういん,hospitalization,hospitalisation,admission to an institution
 入院患者,にゅういんかんじゃ,in-patient
 入営,にゅうえい,entering the barracks,enlistment
 入園,入苑,にゅうえん,enrollment in kindergarten,enrollment in nursery school,entering a park, garden, zoo, etc.
@@ -45672,7 +45672,7 @@
 百計,ひゃっけい,all means
 百芸,ひゃくげい,jack of all trades
 百行,ひゃっこう,all acts
-百合,ゆり,ゆる,ユリ,lily,yuri,genre of comics and novels about female homosexuality
+百合,ゆり,ユリ,lily,yuri,genre of comics and novels about female homosexuality
 百合根,ユリ根,ゆりね,ユリね,lily bulb
 百済,くだら,Baekje,Paekche
 百事,ひゃくじ,all,everything
@@ -46398,7 +46398,7 @@
 付かたり,つかたり,addition,accessory,appendage,supplement,appendix,complement,excuse
 つかぬ事,付かぬ事,つかぬこと,something unrelated
 付きっきり,付きっ切り,つきっきり,constant attendance,uninterrupted supervision,staying with someone all the time
-付き合い,つき合い,付合い,つきあい,association,socializing,socialising,fellowship
+付き合い,つき合い,付合い,つきあい,association,socializing,socialising,fellowship,social obligation,obligation to accompany someone
 付き者,つきもの,attendant
 付ききり,付き切り,つききり,constant attendance,uninterrupted supervision,staying with someone all the time
 付き切る,つききる,to be in constant attendance
@@ -52230,7 +52230,7 @@
 令姪,れいてつ,your niece
 令閨,れいけい,your wife,his wife,Mrs.
 伶人,れいじん,court musician,minstrel
-例えば,たとえば,for example,for instance,e.g.
+例えば,たとえば,for example,for instance,e.g.,supposing,suppose,if
 例によって,れいによって,as usual,as is one's habit
 例会,れいかい,regular meeting
 例解,れいかい,illustration,example
@@ -54046,7 +54046,7 @@
 雨気,あまけ,うき,signs of rain,threatening to rain
 雨脚,雨足,雨あし,あまあし,あめあし,うきゃく,rain intensity,passing shower,streaks of pouring rain
 雨水,あまみず,うすい,rain water,"rain water" solar term
-雨模様,あまもよう,あめもよう,signs of rain,threat of rain
+雨模様,あまもよう,あめもよう,signs of rain,threat of rain,intermittently rainy weather,weather with occasional light rain
 卯,う,ぼう,the Rabbit,the Hare,hour of the Rabbit,east,second month in the lunar calendar
 卯月,うづき,うつき,うずき,fourth month of the lunar calendar
 閏月,うるう月,うるうづき,じゅんげつ,intercalary month,leap month
@@ -56124,7 +56124,7 @@
 使いどころ,使い所,使い処,つかいどころ,use
 使いやすい,使い易い,つかいやすい,easy to use
 捕まえる,掴まえる,捉まえる,つかまえる,to catch,to capture,to arrest,to seize,to restrain,to grab,to clutch,to grasp,to seize,to hold on to,to catch hold of,to stop,to hail,to hold  back,to detain,towards,at,in  face
-付き合う,つき合う,付きあう,付合う,つきあう,to associate with,to keep company with,to go out with,to go steady with,to get on with,to go along with,to follow someone's lead,to accompany someone,to compromise
+付き合う,つき合う,付きあう,付合う,つきあう,to associate with,to keep company with,to get on with,to date,to go out with,to see,to go along with,to follow someone's lead,to accompany someone to,to do with
 月明かり,月あかり,月明り,月灯かり,つきあかり,moonlight
 付き従う,付き随う,つき従う,付従う,つきしたがう,to follow,to accompany,to serve,to work under,to obey
 付き添い,付添い,付添,附添い,つきそい,attendance,chaperonage,attendant,escort,entourage,chaperon,retinue
@@ -90463,7 +90463,7 @@
 株主投票,かぶぬしとうひょう,shareholder vote
 鎌槍,かまやり,spear with curved or straight cross-blades
 冠状動脈疾患,かんじょうどうみゃくしっかん,coronary-artery disease
-感覚過敏症,かんかくかびんしょう,hypersensitivity
+感覚過敏症,かんかくかびんしょう,hyperesthesia,hypersensitivity
 感情障害,かんじょうしょうがい,affective disorder,emotional disorder
 感染率,かんせんりつ,infection rate
 環境ストレス,かんきょうストレス,environmental stress
@@ -186541,7 +186541,7 @@
 帰東,きとう,returning to the East
 東帰,とうき,returning to an eastern place
 アカ停,アカてい,account suspension
-上代東国方言,じょうだいとうごくほうげん,eastern old Japanese
+上代東国方言,じょうだいとうごくほうげん,Eastern Old Japanese,EOJ
 アカウント停止,アカウントていし,account suspension
 明旦,みょうたん,めいたん,tomorrow morning
 旦日,たんじつ,tomorrow,tomorrow morning
@@ -208984,7 +208984,7 @@
 バニー,bunny
 ＢＰＭ,ビー・ピー・エム,ビーピーエム,beats per minute,BPM,business process management,BPM
 多党制,たとうせい,multi-party system
-無中生有,ちゅうしょうゆう,むちゅうせいゆう,creation out of nothing,making something out of thin air,pure fabrication,"Creating Something from Nothing",making a non-existent thing appear to exist to deceive an enemy
+無中生有,ちゅうしょうゆう,むちゅうせいゆう,creation out of nothing,making something out of thin air,pure fabrication,Creating Something from Nothing
 大波武,オオハム,おおはむ,black-throated loon,Arctic loon
 年齢詐欺,ねんれいさぎ,lying about one's age,age fabrication
 年齢詐称,ねんれいさしょう,lying about one's age,misrepresentation of age
@@ -211705,6 +211705,8 @@
 旧居留地,きゅうきょりゅうち,former foreign settlement
 きときと,fresh,lively,full of energy
 おはようお帰り,お早うお帰り,おはようおかえり,おはよーおかえり,come back soon,take care,see you
+こうと,こーと,understated but elegant,subdued yet refined,subtle,simple,plain,exaggerated,overdone,grandiose
+甘えた,甘いた,あまえた,アマエタ,あまいた,person who wants to be pampered,needy person,spoiled child,pampered child
 味ない,味無い,あじない,unpalatable,bad-tasting,bland,tasteless
 阿字観,あじかん,meditation on the Sanskrit letter a
 一念三千,いちねんさんぜん,doctrine that all realms of existence are contained in a single moment of thought
@@ -211775,6 +211777,8 @@
 ミソジニスト,misogynist
 鳴り止む,鳴りやむ,なりやむ,to stop sounding,to fall silent
 馳せ参ずる,はせ参ずる,はせさんずる,to hasten to join,to hurry to visit
+焼き切れる,焼ききれる,やききれる,to burn through,to burn out
+Quiet器楽編成法,きがくへんせいほう,instrumentation
 セプテット,septet
 撥捌き,ばちさばき,drumming,plucking,picking
 最高音,さいこうおん,top note,soprano
@@ -211790,6 +211794,7 @@
 ペンタコルド,ペンタコード,pentachord,pentatonic scale
 ピカルディの三度,ピカルディのさんど,Picardy third
 レスポンソリウム,responsorium,responsory
+リトルネロ,リトルネッロ,ritornello
 ロンドソナタ形式,ロンドソナタけいしき,rondo-sonata,rondo-sonata form
 反復進行,はんぷくしんこう,sequence
 帰寮,きりょう,returning to one’s dormitory
@@ -211804,6 +211809,7 @@
 積み上がる,つみあがる,to pile up,to be stacked up,to accumulate,to increase
 目遣い,めづかい,movement of the eyes,way of looking,signalling with the eyes,meaningful glance
 はしゃぎ回る,燥ぎ回る,はしゃぎまわる,to romp about,to frolic about,to cavort,to run about boisterously
+言い足りる,いいたりる,to say enough,to express oneself fully
 溶け落ちる,とけおちる,to melt and trickle down,to melt away,to melt down
 無くし物,なくし物,失くし物,無くしもの,失くしもの,なくしもの,lost item,lost property,lost article,lost good
 知ったか,しったか,pretending to know,acting like a know-it-all
@@ -211814,6 +211820,7 @@
 楽器編成,がっきへんせい,instrumentation
 明日明後日,あすあさって,tomorrow or the day after,within the next day or two
 コッペ,コペ,bread roll,hot dog bun
+秒刻み,びょうきざみ,division into one-second intervals,tightly scheduled,planned down to the second,split-second
 透かし見る,透かしみる,すかし見る,すかしみる,to look through,to see through,to peer through,to peep through,to peer at,to strain  to see,to peer into
 結わく,ゆわく,to tie,to bind,to fasten
 欠け落ちる,かけおちる,to break off and fall away,to go missing
@@ -211821,6 +211828,7 @@
 飛び下がる,とびさがる,to leap back,to jump backwards to avoid something,to jump off
 耳心地,みみごこち,sound,how something sounds,feel,ring,feel,ear comfort,fit
 稿を起こす,こうをおこす,to start writing a draft,to begin writing a manuscript
+ねとつく,to be sticky,to cling stickily,to be gummy
 白鞘,しらさや,しらざや,plain wooden sword scabbard,unvarnished scabbard
 奸雄,姦雄,かんゆう,villainous hero,crafty, unscrupulous hero,Mephistophelian hero
 安息香の木,あんそくこうのき,あんそっこうのき,アンソクコウノキ,gum benjamin tree,benzoin tree
@@ -211840,7 +211848,12 @@
 習い覚える,習いおぼえる,ならいおぼえる,to learn through practice,to acquire  through repeated practice
 延ばし延ばし,延ばしのばし,延し延し,のばしのばし,repeated postponement,putting off again and again,procrastination
 寝乱れる,ねみだれる,to become dishevelled from sleep,to become sleep-tousled
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-18
+通わせる,かよわせる,to send,to have  attend,to communicate,to get across,to exchange,to let  circulate,to let pass through
+方言差別,ほうげんさべつ,linguistic discrimination,glottophobia
+空城の計,くうじょうのけい,Empty Fort Strategy
+数打,数打ち,かずうち,mass-produced, low-quality swords
+上顎洞炎,じょうがくどうえん,maxillary sinusitis
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-19
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
