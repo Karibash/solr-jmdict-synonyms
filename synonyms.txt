@@ -929,7 +929,7 @@
 ひ弱い,ひよわい,weak,sickly
 びくともしない,ビクともしない,unperturbed,undaunted,retaining composure,unyielding,not giving an inch
 ビクビク,びくびく,being afraid of,being fearful,being timid,being nervous,trembling,shivering
-びしびし,stickily,relentlessly
+ビシビシ,びしびし,rigorously,relentlessly,strictly,stickily,by all means,with repeated sharp blows,whack after whack,with crack after crack,hard and repeatedly
 びしょびしょ,びちょびちょ,ビショビショ,ビチョビチョ,soaked,drenched,sopping,soppy,wet,incessantly,drizzling
 びっしょり,wet through,drenched
 びっしり,ビッシリ,ぴっしり,ピッシリ,closely,tightly,densely,sufficiently
@@ -5463,7 +5463,7 @@
 シャレード,charades
 シャロット,shallot
 シャワー,shower
-シャン,シヤン,beautiful
+シャン,シヤン,beautiful,beautiful woman,beauty
 シャンク,shank,shank
 シャンソニエ,chansonnier
 シャンツェ,ski jump
@@ -15078,7 +15078,7 @@
 引き立つ,引立つ,引きたつ,ひきたつ,to cheer up,to liven up,to become active,to look better,to improve,to stand out
 引き裂く,引裂く,引きさく,ひきさく,to tear up,to tear off,to rip up,to tear to pieces,to,to force apart,to tear apart
 引き連れる,引連れる,引きつれる,ひきつれる,to take  along,to bring along,to be accompanied by
-引きこもる,引き篭もる,引き籠もる,引き篭る,引篭もる,引き籠る,引篭る,引籠る,引籠もる,ひきこもる,to stay indoors,to be confined indoors
+引きこもる,引き篭もる,引き籠もる,引き篭る,引篭もる,引き籠る,引篭る,引籠る,引籠もる,ひきこもる,to stay indoors,to be confined indoors,to retire from public life,to withdraw into seclusion
 引きつり,引き攣り,引き吊り,引攣り,ひきつり,scar,spasm,twitch,cramp
 引く,曳く,牽く,ひく,to pull,to tug,to lead,to draw,to attract,to draw back,to draw in,to pull in,to draw,to draw,to catch,to play,to look up,to consult,to check,to haul,to pull,to subtract,to deduct,to recede,to ebb,to fade,to be descend from,to inherit,to quote,to cite,to raise,to lay on,to install,to supply,to hold,to apply,to oil,to wax,to move back,to draw back,to recede,to fall back,to retreat,to lessen,to subside,to ebb,to go down,to resign,to retire,to quit,to be put off,to be turned off,to recoil,to cringe,to draw back,to pull back,to retreat
 引く手,ひくて,admirer,inducer
@@ -22521,7 +22521,7 @@
 繰り込み,繰込み,くりこみ,renormalisation,renormalization
 繰り込み群,繰込み群,くりこみぐん,renormalisation group,renormalization group
 繰り出す,繰出す,くり出す,くりだす,to draw,to let out,to head out as a group,to set out in large numbers,to flock,to sally forth,to send out one after another,to dispatch,to lunge,to unleash
-繰り上げる,繰上げる,くりあげる,to move up,to advance
+繰り上げる,繰上げる,くりあげる,to move up,to advance,to carry,to round up
 繰り返し,くり返し,繰返し,繰りかえし,くりかえし,repetition,repeat,reiteration,iteration,refrain,cycle,repeatedly,again and again,continually,persistently
 繰り返し符号,繰返し符号,くりかえしふごう,repetition symbol,repetition of the previous character
 繰り返す,くり返す,繰りかえす,繰返す,くりかえす,to repeat,to do over again
@@ -23713,7 +23713,7 @@
 見違える,見ちがえる,みちがえる,to mistake,to be unable to recognize
 見逸れる,みそれる,to fail to recognize,to underestimate
 見栄を張る,見栄をはる,見えを張る,見えをはる,みえをはる,to be pretentious,to put on airs,to show off
-見越す,みこす,to anticipate,to foresee
+見越す,みこす,to anticipate,to foresee,to look over,to see over,to look across
 見猿,みざる,see-no-evil monkey
 見下げる,みさげる,to look down over,to look down on
 見下す,みくだす,to look down,to condescend
@@ -27575,7 +27575,7 @@
 五月,皐月,早月,さつき,サツキ,fifth month of the lunar calendar,satsuki azalea
 鯖,さば,サバ,mackerel,server
 捌く,さばく,to handle well,to handle deftly,to deal with,to manage,to settle,to sort,to process,to prepare  for cooking,to dress,to cut and trim,to sell out,to dispose of,to untangle,to disentangle,to part,to arrange
-錆びる,さびる,to rust,to become rusty
+錆びる,さびる,to rust,to become rusty,to become deep and mellow,to become soothing
 錆び付く,錆びつく,錆付く,さび付く,錆つく,サビ付く,さびつく,サビつく,to become rusted together,to become rusted shut,to rust,to become  rusty,to be covered with rust,to become rusty,to become less effective
 錆止め,さび止め,さびどめ,rust-proofing,anti-corrosive
 鮫,サメ,さめ,shark
@@ -28851,7 +28851,7 @@
 資力,しりょく,means,resources,wealth
 賜る,賜わる,給わる,たまわる,to be given,to be granted,to be honored with,to be honoured with,to give,to bestow,to confer,to honor,to honour
 賜暇,しか,furlough,leave of absence
-雌,牝,牸,めす,メス,めん,female
+雌,牝,牸,めす,メス,めん,female,female
 雌花,めばな,しか,female flower,pistillate flower
 雌牛,牝牛,めうし,びんぎゅう,めうじ,うなめ,おなめ,cow,heifer
 メス犬,雌犬,牝犬,メスいぬ,めすいぬ,めいぬ,bitch,female dog
@@ -35185,7 +35185,7 @@
 生ずる,しょうずる,to produce,to yield,to cause,to result from,to arise,to be generated
 生まれた場所,うまれたばしょ,birthplace
 生まれつく,生まれ付く,生れ付く,うまれつく,to be born,to be born,to be destined
-生まれる,産まれる,生れる,産れる,うまれる,to be born
+生まれる,産まれる,生れる,産れる,うまれる,to be born,to arise,to come into being,to be created,to originate
 生まれ変わり,生まれかわり,うまれ変わり,うまれかわり,rebirth,reincarnation
 生まれ変わる,生まれかわる,うまれかわる,to be reborn,to be reincarnated,to be born again,to turn over a new leaf,to become a new person,to make a fresh start in life,to be reorganized,to be transformed,to be revamped
 生み出す,産み出す,生みだす,産みだす,うみ出す,生出す,産出す,うみだす,to create,to bring forth,to produce,to invent,to think up and bring into being,to give birth to,to bear
@@ -38775,7 +38775,7 @@
 但し,ただし,but,however,provided that
 但し付き,ただしづき,ただしつき,conditional
 達,たち,pluralizing suffix
-達する,たっする,to reach,to get to,to arrive at
+達する,たっする,to reach,to get to,to arrive at,to accomplish,to achieve,to attain,to notify,to issue
 達者,たっしゃ,in good health,healthy,well,fit,robust,strong,skilled,proficient,adept,master,expert
 達人,たつじん,master,expert
 達成,たっせい,achievement,attainment,accomplishment,realization
@@ -43921,7 +43921,7 @@
 悩ましい,なやましい,seductive,carnal,enchanting,troubling,difficult,thorny,hard,anxious,uneasy
 悩ます,なやます,to afflict,to torment,to harass,to molest
 悩み,なやみ,trouble,troubles,worry,distress,sorrows,anguish,agony,problem
-悩む,なやむ,to be worried,to be troubled
+悩む,なやむ,to be worried,to be troubled,to suffer from,to be afflicted with
 悩殺,のうさつ,fascinate,bewitch,enchant
 濃い,こい,deep,dark,strong,thick,dense,strong,thick,close,deep
 濃褐色,のうかっしょく,dark brown
@@ -44314,7 +44314,7 @@
 売り出す,売出す,うりだす,to put on the market,to put out for sale,to put on sale,to begin selling,to market,to become popular
 売り切れ,売切れ,売切,うりきれ,sold-out
 売り切れる,売切れる,うりきれる,to be sold out
-売り渡す,売渡す,うりわたす,to sell over to
+売り渡す,売渡す,うりわたす,to sell over to,to sell out,to betray and hand over
 売り飛ばす,売りとばす,うりとばす,to sell off,to dispose of
 売りつける,売り付ける,売付ける,うりつける,to palm off,to force a sale
 売り払う,売払う,売りはらう,うりはらう,to sell off,to sell completely
@@ -55275,7 +55275,7 @@
 押し出し,押出し,おしだし,pushing something out,extrusion,presence,appearance,run walked in,pushing one's opponent out by pressing one's hands up against them
 押し出す,押出す,おしだす,to crowd out,to push out,to squeeze out,to start together,to set out en masse,to highlight,to draw attention to
 推し量る,推し測る,推量る,推測る,推しはかる,推し計る,おしはかる,to guess,to conjecture,to surmise
-雄,牡,おす,おん,オス,male
+雄,牡,おす,おん,オス,male,male
 恐れる,怖れる,畏れる,懼れる,惧れる,おそれる,to fear,to be afraid of
 お玉じゃくし,お玉杓子,蝌蚪,御玉杓子,おたまじゃくし,オタマジャクシ,ladle,tadpole,musical note
 落ち着く,落ちつく,落着く,落ち付く,落付く,おちつく,to calm down,to compose oneself,to regain presence of mind,to relax,to calm down,to settle down,to die down,to become stable,to abate,to settle down,to settle in,to be settled,to be fixed,to have been reached,to harmonize with,to harmonise with,to match,to suit,to fit,to be unobtrusive,to be quiet,to be subdued
@@ -56124,7 +56124,7 @@
 使いどころ,使い所,使い処,つかいどころ,use
 使いやすい,使い易い,つかいやすい,easy to use
 捕まえる,掴まえる,捉まえる,つかまえる,to catch,to capture,to arrest,to seize,to restrain,to grab,to clutch,to grasp,to seize,to hold on to,to catch hold of,to stop,to hail,to hold  back,to detain,towards,at,in  face
-付き合う,つき合う,付きあう,付合う,つきあう,to associate with,to keep company with,to get on with,to date,to go out with,to see,to go along with,to follow someone's lead,to accompany someone to,to do with
+付き合う,つき合う,付きあう,付合う,つきあう,to associate with,to keep company with,to get on with,to date,to go out with,to see each other,to go along with,to follow someone's lead,to accompany someone to,to do with
 月明かり,月あかり,月明り,月灯かり,つきあかり,moonlight
 付き従う,付き随う,つき従う,付従う,つきしたがう,to follow,to accompany,to serve,to work under,to obey
 付き添い,付添い,付添,附添い,つきそい,attendance,chaperonage,attendant,escort,entourage,chaperon,retinue
@@ -56481,7 +56481,7 @@
 万尋,万仞,ばんじん,10000 fathoms,great depth,great height
 蛮人,蕃人,ばんじん,savage,barbarian,aboriginal
 蛮族,蕃族,ばんぞく,barbarian tribe,savage tribe
-干上がる,乾上がる,ひ上る,ひ上がる,干上る,干あがる,乾あがる,乾上る,ひあがる,to dry up,to parch,to ebb away
+干上がる,乾上がる,ひ上る,ひ上がる,干上る,干あがる,乾あがる,乾上る,ひあがる,to dry up,to parch,to ebb away,to lose one's livelihood,to be unable to make a living
 日当たり,日当り,陽当り,陽当たり,陽あたり,日当,日あたり,ひあたり,exposure to the sun,sunny place,per day
 控え室,控室,ひかえしつ,waiting room,anteroom,antechamber,green room
 干からびる,干涸びる,乾涸びる,干乾びる,干涸らびる,干枯らびる,乾からびる,ひからびる,to dry up,to shrivel,to go  dry,to wither,to become desiccated
@@ -56658,7 +56658,7 @@
 平々,平平,へいへい,level,ordinary
 謙る,遜る,へりくだる,to deprecate oneself and praise the listener,to abase oneself
 偏屈,偏窟,へんくつ,narrow-minded,obstinate,stubborn,perverse,unreasonable,warped,bigoted,eccentric
-編集,編修,編輯,へんしゅう,editing,compilation
+編集,編修,編輯,へんしゅう,editing,compilation,cutting,editing,changing,editor
 翩々,翩翩,へんぺん,fluttering,frivolous,careless,restless
 別杯,別盃,べっぱい,farewell cup,farewell dinner
 別嬪,別品,べっぴん,beautiful woman,pretty girl,high-quality goods,special article
@@ -59267,7 +59267,7 @@
 癖に,くせに,クセに,and yet,though,when,in spite of
 転,くるり,turning around,suddenly,abruptly,completely,quickly,beautiful, round,flail
 グラッと,グラっと,ぐらっと,shaking violently
-ぐんと,グンと,remarkably,noticeably
+ぐんと,グンと,remarkably,noticeably,forcefully,abruptly,with a strong push or pull
 ぐんにゃり,ぐんなり,limp,listless,enervated,having no energy,flaccid,wilting,soft,having no shape
 此処等,此処ら,此所ら,ここら,around here,hereabouts,this point,about now
 ゴツゴツ,ごつごつ,rugged,scraggy,angular,gnarled
@@ -79412,7 +79412,7 @@
 息詰まる,息づまる,息詰る,いき詰まる,いきづまる,to be breathtaking,to be stifling
 息づく,息衝く,いきづく,to breathe,to pant,to gasp,to sigh,to live
 色づく,色付く,色ずく,いろづく,to change color,to turn red,to turn yellow,to ripen,to become sexually aware,to reach puberty
-色めき立つ,色めきたつ,いろめきたつ,to become excited,to grow lively
+色めき立つ,色めきたつ,いろめきたつ,to become excited,to grow lively,to become tense,to become agitated
 漕ぎ出す,こぎ出す,こぎだす,to start rowing,to begin to row,to row out,to pull out,to set off,to start pedaling,to begin to pedal
 作り付ける,作りつける,造り付ける,造りつける,つくりつける,to fix,to secure,to install,to plant
 繰り入れる,繰入れる,くりいれる,to transfer,to add,to reel in
@@ -91566,7 +91566,7 @@
 民間部門,みんかんぶもん,private sector
 民主改革,みんしゅかいかく,democratic reform
 民主主義国家,みんしゅしゅぎこっか,democratic nation,democratic country
-無印,むじるし,unlabeled,unbranded
+無印,むじるし,unlabeled,unbranded,unfavoured competitor,outsider,wild-card
 無印商品,むじるししょうひん,unbranded goods
 無菌性髄膜炎,むきんせいずいまくえん,aseptic meningitis
 無血革命,むけつかくめい,bloodless revolution
@@ -100330,7 +100330,7 @@
 鮫鞘,さめざや,sharkskin scabbard
 潜り,くぐり,side door,side gate,wicket gate
 冷や飯草履,ひやめしぞうり,crudely made zori with straw fastenings
-ヒーヒー,ひいひい,whaa whaa,sound of a baby crying
+ヒーヒー,ひーひー,ひいひい,ヒイヒイ,whaa whaa,feebly,crying out,groaning,howling,wailing
 気をもむ,気を揉む,きをもむ,to worry,to fret,to get anxious
 浪士,ろうし,ronin,lordless samurai
 土産物,みやげもの,souvenir
@@ -102374,7 +102374,7 @@
 労働法典,ろうどうほうてん,labor code
 逆援,ぎゃくえん,women paying boys for sex
 何だって,なんだって,what?!,what did you say?!,why?,what for?,for what reason?,anyone,anything
-何だ,なんだ,なーんだ,なあんだ,what!,oh,what the heck,what the,damn
+何だ,なんだ,なーんだ,なあんだ,what!,oh,what the heck,what the,damn,well,um,you know
 心情論,しんじょうろん,emotionalism,sentimentality
 ダンスパーティー,ダンス・パーティー,dance,ball,dance party
 お愛想,御愛想,おあいそ,おあいそう,compliments,civilities,courtesies,flattery,hospitality,special treatment,entertainment,bill,check
@@ -211774,11 +211774,12 @@
 小腸炎,しょうちょうえん,enteritis
 学校出,がっこうで,graduate
 コーヒーシュガー,コーヒー・シュガー,coffee sugar
+中缶,ちゅうかん,medium-sized can
 ミソジニスト,misogynist
 鳴り止む,鳴りやむ,なりやむ,to stop sounding,to fall silent
 馳せ参ずる,はせ参ずる,はせさんずる,to hasten to join,to hurry to visit
 焼き切れる,焼ききれる,やききれる,to burn through,to burn out
-Quiet器楽編成法,きがくへんせいほう,instrumentation
+器楽編成法,きがくへんせいほう,instrumentation
 セプテット,septet
 撥捌き,ばちさばき,drumming,plucking,picking
 最高音,さいこうおん,top note,soprano
@@ -211797,7 +211798,7 @@ Quiet器楽編成法,きがくへんせいほう,instrumentation
 リトルネロ,リトルネッロ,ritornello
 ロンドソナタ形式,ロンドソナタけいしき,rondo-sonata,rondo-sonata form
 反復進行,はんぷくしんこう,sequence
-帰寮,きりょう,returning to one’s dormitory
+帰寮,きりょう,returning to one's dormitory
 六の和音,ろくのわおん,sixth chord
 スキスマ,schisma
 テッシトゥーラ,tessitura
@@ -211808,12 +211809,18 @@ Quiet器楽編成法,きがくへんせいほう,instrumentation
 エンハーモニック,enharmonic
 積み上がる,つみあがる,to pile up,to be stacked up,to accumulate,to increase
 目遣い,めづかい,movement of the eyes,way of looking,signalling with the eyes,meaningful glance
+日本すごい系,日本スゴイ系,にほんすごいけい,foreigners-praising-Japan genre
 はしゃぎ回る,燥ぎ回る,はしゃぎまわる,to romp about,to frolic about,to cavort,to run about boisterously
 言い足りる,いいたりる,to say enough,to express oneself fully
+無いことはない,無いことは無い,無い事は無い,無い事はない,ないことはない,it's not that,is not impossible
+つまされる,to be deeply moved,to feel an emotional pull,to be touched
 溶け落ちる,とけおちる,to melt and trickle down,to melt away,to melt down
+揉み潰す,もみつぶす,to crush,to squeeze,to overwhelm by force,to suppress forcibly,to hush up
 無くし物,なくし物,失くし物,無くしもの,失くしもの,なくしもの,lost item,lost property,lost article,lost good
+逆回し,ぎゃくまわし,rotating in the opposite direction,turning in reverse,reverse playback
 知ったか,しったか,pretending to know,acting like a know-it-all
 声出し,声だし,こえだし,calling out loudly,shouting,cheering,raising voices
+振れ,ふれ,swinging,deflection,yaw,deviation
 聞き捨て,聞きずて,聞捨て,ききずて,ききすて,ignoring,letting  pass
 定価販売,ていかはんばい,sales at suggested prices,selling at recommended retail price
 ポコン,ぽこん,with a light thump,with a tap,bump,bop,with a pop,with a plop,poof,phut,popping out,springing back,with a pop,denting in,suddenly,popping up,plonking down
@@ -211822,12 +211829,15 @@ Quiet器楽編成法,きがくへんせいほう,instrumentation
 コッペ,コペ,bread roll,hot dog bun
 秒刻み,びょうきざみ,division into one-second intervals,tightly scheduled,planned down to the second,split-second
 透かし見る,透かしみる,すかし見る,すかしみる,to look through,to see through,to peer through,to peep through,to peer at,to strain  to see,to peer into
+乱痴気,らんちき,wild revelry,riotous behaviour
 結わく,ゆわく,to tie,to bind,to fasten
 欠け落ちる,かけおちる,to break off and fall away,to go missing
 おちゃらけ,facetiousness,silliness,flippant words or behaviour,fooling around,frivolousness,frivolity
+ピシピシ,ぴしぴし,with a crack,with a snap,with a slam,firmly,sharply,sternly,precisely,properly,neatly,tidily
 飛び下がる,とびさがる,to leap back,to jump backwards to avoid something,to jump off
 耳心地,みみごこち,sound,how something sounds,feel,ring,feel,ear comfort,fit
 稿を起こす,こうをおこす,to start writing a draft,to begin writing a manuscript
+刃風,はかぜ,rush of air produced by a swinging sword
 ねとつく,to be sticky,to cling stickily,to be gummy
 白鞘,しらさや,しらざや,plain wooden sword scabbard,unvarnished scabbard
 奸雄,姦雄,かんゆう,villainous hero,crafty, unscrupulous hero,Mephistophelian hero
@@ -211853,7 +211863,12 @@ Quiet器楽編成法,きがくへんせいほう,instrumentation
 空城の計,くうじょうのけい,Empty Fort Strategy
 数打,数打ち,かずうち,mass-produced, low-quality swords
 上顎洞炎,じょうがくどうえん,maxillary sinusitis
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-19
+無印,むいん,without a seal,lacking a seal
+突き当てる,突当てる,つきあてる,to strike against,to bump against,to track down,to find
+征旅,せいりょ,expeditionary army,military expedition,military campaign
+眼球炎,がんきゅうえん,ophthalmitis
+踏ん切る,ふんぎる,to make a decision,to determine,to take the plunge
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-20
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
