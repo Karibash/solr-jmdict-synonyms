@@ -50,7 +50,7 @@
 幾つも,いくつも,many,much,plenty,hardly
 行けない,いけない,イケない,bad,wrong,naughty,must not,should not,ought not to,useless,no good,bad,hopeless,beyond hope,unfortunate,a shame,a pity,unable to drink,so as not to,so that,in case,for fear that,lest
 いごっそう,stubborn person,strong-minded person,obstinate person
-いざ,now,come,well
+いざ,now,come,well,when it comes to,when actually,when the time comes
 いざこざ,イザコザ,trouble,quarrel,difficulties,complication,tangle
 イジイジ,いじいじ,hesitantly,timidly,diffidently
 いじける,to grow timid,to cower,to shrink,to lose one's nerve,to become perverse,to become contrary,to become warped,to become withdrawn,to be cramped,to be constrained
@@ -22515,7 +22515,7 @@
 繰り越す,繰越す,くりこす,to carry forward,to transfer
 繰り延べ,繰延べ,くりのべ,postponement
 繰り延べる,繰延べる,くりのべる,to postpone,to defer,to reschedule
-繰り下げる,繰下げる,くりさげる,to defer,to postpone,to move down
+繰り下げる,繰下げる,くりさげる,to defer,to postpone,to move down,to borrow
 繰り広げる,繰広げる,繰り拡げる,繰拡げる,くりひろげる,to unfold,to unroll,to open
 繰り合わす,繰合わす,くりあわす,to make time,to arrange matters
 繰り込み,繰込み,くりこみ,renormalisation,renormalization
@@ -26548,7 +26548,7 @@
 今めかしい,いまめかしい,fashionable
 今めかす,いまめかす,to modernize,to modernise
 今もって,今以て,いまもって,until now,still,yet,yet,since
-今や,いまや,now,now at last,at present,right now
+今や,いまや,now,now at last,at present,right now,any moment now,on the point of
 今や遅しと,いまやおそしと,impatiently,eagerly
 今一,今いち,今イチ,いまいち,イマイチ,not quite,not very good,somewhat
 今一度,いま一度,いまいちど,once more
@@ -29128,7 +29128,7 @@
 持ち崩す,持崩す,もちくずす,to ruin oneself,to degrade oneself
 持っていく,持って行く,もって行く,持ってゆく,もっていく,もってゆく,to take  along,to bring with one,to carry  away,to bear
 持ってくる,持って来る,もって来る,もってくる,to bring,to take along,to fetch,to get
-持つ,もつ,to hold,to take,to carry,to possess,to have,to own,to maintain,to keep,to last,to be durable,to keep,to survive,to take charge of,to be in charge of,to hold,to have,to have "it",to have that special something,to be blessed with good luck
+持つ,もつ,to hold,to take,to carry,to possess,to have,to own,to maintain,to keep,to retain,to last,to be durable,to keep,to survive,to be in charge of,to take charge of,to hold,to hold,to have,to bear,to pay,to cover,to have "it",to have that special something,to be blessed with good luck
 持てる,もてる,to be able to possess,to be well liked,to be popular,to be pampered,to be welcomed,to endure,to last,possessed,held,rich,wealthy,affluent
 持て成す,持てなす,もてなす,to treat,to receive,to entertain,to be hospitable to,to make welcome
 持て余す,持てあます,もて余す,もてあます,to be too much for one,to find unmanageable,to be beyond one's control,to not know what to do with
@@ -51805,7 +51805,7 @@
 立法,りっぽう,legislation,lawmaking,legislative
 立法者,りっぽうしゃ,legislator
 立法府,りっぽうふ,assize,court,legislature
-立論,りつろん,argument
+立論,りつろん,making a case,establishing an argument,making a point,argumentation,argument,case
 掠める,かすめる,to steal,to rob,to snatch,to pocket,to plunder,to deceive,to trick,to cheat,to graze,to skim,to brush against,to touch lightly,to appear and quickly disappear,to flit,to do  while no one is looking,to hint at,to suggest,to insinuate
 掠め取る,かすめ取る,掠めとる,かすめとる,to snatch,to steal
 掠め奪う,かすめうばう,to plunder
@@ -55271,7 +55271,7 @@
 押入れ,押し入れ,押入,おしいれ,closet,wardrobe
 押し売り,押売,押売り,おしうり,high-pressure selling,aggressive peddling,the hard sell,high-pressure salesman,forcing on someone
 押し絵,押絵,おしえ,raised cloth picture
-押し込める,押込める,おしこめる,to shut up,to imprison
+押し込める,押込める,おしこめる,to shut up,to imprison,to force into,to stuff into,to cram into
 押し出し,押出し,おしだし,pushing something out,extrusion,presence,appearance,run walked in,pushing one's opponent out by pressing one's hands up against them
 押し出す,押出す,おしだす,to crowd out,to push out,to squeeze out,to start together,to set out en masse,to highlight,to draw attention to
 推し量る,推し測る,推量る,推測る,推しはかる,推し計る,おしはかる,to guess,to conjecture,to surmise
@@ -156908,7 +156908,7 @@
 ハラスメント,harassment,bullying,discrimination
 レイシャルハラスメント,レイシャル・ハラスメント,racial harassment
 朝腹,あさはら,early morning,empty stomach in the morning before eating breakfast,triviality,simple matter
-ウンシャン,plain woman
+ウンシャン,plain woman,unattractive woman
 コミックマーケット,コミック・マーケット,Comic Market,comiket,comic book market,comicbook market
 ホームロイヤー,ホーム・ロイヤー,family lawyer,personal lawyer
 クレーンゲーム,クレーン・ゲーム,claw crane,arcade game in which a crane is used to pick up stuffed toys, etc.
@@ -172700,7 +172700,7 @@
 笑かす,わらかす,to make laugh,to set to laughing
 旧皇族,きゅうこうぞく,Old Imperial Family,former Imperial family,eleven former houses of the Imperial Family stripped of membership in 1947
 ランニングパンツ,ランニング・パンツ,running shorts,running pants
-笑わせる,嗤わせる,わらわせる,to make  laugh,to set to laughing
+笑わせる,嗤わせる,わらわせる,to make  laugh,to set to laughing,to invite ridicule,to be laughable
 笑わかす,わらわかす,to make laugh,to set to laughing
 陸塊,りくかい,landmass
 大陸塊,たいりくかい,continental block,continental landmass,craton
@@ -211842,7 +211842,9 @@
 白鞘,しらさや,しらざや,plain wooden sword scabbard,unvarnished scabbard
 奸雄,姦雄,かんゆう,villainous hero,crafty, unscrupulous hero,Mephistophelian hero
 安息香の木,あんそくこうのき,あんそっこうのき,アンソクコウノキ,gum benjamin tree,benzoin tree
+ＲＩＦ,リフ,reduction in force,RIF
 クッキングペーパー,クッキング・ペーパー,cooking paper,baking paper,cooking sheet
+デカーボナイゼーション,decarbonization
 デカボ,decarbonization
 縞源五郎,しまげんごろう,シマゲンゴロウ,Hydaticus
 潰し,つぶし,crushing,smashing,melting down,metal from a melted-down object,wasting time,killing time
@@ -211864,11 +211866,21 @@
 数打,数打ち,かずうち,mass-produced, low-quality swords
 上顎洞炎,じょうがくどうえん,maxillary sinusitis
 無印,むいん,without a seal,lacking a seal
+笑わす,嗤わす,わらわす,to make  laugh,to invite ridicule,to be laughable
 突き当てる,突当てる,つきあてる,to strike against,to bump against,to track down,to find
 征旅,せいりょ,expeditionary army,military expedition,military campaign
 眼球炎,がんきゅうえん,ophthalmitis
 踏ん切る,ふんぎる,to make a decision,to determine,to take the plunge
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-20
+潜まる,ひそまる,to become quiet,to fall silent,to become hidden,to be concealed
+初太刀,しょだち,first stroke of a sword,initial sword blow
+水切れ,水切,みずぎれ,running out of water,drying up,draining of water
+お湿り,御湿り,御湿,おしめり,welcome rain,gentle rain
+不貞腐る,ふてくさる,to become sulky,to become defiant or careless out of resentment
+深酔い,ふかよい,getting very drunk,heavy intoxication
+寝そびれる,ねそびれる,to be unable to get to sleep,to lie in bed sleepless,to lie awake
+枕上,ちんじょう,まくらがみ,bedside,area around one's pillow,being in bed,lying in bed
+手になる,手に成る,てになる,to be the work of,to be produced by someone
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-21
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
