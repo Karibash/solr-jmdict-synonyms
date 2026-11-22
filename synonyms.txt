@@ -10670,7 +10670,7 @@
 ベンゾール,benzene,benzole
 ベンダー,ベンダ,ヴェンダー,ヴェンダ,vendor,vending machine
 ベンダリゼーション,venderization,venderisation
-ベンチ,bench
+ベンチ,bench,team manager and coaches,coaching staff
 ベンチウォーマー,ベンチ・ウォーマー,ベンチウオーマー,bench warmer
 ベンチプレス,ベンチ・プレス,bench press
 ベンチマーク,benchmark
@@ -15511,7 +15511,7 @@
 影響力,えいきょうりょく,influence,clout,leverage
 影像,えいぞう,silhouette
 影法師,影ぼうし,かげぼうし,shadow figure,silhouette
-映る,うつる,to be reflected,to harmonize with,to come out,to be projected,to be displayed
+映る,うつる,to be reflected,to harmonize with,to harmonise with,to come out,to be projected,to be displayed,to appear,to seem,to strike one as
 映画,映畫,映畵,えいが,movie,film,motion picture
 映画化,えいがか,making  into a film,adapting for the screen
 映画監督,えいがかんとく,movie director,film director
@@ -18134,7 +18134,7 @@
 改暦,かいれき,calendar reform,adoption of a new calendar system,new calendar,new year
 改ざん,改竄,かいざん,alteration,falsification,faking
 魁偉,かいい,brawny,muscular,impressive,gigantic
-海,うみ,み,わた,わだ,sea,ocean,waters
+海,うみ,み,わた,わだ,sea,ocean,waters,large lake,wide expanse,inkstone water reservoir
 海の幸,うみのさち,seafood,products of the sea,marine products,fruits of the sea
 海域,かいいき,area of sea,waters
 海員,かいいん,sailor,seaman
@@ -23678,7 +23678,7 @@
 県民,けんみん,resident of a prefecture,citizen of a prefecture
 県民会館,けんみんかいかん,prefectural meeting hall,civic center,community hall
 県立,けんりつ,prefectural,managed by a prefectural government
-肩,かた,shoulder
+肩,かた,shoulder,shoulder,throwing power,throwing ability,upper corner
 肩をすくめる,肩を竦める,かたをすくめる,to shrug one's shoulders
 肩を持つ,肩をもつ,かたをもつ,to side with,to support
 肩寄せる,かたよせる,to be  together, an arm across the other's shoulder
@@ -33128,7 +33128,7 @@
 植わる,うわる,to be planted
 植字,しょくじ,ちょくじ,typesetting
 植樹,しょくじゅ,tree-planting
-植物,しょくぶつ,plant,vegetation
+植物,しょくぶつ,plant,vegetation,flora
 植物園,しょくぶつえん,botanical garden
 植物人間,しょくぶつにんげん,human vegetable
 植物性脂肪,しょくぶつせいしぼう,vegetable fat
@@ -38191,7 +38191,7 @@
 対偶,対遇,たいぐう,pair,couple,contraposition
 対決,たいけつ,confrontation,showdown
 対向,たいこう,counter-,corresponding,face,opposite
-対抗,たいこう,opposition,rivalry,competition,antagonism
+対抗,たいこう,opposition,rivalry,competition,antagonism,principal challenger to the predicted winner,second choice
 対抗部隊,たいこうぶたい,opposing forces
 対校試合,たいこうじあい,inter-school match
 対策,たいさく,measure,step,countermeasure,counterplan,countermove,strategy,preparation
@@ -42160,7 +42160,7 @@
 動的,どうてき,dynamic,kinetic
 動天,どうてん,heaven-shaking event,earth-shattering occurrence
 動転,動顛,動顚,どうてん,disturbance of mind,losing one's head,being upset,being astonished,being frightened,transition,changing,moving
-動物,どうぶつ,animal
+動物,どうぶつ,animal,living creature,beast,fauna,animal other than humans
 動物愛,どうぶつあい,love for animals
 動物園,どうぶつえん,zoo,zoological gardens
 動物化,どうぶつか,animalization,animalisation
@@ -43629,7 +43629,7 @@
 入浴,にゅうよく,bathing,going in the bath
 入来,にゅうらい,august visit,arrival
 入洛,じゅらく,にゅうらく,proceeding to Kyoto,entering Kyoto
-入力,にゅうりょく,input,entry,typing
+入力,にゅうりょく,power input,signal input,input,entry,typing
 入力フィールド,にゅうりょくフィールド,entry field
 入力線,にゅうりょくせん,input
 入力装置,にゅうりょくそうち,input unit,input device
@@ -50576,7 +50576,7 @@
 優しげ,やさしげ,gentle,kind,sweet-looking
 優に,裕に,ゆうに,easily,comfortably,amply,fully,well over
 優れた,勝れた,すぐれた,great,excellent,outstanding
-優れる,勝れる,傑れる,すぐれる,to be better,to be superior,to surpass,to excel,to be excellent
+優れる,勝れる,秀れる,傑れる,すぐれる,to be better,to be superior,to surpass,to excel,to be excellent
 優渥,ゆうあく,gracious,benevolent,benign,magnanimous
 優位,ゆうい,predominance,superiority,ascendancy,advantage,supremacy
 優位性,ゆういせい,superiority,predominance
@@ -57523,7 +57523,7 @@
 難なく,難無く,なんなく,without trouble,easily,readily
 逃げ道,逃げ路,逃道,にげみち,way out,means to escape,escape route
 根っこ,根っ子,ねっこ,root,stump,root,base,foundation,origin,source
-寝ぼける,寝惚ける,寝とぼける,ねぼける,ねとぼける,to be still half asleep,to be half awake,to be not yet quite awake
+寝ぼける,寝惚ける,寝とぼける,ねぼける,ねとぼける,to be still half asleep,to be half awake,to be not yet quite awake,to say or do something nonsensical,to be talking nonsense,to be indistinct,to be dull,to be blurred
 引き締め,引締め,ひきしめ,tightening
 密か,秘か,窃か,私か,竊か,潜か,陰か,ひそか,secret,private,surreptitious
 一人一人,１人１人,一人ひとり,ひとり一人,ひとりひとり,ひとりびとり,each,individually,one by one,one at a time,in turn
@@ -59880,7 +59880,7 @@
 はち切れる,はちきれる,to be filled to bursting,to burst
 良い旅を,よい旅を,よいたびを,bon voyage!,have a nice trip!
 良い旅行を,よい旅行を,よいりょこうを,bon voyage!,have a nice trip!
-オーバーシューツ,オーバーシューズ,overshoes,galoshes
+オーバーシューズ,overshoes,galoshes
 滑り,ぬめり,ヌメリ,slime,sliminess,mucus,viscous liquid
 カチューシャ,Alice band,,hairband
 強襲,きょうしゅう,assault,violent attack
@@ -92907,7 +92907,7 @@
 ダクロ,dacrotized
 ダクロン,dacron
 ダクロダイズド,dacrotized
-みたい,-like,sort of,similar to,resembling
+みたい,-like,sort of,similar to,resembling,it seems that,it looks like,apparently
 相も変わらず,相も変らず,あいもかわらず,as usual,as always,as ever,as before,still
 お願いを聞く,お願いをきく,おねがいをきく,to grant someone's request,to do a favour
 じろじろ,ジロジロ,staringly,scrutinizing,scrutinising
@@ -108274,7 +108274,7 @@
 花椒塩,ホワジャオイエン,Sichuan pepper-salt
 食用花,しょくようか,edible flower
 エディブルフラワー,エディブル・フラワー,edible flower
-ブレックファースト,ブレックファスト,ブレークファスト,breakfast
+ブレックファースト,ブレックファスト,ブレークファースト,ブレイクファースト,ブレイクファスト,ブレークファスト,breakfast
 然るが故に,しかるが故に,しかるがゆえに,as such,that being so,for that reason
 然る上は,然上は,しかる上は,しかるうえは,now that it is as such,since it is as such
 然るべく,然る可く,しかるべく,appropriately,properly
@@ -109948,7 +109948,7 @@
 紅鶸,べにひわ,ベニヒワ,common redpoll
 黄嘴鶸,きばしひわ,キバシヒワ,twite
 猿子,ましこ,マシコ,rosefinch,monkey
-シメ,hawfinch
+鴲,しめ,シメ,hawfinch,grosbeak
 嘴太機織,はしぶとはたおり,ハシブトハタオリ,grosbeak weaver
 機織鳥,はたおりどり,ハタオリドリ,weaverbird,weaver
 金襴鳥,きんらんちょう,キンランチョウ,red bishop
@@ -139120,7 +139120,7 @@
 本意ない,本意無い,ほいない,reluctant,unwilling,unfortunate,sad
 事始め,こと始め,事始,ことはじめ,taking up a new line of work,the beginning of things,starting the preparations for New Year's festivities,resuming work after the New Year's vacation
 綻ぶ,ほころぶ,to begin to open,to come out,to smile broadly,to come apart at the seams
-バキバキ,ばきばき,with a crack
+バキバキ,パキパキ,ばきばき,ぱきぱき,with a crack,briskly,efficiently
 公共施設管理公社,こうきょうしせつかんりこうしゃ,public corporation set up to administer a public facility
 負担金,ふたんきん,amount to be borne,one's share
 負担額,ふたんがく,amount to be borne,one's share
@@ -166753,7 +166753,7 @@
 相互排他,そうごはいた,mutual exclusion
 マスジド,マスジッド,masjid,mosque
 職務明細書,しょくむめいさいしょ,job description,job specification
-いい,good,excellent,fine,nice,pleasant,agreeable,sufficient,enough,ready,prepared,profitable,beneficial,OK,all right,fine,no problem
+いい,good,excellent,fine,nice,pleasant,agreeable,sufficient,enough,ready,prepared,profitable,beneficial,OK,all right,fine,no problem,no thank you,I don't need it,there's no need
 義肢装具士,ぎしそうぐし,prosthetist and orthotist
 ガムシロ,gomme syrup,gum syrup
 実に,實に,じつに,really,truly,indeed,very,extremely,terribly
@@ -179576,7 +179576,7 @@
 濃き色,濃色,こきいろ,strong color,strong colour
 シングルファーザー,シングルファザー,シングル・ファーザー,シングル・ファザー,single father
 シングルパパ,シングル・パパ,single father
-母娘,おやこ,ははこ,mother and daughter
+母娘,おやこ,ははこ,ははむすめ,mother and daughter
 不審がる,不信がる,不振がる,ふしんがる,to be suspicious
 お猿さん,おさるさん,monkey
 ツアー客,ツアーきゃく,participant in a group tour,group tourist
@@ -211746,10 +211746,13 @@
 空き教室,あききょうしつ,empty classroom
 探し,捜し,さがし,search,searching,looking for
 拉く,しだく,to crush,to trample,to break up,to disarrange
+付ける,附ける,づける,to give  to,to endow with,to make,to cause to function as
 懸濁物質,けんだくぶっしつ,suspended matter,suspended substance,suspended particles
 差し出し,差出し,差出,さしだし,sending,mailing,posting
 お客,御客,おきゃく,guest,visitor,customer,client,entertaining guests,invitation,easy mark,sucker,party,banquet,reception,feast,dinner
+あわわ,アワワ,aah!,oh no!
 物欲しい,ものほしい,wanting something,longing to have something
+巡らせる,廻らせる,回らせる,繞らせる,めぐらせる,to enclose,to surround,to encircle,to turn,to rotate,to spin,to think over,to consider,to ponder,to work out,to devise,to plan
 不可抗,ふかこう,irresistible,inevitable,uncontrollable
 肉抜き,にくぬき,hollowing out,shaving-off weight
 ホモ嫌悪,ホモけんお,homophobia
@@ -211774,6 +211777,7 @@
 小腸炎,しょうちょうえん,enteritis
 学校出,がっこうで,graduate
 コーヒーシュガー,コーヒー・シュガー,coffee sugar
+キツキツ,きつきつ,tight,with no room to spare,with no leeway
 中缶,ちゅうかん,medium-sized can
 ミソジニスト,misogynist
 鳴り止む,鳴りやむ,なりやむ,to stop sounding,to fall silent
@@ -211828,6 +211832,7 @@
 明日明後日,あすあさって,tomorrow or the day after,within the next day or two
 コッペ,コペ,bread roll,hot dog bun
 秒刻み,びょうきざみ,division into one-second intervals,tightly scheduled,planned down to the second,split-second
+指通り,ゆびどおり,feel of running one's fingers through or over something
 透かし見る,透かしみる,すかし見る,すかしみる,to look through,to see through,to peer through,to peep through,to peer at,to strain  to see,to peer into
 乱痴気,らんちき,wild revelry,riotous behaviour
 結わく,ゆわく,to tie,to bind,to fasten
@@ -211880,7 +211885,7 @@
 寝そびれる,ねそびれる,to be unable to get to sleep,to lie in bed sleepless,to lie awake
 枕上,ちんじょう,まくらがみ,bedside,area around one's pillow,being in bed,lying in bed
 手になる,手に成る,てになる,to be the work of,to be produced by someone
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-21
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-22
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
