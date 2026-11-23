@@ -498,7 +498,7 @@
 凝と,凝乎と,じっと,じーっと,じーと,じいっと,motionlessly,still,fixedly,intently,patiently,stoically,firmly,restrained
 じっと見る,じっとみる,to watch steadily,to stare
 じめじめ,ジメジメ,damp,humid,wet,clammy,muggy,soggy,gloomy,melancholy,depressing
-じゃあ,じゃ,then,well,so,well then
+じゃあ,じゃ,then,well,so,well then,bye then,see you
 じゃあじゃあ,noisily
 また明日,またあした,see you tomorrow
 じゃが芋,ジャガ芋,ジャガ薯,じゃが薯,じゃがいも,ジャガイモ,potato
@@ -10694,7 +10694,7 @@
 ペースメーカー,ペースメーカ,pacemaker,pacesetter
 ペーソス,pathos
 ｐＨ,ペー・ハー,ペーハー,pH
-ペーパー,ペイパー,paper
+ペーパー,ペイパー,paper,label,sandpaper,emery paper,paper,article,artificial,bogus,sham,leaflet or handout distributed by a dōjin circle
 ペーパーカンパニー,ペーパー・カンパニー,bogus company,dummy corporation,shell company
 ペーパークラフト,papercraft
 ペーパークロマトグラフィー,ペーパー・クロマトグラフィー,paper chromatography
@@ -15052,13 +15052,13 @@
 引き絞る,引きしぼる,引絞る,ひきしぼる,to draw  to the limit,to pull tight,to squeeze tight,to clasp,to strain
 引き合う,引合う,引きあう,ひきあう,to pay,to be profitable,to pull against each other
 引き合わせ,ひきあわせ,introduction,meeting
-引き込む,引きこむ,ひき込む,引込む,ひきこむ,to pull into,to draw in,to bring in,to win over
+引き込む,引きこむ,ひき込む,引込む,ひきこむ,to pull into,to draw in,to bring in,to win over,to captivate,to enthrall,to draw in,to catch a bad cold
 引き取る,引取る,引きとる,ひきとる,to take into one's possession,to receive,to accept,to collect,to claim,to take into one's care,to take custody of,to adopt,to leave,to go away,to withdraw,to get out
 引きずり,引き摺り,引摺り,ひきずり,train of dress,trailing skirt,woman who doesn't work and only thinks about fashion
 引き摺り込む,引き摺りこむ,引きずり込む,引摺り込む,ひきずりこむ,to drag in,to pull in
 引きずる,引き摺る,引摺る,ひきずる,to drag,to trail,to pull along the ground,to lug,to force  along,to drag,to prolong,to drag out,to influence,to persuade,to entice,to lure
 引き値,ひきね,reduced price
-引き締まる,引き締る,引きしまる,引締まる,ひきしまる,to become tense,to be tightened,to become firm
+引き締まる,引き締る,引きしまる,引締まる,ひきしまる,to become tense,to be tightened,to become firm,to firm,to strengthen
 引き当て,引当て,引当,ひきあて,mortgage,security
 引き入れる,引きいれる,引入れる,ひき入れる,ひきいれる,to drag into,to pull into,to draw into,to lure inside,to win over,to entice into
 引き剥がす,引きはがす,引き剝がす,ひきはがす,to tear off,to rip off
@@ -18134,7 +18134,7 @@
 改暦,かいれき,calendar reform,adoption of a new calendar system,new calendar,new year
 改ざん,改竄,かいざん,alteration,falsification,faking
 魁偉,かいい,brawny,muscular,impressive,gigantic
-海,うみ,み,わた,わだ,sea,ocean,waters,large lake,wide expanse,inkstone water reservoir
+海,うみ,sea,ocean,waters,large lake,wide expanse,sea,inkstone water reservoir
 海の幸,うみのさち,seafood,products of the sea,marine products,fruits of the sea
 海域,かいいき,area of sea,waters
 海員,かいいん,sailor,seaman
@@ -18908,7 +18908,7 @@
 噛み殺す,かみ殺す,噛殺す,嚙み殺す,嚙みころす,噛みころす,かみころす,to suppress,to stifle,to bite to death
 噛みこなす,噛み熟す,噛熟す,嚙み熟す,嚙みこなす,かみこなす,to chew thoroughly,to masticate,to comprehend,to digest,to fully understand
 噛み切る,かみ切る,かみきる,to bite off,to gnaw through
-噛み締める,噛みしめる,かみ締める,噛締める,嚙み締める,かみしめる,to chew thoroughly,to bite,to reflect upon,to digest
+噛み締める,噛みしめる,かみ締める,噛締める,嚙み締める,かみしめる,to chew thoroughly,to bite,to reflect upon,to savor an experience,to digest
 噛み付く,噛みつく,噛付く,かみ付く,咬みつく,咬み付く,嚙み付く,嚙みつく,嚙付く,かみつく,to bite,to snap at,to snap at,to flare up at,to jump down  throat
 噛み分ける,噛分ける,かみ分ける,かみわける,to taste,to distinguish,to understand
 噛む,咬む,嚙む,嚼む,かむ,to bite,to chew,to gnaw,to masticate,to fumble one's words,to falter with one's words,to stutter,to stammer,to crash against,to break onto,to engage,to mesh,to fit together,to be involved in,to convince,to persuade
@@ -20178,7 +20178,7 @@
 気付,気付け,気附,きづけ,care of,c/o
 気負い,きおい,eagerness,enthusiasm,fervor,excitement,fighting spirit,fighting mood
 気風,きふう,character,traits,ethos
-気分,きぶん,feeling,mood
+気分,きぶん,feeling,mood,how one feels,sense of physical well-being,atmosphere,air,feeling
 気分屋,きぶんや,moody person
 気分転換,きぶんてんかん,change of pace,change of mood,,refreshment
 気泡,きほう,
@@ -24399,7 +24399,7 @@
 呼び戻す,呼びもどす,よび戻す,呼戻す,よびもどす,to call  back,to recall,to call home,to bring back,to recall,to revive
 呼び立てる,呼びたてる,よびたてる,to call out,to ask someone to come
 呼び鈴,呼鈴,呼びりん,よびりん,bell,buzzer
-呼ぶ,喚ぶ,よぶ,to call out,to call,to invoke,to summon,to invite,to designate,to name,to brand,to garner,to gather,to take as one's wife
+呼ぶ,喚ぶ,よぶ,to call out,to call,to invoke,to summon,to invite,to designate,to name,to brand,to garner,to gather,to cause,to provoke,to give rise to,to take as one's wife
 呼応,こおう,hailing each other,acting in concert,responding,sympathizing,agreement,concord
 呼気,こき,exhaled air,exhalation,expiration
 呼吸,こきゅう,breathing,respiration,knack,trick,secret,harmony,balance,synchronization,accord,short interval,short pause
@@ -28643,7 +28643,7 @@
 止血剤,しけつざい,hemostatic agent,haemostatic agent,hemostatic,styptic
 止宿,ししゅく,lodging,putting up
 死,し,death,out,death penalty
-死ぬ,しぬ,ﾀﾋぬ,to die,to pass away,to lose spirit,to lose vigor,to look dead,to cease,to stop
+死ぬ,しぬ,ﾀﾋぬ,to die,to pass away,to lose spirit,to lose vigor,to look dead,to cease,to stop,to die,to be put out,to be out
 死因,しいん,cause of death
 死灰,しかい,as lifeless as cold ashes
 死角,しかく,blind spot,dead angle,dead ground,dead space,sector without fire
@@ -29755,7 +29755,7 @@
 写像,しゃぞう,mapping,map,image,representation
 写本,しゃほん,manuscript,written copy of a book,codex,transcription,copying
 射す,さす,to shine
-射る,いる,to shoot
+射る,いる,to shoot,to hit,to shoot at,to strike,to pierce
 射影,しゃえい,projection
 射角,しゃかく,angle of fire
 射撃,しゃげき,firing,shooting,fire,gunshot,marksmanship
@@ -31291,7 +31291,7 @@
 出し物,演し物,出物,だしもの,program,programme,piece,number,performance,feature
 出し分,だしぶん,one's share
 出し放題,だしほうだい,free flow of water
-出す,だす,to take out,to get out,to put out,to reveal,to show,to submit,to turn in,to publish,to make public,to send,to produce,to start,to serve,out,to begin,to start to,to burst into
+出す,だす,to take out,to get out,to put out,to reveal,to show,to submit,to turn in,to publish,to make public,to send,to produce,to start,to serve,out,to begin,to start to,to burst into,to pay,to put up,to provide,to put  through school,to open,to establish
 出たとこ勝負,出た所勝負,でたとこしょうぶ,leaving a matter to chance
 出っ歯,でっぱ,protruding tooth,overbite,bucktooth
 出っ張り,出っぱり,でっぱり,projection,protrusion,lump,bulge
@@ -34348,7 +34348,7 @@
 甚大,じんだい,very great,enormous,serious
 甚六,じんろく,dunce,blockhead
 尽かす,つかす,to use completely,to use up,to exhaust,to exhaust someone's civility,to give up
-尽きる,竭きる,つきる,to be used up,to be run out,to be exhausted,to be consumed,to come to an end
+尽きる,竭きる,つきる,to be used up,to be run out,to be exhausted,to be consumed,to come to an end,to come down to,to boil down to,to be nothing other than
 尽き果てる,尽きはてる,つきはてる,to be exhausted
 尽くす,尽す,盡す,竭す,つくす,to use up,to exhaust,to run out of,to devote oneself,to do one's utmost,to serve,to work,to do to exhaustion,to do completely,to do fully
 尽力,じんりょく,efforts,exertion,endeavour,assistance,services
@@ -37318,7 +37318,7 @@
 相次いで,あいついで,one after the other,successively
 相次ぐ,相継ぐ,あいつぐ,to follow in succession,to happen one after another
 相識,そうしき,acquaintance
-相手,あいて,companion,partner,company,other party,addressee,counterparty,opponent
+相手,あいて,companion,partner,company,other party,addressee,counterparty,opponent,target,object
 相手をする,あいてをする,to keep company,to look after,to entertain,to play  with
 相手方,あいてかた,あいてがた,other party,opposite party,opposing team,one's opponent,one's adversary
 相称,そうしょう,symmetry
@@ -47737,7 +47737,7 @@
 分け隔て,別け隔て,わけ隔て,分けへだて,わけへだて,distinction,favoritism,favouritism,discrimination
 別して,べっして,especially,particularly
 別けて,分けて,別て,わけて,above all,especially,particularly,all the more
-別に,べつに,particularly,especially,specially,separately,apart,additionally,extra
+別に,べつに,particularly,especially,specially,separately,apart,additionally,extra,not really,nothing in particular,nothing
 別れ,わかれ,parting,separation,farewell,breakup
 別れ別れ,わかれわかれ,separate
 別れ路,わかれじ,parting of the ways,the way to hades,one's way after the parting
@@ -51044,7 +51044,7 @@
 余りに,あまりに,あんまりに,too,overly,excessively
 余りにも,あまりにも,too much,excessive,too
 余り物,あまり物,余りもの,あまりもの,leftovers,remains,leavings,remnant,surplus
-余る,あまる,to remain,to be left over,to be in excess,to be too many
+余る,あまる,to remain,to be left over,to be in excess,to be too many,to exceed,to be beyond
 余意,よい,implied meaning
 余韻,よいん,reverberation,swelling,trailing note,lingering memory,aftertaste,suggestiveness
 余韻嫋々,余韻嫋嫋,よいんじょうじょう,lingering in the air,trailing notes
@@ -52256,7 +52256,7 @@
 例話,れいわ,illustration
 冷,れい,refrigerator,cold,cool,cold sake
 冷え,ひえ,chilliness,coldness
-冷える,ひえる,to grow cold,to get chilly,to cool down
+冷える,ひえる,to grow cold,to get chilly,to cool down,to cool,to wane,to cool,to slump
 冷え込む,冷えこむ,ひえこむ,to get  cold,to get  colder,to feel very cold,to be chilled to the bone,to worsen,to decline
 冷え上がる,ひえあがる,to get completely chilled
 冷え性,冷え症,冷性,ひえしょう,sensitivity to cold,poor circulation
@@ -56232,7 +56232,7 @@
 飛び降りる,飛び下りる,跳び下りる,跳び降りる,飛降りる,飛びおりる,とび降りる,とび下りる,飛下りる,跳びおりる,とびおりる,to jump down,to leap down,to jump off,to leap off
 飛び切り,飛びきり,飛切り,とびきり,best,extra-fine,superfine,unequalled,exceptionally,extraordinarily,by far,jumping and slashing
 飛び込み,飛込み,とびこみ,jump,plunge,dive,appearing without an appointment,bursting in,arriving unannounced,cropping up suddenly
-飛び込む,飛びこむ,飛込む,とびこむ,to jump in,to leap in,to plunge into,to dive,to burst in,to barge in
+飛び込む,跳び込む,飛びこむ,飛込む,とびこむ,to jump in,to leap in,to plunge into,to dive,to burst in,to barge in,to throw oneself into,to become involved in,to come in unexpectedly,to arrive suddenly
 飛び火,飛火,とびひ,leaping flames,flying sparks,spread of fire,repercussions in unanticipated areas,spilling over,effects of an incident spreading to those seemingly uninvolved,impetigo contagiosa
 泊まり込み,泊り込み,とまりこみ,staying somewhere  due to circumstances
 留め金,止め金,留金,止金,とめ金,留めがね,止めがね,とめがね,clasp,latch,catch,fastener
@@ -57545,7 +57545,7 @@
 その物,其の物,そのもの,the very thing,itself
 ちり紙,チリ紙,塵紙,ちりがみ,ちりし,tissue paper,toilet paper
 どうも有難う,どうも有り難う,どうもありがとう,thank you very much
-やり過ごす,遣り過ごす,やり過す,遣り過す,やりすごす,to let  go past,to do too much
+やり過ごす,遣り過ごす,やり過す,遣り過す,やりすごす,to let  go past,to do too much,to let pass without getting involved,to ride out,to weather
 あの世,彼の世,あのよ,the other world,the next world,the world beyond,world after death
 行けません,いけません,wrong,not good,of no use,hopeless,past hope,must not do,cannot go
 お医者さん,御医者さん,おいしゃさん,doctor
@@ -101686,7 +101686,7 @@
 普通体,ふつうたい,direct style
 飛び石連休,飛石連休,とびいしれんきゅう,series of holidays with one or two workdays in between
 ネイチャー,ネーチャー,nature
-ネイル,ネール,nail,fingernail
+ネイル,ネール,nail,fingernail,nail,tack
 壊滅的,潰滅的,かいめつてき,devastating,catastrophic,crushing
 魚醤油,魚しょうゆ,うおじょうゆ,うおしょうゆ,fish sauce
 溶き卵,とき卵,ときたまご,beaten egg,eggwash
@@ -106249,7 +106249,7 @@
 超保守,ちょうほしゅ,ultraconservatism,archconservatism
 超保守主義,ちょうほしゅしゅぎ,ultraconservative doctrine,ultraconservative policy
 でなくて何だろう,でなくてなんだろう,if not  then what is it?,is nothing other than,must be,is definitely
-方がいい,方が良い,ほうが良い,方がよい,ほうがいい,ほうがよい,had better,had better not
+方がいい,方が良い,ほうが良い,方がよい,ほうがいい,ほうがよい,had better,had better not,is better,is preferable,it is better to
 毛先,けさき,tips of one's hair,hair ends
 お偉いさん,おえらいさん,おエライさん,big shot,higher-ups
 偉いさん,えらいさん,エライさん,big shot,higher-ups
@@ -111335,7 +111335,7 @@
 鳥肌が立つ,鳥肌がたつ,とりはだが立つ,とりはだがたつ,to get goosebumps,to be deeply moved,to get chills,to feel shivers
 何処にも彼処にも,どこにもかしこにも,all over,everywhere
 内鍵,うちかぎ,internal lock
-べ,ぺ,べえ,word used at sentence-end  to indicate speculation, volition or invitation,familiar suffix used after a personal name
+べ,ぺ,べえ,っぺ,word used at sentence-end  to indicate speculation, volition or invitation,familiar suffix used after a personal name
 それはそれで,in that case,if that's the case
 寒がりや,寒がり屋,さむがりや,someone who feels the cold,someone sensitive to cold
 ローカライズ,localization,localisation
@@ -187201,7 +187201,7 @@
 よいや,ヨイヤ,heave-ho,oof,ugh,"yoiya",doo-doo-doo,dum-dum-dum
 スリーカード,スリー・カード,three-of-a-kind
 簿冊,ぼさつ,book,notebook
-豚熱,ぶたねつ,hog cholera,swine fever
+豚熱,ぶたねつ,classical swine fever,CSF,hog cholera
 マーシャル諸島共和国,マーシャルしょとうきょうわこく,Republic of the Marshall Islands
 マダガスカル共和国,マダガスカルきょうわこく,Republic of Madagascar
 マラウイ共和国,マラウイきょうわこく,Republic of Malawi
@@ -211870,6 +211870,7 @@
 空城の計,くうじょうのけい,Empty Fort Strategy
 数打,数打ち,かずうち,mass-produced, low-quality swords
 上顎洞炎,じょうがくどうえん,maxillary sinusitis
+感覚過敏,かんかくかびん,hyperesthesia,hypersensitivity
 無印,むいん,without a seal,lacking a seal
 笑わす,嗤わす,わらわす,to make  laugh,to invite ridicule,to be laughable
 突き当てる,突当てる,つきあてる,to strike against,to bump against,to track down,to find
@@ -211885,7 +211886,18 @@
 寝そびれる,ねそびれる,to be unable to get to sleep,to lie in bed sleepless,to lie awake
 枕上,ちんじょう,まくらがみ,bedside,area around one's pillow,being in bed,lying in bed
 手になる,手に成る,てになる,to be the work of,to be produced by someone
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-22
+吃吃,吃々,きつきつ,audibly
+海,わた,わだ,sea,ocean,waters
+海の原,わたのはら,ocean,sea,the deep
+リーマン予想,リーマンよそう,Riemann hypothesis
+リーマン仮説,リーマンかせつ,Riemann hypothesis
+擬似事実,ぎじじじつ,factoid
+将器,しょうき,the makings of a general,top officer material
+軍事国家,ぐんじこっか,military state
+ワブルベース,ワブル・ベース,wobble bass
+くれくれ星人,クレクレ星人,くれくれせいじん,someone who constantly demands or takes things without giving anything back
+家族性振戦,かぞくせいしんせん,familial tremor,familial essential tremor
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-23
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
