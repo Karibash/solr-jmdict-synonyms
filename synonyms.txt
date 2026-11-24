@@ -1051,7 +1051,7 @@
 ポツポツ,ぽつぽつ,dots,spots,bit by bit,little by little,gradually,here and there,scattered,dotted,in drops,lightly
 ぽろぽろ,ポロポロ,in large drops
 ポン引き,ぽん引き,ポンびき,ポンぴき,ぽんびき,ぽんぴき,tout,swindler,con-man,pimp
-まあ,まー,まぁ,ま,just,come now,now, now,tolerably,passably,moderately,reasonably,fairly,rather,somewhat,well,I think,it would seem,you might say,Hmmm, I guess so,oh!,oh dear!,oh, my!,wow!,goodness gracious!,good heavens!
+まあ,まー,まぁ,ま,just,come now,now, now,tolerably,passably,moderately,reasonably,fairly,rather,somewhat,well,I think,it would seem,you might say,Hmmm, I guess so,oh!,oh dear!,oh, my!,wow!,goodness gracious!,good heavens!,really,very,so
 まあね,well, I must admit
 まあまあ,so-so,passable,not  bad,reasonable,now, now,there, there,there now,my, my,oh my!,dear me!
 まくり上げる,捲り上げる,まくりあげる,to tuck,to roll up
@@ -17625,7 +17625,7 @@
 貨幣価値,かへいかち,currency value
 迦楼羅,かるら,Garuda,Garua
 過ぎ,すぎ,past,after,too,over-
-過ぎる,すぎる,to pass through,to pass by,to go beyond,to pass,to elapse,to have expired,to have ended,to be over,to exceed,to surpass,to be above,to be no more than,to be excessive,to be too much,to be too
+過ぎる,すぎる,to pass through,to pass by,to go beyond,to pass,to elapse,to have expired,to have ended,to be over,to exceed,to surpass,to be above,to be no more than,to be excessive,to be too much,to be too,to be too good for,to be more than one deserves
 過ぎ去る,過去る,すぎさる,to pass,to pass by
 過ごす,過す,すごす,to spend,to pass,to lead,to live,to overdo,to drink,to carry too far,to carry to excess,to take care of,to support,to overdo,to do too much,to  without acting on it,to  without getting involved
 過ち,誤ち,あやまち,fault,error,indiscretion,faux pas
@@ -19712,7 +19712,7 @@
 頑丈,岩乗,がんじょう,solid,firm,stout,burly,strong,sturdy
 頑張る,がんばる,to persevere,to persist,to keep at it,to hang on,to hold out,to do one's best,to insist that,to stick to,to remain in a place,to stick to one's post,to refuse to budge
 頑迷,頑冥,がんめい,bigoted,obstinate,stubborn,pigheaded
-顔,貌,顏,かお,face,visage,looks,features,look,expression,countenance,honor,face,dignity,influence,notoriety,trust,pull,clout,representative,,trademark,example,members,attendees,lineup,participants,everyone involved,makeup,cosmetics
+顔,貌,顏,かお,face,visage,looks,features,look,expression,countenance,honor,honour,face,dignity,influence,notoriety,trust,pull,clout,representative,,trademark,example,members,attendees,lineup,participants,everyone involved,makeup,cosmetics,side,aspect,face,facet
 顔から火が出る,かおからひがでる,to be extremely embarrassed,to burn with shame
 顔をしかめる,顔を顰める,かおをしかめる,to grimace,to frown
 顔を潰す,顔をつぶす,かおをつぶす,to make someone lose face,to embarrass someone,to make someone look foolish
@@ -26483,7 +26483,7 @@
 獄中,ごくちゅう,during imprisonment,while in jail
 獄吏,ごくり,jailer,gaoler
 漉す,濾す,こす,to filter,to strain
-腰,こし,コシ,lower back,waist,hips,lumbar region,body,resilience,spring
+腰,こし,コシ,lower back,waist,hips,lumbar region,body,resilience,spring,waist,lower part
 腰掛ける,腰かける,腰掛る,こしかける,to sit
 腰を下ろす,腰をおろす,腰を降ろす,腰を下す,こしをおろす,to sit down
 腰掛け,腰掛,腰かけ,こしかけ,seat,bench,temporary job while looking for a better job or until one marries
@@ -49043,7 +49043,7 @@
 本殿,ほんでん,main hall,main shrine,inner sanctuary
 本島,ほんとう,main island,this island
 本盗,ほんとう,stealing home
-本当,本當,ほんとう,ほんと,ホントー,ホント,ホントウ,truth,reality,actuality,fact,proper,right,correct,official,genuine,authentic,real,natural,veritable
+本当,本當,ほんとう,ほんと,ホントー,ホント,ホントウ,truth,reality,actuality,fact,proper,right,correct,official,genuine,authentic,real,natural,veritable,really?,is that so?,really,truly
 本堂,ほんどう,main hall,main temple
 本道,ほんどう,highway,main road,the right road,internal medicine
 本読み,ほんよみ,script reading,scenario reading,avid reader,bookworm,reading a book,reading books
@@ -99604,7 +99604,7 @@
 副流煙,ふくりゅうえん,secondhand smoke,sidestream smoke
 間接喫煙,かんせつきつえん,passive smoking,secondhand smoke
 逆鱗に触れる,逆鱗にふれる,ゲキリンに触れる,げきりんにふれる,to infuriate one's superior,to incur the anger of one's boss,to bring  wrath down upon one,to incur the Imperial wrath,to offend the Emperor,to touch the scale on a dragon's throat
-なんて,things like,something like,someone like,such a thing as,that,to think that
+なんて,things like,something like,someone like,such a thing as,that,to think that,just kidding,only joking
 観相術,かんそうじゅつ,physiognomy
 完膚,かんぷ,unwounded skin
 害者,ガイ者,がいしゃ,ガイシャ,victim
@@ -162980,7 +162980,7 @@
 当然の報い,当然のむくい,とうぜんのむくい,one's just deserts,one's just desserts,one's just reward,what one deserves,comeuppance
 焼きとん,焼きトン,焼豚,やきとん,やきトン,yakiton,grilled pork on skewers
 シュニッツェル,schnitzel
-ミートハンマー,ミート・ハンマー,meat tenderizer
+ミートハンマー,ミート・ハンマー,meat tenderizer,meat hammer,meat mallet
 鰊蕎麦,にしんそば,soba in hot broth, topped with a salty-sweet dried herring
 星さま,星様,ほしさま,star
 田舎蕎麦,いなかそば,dark soba
@@ -211760,6 +211760,7 @@
 指導会,しどうかい,workshop,training session,instructional meeting
 熱伝導性,ねつでんどうせい,thermal conductivity,heat conduction
 コピー人間,コピーにんげん,cloned human being,clone,copycat,person constantly imitating others,characterless person
+紛らわせる,まぎらわせる,to divert,to distract,to relieve,紛らわす to conceal,to disguise
 読み進める,よみすすめる,to read on,to continue reading,to read further
 したら,then,in that case,if so
 サインパーティー,サイン・パーティー,autograph session
@@ -211871,9 +211872,11 @@
 数打,数打ち,かずうち,mass-produced, low-quality swords
 上顎洞炎,じょうがくどうえん,maxillary sinusitis
 感覚過敏,かんかくかびん,hyperesthesia,hypersensitivity
+出院,しゅついん,release from a juvenile reformatory,leaving a temple
 無印,むいん,without a seal,lacking a seal
 笑わす,嗤わす,わらわす,to make  laugh,to invite ridicule,to be laughable
 突き当てる,突当てる,つきあてる,to strike against,to bump against,to track down,to find
+覚えはない,おぼえはない,there’s no reason for,won't put up with,having no recollection
 征旅,せいりょ,expeditionary army,military expedition,military campaign
 眼球炎,がんきゅうえん,ophthalmitis
 踏ん切る,ふんぎる,to make a decision,to determine,to take the plunge
@@ -211897,7 +211900,16 @@
 ワブルベース,ワブル・ベース,wobble bass
 くれくれ星人,クレクレ星人,くれくれせいじん,someone who constantly demands or takes things without giving anything back
 家族性振戦,かぞくせいしんせん,familial tremor,familial essential tremor
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-23
+わーい,ワーイ,わあい,yay!,hooray!
+木柵,もくさく,wooden fence,wooden barricade
+ミートマレット,ミート・マレット,meat tenderizer,meat mallet
+ミートテンダライザー,ミート・テンダライザー,meat tenderizer,meat mallet
+ブロステップ,brostep
+市大,しだい,city university,municipal college
+外傷学,がいしょうがく,traumatology
+チェック人,チェックじん,Czech
+タイトル画面,タイトルがめん,main menu,title screen
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-24
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
