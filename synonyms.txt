@@ -876,7 +876,7 @@
 将又,はたまた,or
 はた迷惑,傍迷惑,はためいわく,nuisance to other people,inconvenience to others
 はちきん,strong independent Japanese woman from the Kochi area
-はっきり,ハッキリ,clearly,plainly,distinctly,to be clear,to be definite,to be certain,to be exact,to become clear,to clear up
+はっきり,ハッキリ,clearly,plainly,distinctly,to be clear,to be definite,to be certain,to be exact,to become clear,to clear up,to feel clear-headed,to feel refreshed
 ハッタリ,はったり,bluff
 はっと,ハッと,with a start,in surprise,suddenly,all of a sudden,puffing,with a puff,suddenly,standing out,being showy,being gaudy
 はにかみ屋,ハニカミ屋,はにかみや,bashful person,very shy person
@@ -5265,7 +5265,7 @@
 シーリング,ceiling
 シーリングランプ,シーリング・ランプ,ceiling lamp
 シーリング方式,シーリングほうしき,ceiling system
-シール,seal,sticker
+シール,seal,sticker,label,decal,seal,seal skin,seal fur
 シールド,shield
 シールド工法,シールドこうほう,shield method
 シーレーン,シー・レーン,sea lane
@@ -6029,7 +6029,7 @@
 スキンレディ,スキン・レディ,door-to-door condom sales-lady
 スクーター,scooter
 スクーナー,schooner
-スクープ,scoop
+スクープ,scoop,scoop
 スクーリング,schooling
 スクール,school
 スクールカラー,スクール・カラー,school color,school colour,character of a school
@@ -9202,7 +9202,7 @@
 ヒップパッド,ヒップ・パッド,ヒップパット,hip pad
 ヒップホップ,ヒップ・ホップ,hip-hop
 ヒップボーンスカート,ヒップボーン・スカート,skirt worn at the hipbone
-ヒポコンデリー,hypochondria
+ヒポコンドリー,ヒポコンデリー,hypochondria
 ヒマラヤ,Himalayas
 ヒューズ,フューズ,fuse
 ヒューズコック,ヒューズ・コック,fuse cock
@@ -16969,7 +16969,7 @@
 何心無く,何心なく,なにごころなく,without any special thought
 何人,なんにん,how many people,a number of people
 何千,なんぜん,many thousands
-どうぞ,please,kindly,pray,I beg,by all means,certainly,of course,ahead,,,please,here you are,to give
+どうぞ,please,kindly,pray,I beg,by all means,certainly,of course,ahead,,,please,here you are,to give,over
 何卒,何とぞ,なにとぞ,なにそつ,please,kindly,I beg of you,if it pleases you,by all means,without fail
 何点,なんてん,how many points
 何度,なんど,how many times,how many degrees
@@ -18254,7 +18254,7 @@
 かに座,蟹座,蠏座,かにざ,Cancer,the Crab
 開き直る,開きなおる,開き治る,ひらきなおる,to become defiant,to fight back,to turn upon,to take the offensive
 開く,ひらく,ヒラく,to open,to undo,to unseal,to unpack,to bloom,to unfold,to spread out,to open,to be wide,to widen,to hold,to give,to open,to found,to open,to set up,to establish,to start,to open,to open,to open up,to clear,to develop,to open,to extract,to reduce,to cut open,to change,to flare,to slacken,to extend
-開ける,空ける,明ける,あける,to open,to unwrap,to unlock,to open,to empty,to remove,to make space,to make room,to move out,to clear out,to be away from,to leave,to dawn,to grow light,to end,to begin,to leave  open,to make time,to make,to open up
+開ける,空ける,明ける,あける,to open,to unwrap,to unlock,to open,to empty,to remove,to make space,to make room,to move out,to clear out,to be away from,to leave,to dawn,to grow light,to end,to begin,to leave  open,to make time,to make,to open up,to leave a gap,to space apart
 開ける,ひらける,to open out,to spread out,to become clear,to open up,to improve,to get better,to develop,to become civilized,to modernize,to grow,to advance,to be sensible,to be understanding,to be enlightened,to open,to be opened to traffic,to become populous,to become densely built,to become bustling
 開けたて,開け閉て,あけたて,opening and shutting,opening and closing
 開け放す,明け放す,あけはなす,to open wide,to throw open,to fling open,to leave open,to keep open
@@ -50261,7 +50261,7 @@
 戻す,もどす,to put back,to return,to give back,to restore,to turn back,to vomit,to throw up,to recover
 戻り,もどり,return,reaction,recovery,return
 戻り道,もどりみち,the way back
-戻る,もどる,to turn back,to return,to go back,to recover,to be returned,to rebound,to spring back
+戻る,もどる,to turn back,to return,to go back,to recover,to be returned,to rebound,to spring back,to go back to a previous state,to return to normal,to revert
 籾,もみ,unhulled rice,rice in the husk,paddy,rice husks,chaff
 もらい物,貰い物,貰いもの,もらいもの,もらいもん,present,gift
 貰う,もらう,to receive,to take,to accept,to get someone to do something,to have in one's pocket,to contract,to catch,to be affected
@@ -51701,7 +51701,7 @@
 裏話,ウラ話,うらばなし,ウラばなし,inside story,the real story,story not generally known
 里,郷,さと,village,hamlet,countryside,country,home,hometown,one's origins,one's upbringing,one's past
 里,り,Japanese league,ri,old Japanese unit of distance, approx. 3.927 km or 2.44 miles,neighbourhood,unit of area
-里芋,さといも,サトイモ,taro,dasheen,eddo
+里芋,里いも,さといも,サトイモ,taro,dasheen,eddo
 里帰り,里帰,里がえり,さとがえり,returning home to one's parents,visiting one's parents,bride's first visit to her parents after getting married,coming back,temporarily returning to one's home
 里子,さとご,foster child,adopted animal
 里心,さとごころ,homesickness,nostalgia
@@ -55296,7 +55296,7 @@
 面白み,面白味,おもしろみ,interest,appeal,attraction,fun
 表表紙,おもてびょうし,front cover
 主なる,重なる,おもなる,main,principal,chief,leading,important
-重み,重味,おもみ,weight,weight,burden,grandeur,dignity,importance,significance
+重み,重味,おもみ,weight,weight,burden,grandeur,dignity,importance,significance,weight
 母屋,母家,主屋,主家,おもや,main building,central room
 お八つ,御八つ,おやつ,between-meal snack,mid-afternoon  snack,afternoon refreshment,afternoon tea
 折々,折折,おりおり,occasionally,now and then,from time to time
@@ -55697,7 +55697,7 @@
 凝り,凝,痼り,痼,しこり,こり,muscle stiffness,lump,swelling,hardening,lesion,lingering discomfort,uneasiness,bad aftertaste,unpleasant feeling
 衣替え,更衣,衣更え,ころもがえ,seasonal change of clothing,changing one's dress for the season,renovation,facelift,redesign,redecoration,new appearance,fresh look
 更衣,こうい,changing one's clothes,lady court attendant
-怖い,恐い,こわい,scary,frightening,eerie,dreadful
+怖い,恐い,こわい,scary,frightening,eerie,dreadful,worried,anxious,apprehensive,formidable,not to be underestimated
 滾々,渾々,混々,混混,滾滾,渾渾,こんこん,コンコン,copiously
 轟々,轟轟,ごうごう,ゴーゴー,ごーごー,thundering,roaring,rumbling,booming
 強情,剛情,ごうじょう,obstinate,stubborn,headstrong
@@ -170144,7 +170144,7 @@
 茶出し,ちゃだし,small teapot
 急焼,きびしょ,small teapot
 雁股,かりまた,forked arrowhead,double-headed arrow
-手皿,てさら,holding food over one's hand
+手皿,てざら,holding food over one's hand
 ハニートラップ,ハニー・トラップ,honeytrap,honey trap,honeypot
 食時,しょくじ,meal time,mealtime
 租税避難地,そぜいひなんち,tax haven
@@ -211760,7 +211760,7 @@
 指導会,しどうかい,workshop,training session,instructional meeting
 熱伝導性,ねつでんどうせい,thermal conductivity,heat conduction
 コピー人間,コピーにんげん,cloned human being,clone,copycat,person constantly imitating others,characterless person
-紛らわせる,まぎらわせる,to divert,to distract,to relieve,紛らわす to conceal,to disguise
+紛らわせる,まぎらわせる,to divert,to distract,to relieve,to drown,to beguile,to conceal,to hide,to shift,to change
 読み進める,よみすすめる,to read on,to continue reading,to read further
 したら,then,in that case,if so
 サインパーティー,サイン・パーティー,autograph session
@@ -211908,8 +211908,24 @@
 市大,しだい,city university,municipal college
 外傷学,がいしょうがく,traumatology
 チェック人,チェックじん,Czech
+名前を入れる,なまえをいれる,to enter one's name,to put a name,to have a name engraved
 タイトル画面,タイトルがめん,main menu,title screen
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-24
+犬牙相制,けんがそうせい,two countries keeping each other in check at the border
+眺望絶佳,ちょうぼうぜっか,superb view,magnificent scene before one's eyes
+陶犬瓦鶏,とうけんがけい,looking the part but not playing the part,looking impressive but being entirely useless
+辺隅,へんぐう,remote countryside,frontier
+詣拝,けいはい,visiting a shrine or temple
+柵門,さくもん,fortress gate entrance
+城柵,じょうさく,castle walls,fence around a fortress
+斬髪,ざんぱつ,cutting hair
+視覚言語モデル,しかくげんごモデル,vision language model,VLM
+ＶＬＭ,ブイ・エル・エム,ブイエルエム,vision language model,VLM
+面打ち,面打,めんうち,mask maker,mask making
+環境報告書,かんきょうほうこくしょ,environmental report
+腹症,ふくしょう,celiopathy
+ウォーターピック,ウォーター・ピック,water pick,oral irrigator
+無痛覚症,むつうかくしょう,analgesia
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-25
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
