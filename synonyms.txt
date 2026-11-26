@@ -601,7 +601,7 @@
 其れで,それで,so,therefore,and,then
 其れとも,それとも,or,or else
 それ処か,其れ処か,それどころか,on the contrary,far from it,if anything,in fact,instead
-其れなり,それなり,in itself,as it is,in its own way,as suits the occasion,within its capacity,within limitations
+其れなり,それなり,in itself,as it is,in its own way,as suits the occasion,reasonably,adequately,within its limitations,within its capacity,respectably
 其れに,それに,besides,in addition,also,moreover
 それに加えて,それにくわえて,in addition to this
 それ程,其れ程,其程,それほど,to that degree,to that extent,that much
@@ -637,7 +637,7 @@
 だけど,but,however,although
 丈に,だけに,as one would expect from,given that,because,being,precisely because,all the more because of,on account of,being what it is,only to,only for,only in
 ダサい,ださい,uncool,lame,unfashionable,unstylish,tacky,tasteless,ugly,corny,pathetic,sad
-だったら,if it's the case
+だったら,then,in that case,if so
 だぶだぶ,ダブダブ,loose,baggy,flabby,saggy,sloshing,slopping,overflowing,plenty,drowning
 だぼ鯊,だぼはぜ,ダボハゼ,goby
 だまし取る,騙し取る,騙しとる,だましとる,to take by deception,to defraud someone of,to swindle someone out of,to cheat someone out of
@@ -758,7 +758,7 @@
 と仮定しても,とかていしても,even assuming that,even granted that
 と共に,とともに,together with,as X, then Y
 という訳,と言う訳,と言うわけ,とゆう訳,というわけ,とゆうわけ,this is why,that is the reason why,it is the case that,so,thus,with that,for this reason,because of this,as such,therefore
-と言えば,といえば,speaking of,when it comes to,as for,if one were to say
+と言えば,といえば,speaking of,come to think of,when it comes to,as for,if one were to say,if you say , I suppose it is,it is certainly , but
 言える,云える,いえる,to be possible to say,to be able to say,said,have said
 と言われる,といわれる,to be called,to be referred to as
 と考えられる,とかんがえられる,to be conceivable that,to be thinkable that
@@ -773,7 +773,7 @@
 どうって事はない,どうってことは無い,どうって事は無い,どうってことはない,nothing special,no big deal,doesn't matter,nothing to worry about
 どうという事もない,どうということもない,nothing special,no big deal,doesn't matter
 どうにか,in some way or other,one way or another,somehow,only just,barely
-どうも,thank you,thanks,much,very,quite,quite,really,mostly,somehow,in spite of oneself,try as one might,no matter how hard one may try,greetings,hello,goodbye
+どうも,thank you,thanks,much,very,quite,quite,really,mostly,somehow,in spite of oneself,try as one might,no matter how hard one may try,greetings,hello,goodbye,apparently,it seems
 どうやって,how,in what way,by what means
 どうやら,possibly,apparently,likely,seemingly,somehow or other,with difficulty,barely,after a fashion
 どう致しまして,如何致しまして,どういたしまして,you're welcome,don't mention it,not at all,my pleasure
@@ -1114,7 +1114,7 @@
 やがる,to have the nerve to
 やきもき,ヤキモキ,anxiously,impatiently,worriedly,fretting,getting worked up
 ヤクザ,やくざ,yakuza,gangster,mobster,hoodlum,racketeer,gambler,useless,worthless,good-for-nothing,trashy
-やけに,awfully,frightfully,desperately,violently,unduly,extremely
+やけに,awfully,frightfully,desperately,violently,unduly,extremely,unusually,strangely,unaccountably,surprisingly,unexpectedly
 やっちまう,to screw up,to goof,to do,to beat up,to do in,to get,to take out
 やって来る,遣って来る,やってくる,to come along,to come around,to turn up,to arrive at the present,to get where one is,to have been doing something
 漸と,やっと,at last,finally,barely,narrowly,just,by the skin of one's teeth
@@ -13892,7 +13892,7 @@
 意馬,いば,uncontrollable passion
 意馬心猿,いばしんえん,it is hard to keep one's worldly desires and passions in check
 意表,いひょう,surprise,something unexpected
-意味,いみ,meaning,significance,sense
+意味,いみ,meaning,significance,sense,point,purpose,value,to amount to,to be tantamount to
 意味合い,意味あい,意味合,いみあい,implication,nuance,shade of meaning,connotation
 意味深長,意味慎重,意味深重,いみしんちょう,with profound  meaning,pregnant with significance,meaningful,suggestive,interesting
 意味論,いみろん,semantics,the study of meaning
@@ -18574,7 +18574,7 @@
 殻,骸,から,shell,husk,hull,pod,chaff
 獲得,かくとく,acquisition,possession
 獲物,えもの,prey,catch,kill,game,spoils,trophy,loot,plunder
-確かに,慥かに,たしかに,surely,certainly
+確かに,慥かに,たしかに,surely,certainly,admittedly,certainly,it is true that,exactly,agreed,indeed,that's true
 確かめる,慥かめる,たしかめる,to make sure,to check,to ascertain,to confirm,to verify
 確言,かくげん,assertion,confirmation
 確固,確乎,かっこ,firm,unshakeable,resolute
@@ -18715,7 +18715,7 @@
 学歴,がくれき,academic background,academic credentials,academic record
 岳,嶽,たけ,だけ,mountain,Mount,Mt.,mountain peak
 岳父,がくふ,father-in-law,father of one's wife
-楽,らく,comfort,ease,relief,peace,relaxation,easy,simple,without trouble,without hardships,comfortable,raku pottery,sukha
+楽,らく,comfort,ease,relief,peace,relaxation,easy,simple,without trouble,without hardships,comfortable,raku pottery,sukha,final day,final performance
 楽しい,愉しい,樂しい,娯しい,たのしい,enjoyable,fun,pleasant,happy,delightful
 楽しみ,愉しみ,たのしみ,enjoyment,pleasure,amusement,delight,joy,fun,diversion,hobby,anticipation,looking forward to,something to look forward to
 楽しみにする,たのしみにする,to look forward to
@@ -19229,7 +19229,7 @@
 感涙,かんるい,tears,tears of gratitude
 慣らす,馴らす,ならす,to accustom,to train,to tame,to domesticate,to train
 慣れ,馴れ,なれ,practice,experience,habituation,being used to,being comfortable with,being experienced in
-慣れる,馴れる,なれる,to get used to,to grow accustomed to,to become familiar with,to become skilled in,to become experienced at,to become tame,to become domesticated,to get used to doing
+慣れる,馴れる,なれる,to get used to,to grow accustomed to,to become familiar with,to become skilled in,to become experienced at,to become tame,to become domesticated,to get used to doing,to break in,to fit comfortably after use
 慣行,かんこう,customary practice,habit,traditional event
 慣行取引き,かんこうとりひき,usual business practices
 慣習,かんしゅう,custom,convention,common practice,becoming accustomed
@@ -21476,7 +21476,7 @@
 峡谷,きょうこく,gorge,ravine,canyon,glen
 峡部,きょうぶ,isthmus
 峡湾,きょうわん,fjord
-強い,勁い,剛い,毅い,つよい,strong,potent,competent,domineering,tough,strong,brawny,powerful,healthy,rugged,good,skilled,knowledgeable,being able to handle,know how to deal,durable,resistant,resilient,firm,rigid,solid,intense,strong,fierce,high,dependable,trustworthy
+強い,勁い,剛い,毅い,つよい,strong,potent,competent,domineering,tough,strong,brawny,powerful,healthy,rugged,good,skilled,knowledgeable,being able to handle,know how to deal,durable,resistant,resilient,firm,rigid,solid,intense,strong,fierce,high,dependable,trustworthy,strong-willed,mentally tough,resolute
 強いて,しいて,by force
 強いて言えば,しいて言えば,強いていえば,しいていえば,if I had to say,if pressed,if I must choose,if I had to choose
 強いる,しいる,to force,to compel,to coerce,to press,to impose
@@ -22264,7 +22264,7 @@
 狗肉,くにく,dog meat,dog flesh
 矩形,くけい,さしがた,rectangle
 苦い,にがい,bitter,sour,bitter,displeased,unpleasant,bitter,painful,distressing,hard,trying
-苦しい,くるしい,painful,difficult,tough,hard,distressing,difficult,stressful,awkward,straitened,tight,needy,struggling,strained,lame,forced,far-fetched,hard to do,unpleasant
+苦しい,くるしい,painful,difficult,tough,hard,distressing,difficult,stressful,awkward,straitened,tight,needy,struggling,strained,lame,forced,far-fetched,hard to do,unpleasant,inconvenient,difficult to manage
 苦しい時の神頼み,苦しいときの神頼み,くるしいときのかみだのみ,danger past, God forgotten,once on shore, we pray no more,man turns to God only in times of trouble,there are no atheists in foxholes
 苦しみ,くるしみ,pain,anguish,distress,suffering,hardship
 苦しむ,くるしむ,to suffer,to groan,to be worried
@@ -22279,7 +22279,7 @@
 苦境,苦況,くきょう,difficult situation,adverse circumstances,predicament,trouble,dilemma,distress
 苦言,くげん,candid advice,frank advice,honest opinion,exhortation,harsh but honest advice
 苦行,くぎょう,penance,austerities,mortification,asceticism,difficult work,strenuous task
-苦手,にがて,poor,weak,not very good,not one's cup of tea,not one's favorite
+苦手,にがて,poor,weak,not very good,not one's cup of tea,not one's favorite,difficult opponent,person one finds hard to deal with
 苦渋,くじゅう,bitterness,distress,pain,anguish,affliction,bitterness and astringency
 苦笑,くしょう,bitter smile,wry smile,strained laugh,sarcastic laugh
 苦笑い,にがわらい,bitter smile,wry smile,forced smile,strained laugh
@@ -23695,7 +23695,7 @@
 肩部,けんぶ,shoulder
 肩幅,かたはば,shoulder width
 見出す,見いだす,見出だす,見い出す,みいだす,みだす,to find out,to discover,to notice,to detect,to select,to pick out,to look out,to be wide-eyed
-見える,視える,みえる,to be seen,to be visible,to be in sight,to look,to seem,to appear,to come
+見える,視える,みえる,to be seen,to be visible,to be in sight,to look,to seem,to appear,to come,to become apparent,to be discernible,to see traces
 見え透く,見えすく,みえすく,to be transparent,to be easily seen through,to be obvious,to be apparent
 見かけ上,見掛け上,みかけじょう,apparent
 見くびる,見縊る,みくびる,to underrate,to belittle,to look down on,to despise
@@ -25880,7 +25880,7 @@
 行商,ぎょうしょう,monger,peddling
 行進,こうしん,march,parade
 行数,ぎょうすう,number of lines,linage
-行き成り,行きなり,行成り,行き成,行成,いきなり,ゆきなり,いっきなり,abruptly,suddenly,all of a sudden,without warning
+行き成り,行きなり,行成り,行き成,行成,いきなり,ゆきなり,いっきなり,abruptly,suddenly,all of a sudden,without warning,straight away,directly
 行政,ぎょうせい,executive,government,administration,governance,the authorities,authority
 行政改革,ぎょうせいかいかく,administrative reform
 行政官,ぎょうせいかん,executive officer,administrative official
@@ -26439,7 +26439,7 @@
 黒水熱,こくすいねつ,blackwater fever
 黒星,くろぼし,black spot,black dot,bull's-eye,mark indicating a defeat,loss,failure,mistake,faux pas
 黒線,こくせん,black line,linea nigra,pregnancy line
-黒船,くろふね,black ships,Western ships that came to Japan between the 16th and 19th centuries, esp. those of the Perry Expedition in 1853,foreign disruptor,product, person, etc. arriving from the West and disturbing the Japanese market
+黒船,くろふね,black ships,Western tarred ships that came to Japan between the 16th and 19th centuries, esp. those of the Perry Expedition in 1853,foreign disruptor,product, person, etc. arriving from the West and disturbing the Japanese market
 黒鼠,黒ねずみ,黒ネズミ,くろねずみ,black mouse,rat with black fur,deceitful employee,unfaithful servant,dark gray,dark grey
 黒装束,くろしょうぞく,black clothes
 黒帯,くろおび,black belt
@@ -28043,7 +28043,7 @@
 残り,のこり,remainder,remnant,the rest,what is left,balance,leftovers
 残り火,のこりび,embers
 残り物,のこりもの,leftovers,remnants
-残る,遺る,のこる,to remain,to be left
+残る,遺る,のこる,to remain,to be left,to stay,to hold one's ground,to stay in the ring
 残骸,ざんがい,ruins,wreckage,wreck,broken remains,debris
 残基,ざんき,residue
 残虐,惨虐,ざんぎゃく,cruel,brutal,savage,barbarous
@@ -29140,7 +29140,7 @@
 持続,じぞく,continuation,persisting,lasting,sustaining,enduring
 持続力,じぞくりょく,durability
 持病,じびょう,chronic disease,chronic illness,old complaint,bad habit,intractable habit
-時,刻,秋,とき,time,hour,moment,occasion,case,chance,opportunity,season,the times,the age,the day,tense
+時,刻,秋,とき,time,hour,moment,occasion,case,when,if,in the event of,chance,opportunity,season,the times,the age,the day,tense
 時々刻々,時時刻刻,じじこっこく,じじこくこく,hourly,from one minute to the next,from hour to hour,moment by moment,with each passing moment
 時には,ときには,at times,occasionally
 時の帝,ときのみかど,emperor of the time
@@ -29983,7 +29983,7 @@
 寂れる,荒びれる,さびれる,to decline,to become deserted,to become desolate,to taper off
 寂寥,寂りょう,せきりょう,loneliness,desolateness
 弱,じゃく,a little less than,a little under,slightly fewer than,weakness,the weak,low,-lower
-弱い,よわい,weak,frail,delicate,tender,unskilled,weak
+弱い,よわい,weak,frail,delicate,tender,weak,unskilled,faint,feeble,weak,mild,weak-willed,timid,easily discouraged,susceptible,vulnerable,unable to tolerate,having a weakness,unable to resist
 弱い者,弱いもの,よわいもの,weak person,the weak
 弱い相互作用,よわいそうごさよう,weak interaction
 弱き者,よわきもの,weak person,the weak
@@ -30236,7 +30236,7 @@
 守り,守,もり,babysitting,babysitter,protecting,keeping,keeper
 守り,護り,守,まもり,protection,defense,defence,providence,amulet,charm,talisman
 守り抜く,守りぬく,まもりぬく,to hold fast,to protect to the end
-守る,護る,戍る,守護る,まもる,to protect,to guard,to defend,to keep,to abide,to observe,to obey,to follow
+守る,護る,戍る,守護る,まもる,to protect,to guard,to defend,to keep,to abide,to observe,to obey,to follow,to maintain,to preserve,to hold on,to play,to play defense
 守衛,しゅえい,guard,caretaker,janitor,doorkeeper,gatekeeper
 守宮,家守,やもり,しゅきゅう,ヤモリ,gecko,house lizard
 守護,しゅご,すご,protection,safeguard,shugo
@@ -31064,7 +31064,7 @@
 縦断,じゅうだん,running through,cutting across,travelling across,cutting vertically,sectioning longitudinally
 縦覧,じゅうらん,inspection,unrestricted viewing,reading
 重,え,-fold,-ply
-重い,おもい,heavy,weighty,heavy,depressed,gloomy,blue,uneasy,slow,sluggish,lumbering,ponderous,clumsy,important,serious,grave,serious,severe,critical,solid,established,dignified,sensible,heavy,solid stones that must be defended rather than sacrificed, despite the high cost of doing so
+重い,おもい,heavy,weighty,heavy,depressed,gloomy,blue,uneasy,slow,sluggish,lumbering,ponderous,clumsy,important,serious,grave,serious,severe,critical,solid,established,dignified,sensible,heavy,solid stones that must be defended rather than sacrificed, despite the high cost of doing so,rich,heavy,slow,sluggish,slow to respond
 重さ,おもさ,weight
 重し石,おもしいし,stone weights on pickle-tub covers
 重たい,おもたい,heavy,weighty,heavy,serious,gloomy,depressing
@@ -32554,7 +32554,7 @@
 笑い茸,笑い蕈,笑茸,わらいたけ,わらいだけ,ワライタケ,ワライダケ,Panaeolus papilionaceus
 笑いこける,笑い転ける,笑い倒ける,わらいこける,to roll about with laughter,to laugh heartily
 笑い話,わらいばなし,funny story,funny anecdote
-笑う,嗤う,哂う,咲う,わらう,to laugh,to smile,to sneer,to ridicule,to be dumbfounded,to be flabbergasted
+笑う,嗤う,哂う,咲う,わらう,to laugh,to smile,to sneer,to ridicule,to be dumbfounded,to be flabbergasted,to buckle,to go weak,to come apart
 笑み,えみ,smile
 笑み割れる,えみわれる,to crack
 笑む,えむ,to smile
@@ -33214,7 +33214,7 @@
 食い逸れる,食いっ逸れる,食いはぐれる,食いっぱぐれる,くいはぐれる,くいっぱぐれる,to miss a meal,to lose the means to make one's livelihood
 食い気,くいけ,appetite
 食い詰める,食いつめる,くいつめる,to go broke,to be reduced to poverty,to be driven to destitution
-食い荒らす,食い荒す,食荒らす,くいあらす,to eat up and spoil,to eat away,to devour,to wolf down,to eat a bit of everything,to encroach upon,to take over,to steal
+食い荒らす,食いあらす,食い荒す,食荒らす,くいあらす,to eat up and spoil,to eat away,to devour,to wolf down,to eat a bit of everything,to encroach upon,to take over,to steal
 食い合わす,くいあわす,to clench
 食い込む,食込む,くいこむ,to bite into,to cut into,to dig into,to eat into,to encroach,to make inroads,to penetrate,to break into,to erode,to cut into,to be wedged
 食い殺す,くいころす,to devour,to bite to death
@@ -38070,7 +38070,6 @@
 打ち抜く,打ち貫く,打ちぬく,打抜く,うち抜く,うちぬく,to go through,to penetrate,to pierce,to perforate,to bore into,to punch,to stamp out,to remove,to join  into one,to carry out
 打ち返す,撃ち返す,打ちかえす,うち返す,打返す,うちかえす,to return a punch,to strike back,to hit  straight back,to plow up,to plough up,to renovate,to fluff up,to break and recede
 打ち鳴らす,打ちならす,うち鳴らす,打鳴らす,うちならす,to ring,to strike,to beat,to sound
-打ち滅ぼす,うちほろぼす,to destroy
 打ってつけ,打って付け,うってつけ,ideal,perfect,most suitable,just right
 ぶっ飛ばす,打っ飛ばす,ぶっとばす,to knock  off their feet,to knock down,to send flying,to strike,to fling,to fire,to drive away,to dispel,to drive at terrific speed,to barrel along
 打つ,拍つ,搏つ,撲つ,擣つ,うつ,to hit,to strike,to knock,to beat,to punch,to slap,to tap,to bang,to clap,to pound,to strike,to sound,to beat,to beat,to move,to impress,to touch,to drive in,to hammer in,to put in,to inject,to vaccinate,to type,to send,to transmit,to insert,to write in,to mark,to make,to prepare,to till,to sprinkle,to throw,to cast,to do,to carry out,to play,to perform,to engage in,to pay,to visit,to line,to bind,to drop,to play a move,to play a game
@@ -38786,7 +38785,7 @@
 奪い合う,うばいあう,to scramble for,to struggle for,to contend for,to fight for
 奪い取る,奪いとる,うばいとる,to plunder,to grab,to snatch
 奪い返す,うばいかえす,to take back,to recapture
-奪う,うばう,to take,to take away,to snatch,to steal,to rob  of,to dispossess of,to deprive of,to usurp,to absorb,to fascinate,to captivate,to charm,to dazzle
+奪う,うばう,to take,to take away,to snatch,to steal,to rob  of,to dispossess of,to deprive of,to usurp,to absorb,to fascinate,to captivate,to charm,to dazzle,to score,to win
 奪回,だっかい,recovery,rescue,recapture
 奪格,だっかく,ablative
 奪還,だっかん,recapture,retaking,recovery,taking back
@@ -42129,7 +42128,7 @@
 働き中毒,はたらきちゅうどく,workaholic
 働き通しで,はたらきとおしで,working right on through
 働き蜂,働きバチ,はたらき蜂,はたらきばち,worker bee,hard worker
-働く,はたらく,to work,to labor,to labour,to function,to operate,to be effective,to work,to come into play,to commit,to perpetrate,to do,to act,to practise,to practice,to be conjugated
+働く,はたらく,to work,to labor,to labour,to function,to operate,to be effective,to work,to come into play,to commit,to perpetrate,to be conjugated
 動,どう,motion
 動かす,うごかす,to move,to shift,to stir,to budge,to change position,to inspire,to rouse,to move,to influence,to change,to alter,to deny,to operate,to set in motion,to get going,to mobilize,to mobilise,to deploy,to manage
 動き,うごき,movement,move,motion,trend,development,change,fluctuation
@@ -45180,13 +45179,13 @@
 否認,非認,ひにん,denial,negation,repudiation,disapproval
 妃殿下,ひでんか,princess,Her Royal Highness
 庇う,かばう,to protect,to look after,to defend,to cover for,to stand up for,to stick up for
-彼,かれ,he,him,boyfriend
+彼,かれ,he,him,boyfriend,you
 彼ら,彼等,かれら,they,them
 彼岸,ひがん,equinoctial week,Buddhist services during the equinoctial week,nirvana,opposite bank,opposite shore,shore on the other side
 彼岸花,ひがんばな,ヒガンバナ,red spider lily,cluster amaryllis
 彼岸会,ひがんえ,Buddhist services during the equinoctial week
 彼氏,かれし,boyfriend,he,him
-彼女,かのじょ,she,her,girlfriend
+彼女,かのじょ,she,her,girlfriend,you
 彼奴,あいつ,he,she,that guy,that,that one,that thing
 彼方,かなた,あなた,beyond,across,the other side,the distance
 彼方,あちら,あっち,あち,that way,that direction,over there,yonder,that,that person,there,over there,foreign country
@@ -45824,7 +45823,7 @@
 表彰,表賞,ひょうしょう,commendation,public recognition,awarding,honouring
 表彰状,ひょうしょうじょう,testimonial,certificate of commendation
 表象,ひょうしょう,symbol,emblem,image,representation,idea
-表情,ひょうじょう,facial expression,countenance,look,appearance,expression
+表情,ひょうじょう,facial expression,countenance,look,appearance,expression,scene,state of affairs
 表層,ひょうそう,surface,outer layer
 表層性,ひょうそうせい,superficial
 表装,ひょうそう,mounting,binding
@@ -49799,7 +49798,7 @@
 無用,むよう,useless,futile,unnecessary,needless,not on business,unrelated,unauthorised,unauthorized,prohibited,banned,forbidden
 無欲,無慾,むよく,unselfish,disinterested,unavaricious,free of avarice
 無欲恬淡,むよくてんたん,indifferent to worldly gain
-無理,むり,ムリ,unreasonable,unnatural,unjustifiable,impossible,forcible,forced,compulsory,excessive,immoderate,to work too hard,to try too hard,no way,not a chance,never,dream on,irrational
+無理,むり,ムリ,unreasonable,unnatural,unjustifiable,impossible,forcible,forced,compulsory,excessive,immoderate,to work too hard,to try too hard,no way,not a chance,never,dream on,irrational,I can't handle it!,I can't!,it's too much!
 無理強い,無理じい,むりじい,forcing,compulsion,coercion,pushing
 無理算段,むりさんだん,scraping together,raising  by straining one's credit
 無理心中,むりしんじゅう,murder-suicide,forced double or multiple suicide
@@ -50171,7 +50170,7 @@
 木苺,木莓,懸鉤子,木いちご,きいちご,キイチゴ,raspberry
 黙りこくる,だまりこくる,to keep silent
 黙り込む,黙りこむ,だまりこむ,to say no more,to sink into silence
-黙る,だまる,to be silent,to say nothing
+黙る,だまる,to be silent,to say nothing,to refrain from intervening,to leave things as they are
 黙劇,もくげき,pantomime
 黙考,もっこう,contemplation,meditation
 黙坐,黙座,もくざ,sitting silently
@@ -51110,7 +51109,7 @@
 余芳,よほう,lingering fragrance,continuing fame
 余命,よめい,remainder of one's life,one's remaining days,time left
 余命いくばくもない,余命幾ばくもない,余命幾許もない,余命いくばくも無い,余命幾ばくも無い,余命幾許も無い,よめいいくばくもない,having a short time to live,having not much longer to live,having little time left,days are numbered
-余裕,余猶,よゆう,surplus,margin,leeway,room,space,time,allowance,flexibility,scope,composure,placidity,complacency,calm
+余裕,余猶,よゆう,surplus,margin,leeway,room,space,time,allowance,flexibility,scope,composure,placidity,complacency,calm,easy,no problem,well within one's capacity
 余裕綽々,余裕しゃくしゃく,余裕綽綽,よゆうしゃくしゃく,calm and collected,with composure,having enough and to spare
 余力,よりょく,remaining strength,surplus energy,reserve power,money to spare
 余類,よるい,remnants of a party or a gang
@@ -51487,7 +51486,7 @@
 絡む,搦む,からむ,to twine,to get tangled,to get entangled,to get caught,to be involved,to get involved,to be a factor,to have an influence,to pick a quarrel,to find fault,to pester,to hassle
 落ち,落,おち,オチ,slip,omission,upshot,denouement,outcome,final result,punch line
 落ちぶれる,零落れる,落魄れる,おちぶれる,to come down in the world,to fall low,to be ruined,to be reduced to poverty,to fall on hard times
-落ちる,墜ちる,落る,おちる,to fall,to drop,to come down,to crash,to collapse,to cave in,to give way,to set,to sink,to dip,to go down,to decrease,to fall,to drop,to go down,to decline,to deteriorate,to abate,to be inferior,to be not as good,to fall short,to come off,to come out,to fade,to be removed,to disappear,to become thinner,to become leaner,to be left out,to be omitted,to be missing,to fail,to lose,to be unsuccessful,to decline,to become vulgar,to stoop,to sink,to be ruined,to go under,to fall,to fall,to fall,to be accepted,to be won,to be honoured,to fall into,to fall for,to give in,to confess,to own up,to come to,to arrive at,to leave,to  flee,to sink in,to be accepted,to fall,to be defeated,to come in,to fall,to pass out,to fall unconscious,to go down,to crash,to log out,to drop out,to leave,to go offline,to move to deeper water,to die,to strike
+落ちる,墜ちる,落る,おちる,to fall,to drop,to come down,to crash,to collapse,to cave in,to give way,to set,to sink,to dip,to go down,to decrease,to fall,to drop,to go down,to decline,to deteriorate,to abate,to be inferior,to be not as good,to fall short,to come off,to come out,to fade,to be removed,to disappear,to become thinner,to become leaner,to be left out,to be omitted,to be missing,to fail,to lose,to be unsuccessful,to decline,to become vulgar,to stoop,to sink,to be ruined,to go under,to fall,to fall,to fall,to be accepted,to be won,to be honoured,to fall into,to fall for,to give in,to confess,to own up,to come to,to arrive at,to leave,to  flee,to sink in,to be accepted,to fall,to be defeated,to come in,to fall,to pass out,to fall unconscious,to go down,to crash,to log out,to drop out,to leave,to go offline,to move to deeper water,to die,to strike,to be lying around
 落ち合う,落合う,おちあう,to meet up,to rendezvous,to get together,to join,to flow together
 落ち込む,落込む,落ちこむ,おちこむ,to feel down,to feel sad,to be depressed,to be in low spirits,to be in a slump,to be in an unfavourable condition,to fall into
 落ち着いた,落ちついた,おちついた,calm,composed,cool,settled,fixed,established,unobtrusive,quiet,subdued,low-key
@@ -51811,7 +51810,7 @@
 掠め奪う,かすめうばう,to plunder
 掠り,擦り,かすり,grazing,touching lightly,squeezing,percentage,kickback
 掠れる,擦れる,かすれる,to get blurred,to get hoarse,to get husky,to graze,to scrape,to touch
-略,粗,略〻,ほぼ,almost,nearly,for the most part,roughly,approximately,about,around
+略,粗,ほぼ,almost,nearly,for the most part,roughly,approximately,about,around,hardly,scarcely
 略,りゃく,abbreviation,omission,outline,gist,plan,strategy,scheme
 略す,りゃくす,to abbreviate,to abridge,to shorten,to omit,to leave out,to take,to capture,to steal
 略記,りゃっき,abbreviation
@@ -51855,7 +51854,7 @@
 流水,りゅうすい,running water,flowing water,stream
 流星,りゅうせい,meteor,shooting star,falling star
 流星雨,りゅうせいう,meteor shower
-流石,遉,有繋,さすが,as one would expect,just as you'd expect,just like,still,all the same,after all,even
+流石,遉,有繋,さすが,as one would expect,just as you'd expect,just like,still,all the same,after all,even,impressive!,just as I expected!
 流体,りゅうたい,fluid
 流体力学,りゅうたいりきがく,fluid mechanics,fluid dynamics,hydrodynamics
 流弾,りゅうだん,stray bullet
@@ -55282,7 +55281,7 @@
 落ち延びる,落ちのびる,落延びる,おちのびる,to run away,to escape safely
 弟弟子,おとうとでし,younger pupil,younger disciple,junior member
 落し物,落とし物,落しもの,落としもの,おとし物,おとしもの,lost property,something dropped and left behind,dropping something,losing something
-落とす,落す,堕とす,墜とす,陥とす,陥す,おとす,to drop,to lose,to let fall,to shed,to cast,to pour in,to leave behind,to clean off,to remove,to lose,to spend money at a certain place,to omit,to leave out,to secretly let escape,to lose,to reject,to fail,to defeat,to lower,to lessen,to worsen,to reduce,to speak badly of,to make light of,to fall into straitened circumstances,to fall into,to make one's own,to have one's bid accepted,to force surrender,to take,to forcefully convince,to press for a confession,to deal with,to download,to copy from a computer to another medium,to make someone swoon,to finish a story,to finish,to win over,to seduce,to conquer
+落とす,落す,堕とす,墜とす,陥とす,陥す,おとす,to drop,to lose,to let fall,to shed,to cast,to pour in,to leave behind,to clean off,to remove,to lose,to spend money at a certain place,to omit,to leave out,to secretly let escape,to lose,to reject,to fail,to defeat,to lower,to lessen,to worsen,to reduce,to speak badly of,to make light of,to fall into straitened circumstances,to fall into,to make one's own,to have one's bid accepted,to force surrender,to take,to forcefully convince,to press for a confession,to deal with,to download,to copy from a computer to another medium,to make someone swoon,to finish a story,to finish,to win over,to seduce,to conquer,to shut down,to close,to switch off
 乙姫,弟姫,おとひめ,younger princess,Oto Hime,Princess of the Dragon Palace
 たわけ者,戯け者,白痴者,戲け者,白癡者,たわけもの,idiot,dummy,joker,fool,trickster
 踊り字,躍り字,踊字,躍字,おどりじ,iteration mark,repetition sign,ditto mark
@@ -65297,7 +65296,7 @@
 討ち入り,討入,討入り,うちいり,storming,attack,raid
 討っ手,うって,attacking party,punitive force,pursuers
 討伐軍,とうばつぐん,punitive force
-討ち滅ぼす,うちほろぼす,to destroy
+討ち滅ぼす,打ち滅ぼす,うちほろぼす,to destroy,to defeat,to overthrow
 討論会,とうろんかい,debate,panel discussion,forum
 受け口,受口,承口,うけぐち,うけくち,mouth with a protruding lower lip and jaw,socket,receiving window,slot
 受け太刀,うけだち,being on the defensive
@@ -70550,7 +70549,7 @@
 沙羅双樹,娑羅双樹,さらそうじゅ,しゃらそうじゅ,サラソウジュ,sal,saul,Japanese stewartia
 娑婆ッ気,娑婆っ気,しゃばっけ,しゃばッけ,worldly desires
 砂上,さじょう,on sand
-砂土,さど,sand
+砂土,さど,しゃど,sandy soil
 砂山,すなやま,さやま,sand hill,dune
 砂利道,じゃりみち,gravel path,gravel road
 砂防林,さぼうりん,erosion-control forest
@@ -79178,7 +79177,7 @@
 霜枯れる,しもがれる,to be withered or nipped by frost
 清濁併せ呑む,清濁併せのむ,清濁あわせ呑む,清濁合わせ飲む,清濁あわせのむ,清濁あわせ飲む,清濁併せ飲む,清濁合わせ呑む,せいだくあわせのむ,to be broad-minded enough to associate with various types of people,to possess a capacious mind
 精出す,せいだす,to work hard,to be diligent,to do one's best,to try one's hardest,to exert oneself
-請け出す,受け出す,請出す,うけだす,to redeem,to take out of pawn,to buy a geisha or prostitute out of bondage
+請け出す,受け出す,受けだす,請出す,うけだす,to redeem,to take out of pawn,to buy a geisha or prostitute out of bondage
 名だたる,名立たる,なだたる,famous,notorious,noted
 買い叩く,買叩く,買いたたく,かいたたく,to beat down prices,to strike a hard bargain
 売り切る,売切る,うりきる,to sell out,to sell off
@@ -84975,7 +84974,7 @@
 左のような訳,ひだりのようなわけ,the reason as follows
 使いっ走り,使いっぱしり,使いっパシリ,つかいっぱしり,gofer,dogsbody,person who is made to do things or get things for someone else
 パシリ,ぱしり,gofer,dogsbody,person who is made to do things or get things for someone else
-だろう,だろ,probably,likely,I think,I suppose,I guess,I reckon,right?,isn't it?,didn't I?,I wonder,could it be  ?,I'm not sure,how could ?,as if,would  ever ?,how !,what  !,how  would !,even if,whether  or,no matter,would have,must,I bet,yeah,I'd think so,see?,told you
+だろう,だろ,probably,likely,I think,I suppose,I guess,I reckon,right?,isn't it?,didn't I?,how could ?,as if,would  ever ?,how !,what  !,how  would !,even if,whether  or,no matter,I bet,yeah,I'd think so,see?,told you
 食感,しょっかん,food texture,mouthfeel
 からっきし,からきし,カラッキシ,カラキシ,quite,utterly,at all,completely,wholly,entirely,totally,altogether
 関説,かんせつ,かんぜい,allusion,alluding,related explanation
@@ -91688,7 +91687,7 @@
 常用外,じょうようがい,not in the jōyō list
 旧漢字,きゅうかんじ,old-style kanji
 同人誌,どうじんし,dōjinshi,magazine published by like-minded people,fanzine,zine
-ううん,うーん,ウーン,um,er,well,nuh-uh,no,oof
+ううん,うーん,ウーン,um,er,well,nuh-uh,no,oof,hmm!,wow!
 つなぎ服,ツナギ服,繋ぎ服,つなぎふく,overalls,boiler suit
 爪先立つ,つま先立つ,つまさきだつ,to stand on tiptoes
 捕り方,捕方,とりかた,policeman,thieftaker,method of catching criminals
@@ -92791,7 +92790,7 @@
 宿星,しゅくせい,star of fate,a zodiac
 シュラスコ,シュハスコ,チュラスコ,Brazilian barbecue
 酔拳,すいけん,drunken boxing,styles of Chinese martial arts that imitate the movements of a drunk person
-スクイーズ,squeeze,squeezing,pressing,wringing,anamorphic format
+スクイーズ,squeeze,squeezing,pressing,wringing,anamorphic format,squeezy toy,squishy toy
 生命体,せいめいたい,life form,life-form
 泰山北斗,たいざんほくと,great authority,eminent person,luminary,Mount Tai and the Big Dipper
 ティラノサウルス,ティラノザウルス,ティランノサウルス,チラノサウルス,チラノザウルス,タイラノサウルス,タイラノザウルス,Tyrannosaurus rex,T. rex,tyrannosaurus
@@ -99175,7 +99174,7 @@
 白豪主義,白濠主義,はくごうしゅぎ,White Australia Policy
 カリカリ,かりかり,crisp,crunchy,grumpily,touchily,edgily,irritably,scratching,crunchies,dry  food,kibble
 置きに,おきに,every,every other,at intervals of,with  in between,apart
-おっと,uh-oh,oops,sorry
+おっと,uh-oh,oops,sorry,whoa!,hang on!
 捥ぎたて,もぎ立て,捥ぎ立て,もぎたて,freshly picked
 拡張子,かくちょうし,file extension
 蒔き付ける,蒔きつける,まきつける,to sow
@@ -103798,7 +103797,7 @@
 ＱＲコード,キューアールコード,QR code
 ボウリング場,ボーリング場,ボウリングじょう,ボーリングじょう,bowling alley
 採卵,さいらん,egg collection,oocyte collection
-それは,そりゃ,そりゃあ,very,extremely,that is
+それは,そりゃ,そりゃあ,very,extremely,that is,of course,naturally
 其れも,それも,what's more,moreover,at that,in addition to that,what's worse,even so,and yet
 無しには,なしには,without
 類似度,るいじど,degree of similarity
@@ -109246,7 +109245,7 @@
 月の頃,つきのころ,a good time to view the Moon
 ＥＢウイルス,イービーウイルス,Epstein-Barr virus,EBV
 手杖,しゅじょう,ちゅうじょう,staff
-断ち切り,断切り,たちきり,cutting apart,something that has been cut apart
+断ち切り,断切り,たちきり,cutting apart,something that has been cut apart,full-bleed printing
 船乗りになる,ふなのりになる,to go to sea,to become a sailor
 太極,たいきょく,taiji
 托子,たくす,たくし,saucer
@@ -191863,7 +191862,7 @@
 希望条件,きぼうじょうけん,preferred terms,desired conditions
 そば店,蕎麦店,そばてん,soba restaurant
 脳科学者,のうかがくしゃ,brain scientist,cognitive psychologist,neuroscientist
-鬼面人を驚かす,きめんひとをおどろかす,to threaten by outward appearance,to use bluff to intimidate,to make empty threats
+鬼面人を驚かす,鬼面人をおどろかす,きめんひとをおどろかす,to threaten by outward appearance,to use bluff to intimidate,to make empty threats,to startle with outlandish words or actions
 通行者,つうこうしゃ,passerby,pedestrian,foot passenger
 配信専用,はいしんせんよう,send-only,no-reply
 乗船者,じょうせんしゃ,passenger
@@ -193174,7 +193173,7 @@
 市場動向,しじょうどうこう,market trend
 スライサブル,sliceable
 陽性率,ようせいりつ,positivity rate,rate of positive results
-なし崩し的,なしくずしてき,gradual,progressive
+なし崩し的,済し崩し的,なしくずしてき,gradual,incremental,piecemeal,proceeding without a clear decision or agreement
 マニュアル通り,マニュアルどおり,マニュアルどうり,according to the manual,scripted,by the book
 支援体制,しえんたいせい,support system
 リスク要因,リスクよういん,risk factor
@@ -208115,7 +208114,7 @@
 バラバラ殺人,ばらばら殺人,ばらばらさつじん,dismemberment murder,dismemberment killing
 仏作って魂入れず,仏造って魂入れず,ほとけつくってたましいいれず,so near, yet so far,ploughing the field and forgetting the seed,making a Buddha statue but not putting a soul in it
 食った食った,くったくった,I'm stuffed,that was good,what a meal
-いぬる,to return,to come home,to go home
+いぬる,to return,to go home,to go,to come home
 保安検査,ほあんけんさ,security check,safety inspection
 オガ炭,大鋸炭,おがたん,sawdust charcoal,compressed sawdust charcoal,sawdust briquettes
 ちくわ炭,ちくわたん,sawdust charcoal with a hollow cylindrical shape
@@ -211874,6 +211873,7 @@
 感覚過敏,かんかくかびん,hyperesthesia,hypersensitivity
 出院,しゅついん,release from a juvenile reformatory,leaving a temple
 無印,むいん,without a seal,lacking a seal
+無韻,むいん,silent,blank,unrhymed
 笑わす,嗤わす,わらわす,to make  laugh,to invite ridicule,to be laughable
 突き当てる,突当てる,つきあてる,to strike against,to bump against,to track down,to find
 覚えはない,おぼえはない,there’s no reason for,won't put up with,having no recollection
@@ -211913,6 +211913,9 @@
 犬牙相制,けんがそうせい,two countries keeping each other in check at the border
 眺望絶佳,ちょうぼうぜっか,superb view,magnificent scene before one's eyes
 陶犬瓦鶏,とうけんがけい,looking the part but not playing the part,looking impressive but being entirely useless
+虎渓三笑,こけいさんしょう,being so engrossed one completely forgets something,the three laughs of the Tiger Ravine
+抑揚頓挫,よくようとんざ,modulating the tone of one’s speech,changing the intensity of one’s speech
+山窟,さんくつ,mountain cave
 辺隅,へんぐう,remote countryside,frontier
 詣拝,けいはい,visiting a shrine or temple
 柵門,さくもん,fortress gate entrance
@@ -211920,12 +211923,22 @@
 斬髪,ざんぱつ,cutting hair
 視覚言語モデル,しかくげんごモデル,vision language model,VLM
 ＶＬＭ,ブイ・エル・エム,ブイエルエム,vision language model,VLM
+布石を打つ,ふせきをうつ,to place one's stones strategically,to make preparations,to develop a strategy
 面打ち,面打,めんうち,mask maker,mask making
 環境報告書,かんきょうほうこくしょ,environmental report
+副証,ふくしょう,adminicle
 腹症,ふくしょう,celiopathy
 ウォーターピック,ウォーター・ピック,water pick,oral irrigator
+無痛覚,むつうかく,analgesia
 無痛覚症,むつうかくしょう,analgesia
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-25
+フィジカルＡＩ,フィジカルエーアイ,physical AI,physical artificial intelligence
+浸礼派,しんれいは,Baptists
+だけ弁当,だけべんとう,simple bento
+バレ,ばれ,being found out,exposure
+鬼謀,きぼう,extraordinarily ingenious stratagem,exceptionally clever scheme
+いんが,dog,pup
+ＡＩ疲れ,エーアイづかれ,being worn out by using AI tools  or by the constant hype surrounding AI,AI fatigue
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-26
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
