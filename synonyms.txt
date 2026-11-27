@@ -291,7 +291,7 @@
 きっちり,キッチリ,exactly,precisely,punctually,on the dot,closely,tightly,perfectly,properly,without fail
 屹度,急度,きっと,キッと,surely,undoubtedly,almost certainly,most likely,sternly,severely,having no slack,rigid,stiff,tight,suddenly,abruptly,instantly
 きっぱり,キッパリ,clearly,plainly,distinctly,decisively,flatly,definitely,resolutely
-きつい,キツイ,キツい,tough,hard,severe,demanding,harsh,determined,strong-minded,forceful,formidable,fierce,strong,severe,intense,tight,constricting,close,extreme,unusually strong
+きつい,キツイ,キツい,tough,hard,severe,demanding,harsh,determined,strong-minded,forceful,formidable,fierce,strong,severe,intense,tight,constricting,close,extreme,unusually strong,unrealistic,not really feasible
 キビキビ,きびきび,briskly,energetically,livelily,efficiently,crisply,vigorously
 きゅうきゅう,キュウキュウ,squeaking,creaking,with a squeak,with a squeal,tightly,closely,fast,firmly,barely,just,on the brink,under strain,stretched thin
 キュッと,きゅっと,きゅうっと,キュっと,キュウッと,creakingly,squeakingly,squealingly,tightly,in one go
@@ -13584,7 +13584,7 @@
 虻,蝱,あぶ,あむ,アブ,horsefly,gadfly
 飴,あめ,candy,toffee,rice-sugar,sugar made from the starch of rice, potatoes, etc.,amber,yellowish-brown
 飴玉,あめ玉,あめだま,candy
-絢爛,けんらん,gorgeous,brilliant,dazzling,ornate,gaudy,flowery
+絢爛,けんらん,ケンラン,gorgeous,brilliant,dazzling,ornate,gaudy,flowery
 絢緞子,あやどんす,damask
 綾錦,あやにしき,twill damask and brocade
 綾糸,あや糸,あやいと,colored thread,coloured thread,thread of cat's cradle,heddle thread
@@ -18190,7 +18190,7 @@
 海兵隊,かいへいたい,Marine Corps,Royal Marines
 海辺,海べ,海邊,うみべ,かいへん,beach,seashore,seaside,coast
 海鳴り,うみなり,oceanic noise,rumbling of the sea,mistpouffer
-海綿,かいめん,うみわた,sponge
+海綿,かいめん,うみわた,カイメン,sponge
 海面,かいめん,sea level,sea
 海洋,かいよう,ocean,sea
 海洋科学,かいようかがく,marine science
@@ -21176,7 +21176,7 @@
 虚妄,きょもう,きょぼう,こもう,falsehood,untruth,lie
 虚礼,きょれい,empty  formalities
 許し,赦し,ゆるし,pardon,forgiveness,exemption,permission
-許す,赦す,聴す,ゆるす,to permit,to allow,to approve,to consent to,to forgive,to pardon,to excuse,to tolerate,to exempt  from,to remit,to release,to let off,to acknowledge,to admit,to trust,to confide in,to let one's guard down,to give up,to yield
+許す,赦す,聴す,ゆるす,to permit,to allow,to approve,to consent to,to forgive,to pardon,to excuse,to tolerate,to exempt  from,to remit,to release,to let off,to acknowledge,to admit,to trust,to confide in,to let one's guard down,to give up,to yield,to make possible,to leave room for
 許可,きょか,permission,approval,authorization,license
 許可書,きょかしょ,permit
 許諾,きょだく,consent,assent,approval,permission
@@ -24491,7 +24491,7 @@
 狐疑逡巡,こぎしゅんじゅん,being in doubt and unable to decide,hesitation and indecision
 狐狸,こり,foxes and tanuki,sly fellow,deceiver
 狐うどん,狐饂飩,きつねうどん,けつねうどん,キツネうどん,udon with deep-fried tofu
-糊,のり,paste,glue,clothing starch
+糊,のり,ノリ,paste,glue,clothing starch
 糊口,餬口,ここう,bare livelihood,bare subsistence
 糊代,のりしろ,overlap width,margin for pasting together,elbowroom,leeway,room,margin,allowance,latitude
 糊付け,のりづけ,のりつけ,starching,pasting,gluing
@@ -27134,7 +27134,7 @@
 済ます,済す,すます,to finish,to get it over with,to conclude,to settle,to pay back,to get along,to make do with
 済ませる,すませる,to finish,to make an end of,to get through with,to let end,to make do,to manage,to resolve,to settle,to bring to a conclusion
 済みません,すみません,スミマセン,excuse me,pardon me,I'm sorry,I beg your pardon,thank you,you shouldn't have,it's too much
-済む,濟む,すむ,to finish,to end,to be completed,to be resolved,to have a result less severe than expected,to feel at ease,to feel unease or guilt for troubling someone,to be sorry
+済む,濟む,すむ,to finish,to end,to be completed,to be resolved,to suffice,to be enough,to get by with,to escape,to get away,to feel at ease,to feel unease or guilt for troubling someone,to be sorry
 災い,禍,殃,わざわい,disaster,calamity,misfortune,trouble,woes
 災禍,さいか,disaster,accident,calamity,catastrophe
 災害,さいがい,calamity,disaster,misfortune
@@ -28185,7 +28185,7 @@
 使いよう,使い様,つかいよう,how to use
 使い立て,つかいだて,causing you trouble
 使い料,つかいりょう,use
-使う,遣う,つかう,to use,to make use of,to put to use,to use,to employ,to handle,to manage,to manipulate,to use,to spend,to consume,to use,to speak
+使う,遣う,つかう,to use,to make use of,to put to use,to use,to employ,to handle,to manage,to manipulate,to use,to spend,to consume,to use,to speak,to perform,to resort to
 使者,ししゃ,messenger,envoy,emissary
 使者を遣わす,ししゃをつかわす,to dispatch a messenger,to despatch a messenger
 使臣,ししん,envoy
@@ -29719,7 +29719,7 @@
 舎利別,しゃりべつ,syrup
 写し,うつし,copy,duplicate,facsimile,transcript,cc,carbon copy
 写し絵,映し絵,うつしえ,sketch,drawing sketched from real life,magic-lantern picture,child's copying pictures,shadowgraph,mirror image,depiction
-写る,うつる,to be photographed,to be projected
+写る,うつる,to be photographed,to be projected,to show through,to be visible through
 写字,しゃじ,copying,transcription
 写実,しゃじつ,realism,depicting realistically,representing accurately
 写実主義,しゃじつしゅぎ,realism,literalism
@@ -32919,7 +32919,7 @@
 乗り付ける,乗りつける,乗り着ける,乗付ける,のりつける,to arrive,to drive up to,to draw up at,to get used to riding,to get used to driving
 乗り戻す,のりもどす,to ride  back,to drive  back
 乗りいい,乗り良い,乗りよい,のりいい,のりよい,easy to ride,riding well
-乗る,乘る,のる,ノる,to get on,to get in,to board,to take,to embark,to get on,to step on,to jump on,to sit on,to mount,to reach,to go over,to pass,to follow,to stay,to go with,to take part,to participate,to join,to get into the swing,to be deceived,to be taken in,to be carried,to be spread,to be scattered,to stick,to attach,to take,to go on
+乗る,乘る,のる,ノる,to get on,to get in,to board,to take,to embark,to get on,to step on,to jump on,to sit on,to mount,to reach,to go over,to pass,to follow,to stay,to go with,to take part,to participate,to join,to get into the swing,to be deceived,to be taken in,to be carried,to be spread,to be scattered,to stick,to attach,to take,to go on,to take up,to go along with
 乗員,じょういん,crew member,crewman,crew
 乗換駅,乗り換え駅,のりかええき,transfer station,transfer point
 乗換券,乗り換え券,のりかえ券,のりかえけん,transfer ticket
@@ -38245,7 +38245,7 @@
 待ち伏せ,待ちぶせ,待伏せ,まちぶせ,ambush,lying in wait for an ambush
 待ち伏せる,待伏せる,まちぶせる,to ambush
 待ち望む,待ちのぞむ,待望む,まちのぞむ,to wait eagerly for,to look forward to
-待つ,俟つ,まつ,to wait,to await,to look forward to,to anticipate,to depend on,to need
+待つ,俟つ,まつ,to wait,to await,to look forward to,to anticipate,to depend on,to need,to hold on,to stop for a moment
 待機,たいき,standing by,awaiting an opportunity,being on alert,quarantine
 待遇,たいぐう,treatment,reception,service,working conditions,salary,pay,remuneration
 待合室,待ち合い室,待合い室,まちあいしつ,waiting room
@@ -42042,7 +42042,7 @@
 踏み抜く,踏み貫く,踏みぬく,踏抜く,ふみぬく,to step on,to run  through one's foot,to put one's foot through
 踏み分ける,ふみわける,to push through
 踏みにじる,踏み躙る,ふみにじる,to trample underfoot,to tread on,to crush with a foot
-踏む,履む,践む,ふむ,to step on,to tread on,to trample on,to set foot on,to stand on,to visit,to experience,to undergo,to follow,to go through,to complete,to estimate,to guess,to judge,to value,to appraise,to rhyme,to succeed to
+踏む,履む,践む,ふむ,to step on,to tread on,to trample on,to set foot on,to stand on,to visit,to experience,to undergo,to follow,to go through,to complete,to estimate,to guess,to judge,to value,to appraise,to rhyme,to succeed to,to press down
 踏ん張る,踏んばる,ふんばる,to brace one's legs,to stand firm,to plant one's feet,to hold out,to persist,to make an effort,to exert oneself
 ふんぞり返る,踏ん反り返る,ふん反り返る,ふんぞりかえる,to straighten up and stick one's chest out,to throw oneself back,to lean back,to assume a haughty attitude,to behave arrogantly
 踏査,とうさ,survey,exploration,field investigation
@@ -42133,7 +42133,7 @@
 動かす,うごかす,to move,to shift,to stir,to budge,to change position,to inspire,to rouse,to move,to influence,to change,to alter,to deny,to operate,to set in motion,to get going,to mobilize,to mobilise,to deploy,to manage
 動き,うごき,movement,move,motion,trend,development,change,fluctuation
 動き回る,動きまわる,動き廻る,うごきまわる,to move around,to move about,to get around
-動く,うごく,to move,to stir,to shift,to shake,to swing,to operate,to run,to go,to work,to make a move,to take action,to act,to go into action,to be touched,to be influenced,to change,to vary,to fluctuate,to waver,to be transferred
+動く,うごく,to move,to stir,to shift,to shake,to swing,to operate,to run,to go,to work,to make a move,to take action,to act,to go into action,to be touched,to be influenced,to change,to vary,to fluctuate,to waver,to be transferred,to change hands
 動じる,どうじる,to be perturbed,to be agitated
 動ずる,どうずる,to be perturbed,to be agitated
 動ともすれば,ややともすれば,being apt to,being liable to,being inclined to
@@ -47287,7 +47287,7 @@
 奮発,ふんぱつ,strenuous efforts,exerting oneself,stirring oneself up,spurt,splurge,spending extravagantly,treating oneself
 粉,こな,こ,flour,meal,powder,dust,heroin
 粉ミルク,こなミルク,milk powder,baby formula,infant formula,formula,baby milk
-粉骨砕身,紛骨砕身,ふんこつさいしん,making one's best exertions
+粉骨砕身,粉骨砕心,紛骨砕身,ふんこつさいしん,utmost exertion,doing one's best,working to the limit of one's strength
 粉砕,ふんさい,pulverization,pulverisation,reducing to pieces,crushing,smashing,demolishing
 粉飾,扮飾,ふんしょく,embellishment,ornamentation,decoration,putting on makeup
 粉塵,粉じん,ふんじん,dust,mine dust,mineral dust,airborne particles,fine powder,particulate matter
@@ -52777,7 +52777,7 @@
 和歌,倭歌,わか,waka,classic Japanese poem, esp. a tanka, often 31 morae
 和歌山県,和歌山縣,わかやまけん,Wakayama Prefecture
 和菓子,わがし,wagashi,traditional Japanese confectionery
-和解,わかい,わげ,reconciliation,amicable settlement,accommodation,compromise,mediation,rapprochement,court-mediated settlement,translation of a foreign language into Japanese
+和解,わかい,reconciliation,amicable settlement,accommodation,compromise,mediation,rapprochement,court-mediated settlement,translation into Japanese
 和楽,わがく,Japanese music
 和気あいあい,和気藹々,和気藹藹,和気靄々,和気靄靄,わきあいあい,harmonious,peaceful,congenial,friendly,happy
 和牛,わぎゅう,Wagyu,Wagyu beef
@@ -53941,7 +53941,7 @@
 麩質,麸質,ふしつ,gluten
 靡かす,なびかす,to seduce,to win over,to conquer
 靡かせる,なびかせる,to fly,to stream,to let,to win  over,to bring over to one's side,to bend to one's will
-靡く,なびく,to bend,to flutter,to wave,to yield to,to be swayed by,to bow to,to obey
+靡く,なびく,to bend,to flutter,to wave,to yield,to be swayed,to bow,to obey,to become affectionate,to have one's heart won over,to yield
 黎明,れいめい,daybreak,dawn,gray of the morning,dawn
 黐,もち,モチ,birdlime,Nepal holly
 黐竿,もちざお,lime stick for catching insects
@@ -55498,7 +55498,7 @@
 寄付,寄附,きふ,contribution,donation
 気まぐれ,気紛れ,きまぐれ,whim,caprice,fancy,capricious,fickle,whimsical,impulsive,changeable,temperamental
 決まる,決る,極る,きまる,キマる,to be decided,to be settled,to be fixed,to be arranged,to be unchanging,to be the same,to be fixed,to be set,to be a fixed rule,to be destined,to be a convention,to be a custom,to be common knowledge,to be well executed,to go well,to succeed,to connect,to look good,to look sharp,to be stylish,to suit one,to be held in place,to be struck and held,to get high
-気持ち,気持,氣持ち,きもち,feeling,sensation,mood,state of mind,preparedness,readiness,attitude,thought,sentiment,consideration,solicitude,gratitude,slightly,a bit,a little
+気持ち,気持,氣持ち,きもち,feeling,sensation,mood,state of mind,preparedness,readiness,attitude,thought,sentiment,consideration,solicitude,gratitude,slightly,a bit,a little,small token of appreciation
 久闊,久濶,きゅうかつ,not having met or contacted someone for a long time,neglect of friends
 汲々,汲汲,きゅうきゅう,diligent,absorbed
 旧交,旧好,きゅうこう,old friendship
@@ -56313,7 +56313,7 @@
 成り行き,成行き,成行,成りゆき,なり行き,なりゆき,course,development,progress,outcome,result,market order,order without limit
 縄張り,縄張,なわ張り,繩張り,なわばり,stretching a rope around,roping off,cordoning off,demarcation,one's turf,domain,territory,jurisdiction,sphere of influence,territory
 何個,何箇,なんこ,how many pieces
-何となく,何と無く,なんとなく,なにとなく,somehow,for some reason,without knowing why
+何となく,何と無く,なんとなく,なにとなく,somehow,for some reason,without knowing why,vaguely,indistinctly,more or less,without any particular purpose,aimlessly,without thinking
 南南西,南々西,なんなんせい,south-southwest,south-south-west
 南南東,南々東,なんなんとう,south-southeast,south-south-east
 匂い,臭い,香い,匂,におい,smell,scent,odour,odor,stench,aura,whiff,smack,flavour,flavor,mood,faint, mist-like pattern along the temper line of a Japanese sword
@@ -59222,7 +59222,7 @@
 航空自衛隊,こうくうじえいたい,Japan Air Self-Defense Force,JASDF
 荒らげる,あららげる,to roughen,to raise
 行き詰まる,行き詰る,行きづまる,行詰まる,行詰る,いき詰まる,ゆき詰まる,いきづまる,ゆきづまる,to come to a dead end,to come to a standstill,to reach a deadlock,to reach an impasse,to reach a stalemate
-行ける,いける,イケる,to be good,to go well,to look  good,to hold one's liquor,to be able to hold one's drink
+行ける,いける,イケる,to be good,to go well,to look  good,to hold one's liquor,to be able to hold one's drink,to work,to be viable
 行楽地,こうらくち,tourist resort,holiday resort
 行進曲,こうしんきょく,march
 行政機関,ぎょうせいきかん,administrative organ,administrative body,governmental body
@@ -99105,7 +99105,7 @@
 楕円関数,だ円関数,だえんかんすう,elliptic function
 超楕円関数,ちょうだえんかんすう,hyperelliptic function
 逆三角関数,ぎゃくさんかくかんすう,inverse trigonometric function,cyclometric function
-っぽい,ぽい,-ish,-like
+っぽい,ぽい,-ish,-like,prone to,apparently,seems like
 発泡酒,はっぽうしゅ,happōshu,low-malt beers,sparkling wine,sparkling liquor,sparkling alcohol
 割れ鍋に綴じ蓋,破れ鍋に綴じ蓋,割れ鍋に閉じ蓋,割れ鍋にとじ蓋,われ鍋にとじ蓋,破鍋に綴蓋,われなべにとじぶた,there is a suitable spouse for everyone,every Jack has his Jill,a mended lid for a cracked pot
 西洋崇拝主義,せいようすうはいしゅぎ,worship or admiration of Western cultures
@@ -100796,7 +100796,7 @@
 同じ釜の飯を食う,おなじかまのめしをくう,to live together,to be close friends,to eat out of the same pot
 鬼の首を取ったよう,おにのくびをとったよう,triumphant,boastful,as if one had grabbed a demon by the neck
 お百度を踏む,御百度を踏む,おひゃくどをふむ,to visit repeatedly,to walk back and forth in front of a shrine, praying a hundred times
-尾ひれをつける,尾鰭を付ける,尾ひれを付ける,おひれをつける,to exaggerate,to embellish
+尾ひれをつける,尾鰭を付ける,尾ひれを付ける,尾ヒレをつける,おひれをつける,to exaggerate,to embellish
 おべっかを使う,おべっかをつかう,to suck up to,to curry up to someone
 溺れる者は藁をも掴む,溺れる者は藁をもつかむ,おぼれる者は藁をもつかむ,おぼれる者はわらをもつかむ,溺れる者はワラをも掴む,溺れる者はワラをもつかむ,おぼれるものはわらをもつかむ,a drowning man will clutch at a straw
 汚名をそそぐ,汚名を雪ぐ,汚名をすすぐ,汚名を濯ぐ,おめいをそそぐ,おめいをすすぐ,to clear one's name
@@ -108237,7 +108237,7 @@
 ファルファッレ,farfalle
 デンタルフロス,デンタル・フロス,dental floss
 首まわり,首回り,くびまわり,around the neck,neck size
-仇になる,あだになる,to backfire,to have a harmful result
+仇になる,あだになる,アダになる,to backfire,to have a harmful result
 週三回,しゅうさんかい,three times a week
 強制結婚,きょうせいけっこん,forced marriage
 守りきる,守り切る,まもりきる,to hold on to something
@@ -109464,7 +109464,7 @@
 肉が減る,にくがへる,ししがへる,to slim down,to lose weight
 肉が落ちる,にくがおちる,to slim down,to lose weight
 肉を付ける,にくをつける,to add meat,to add substance
-えっ,huh?,what's up?
+えっ,huh?,what?,eh!,oh!
 ジャガタラ芋,ジャガタラ薯,ジャガタラいも,ジャガタライモ,potato
 馬鈴薯澱粉,ばれいしょでん粉,ばれいしょでんぷん,potato starch
 山の芋,薯蕷,藷蕷,やまのいも,しょよ,じょよ,じょうよ,ヤマノイモ,Japanese yam
@@ -150273,7 +150273,7 @@
 収賄事件,しゅうわいじけん,bribery case,bribery scandal,graft case
 でもしか,for lack of anything better to do
 薬物投与,やくぶつとうよ,drug administration,giving of a drug,medication
-だって,after all,because,but,even,too,as well,also,they say,I hear,you mean
+だって,after all,because,but,even,too,as well,also,they say,I hear that,you said ?,did you say?
 たって,ったって,even if,even though,although one might say,although called
 重軽傷者,じゅうけいしょうしゃ,injured persons,people with serious and minor injures
 大手柄,おおてがら,glorious achievement,distinguished service
@@ -158093,7 +158093,7 @@
 歴史のない,歴史の無い,れきしのない,without a history,historyless,unhistoried,unstoried
 おちょぼ口をする,おちょぼぐちをする,to pucker up one's lips,to purse up one's lips
 崖上,がいじょう,がけうえ,cliff top
-ブー,ブーッ,beep,honk,buzz,boo
+ブー,ブーッ,beep,honk,buzz,boo,boo,booing,poot!
 即戦力,そくせんりょく,ready fire-power,battle-ready forces,immediate asset,someone who can be an immediately effective player or worker
 南オポッサム,みなみオポッサム,ミナミオポッサム,common opossum,southern opossum,black-eared opossum
 発色団,はっしょくだん,chromophore
@@ -191624,7 +191624,7 @@
 住宅市場,じゅうたくしじょう,housing market
 ランドアート,ランド・アート,land art,Earth art,Earthwork
 アースワーク,Earthwork,land art
-キンキラ,きんきら,gaudy,flashy,shiny
+キンキラ,きんきら,gaudy,flashy,sparkling,glittering,shiny
 ギンギラ,ぎんぎら,shiny,flash,gaudy,glitzy
 安定発現,あんていはつげん,stable expression
 暗騒音,あんそうおん,background noise
@@ -201586,7 +201586,7 @@
 エルダー,elder,elderly person,senior
 工場出荷時,こうじょうしゅっかじ,as-shipped,ex-factory,time of shipment
 半独占,はんどくせん,semi-monopoly,quasi-monopoly
-それなりに,reasonably,to some extent,in its own way,after its fashion
+其れなりに,それなりに,in itself,as it is,in its own way,as suits the occasion,reasonably,adequately,within its limitations,within its capacity,respectably
 感覚器官,かんかくきかん,sense organ,sensory organ
 速筋,そっきん,fast muscle
 速筋線維,そっきんせんい,fast-twitch muscle fiber,fast muscle fiber
@@ -211743,6 +211743,7 @@
 懸濁物,けんだくぶつ,suspended matter,suspended substance,suspended particles
 懸濁物食,けんだくぶつしょく,suspension feeding,feeding on particles suspended in water
 空き教室,あききょうしつ,empty classroom
+っと,right,there,I will
 探し,捜し,さがし,search,searching,looking for
 拉く,しだく,to crush,to trample,to break up,to disarrange
 付ける,附ける,づける,to give  to,to endow with,to make,to cause to function as
@@ -211876,7 +211877,7 @@
 無韻,むいん,silent,blank,unrhymed
 笑わす,嗤わす,わらわす,to make  laugh,to invite ridicule,to be laughable
 突き当てる,突当てる,つきあてる,to strike against,to bump against,to track down,to find
-覚えはない,おぼえはない,there’s no reason for,won't put up with,having no recollection
+覚えはない,おぼえはない,there’s no reason for,I don't see why,having no recollection
 征旅,せいりょ,expeditionary army,military expedition,military campaign
 眼球炎,がんきゅうえん,ophthalmitis
 踏ん切る,ふんぎる,to make a decision,to determine,to take the plunge
@@ -211914,7 +211915,7 @@
 眺望絶佳,ちょうぼうぜっか,superb view,magnificent scene before one's eyes
 陶犬瓦鶏,とうけんがけい,looking the part but not playing the part,looking impressive but being entirely useless
 虎渓三笑,こけいさんしょう,being so engrossed one completely forgets something,the three laughs of the Tiger Ravine
-抑揚頓挫,よくようとんざ,modulating the tone of one’s speech,changing the intensity of one’s speech
+抑揚頓挫,よくようとんざ,modulating the tone of one's speech,changing the intensity of one's speech
 山窟,さんくつ,mountain cave
 辺隅,へんぐう,remote countryside,frontier
 詣拝,けいはい,visiting a shrine or temple
@@ -211934,11 +211935,39 @@
 フィジカルＡＩ,フィジカルエーアイ,physical AI,physical artificial intelligence
 浸礼派,しんれいは,Baptists
 だけ弁当,だけべんとう,simple bento
+突っ,突ん,つっ,つん,adds force or emphasis to a following verb
 バレ,ばれ,being found out,exposure
+客将,かくしょう,きゃくしょう,guest military commander,second-in-command
 鬼謀,きぼう,extraordinarily ingenious stratagem,exceptionally clever scheme
 いんが,dog,pup
 ＡＩ疲れ,エーアイづかれ,being worn out by using AI tools  or by the constant hype surrounding AI,AI fatigue
-ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-26
+ぴい,ピー,ぴー,peep,chirp,shrill whistle,beep,bleep
+凛と,凜と,りんと,with dignity,with a composed, resolute air,clearly,resonantly,with a biting chill,cold and bracing
+書ける,描ける,かける,to turn out,to be able to write
+だとすると,if that's the case,if so,assuming that's true
+光らせる,ひからせる,to make shine,to make gleam,to light up
+和解,わげ,reconciliation,amicable settlement,accommodation,compromise,mediation,rapprochement,translating into Japanese
+知識蒸留,ちしきじょうりゅう,knowledge distillation
+計算資源,けいさんしげん,computational resources,compute
+スケーリング則,スケーリングそく,scaling law
+暗鬼,あんき,demon imagined in the dark,fear born of suspicion,imagined fear
+度外,どがい,outside the scope of consideration,disregard,leaving out of consideration
+滅尽,めつじん,complete destruction,annihilation,extinction
+側頭,そくとう,side of the head,temporal region,temple
+お呼び立て,お呼びたて,およびたて,requesting someone to come,calling someone over
+両道,りょうどう,two fields,both disciplines,two roads,two routes
+ジンタ,じんた,small street brass band,music played by a street band
+ミルキー,milky
+取らせる,とらせる,to bestow,to give,to do  for
+胴の間,どうのま,midship compartment
+戦々,戦戦,せんせん,trembling with fear,apprehensively
+粉骨,ふんこつ,utmost exertion,doing one's best,working to the limit of one's strength,pulverizing bones,pulverizing remains
+丁場,町場,ちょうば,construction site,work site,length of a stretch of road
+覗ける,覘ける,のぞける,to let  show,to partially expose,to poke out,to come partly into view,to be partly visible
+気が休まる,気がやすまる,きがやすまる,to start feeling at ease,to get peace of mind
+怒髪,どはつ,hair standing on end in anger
+染め上がる,そめあがる,to finish being dyed
+ＪＭｄｉｃｔ,ジェイエムディクト,Japanese-Multilingual Dictionary Project - Creation Date: 2026-11-27
 ２ちゃんねる,にちゃんねる,2channel
 ３Ｍ,スリーエム,3M
 Ｅテレ,イーテレ,NHK Educational TV
